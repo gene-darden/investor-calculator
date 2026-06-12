@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gulf Coast Investor Calculator — The Darden Group</title>
+<style>
+:root { --navy:#1B2A4A; --gold:#D8973C; --cream:#F8F4ED; --slate:#5A6578; }
+* { box-sizing:border-box; margin:0; padding:0; font-family:'Segoe UI',system-ui,sans-serif; }
+body { background:var(--cream); color:var(--navy); padding:24px 16px; }
+.wrap { max-width:980px; margin:0 auto; }
+header { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; margin-bottom:8px; }
+.tag { background:var(--gold); color:var(--navy); font-weight:700; padding:8px 18px; letter-spacing:1px; font-size:14px; }
+h1 { font-size:30px; margin:14px 0 6px; }
+.sub { color:var(--slate); margin-bottom:22px; font-size:15px; }
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+@media (max-width:760px){ .grid{ grid-template-columns:1fr; } }
+.card { background:#fff; border:1px solid #e5dfd2; border-radius:10px; padding:20px; }
+.card h2 { font-size:17px; border-bottom:3px solid var(--gold); display:inline-block; padding-bottom:4px; margin-bottom:14px; }
+label { display:block; font-size:13px; color:var(--slate); margin:10px 0 3px; font-weight:600; }
+input { width:100%; padding:9px 10px; border:1px solid #cfc7b6; border-radius:6px; font-size:15px; color:var(--navy); background:#fffdf9; }
+input:focus { outline:2px solid var(--gold); }
+.row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.res { display:flex; justify-content:space-between; padding:7px 0; border-bottom:1px dashed #e5dfd2; font-size:14.5px; }
+.res b { font-variant-numeric:tabular-nums; }
+.big { background:var(--navy); color:#fff; border-radius:10px; padding:16px 18px; margin-top:14px; }
+.big .num { color:var(--gold); font-size:30px; font-weight:700; }
+.big .lbl { font-size:13px; opacity:.85; }
+.pos { color:#1D7a3e; } .neg { color:#A32D2D; }
+.engines { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-top:12px; }
+@media (max-width:760px){ .engines{ grid-template-columns:repeat(2,1fr);} }
+.eng { background:var(--cream); border-radius:8px; padding:10px; text-align:center; }
+.eng .v { font-weight:700; font-size:16px; }
+.eng .l { font-size:11.5px; color:var(--slate); }
+.note { font-size:12.5px; color:var(--slate); margin-top:14px; line-height:1.5; }
+.cta { background:var(--navy); color:#fff; border-radius:10px; padding:22px; margin-top:22px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:14px; }
+.cta a { background:var(--gold); color:var(--navy); font-weight:700; text-decoration:none; padding:12px 22px; border-radius:7px; }
+.cta .ehl { font-size:11.5px; opacity:.7; width:100%; }
+details { margin-top:18px; background:#fff; border:1px solid #e5dfd2; border-radius:10px; padding:14px 18px; }
+summary { font-weight:700; cursor:pointer; }
+details p { font-size:13.5px; color:var(--slate); margin:8px 0; line-height:1.55; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="tag">FREE TOOL</div>
+  <div style="text-align:right; font-size:13px; color:var(--slate);">The Darden Group · Real Broker LLC · Powered by PLACE</div>
+</header>
+<h1>Gulf Coast Investor Calculator</h1>
+<p class="sub">Run any coastal deal — cash flow, appreciation, principal paydown, and the tax engine (One Big Beautiful Bill edition). Free, no email required. By Gene Darden — 2,000+ homes sold.</p>
+
+<div class="grid">
+  <div class="card">
+    <h2>Your Deal</h2>
+    <div class="row">
+      <div><label>Purchase price ($)</label><input type="number" id="price" value="364000"></div>
+      <div><label>Down payment (%)</label><input type="number" id="down" value="20"></div>
+      <div><label>Interest rate (%)</label><input type="number" id="rate" value="6.51" step="0.01"></div>
+      <div><label>Loan term (yrs)</label><input type="number" id="term" value="30"></div>
+      <div><label>Closing costs (%)</label><input type="number" id="closing" value="3"></div>
+      <div><label>Nightly rate ADR ($)</label><input type="number" id="adr" value="245"></div>
+      <div><label>Occupancy (%)</label><input type="number" id="occ" value="62"></div>
+      <div><label>Mgmt fee (%)</label><input type="number" id="mgmt" value="20"></div>
+      <div><label>HOA ($/mo)</label><input type="number" id="hoa" value="850"></div>
+      <div><label>Insurance ($/yr)</label><input type="number" id="ins" value="2200"></div>
+      <div><label>Property tax ($/yr)</label><input type="number" id="tax" value="3300"></div>
+      <div><label>Utilities ($/yr)</label><input type="number" id="util" value="450"></div>
+      <div><label>Maintenance ($/yr)</label><input type="number" id="maint" value="2500"></div>
+      <div><label>Appreciation (%/yr)</label><input type="number" id="appr" value="4"></div>
+      <div><label>Your tax bracket (%)</label><input type="number" id="bracket" value="32"></div>
+      <div><label>Land share (%)</label><input type="number" id="land" value="10"></div>
+      <div><label>Cost-seg share (%)</label><input type="number" id="costseg" value="25"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>The Numbers</h2>
+    <div class="res"><span>Total cash invested</span><b id="cashin"></b></div>
+    <div class="res"><span>Monthly P&amp;I</span><b id="pmt"></b></div>
+    <div class="res"><span>Gross rental income /yr</span><b id="gross"></b></div>
+    <div class="res"><span>Operating expenses /yr</span><b id="opex"></b></div>
+    <div class="res"><span>Net operating income</span><b id="noi"></b></div>
+    <div class="res"><span>Cap rate</span><b id="cap"></b></div>
+    <div class="res"><span>Cash flow /mo</span><b id="cfmo"></b></div>
+    <div class="res"><span>Cash-on-cash return</span><b id="coc"></b></div>
+    <div class="res"><span>Yr-1 depreciation (w/ cost-seg + 100% bonus)</span><b id="dep"></b></div>
+    <div class="res"><span>Yr-1 paper income/(loss)</span><b id="paper"></b></div>
+    <div class="res"><span>Potential yr-1 tax savings*</span><b id="taxsave"></b></div>
+
+    <div class="big">
+      <div class="lbl">TOTAL YEAR-1 RETURN (all four engines)</div>
+      <div class="num" id="total"></div>
+      <div class="lbl" id="totalpct"></div>
+      <div class="engines">
+        <div class="eng"><div class="v" id="e1"></div><div class="l">Cash flow</div></div>
+        <div class="eng"><div class="v" id="e2"></div><div class="l">Appreciation</div></div>
+        <div class="eng"><div class="v" id="e3"></div><div class="l">Principal paid</div></div>
+        <div class="eng"><div class="v" id="e4"></div><div class="l">Tax savings*</div></div>
+      </div>
+    </div>
+    <p class="note">*Tax savings assume the short-term-rental material-participation rules are met (avg stay ≤ 7 days + 100+ hours / more than anyone else) so losses offset active income, and a cost-segregation study with 100% bonus depreciation (made permanent by the One Big Beautiful Bill for property placed in service after Jan 19, 2025). Educational only — not tax, legal, or investment advice. Confirm everything with your CPA.</p>
+  </div>
+</div>
+
+<details><summary>📚 The free knowledge: why coastal STRs are a tax strategy (OBBBA edition)</summary>
+<p><b>1. 100% bonus depreciation is back — permanently.</b> Cost-seg studies typically reclassify 20–30% of a property into 5/7/15-year assets, all deductible in year one.</p>
+<p><b>2. The 7-day rule.</b> Average guest stays of 7 days or less + material participation = the IRS treats your rental as a business. Losses can offset W-2 and active income — this is why high earners buy beach condos.</p>
+<p><b>3. QBI made permanent.</b> The 20% qualified business income deduction may apply to an STR run as a business.</p>
+<p><b>4. 1031 exchanges untouched.</b> Roll gains into the next property, defer the tax, climb the ladder.</p>
+<p><b>5. Opportunity Zones renewed</b> — including tracts relevant to the Gulf Coast and Alabama.</p>
+<p><b>6. Florida has no state income tax.</b> Your rental income and gains skip state tax entirely.</p>
+</details>
+
+<div class="cta">
+  <div>
+    <div style="font-weight:700; font-size:18px;">Want this run on a real deal?</div>
+    <div style="font-size:14px; opacity:.85;">We work this coast — Orange Beach to Panama City Beach. Real comps, real rental data, real strategy.</div>
+  </div>
+  <a href="tel:2054261113">Call/Text Gene: 205-426-1113</a>
+  <div class="ehl">Gene Darden · The Darden Group · dardengroupusa.com · Real Broker LLC | Powered by PLACE · Equal Housing Opportunity</div>
+</div>
+</div>
+
+<script>
+function n(id){ return parseFloat(document.getElementById(id).value) || 0; }
+function fmt(v){ return v.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0}); }
+function pct(v){ return (v*100).toFixed(1) + '%'; }
+function calc(){
+  const price=n('price'), down=n('down')/100, closing=n('closing')/100, rate=n('rate')/100, term=n('term');
+  const adr=n('adr'), occ=n('occ')/100, mgmt=n('mgmt')/100, hoa=n('hoa'), ins=n('ins'), tax=n('tax');
+  const util=n('util'), maint=n('maint'), appr=n('appr')/100, bracket=n('bracket')/100, land=n('land')/100, costseg=n('costseg')/100;
+  const dp=price*down, cc=price*closing, cashin=dp+cc, loan=price-dp;
+  const r=rate/12, nper=term*12;
+  const pmt = r>0 ? loan*r*Math.pow(1+r,nper)/(Math.pow(1+r,nper)-1) : loan/nper;
+  const debt=pmt*12;
+  const gross=adr*365*occ;
+  const opex=gross*mgmt + hoa*12 + ins + tax + util + maint;
+  const noi=gross-opex, cf=noi-debt;
+  const basis=price*(1-land), bonus=basis*costseg, reg=(basis-bonus)/27.5, dep=bonus+reg;
+  const interest=loan*rate, paper=noi-interest-dep;
+  const save = paper<0 ? -paper*bracket : 0;
+  const apprD=price*appr, prin=debt-interest;
+  const total=cf+apprD+prin+save;
+  const set=(id,v,cls)=>{ const el=document.getElementById(id); el.textContent=v; if(cls!==undefined) el.className=cls; };
+  set('cashin',fmt(cashin)); set('pmt',fmt(pmt)); set('gross',fmt(gross)); set('opex',fmt(opex));
+  set('noi',fmt(noi)); set('cap',pct(noi/price)); set('cfmo',fmt(cf/12), cf>=0?'pos':'neg'); set('coc',pct(cf/cashin), cf>=0?'pos':'neg');
+  set('dep',fmt(dep)); set('paper',fmt(paper), paper<0?'neg':'pos'); set('taxsave',fmt(save),'pos');
+  set('total',fmt(total)); document.getElementById('totalpct').textContent = pct(total/cashin) + ' return on cash invested';
+  set('e1',fmt(cf)); set('e2',fmt(apprD)); set('e3',fmt(prin)); set('e4',fmt(save));
+}
+document.querySelectorAll('input').forEach(i=>i.addEventListener('input',calc));
+calc();
+</script>
+</body>
+</html>
