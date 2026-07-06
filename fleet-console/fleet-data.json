@@ -1,0 +1,29 @@
+{
+  "updated": "2026-07-06 (fleet-audit session)",
+  "headline": "Client Day — 5 recovered opportunities on today's board",
+  "heartbeat": {
+    "status": "ok",
+    "notes": ["Heartbeat log launched today — full fleet reporting begins tonight", "ISA sweep upgraded to every 15 min", "QBO catch-up staged (awaiting login)"]
+  },
+  "callBlock": [
+    {"who": "Fixer-upper buyer (901)", "why": "'Still looking' — unanswered 23 days", "heat": "hot"},
+    {"who": "Cash flip buyer (615)", "why": "'We can go high' — hanging since 6/5", "heat": "hot"},
+    {"who": "Jared — Inlet Beach land", "why": "Promised value pull 6/6", "heat": "hot"},
+    {"who": "David F.", "why": "Double Ponte Vedra referral — summer clock", "heat": "hot"},
+    {"who": "Gloria F.", "why": "Marina Landing condo — 'time is right' arrived", "heat": "hot"},
+    {"who": "Alexis H.", "why": "Hot seller — Springville, since Fri", "heat": "hot"},
+    {"who": "David H.", "why": "Seller intent — Montevallo, today", "heat": "warm"},
+    {"who": "Steve S.", "why": "Dormant buyer reactivating — browsing today", "heat": "warm"}
+  ],
+  "listings": [
+    {"addr": "195 Lake View Cir", "client": "Crains", "status": "Active", "note": "2 showings, pricing conversation due"},
+    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active", "note": "Repeat showing weekend — press for offer"},
+    {"addr": "198 Rena Dr", "client": "Carrolls", "status": "Active", "note": "3 fresh ad leads to work"},
+    {"addr": "2368 Ridge Trail", "client": "Shea H.", "status": "Under Contract", "note": "Appraisal next"},
+    {"addr": "23223 Front Beach Rd", "client": "Jeff B.", "status": "Active", "note": "Needs email on file"}
+  ],
+  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 48, "note": "4 June closings confirmed pending verify"},
+  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet"},
+  "isa": {"openCallTasks": 94, "decayPolicy": "10-day auto-decay starts tonight", "sweepCadence": "every 15 min"},
+  "builds": ["Send Brivity API request (draft in Gmail) — p1", "True Readiness Scorecard — Wed", "Photo media-map backfill — Wed"]
+}
