@@ -1,29 +1,46 @@
 {
-  "updated": "2026-07-06 (fleet-audit session)",
-  "headline": "Client Day — 5 recovered opportunities on today's board",
+  "updated": "2026-07-08 12:10 PM CT",
+  "headline": "Fleet recovered from the morning scheduler outage — 2 fresh call-in leads need same-hour calls and the 160 Lake Forest appraisal is 2 days late.",
   "heartbeat": {
     "status": "ok",
-    "notes": ["Heartbeat log launched today — full fleet reporting begins tonight", "ISA sweep upgraded to every 15 min", "QBO catch-up staged (awaiting login)"]
+    "notes": [
+      "Scheduler missed all morning runs — every routine run manually 11a–12p, fleet caught up",
+      "ISA sweep PARTIAL: Brivity people-filters degraded, auto-texts skipped (Chrome reserved)",
+      "Deep Dive never ran 7/7; voicemail email relay still bouncing"
+    ]
   },
   "callBlock": [
-    {"who": "Fixer-upper buyer (901)", "why": "'Still looking' — unanswered 23 days", "heat": "hot"},
-    {"who": "Cash flip buyer (615)", "why": "'We can go high' — hanging since 6/5", "heat": "hot"},
-    {"who": "Jared — Inlet Beach land", "why": "Promised value pull 6/6", "heat": "hot"},
-    {"who": "David F.", "why": "Double Ponte Vedra referral — summer clock", "heat": "hot"},
-    {"who": "Gloria F.", "why": "Marina Landing condo — 'time is right' arrived", "heat": "hot"},
-    {"who": "Alexis H.", "why": "Hot seller — Springville, since Fri", "heat": "hot"},
-    {"who": "David H.", "why": "Seller intent — Montevallo, today", "heat": "warm"},
-    {"who": "Steve S.", "why": "Dormant buyer reactivating — browsing today", "heat": "warm"}
+    {"who": "New call-in lead (205)", "why": "Rang in 10:31a — speed-to-lead, call then ID", "heat": "hot"},
+    {"who": "New call-in lead (205), 2nd", "why": "Rang in 10:25a — same-hour callback window", "heat": "hot"},
+    {"who": "Jared & Amanda B.", "why": "160 Lake Forest appraisal 2 days late — chase lender, then update them", "heat": "hot"},
+    {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — equity review angle", "heat": "hot"},
+    {"who": "Andy B.", "why": "Second voicemail asking for a callback", "heat": "hot"},
+    {"who": "Alexis H.", "why": "Hot Springville seller — untouched since Friday", "heat": "hot"},
+    {"who": "Steve S.", "why": "Dormant buyer reactivating — browsing again this week", "heat": "hot"},
+    {"who": "David H.", "why": "Montevallo seller-intent — checked his home value Monday", "heat": "hot"}
   ],
   "listings": [
-    {"addr": "195 Lake View Cir", "client": "Crains", "status": "Active", "note": "2 showings, pricing conversation due"},
-    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active", "note": "Repeat showing weekend — press for offer"},
-    {"addr": "198 Rena Dr", "client": "Carrolls", "status": "Active", "note": "3 fresh ad leads to work"},
-    {"addr": "2368 Ridge Trail", "client": "Shea H.", "status": "Under Contract", "note": "Appraisal next"},
-    {"addr": "23223 Front Beach Rd", "client": "Jeff B.", "status": "Active", "note": "Needs email on file"}
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Buyer's inspection done 7/8 — watching for funded/closed"},
+    {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Newly tracked at UC — details being verified"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Inspection", "note": "Appraisal value 2 days overdue — chase the lender today; close 7/23"},
+    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for offer"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Feedback says priced high — pricing conversation due"},
+    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Ad still producing — 3 fresh buyer leads to work"},
+    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "3 showings so far — still need seller email on file"},
+    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "Possible retail offer still unverified — confirm before advancing"},
+    {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "Newly tracked — no new signals yet"},
+    {"addr": "821 Martinwood Rd", "client": "—", "status": "Active", "note": "Needs a marketing nudge"},
+    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "Newly tracked — no new signals yet"},
+    {"addr": "225 Willow Point Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
+    {"addr": "1709 Fieldstone Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
+    {"addr": "42770 Hwy 77", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
+    {"addr": "1230 Calvert Rd", "client": "—", "status": "Active", "note": "Just listed 6/29"},
+    {"addr": "315 Pond Spring Dr", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
+    {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
+    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "New today — first showing booked Tue 7/21"}
   ],
-  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 48, "note": "4 June closings confirmed pending verify"},
-  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet"},
-  "isa": {"openCallTasks": 94, "decayPolicy": "10-day auto-decay starts tonight", "sweepCadence": "every 15 min"},
-  "builds": ["Send Brivity API request (draft in Gmail) — p1", "True Readiness Scorecard — Wed", "Photo media-map backfill — Wed"]
+  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — crossing it ~late Sept at current pace; stretch target 55+"},
+  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (midday check 7/8)"},
+  "isa": {"openCallTasks": 80, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "builds": ["Create Google booking link (5 min) — p1", "Send Brivity API request email (draft in Gmail) — p1", "Tax Strategist Agent + 2025 tax catch-up — p1"]
 }
