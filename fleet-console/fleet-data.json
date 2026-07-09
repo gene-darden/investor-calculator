@@ -1,46 +1,46 @@
 {
-  "updated": "2026-07-08 6:04 PM CT",
-  "headline": "160 Lake Forest's appraisal is now 2+ days late — chase the lender first, then clear today's 3 fresh call-in leads and the hot Ashville seller before the day closes.",
+  "updated": "2026-07-09 10:15 AM CT",
+  "headline": "160 Lake Forest's appraisal is now 3 days late — chase the lender and update the Burks first, then clear today's hot sellers (Robert C., Mitchell H., Barbara S.) and the Andy Brown referral.",
   "heartbeat": {
-    "status": "ok",
+    "status": "alert",
     "notes": [
-      "Scheduler missed the 6AM runs — every routine caught up manually 11a–12p; evening ran clean (Deep Dive 8PM OK)",
-      "ISA sweeps PARTIAL: Brivity people-API filters broken server-side — Chrome/leads-index fallback used, auto-texts skipped",
-      "160 Lake Forest appraisal value still not in — 2+ days late, milestone engine's #1 watch"
+      "Chrome wedged today — Listing Folder Sync + Daily Opportunity Board blocked; core lead/money/listing/finance routines all ran OK",
+      "Gmail search outage last evening (7/8) recovered by 7/9 AM — inbox triage confirms it's healthy again",
+      "Scheduler still late-firing routines (morning windows delayed) — no leads lost"
     ]
   },
   "callBlock": [
-    {"who": "3 call-in leads (205)", "why": "Rang in this morning 10:25a–11:50a — speed-to-lead, call and ID in Brivity", "heat": "hot"},
-    {"who": "Mitchell H.", "why": "Ashville seller ran his home value today — wants the real number", "heat": "hot"},
-    {"who": "Jared & Amanda B.", "why": "160 Lake Forest appraisal 2+ days late — chase the lender, then update them", "heat": "hot"},
-    {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — equity review angle", "heat": "hot"},
-    {"who": "Andy & Kim B.", "why": "Client-referral buyer plus two voicemails — referral warmth decays fast", "heat": "hot"},
+    {"who": "Robert C.", "why": "PCB seller ran his home value today, flagged it too low — equity-review call while he's warm", "heat": "hot"},
+    {"who": "Andy B.", "why": "Client-referral buyer plus two voicemails, second callback ask — referral warmth decays fast", "heat": "hot"},
+    {"who": "Mitchell H.", "why": "Ashville seller pulled his home value — wants the real number", "heat": "hot"},
+    {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — equity-review angle", "heat": "hot"},
+    {"who": "3 call-in leads (205)", "why": "Rang in yesterday — speed-to-lead, call and ID them in Brivity", "heat": "hot"},
     {"who": "Steve S.", "why": "Dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
     {"who": "David H.", "why": "Montevallo seller-intent — checked his home value Monday", "heat": "hot"},
-    {"who": "Alexis H.", "why": "Hot Springville seller — untouched since Friday", "heat": "hot"}
+    {"who": "Anne M.", "why": "New IDX buyer on the Gulf Coast — fresh today, first look and discovery", "heat": "warm"}
   ],
   "listings": [
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Buyer's inspection done 7/8 — watching for funded/closed"},
-    {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Newly tracked at UC — details being verified"},
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Inspection", "note": "Appraisal value 2+ days overdue — chase the lender; close 7/23"},
-    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for offer"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Feedback says priced high — pricing conversation due"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Inspection", "note": "Appraisal value 3 days overdue — chase Lindsey Nance/Movement, return Jared's VM, then update sellers; close 7/23"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Buyer's inspection/showing done — watching for the funded/closed Payday email"},
+    {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
+    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Showing confirmed Thu 7/9 10:30a; feedback says priced high — pricing talk due"},
     {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Ad still producing — fresh buyer leads to work"},
-    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "3 showings so far — still need seller email on file"},
-    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "Possible retail offer still unverified — confirm before advancing"},
-    {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "Newly tracked — no new signals yet"},
+    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showings coming — still need Jeff's email on file in Brivity"},
+    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "New feedback 'priced too high'; retail offer still unverified — confirm before advancing"},
+    {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "No new signals yet"},
     {"addr": "821 Martinwood Rd", "client": "—", "status": "Active", "note": "Needs a marketing nudge"},
-    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "Newly tracked — no new signals yet"},
+    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "No new signals yet"},
     {"addr": "225 Willow Point Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "1709 Fieldstone Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "42770 Hwy 77", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
-    {"addr": "1230 Calvert Rd", "client": "—", "status": "Active", "note": "Just listed 6/29"},
+    {"addr": "1230 Calvert Rd", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "315 Pond Spring Dr", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
     {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
-    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "New this week — first showing booked Tue 7/21"}
+    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "First showing booked Tue 7/21 — awaiting go-live"}
   ],
   "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace; stretch target 55+"},
-  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (checking healthy, zero bank alerts 48h)"},
-  "isa": {"openCallTasks": 85, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
-  "builds": ["Create Google booking link (5 min) — p1", "Tax Strategist Agent + 2025 tax catch-up — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"]
+  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (finance-brain ran clean 5:55a, zero bank alerts)"},
+  "isa": {"openCallTasks": 83, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"]
 }
