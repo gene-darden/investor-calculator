@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-09 12:35 PM CT",
-  "headline": "160 Lake Forest's appraisal is now 3 days late — chase Movement for the value and update the Burks, then clear today's hot sellers (Robert C., Mitchell H., Barbara S.) and return Andy Brown's referral.",
+  "updated": "2026-07-09 6:35 PM CT",
+  "headline": "160 Lake Forest's appraisal is now 3 days late — chase Movement for the value and update the Burks, then close out today's hot value-checkers (Robert C., Mitchell H., Barbara S.) and return Andy Brown's referral before day's end.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "Chrome wedged today — Listing Folder Sync + Daily Opportunity Board blocked; core lead/money/listing/finance routines all ran OK",
-      "ISA instant-responder hit flaky Gmail write ops midday (mark-read/label) — resolved on retry, no lead lost",
-      "Scheduler still late-firing morning routines — caught up, no leads lost"
+      "Chrome wedged all day — Listing Folder Sync + Daily Opportunity Board blocked; core lead/money/listing/finance routines all ran OK",
+      "ISA instant-responder hit intermittent Gmail-search outages (18:09 + 21:26) — no lead lost, 15-min Chrome sweep is the safety net",
+      "Scheduler still late-firing routines — caught up manually, no leads lost"
     ]
   },
   "callBlock": [
-    {"who": "Robert C.", "why": "PCB seller ran his home value today, flagged it too low — equity-review call while he's warm", "heat": "hot"},
+    {"who": "Robert C.", "why": "PCB seller ran his home value today and flagged it too low ($652K) — equity-review call while he's warm", "heat": "hot"},
     {"who": "Andy B.", "why": "Client-referral buyer plus two voicemails, second callback ask — referral warmth decays fast", "heat": "hot"},
     {"who": "Mitchell H.", "why": "Ashville seller pulled his home value — wants the real number", "heat": "hot"},
     {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — equity-review angle", "heat": "hot"},
-    {"who": "3 call-in leads (205)", "why": "Rang in — speed-to-lead, call and ID them in Brivity", "heat": "hot"},
     {"who": "Steve S.", "why": "Dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
     {"who": "David H.", "why": "Montevallo seller-intent — checked his home value Monday", "heat": "hot"},
-    {"who": "Anne M.", "why": "New IDX buyer on the Gulf Coast — fresh today, first look and discovery", "heat": "warm"}
+    {"who": "Cheryl G.", "why": "Re-engaged buyer, 144 views hunting $500-750K in 35242 — call while she's shopping", "heat": "warm"},
+    {"who": "Call-in lead (205)", "why": "Rang in at 5 PM, no name yet — speed-to-lead, call and ID in Brivity", "heat": "hot"}
   ],
   "listings": [
     {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Inspection", "note": "Appraisal value 3 days overdue — chase Lindsey Nance/Movement, return Jared's VM, then update sellers; close 7/23"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating — holding CTC; watching for the funded/closed Payday email"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating for signatures — holding CTC; watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
     {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
     {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Thu 7/9 10:30a showing done; feedback says priced high — pricing talk due"},
@@ -41,6 +41,6 @@
   ],
   "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace; stretch target 55+"},
   "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (finance-brain ran clean 5:55a, zero bank alerts)"},
-  "isa": {"openCallTasks": 84, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "isa": {"openCallTasks": 86, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
   "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"]
 }
