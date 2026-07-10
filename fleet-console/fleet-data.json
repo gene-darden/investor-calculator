@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-10 12:35 PM CT",
-  "headline": "New seller Autumn G. just emailed 'ready to list' her Cornell Dr home — lock the listing appointment today, then chase Movement for 160 Lake Forest's appraisal (now 4 days late) and clear today's hot value-checkers (Robert C., Barbara S., Mitchell H.).",
+  "updated": "2026-07-10 12:32 PM CT",
+  "headline": "New Panama City seller Autumn G. just emailed 'ready to list' her Cornell Dr home — lock the listing appointment today, then chase Movement for 160 Lake Forest's appraisal (now 4 days late) and clear the hot value-checkers (Robert C., Barbara S., Mitchell H.).",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "Listing Folder Sync still blocked (Chrome wedged since 7/9) — milestone roster held at 22 entries; engine runs Gmail-only, no lead coverage lost",
-      "ISA instant-responder hit two intermittent Gmail-search blips (7/9 18:09 + 21:26) — both self-healed, no lead lost, 15-min sweep is the safety net",
-      "Core lead/money/listing/finance routines all ran clean this window — triage 6:12a, finance-brain 5:55a, milestone 9:43a"
+      "Listing Folder Sync still Chrome-wedged since 7/9 — milestone roster held at 22 entries; engine runs Gmail-only, no lead coverage lost",
+      "ISA instant-responder hit two Gmail-search blips 7/9 evening (18:09 + 21:26) — both self-healed, no lead lost, 15-min sweep is the safety net",
+      "Core lead/money/listing/finance routines all ran clean this window — triage 6:12a, finance-brain 5:55a, milestone 9:43a + 11:10a"
     ]
   },
   "callBlock": [
-    {"who": "Robert C.", "why": "HOT PCB seller ran his home value ($652K) and flagged it too low — equity-review call while he's warm", "heat": "hot"},
-    {"who": "Andy B.", "why": "Client-referral buyer plus two voicemails, second callback ask — referral warmth decays fast", "heat": "hot"},
+    {"who": "Autumn G.", "why": "Emailed 'ready to list!' her Cornell Dr home — confirm Monday's listing appointment while she's eager", "heat": "hot"},
+    {"who": "Robert C.", "why": "HOT PCB seller ran his home value and flagged it too low — equity-review call while he's warm", "heat": "hot"},
     {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — hot equity-review angle, draft ready", "heat": "hot"},
     {"who": "Mitchell H.", "why": "Ashville seller pulled his home value — wants the real number", "heat": "hot"},
+    {"who": "John H.", "why": "Home-value seller near Toney, contact info just resolved and Rule-0 verified — call before he cools", "heat": "hot"},
+    {"who": "Andy B.", "why": "Client-referral buyer plus two voicemails, second callback ask — referral warmth decays fast", "heat": "hot"},
     {"who": "Steve S.", "why": "Dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
-    {"who": "David H.", "why": "Montevallo seller-intent — checked his home value, equity-review draft staged", "heat": "hot"},
-    {"who": "Cheryl G.", "why": "Re-engaged buyer, 144 views hunting $500-750K in 35242 — call while she's shopping", "heat": "warm"},
-    {"who": "Call-in lead (205)", "why": "Rang in at 5 PM, no name and no email on file — callback is the only channel, ID in Brivity", "heat": "hot"}
+    {"who": "Call-in lead (205)", "why": "Rang in at 5 PM with no name or email on file — callback is the only channel, ID in Brivity", "heat": "hot"}
   ],
   "listings": [
     {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Inspection", "note": "Appraisal value now 4 days overdue — chase Lindsey Nance/Movement, return Jared's VM, then update the sellers; close 7/23"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating for signatures (loan-file assembly) — holding CTC; watching for the funded/closed Payday email"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating for all-party signatures (loan-file assembly) — holding CTC; watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
     {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
     {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Confirmed showing + single feedback 'priced high' this week — pricing conversation due"},
@@ -41,6 +41,6 @@
   ],
   "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace; stretch target 55+"},
   "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (finance-brain ran clean 5:55a, zero bank alerts)"},
-  "isa": {"openCallTasks": 72, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "isa": {"openCallTasks": 73, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
   "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"]
 }
