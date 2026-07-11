@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-10 7:35 PM CT",
-  "headline": "160 Lake Forest just CLEARED TO CLOSE — the appraisal that sat 4 days late is in and the loan's approved (close 7/23); call the Burks with the good news, then work the hot seller-value stack (Robert C., Barbara S., Mitchell H., John H.) while they're warm.",
+  "updated": "2026-07-11 7:35 AM CT",
+  "headline": "DO: call Andy B. — the callback he asked for (day 4) — then work today's hot seller stack (Tom W., Ed S., Robert C., Barbara S.) while they're warm · WATCH: NSF alert on a linked account, verified 7/11.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "WIN — 160 Lake Forest Way fired INSPECTION → CLEAR TO CLOSE (7/10 ~2:06p): the 4-days-late appraisal is now in and the loan cleared underwriting; final walk-through Mon 7/20 9:30a, close on track 7/23. Board's #1 watch resolved.",
-      "Listing Folder Sync still Chrome-wedged since 7/9 — milestone roster held at 22 entries, engine runs Gmail-only (no lead coverage lost); new Paul Franks listing awaiting a folder once Chrome clears",
-      "isa-instant-responder BLOCKED once this evening on the recurring Gmail-search flap (self-heals in minutes, Chrome 15-min sweep is the net); core lead/money/listing/finance routines all ran clean (triage 6:12a, finance 5:55a, milestone 14:43Z/16:10Z/19:06)"
+      "Listing Folder Sync still Chrome-wedged since 7/9 — milestone roster held at 22, engine runs Gmail-only (no lead coverage lost); new Paul Franks + Autumn G./1211 Cornell listings awaiting folders once Chrome clears",
+      "isa-instant-responder BLOCKED once ~7 PM 7/10 on the recurring Gmail-search flap (self-heals in minutes, the 15-min Chrome sweep is the net); all core routines ran clean overnight — triage 5:57a, finance 5:55a, The Daily 6:28a, deep-dive 1:15a",
+      "NEW: database-power-daily first run 5:55a (MY DAILY 10 = 10 fresh seller hand-raises off Gene's book); a bank NSF/low-balance alert on a linked account surfaced 7/11 AM — now on the money board"
     ]
   },
   "callBlock": [
-    {"who": "Jared & Amanda B.", "why": "160 Lake Forest just CLEARED TO CLOSE — appraisal in, loan approved; call with the good news, final walk-through 7/20, close 7/23", "heat": "hot"},
-    {"who": "Robert C.", "why": "HOT PCB seller ran his home value and flagged it too low — equity-review call while he's warm", "heat": "hot"},
+    {"who": "Andy B.", "why": "Left a 2nd voicemail asking for a callback (day 4) — today's One Thing; return the call before it cools", "heat": "hot"},
+    {"who": "Tom W.", "why": "HOT seller — opened a listing alert 3 hrs ago; offer a current equity read", "heat": "hot"},
+    {"who": "Ed S.", "why": "HOT 2x-referral Gulf-Coast seller — opened his market report; pull his value snapshot", "heat": "hot"},
+    {"who": "Robert C.", "why": "HOT PCB seller ran his home value and flagged it too low — equity-review call while warm", "heat": "hot"},
     {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — hot equity-review angle, draft ready", "heat": "hot"},
-    {"who": "Mitchell H.", "why": "Ashville seller pulled his home value — wants the real number", "heat": "hot"},
-    {"who": "John H.", "why": "Home-value seller near Toney, contact info resolved and Rule-0 verified — call before he cools", "heat": "hot"},
-    {"who": "Andy B.", "why": "Client-referral buyer plus two voicemails, second callback ask — referral warmth decays fast", "heat": "hot"},
-    {"who": "Steve S.", "why": "Dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
-    {"who": "Call-in lead (205)", "why": "Rang in at 5 PM with no name or email on file — callback is the only channel, ID in Brivity", "heat": "hot"}
+    {"who": "Carolyn B.", "why": "HOT re-engage seller — pulled her equity number twice this week, warming up", "heat": "hot"},
+    {"who": "Steve S.", "why": "Long-dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
+    {"who": "David H.", "why": "Montevallo home-value seller — hot seller-intent, equity-review draft staged", "heat": "hot"}
   ],
   "listings": [
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 CLEARED TO CLOSE 7/10 — Movement confirmed loan cleared underwriting, so the 4-days-late appraisal is in and cleared; final walk-through Mon 7/20 9:30a, close on track 7/23 ($400K). Celebratory update to the Burks + backup 'Sold by Strategy' draft staged"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 CLEARED TO CLOSE — loan cleared underwriting so the appraisal is in and cleared; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Gene sent the 'Sold by Strategy' seller note himself — milestone fully handled"},
     {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating for all-party signatures (loan-file assembly) — holding CTC; watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
     {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
@@ -40,7 +40,13 @@
     {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "First showing booked Tue 7/21 — awaiting go-live"}
   ],
   "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace; 160 Lake Forest cleared to close (funds 7/23) adds to the near-term count"},
-  "money": {"status": "clear", "note": "No alerts — Money Pulse quiet (finance-brain ran clean 5:55a, zero bank alerts in 24h)"},
-  "isa": {"openCallTasks": 73, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
-  "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"]
+  "money": {"status": "alert", "note": "Bank NSF/low-balance alert on a linked account flagged this morning — verified 2 sources 7/11, fund it today; finance-brain otherwise ran clean 5:55a"},
+  "isa": {"openCallTasks": 38, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"],
+  "controls": {
+    "do": "Call Andy B. — the callback he asked for",
+    "decide": "9 AM Tue/Thu recurring double-book — rule A/B",
+    "watch": "NSF alert on a linked account — verified 7/11",
+    "draftsWaiting": 30
+  }
 }
