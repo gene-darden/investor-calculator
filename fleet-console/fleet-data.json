@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-11 7:35 AM CT",
-  "headline": "DO: call Andy B. — the callback he asked for (day 4) — then work today's hot seller stack (Tom W., Ed S., Robert C., Barbara S.) while they're warm · WATCH: NSF alert on a linked account, verified 7/11.",
+  "updated": "2026-07-12 12:45 PM CT",
+  "headline": "Client Monday on deck: prep the LOCKED 12pm Autumn G. listing appt (1211 Cornell) as tomorrow's centerpiece, and finally return Andy B.'s 5-day callback · WATCH: linked-account NSF flagged 7/11 still shows unresolved.",
   "heartbeat": {
-    "status": "alert",
+    "status": "ok",
     "notes": [
-      "Listing Folder Sync still Chrome-wedged since 7/9 — milestone roster held at 22, engine runs Gmail-only (no lead coverage lost); new Paul Franks + Autumn G./1211 Cornell listings awaiting folders once Chrome clears",
-      "isa-instant-responder BLOCKED once ~7 PM 7/10 on the recurring Gmail-search flap (self-heals in minutes, the 15-min Chrome sweep is the net); all core routines ran clean overnight — triage 5:57a, finance 5:55a, The Daily 6:28a, deep-dive 1:15a",
-      "NEW: database-power-daily first run 5:55a (MY DAILY 10 = 10 fresh seller hand-raises off Gene's book); a bank NSF/low-balance alert on a linked account surfaced 7/11 AM — now on the money board"
+      "Sunday rest day — The Daily / finance / triage don't run Sundays by design; milestone-engine ran clean 11:06a (silent, no fire) + Sunday Delta 12:22p (silent, no send). No BLOCKED lines in 24h.",
+      "Listing Folder Sync still Chrome-wedged since 7/9 (milestone roster held at 22, engine runs Gmail-only, no lead coverage lost) — the one open degradation; Franks + 1211 Cornell listings awaiting folders once Chrome clears.",
+      "CEO Sweep due 5PM today (weekly). Carryover reds handed to Monday: Andy B. still undialed (One Thing day 5+), linked-account NSF unresolved."
     ]
   },
   "callBlock": [
-    {"who": "Andy B.", "why": "Left a 2nd voicemail asking for a callback (day 4) — today's One Thing; return the call before it cools", "heat": "hot"},
-    {"who": "Tom W.", "why": "HOT seller — opened a listing alert 3 hrs ago; offer a current equity read", "heat": "hot"},
+    {"who": "Andy B.", "why": "2nd voicemail asked for a callback — now day 5 and still undialed; the standing One Thing, close the loop", "heat": "hot"},
+    {"who": "Autumn G.", "why": "Listing appt LOCKED Mon 7/13 12pm (1211 Cornell relist) — Client Monday's centerpiece; bring CMA + pre-listing package", "heat": "hot"},
+    {"who": "Tom W.", "why": "HOT seller — opened a listing alert; offer a current equity read, draft staged", "heat": "hot"},
     {"who": "Ed S.", "why": "HOT 2x-referral Gulf-Coast seller — opened his market report; pull his value snapshot", "heat": "hot"},
     {"who": "Robert C.", "why": "HOT PCB seller ran his home value and flagged it too low — equity-review call while warm", "heat": "hot"},
     {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — hot equity-review angle, draft ready", "heat": "hot"},
-    {"who": "Carolyn B.", "why": "HOT re-engage seller — pulled her equity number twice this week, warming up", "heat": "hot"},
-    {"who": "Steve S.", "why": "Long-dormant buyer reactivating hard — browsing Birmingham again this week", "heat": "hot"},
-    {"who": "David H.", "why": "Montevallo home-value seller — hot seller-intent, equity-review draft staged", "heat": "hot"}
+    {"who": "Jeremy M.", "why": "Re-engaged Trussville seller — re-ran his home value Sat; may slip Monday's search, work it now", "heat": "hot"},
+    {"who": "Carolyn B.", "why": "HOT re-engage seller — pulled her equity number twice this week, warming up", "heat": "hot"}
   ],
   "listings": [
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 CLEARED TO CLOSE — loan cleared underwriting so the appraisal is in and cleared; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Gene sent the 'Sold by Strategy' seller note himself — milestone fully handled"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "FHA amendatory clause circulating for all-party signatures (loan-file assembly) — holding CTC; watching for the funded/closed Payday email"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared to Close — appraisal in + loan cleared underwriting; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Gene sent the 'Sold by Strategy' seller note himself — holding steady"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — FHA appraisal greenlight reply staged 7/11 (Casey Parsons/Guild); watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
     {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Confirmed showing + single feedback 'priced high' this week — pricing conversation due"},
-    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Ad still producing — fresh buyer leads to work"},
-    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showings coming — still need Jeff's email on file in Brivity"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Confirmed showing + 'priced high' feedback this week — pricing conversation due"},
+    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Fresh buyer inquiry + new Brivity lead 7/12 — ad still producing, work the leads"},
+    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showings coming — still need Jeff's email on file in Brivity to send his update"},
     {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "New feedback 'priced too high'; retail offer still unverified — confirm before advancing"},
     {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "No new signals yet"},
     {"addr": "821 Martinwood Rd", "client": "—", "status": "Active", "note": "Needs a marketing nudge"},
-    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "No new signals yet"},
+    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "225 Willow Point Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "1709 Fieldstone Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "42770 Hwy 77", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
@@ -39,14 +39,14 @@
     {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
     {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "First showing booked Tue 7/21 — awaiting go-live"}
   ],
-  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace; 160 Lake Forest cleared to close (funds 7/23) adds to the near-term count"},
-  "money": {"status": "alert", "note": "Bank NSF/low-balance alert on a linked account flagged this morning — verified 2 sources 7/11, fund it today; finance-brain otherwise ran clean 5:55a"},
-  "isa": {"openCallTasks": 38, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace (30 est / 26 hard-confirmed in Brivity); 160 Lake Forest cleared to close (funds 7/23) is the next add. Fresh forecast lands with Monday's Pipeline email"},
+  "money": {"status": "alert", "note": "Linked-account NSF flagged 7/11 still shows unresolved on Sunday's Delta check — clear it. No new bank alerts in the last 24h otherwise; finance-brain rests Sundays"},
+  "isa": {"openCallTasks": 39, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
   "builds": ["Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1", "Phase-2 speed-to-lead (Make webhook, verified auto-response) — p2"],
   "controls": {
-    "do": "Call Andy B. — the callback he asked for",
+    "do": "Return Andy B.'s callback — day 5, still undialed",
     "decide": "9 AM Tue/Thu recurring double-book — rule A/B",
-    "watch": "NSF alert on a linked account — verified 7/11",
-    "draftsWaiting": 30
+    "watch": "Linked-account NSF flagged 7/11 — still unresolved",
+    "draftsWaiting": 8
   }
 }
