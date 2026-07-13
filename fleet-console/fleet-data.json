@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-12 6:20 PM CT",
-  "headline": "DO: nail tomorrow's LOCKED 12pm Autumn G. listing appt (1211 Cornell) — Client Monday's centerpiece — then close Andy B.'s day-5 callback and the fresh Kimberly W. showing request on 198 Rena · WATCH: linked-account NSF flagged 7/11 still unresolved.",
+  "updated": "2026-07-13 12:35 PM CT",
+  "headline": "DO: land Autumn G.'s LOCKED 12pm listing appt (1211 Cornell relist) — Client Monday's centerpiece — then close Andy B. (day 6, ready to tour) + hot buyer Kimberly W. on 198 Rena · WATCH: noon appt not on calendar + ~5hr Gulf drive.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "Sunday rest day, clean — The Daily / finance / triage don't run Sundays by design; milestone-engine ran 3× silent (11:06a / 1:50p / 8p, no fire), Sunday Delta silent 2× (12:22p / 3:15p), CEO Sweep AUTO-SENT 5PM. No BLOCKED lines in 24h.",
-      "Listing Folder Sync still Chrome-wedged since 7/9 (milestone roster held at 22, engine runs Gmail-only, no lead coverage lost) — the one open degradation; Franks + 1211 Cornell listings awaiting folders once Chrome clears.",
-      "CEO Sweep flagged the week's biggest leak = hot-seller follow-through gap; promoted the Cash Flow Forecaster (NSF-preventer) to #1 build (NSF cluster 3 weeks running). Carryover reds to Monday: Andy B. still undialed (day 5+), linked-account NSF unresolved."
+      "Monday ran clean — no BLOCKED lines in 24h. Core routines all fired: triage 5:55a, finance-brain 6:00a (ACTION sent), The Daily 6:31a, Monday Review Preview 9:52a (Command Sheet sent, 8 seller listings).",
+      "Listing Folder Sync still Chrome-wedged since 7/9 — the one open degradation (milestone roster held at 22, engine runs Gmail-only, no lead coverage lost). Franks + 1211 Cornell listings awaiting folders once Chrome clears.",
+      "Carryover reds to today: Andy B. undialed since 7/8 brief (day 6), and the NFCU NSF on a linked personal account still needs a verify-it's-yours check. Autumn's 12pm appt is Panama City FL (~5hr drive) and is NOT on the calendar."
     ]
   },
   "callBlock": [
-    {"who": "Autumn G.", "why": "Listing appt LOCKED Mon 7/13 12pm (1211 Cornell relist) — Client Monday's centerpiece; bring CMA + pre-listing package", "heat": "hot"},
-    {"who": "Andy B.", "why": "2nd voicemail asked for a callback — now day 5 and still undialed; the standing One Thing, close the loop", "heat": "hot"},
-    {"who": "Kimberly W.", "why": "HOT inbound buyer — VM Sun 1:45p wants to SEE 198 Rena (Gene's own listing); call back and book the showing", "heat": "hot"},
+    {"who": "Autumn G.", "why": "Listing appt LOCKED 12pm (1211 Cornell relist) — Client Monday's centerpiece; bring CMA + pre-listing package", "heat": "hot"},
+    {"who": "Andy B.", "why": "Reviewed the 6 houses, all look fine — wants to MEET and tour ~3; day 6 undialed, the standing One Thing", "heat": "hot"},
+    {"who": "Kimberly W.", "why": "HOT inbound buyer — VM wants to SEE 198 Rena (Gene's own listing); call back and book the showing", "heat": "hot"},
+    {"who": "Jared & Amanda B.", "why": "160 Lake Forest Cleared to Close — confirm walk-through 7/20 9:30a + closing 7/23 logistics; client draft staged", "heat": "hot"},
+    {"who": "June F.", "why": "HOT multi-signal seller — Brivity Connect + 2 home-value forms + IDX reg in one burst; equity review + first look", "heat": "hot"},
+    {"who": "Jeremy M.", "why": "Re-engaged Trussville seller — re-ran his home value Sat; may slip Monday's search, work it now", "heat": "hot"},
     {"who": "Tom W.", "why": "HOT seller — opened a listing alert; offer a current equity read, draft staged", "heat": "hot"},
-    {"who": "Ed S.", "why": "HOT 2x-referral Gulf-Coast seller — opened his market report; pull his value snapshot", "heat": "hot"},
-    {"who": "Robert C.", "why": "HOT PCB seller ran his home value and flagged it too low — equity-review call while warm", "heat": "hot"},
-    {"who": "Barbara S.", "why": "PCB condo owner says her value estimate is too low — hot equity-review angle, draft ready", "heat": "hot"},
-    {"who": "Jeremy M.", "why": "Re-engaged Trussville seller — re-ran his home value Sat; may slip Monday's search, work it now", "heat": "hot"}
+    {"who": "Ed S.", "why": "HOT 2x-referral Gulf-Coast seller — opened his market report; pull his value snapshot, draft staged", "heat": "hot"}
   ],
   "listings": [
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared to Close — appraisal in + loan cleared underwriting; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Gene sent the 'Sold by Strategy' seller note himself — holding steady"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — FHA appraisal greenlight reply staged 7/11 (Casey Parsons/Guild); watching for the funded/closed Payday email"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared to Close — appraisal in + loan cleared; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Confirm logistics + closing-day expectations today"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — FHA appraisal greenlight reply staged (Casey Parsons/Guild); watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
-    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "Same buyer showed twice over the weekend — press for an offer"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "Fresh 'interested, priced too high' feedback again this weekend — pricing conversation is due"},
-    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Confirmed Sun 1pm showing + fresh inbound buyer VM wanting to see it + new Brivity lead 7/12 — ad still producing, work the buyers"},
-    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showings coming — still need Jeff's email on file in Brivity to send his update"},
-    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "New feedback 'priced too high'; retail offer still unverified — confirm before advancing"},
+    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "7/13 showing cancelled this morning; price validated 'just right' 7/7 — work the condition/marketing lever (open house, staging, incentive) to convert"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "3rd 'priced too high' read in 2 wks (buyer liked the house 7/10) — pricing conversation is due; bring a recommended adjustment band"},
+    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Price cut to $450K is working — Sun 7/12 showing + new showing Wed 7/15 12:45p + hot inbound buyer (Kimberly W.) wants to see it; keep steady"},
+    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showing requested Fri 7/10 (confirm it happened) — still need Jeff's email on file in Brivity to send his update"},
+    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "New 'priced too high' feedback; Ken Grodner (KW) showed 7/9 with no feedback → nudge drafted (not sent); retail offer still unverified"},
     {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "No new signals yet"},
-    {"addr": "821 Martinwood Rd", "client": "—", "status": "Active", "note": "Needs a marketing nudge"},
+    {"addr": "821 Martinwood Rd", "client": "Sulman M.", "status": "Active", "note": "No showings, stale — propose a re-push (grouped with Sulman's Altamont call)"},
     {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "225 Willow Point Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "1709 Fieldstone Cir", "client": "—", "status": "Active", "note": "No new signals this week"},
@@ -37,16 +37,16 @@
     {"addr": "1230 Calvert Rd", "client": "—", "status": "Active", "note": "No new signals this week"},
     {"addr": "315 Pond Spring Dr", "client": "—", "status": "Active", "note": "Seeded from Brivity — no new signals"},
     {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
-    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "First showing booked Tue 7/21 — awaiting go-live"}
+    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "$899K top-dollar coming-soon — first showing booked Tue 7/21 12p; confirm go-live, media, pricing before then"}
   ],
-  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace (30 est / 26 hard-confirmed in Brivity); 160 Lake Forest cleared to close (funds 7/23) is the next add. Fresh forecast lands with Monday's Pipeline email"},
-  "money": {"status": "alert", "note": "Linked-account NSF flagged 7/11 still shows unresolved on the weekend's Delta checks — clear it. No new bank alerts in the last 24h; finance-brain rests Sundays and resumes Monday 6:20a"},
-  "isa": {"openCallTasks": 42, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace (30 est / 26 hard-confirmed in Brivity); 160 Lake Forest cleared to close (funds 7/23) is the next add. Fresh Monday Pipeline & Forecast not yet in the inbox — holding 7/6 values"},
+  "money": {"status": "alert", "note": "finance-brain flagged an NFCU NSF (07/10) on a linked personal account — verify it's yours (dismiss if not); business checking reads healthy, no other bank alerts in 24h"},
+  "isa": {"openCallTasks": 47, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
   "builds": ["Cash Flow Forecaster Agent (NSF-preventer) — #1 build of the week, p1", "Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1"],
   "controls": {
-    "do": "Nail Autumn G.'s 12pm listing appt (1211 Cornell)",
+    "do": "Land Autumn G.'s 12pm listing appt (1211 Cornell)",
     "decide": "9 AM Tue/Thu recurring double-book — rule A/B",
-    "watch": "Linked-account NSF flagged 7/11 — still unresolved",
-    "draftsWaiting": 8
+    "watch": "Autumn noon appt off-calendar + ~5hr Gulf drive (7/13)",
+    "draftsWaiting": 14
   }
 }
