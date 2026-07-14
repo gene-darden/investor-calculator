@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-14 7:35 AM CT",
-  "headline": "DO: close Andy B. — reply + lock his PCB 3-home tour (day 7, he went inbound), then the hot buyer/seller stack (Kimberly W. · June F. · Greg E.) · WATCH: 195 Lake View live counter is out — awaiting Chesley's signature.",
+  "updated": "2026-07-14 7:35 PM CT",
+  "headline": "DO: close Andy B. — he toured the PCB homes today & said 'yes sir', lock the offer, then work the hot seller/buyer stack (June F. · Greg E. · Kimberly W.) · WATCH: 195 Lake View counter is out — awaiting Chesley's signature.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "Tuesday running clean — no BLOCKED lines in 24h. Core routines all fired: triage 5:57a, DB-power-daily 5:54a, finance-brain 5:55a (clean, no email), equity-engine 5:47a (first full run — 62 clients enrolled, 6 triggers armed), The Daily 6:32a, team-daily 7:05a.",
-      "Resolved: the NFCU NSF on the linked personal account cleared via deposits 7/13–7/14 — finance-brain confirmed this morning. Money board is back to clear.",
-      "Listing Folder Sync still Chrome-wedged since 7/9 — the one open degradation (milestone roster held at 22, engine runs Gmail-only, no lead coverage lost). Franks + 1211 Cornell listings still awaiting folders once Chrome clears."
+      "Tuesday ran clean — core routines all fired: equity-engine 5:47a (first full run, 6 triggers armed), triage 5:57a, DB-power-daily 5:54a, finance-brain 5:55a (clean, no email), The Daily 6:32a, team-daily 7:05a, milestone-engine fired 195 Lake View 8:07a.",
+      "Gmail search flapped ~7:45a — isa-instant-responder logged one BLOCKED (search_threads erroring, same recurring pattern as 7/8); self-healed, the 15:07a run was clean. Chrome/leads-index sweep is the net, no lead lost. p1 task open to check the connector.",
+      "Listing Folder Sync still Chrome-wedged since 7/9 — the one standing degradation (milestone roster held at 22, engine runs Gmail-only, no lead coverage lost). Franks + 1211 Cornell listings still awaiting folders once Chrome clears."
     ]
   },
   "callBlock": [
-    {"who": "Andy B.", "why": "Reviewed the 6 houses, all look fine — texted 7/13 wants to MEET & tour ~3 homes; the week-long conversion leak went INBOUND. Reply + lock the PCB tour plan (day 7, the One Thing)", "heat": "hot"},
+    {"who": "Andy B.", "why": "One Thing LANDED — reviewed the 6 homes, toured ~3 in PCB today, said 'Yes sir'; the week-long conversion leak went inbound. Confirm the offer + next steps (day 7)", "heat": "hot"},
     {"who": "Kimberly W.", "why": "HOT inbound buyer — VM wants to SEE 198 Rena (Gene's own listing); call back and book the showing", "heat": "hot"},
-    {"who": "Quentonio S.", "why": "HOT verified inbound buyer — IDX registration on the site (Brivity Connect); D0 first-touch sent, now call him", "heat": "hot"},
-    {"who": "June F.", "why": "HOT multi-signal seller — Brivity Connect + 2 Bessemer home-value forms + IDX in one burst; equity review + buy-side first look", "heat": "hot"},
+    {"who": "June F.", "why": "HOT multi-signal Bessemer seller — Brivity Connect + 2 home-value forms + IDX in one burst; equity review + buy-side first look", "heat": "hot"},
     {"who": "Greg E.", "why": "HOT seller who REQUESTED a call (Helena) — tagged 'request a call'; offer a current equity read, draft staged", "heat": "hot"},
     {"who": "Cedric M.", "why": "HOT expired/FSBO seller (Calera) — motivated source; listing-appointment angle, draft staged", "heat": "hot"},
+    {"who": "Quentonio S.", "why": "HOT verified inbound buyer — IDX registration on the site (Brivity Connect); D0 first-touch sent, now call him", "heat": "hot"},
     {"who": "Jeremy M.", "why": "Re-engaged Trussville seller — re-ran his home value; equity review angle, draft staged", "heat": "hot"},
-    {"who": "Jared & Amanda B.", "why": "160 Lake Forest Cleared to Close — confirm walk-through 7/20 9:30a + closing 7/23 logistics; client draft staged", "heat": "hot"}
+    {"who": "Jared & Amanda B.", "why": "160 Lake Forest Clear to Close — closing now CONFIRMED Tue 7/21 9am (South Oak); confirm walk-through 7/20 9:30a + logistics; client draft staged", "heat": "hot"}
   ],
   "listings": [
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared to Close — appraisal in + loan cleared; final walk-through Mon 7/20 9:30a confirmed, close on track 7/23. Confirm logistics + closing-day expectations"},
+    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared to Close — appraisal in + loan cleared; closing CONFIRMED Tue 7/21 9am at South Oak (Amanda accepted the invite), final walk-through Mon 7/20 9:30a. Confirm logistics + closing-day expectations"},
     {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — FHA appraisal greenlight reply staged (Casey Parsons/Guild); watching for the funded/closed Payday email"},
     {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal this week"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — showings", "note": "🔥 LIVE COUNTER: $340K offer came in → Gene countered net $360K / 2.5% BA / 48-hr break (Scarlett sent to Chesley 7/14). Awaiting his signature — this is the watch item. Follows the 3rd 'priced too high' read"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — offer/counter out", "note": "🔥 FIRED to OFFER_RECEIVED (8:07a): $340K offer came in → Gene countered net $360K / 2.5% BA / 48-hr break (Scarlett sent to Chesley 7/14). Awaiting his signature — this is the watch item. Follows the 3rd 'priced too high' read"},
     {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Price cut to $450K is pulling traffic — Sun 7/12 showing + hot inbound buyer (Kimberly W.) wants to see it; note the Wed 7/15 showing cancelled same-morning (buyer not interested). Keep steady"},
     {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — showings", "note": "7/13 showing cancelled; price validated 'just right' 7/7 — work the condition/marketing lever (open house, staging, incentive) to convert"},
     {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Showing requested Fri 7/10 (confirm it happened) — still need Jeff's email on file in Brivity to send his update"},
@@ -39,14 +39,14 @@
     {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
     {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "$899K top-dollar coming-soon — first showing booked Tue 7/21 12p; confirm go-live, media, pricing before then"}
   ],
-  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace (30 est / 26 hard-confirmed in Brivity); finance-brain reads ~48-49 vs 45. 160 Lake Forest cleared to close (funds 7/23) is the next add. No fresh Monday Pipeline & Forecast yet — holding 7/6 values"},
-  "money": {"status": "clear", "note": "The linked-account NFCU NSF cleared via deposits 7/13–7/14 — finance-brain confirmed this morning; business operating account healthy, no bank alerts in 24h. (Card-on-file declines earlier in the week still worth an eye — cash-tight pattern.)"},
-  "isa": {"openCallTasks": 59, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
+  "pipeline": {"closedYTD": 30, "goal": 45, "teamGoal": 90, "paceProjection": 54, "note": "Ahead of 45 — 7/6 forecast projects ~54 at current pace (30 est / 26 hard-confirmed in Brivity); finance-brain reads ~48-49 vs 45. 160 Lake Forest signing now confirmed Tue 7/21 is the next add. No fresh Monday Pipeline & Forecast in the inbox yet — holding 7/6 values"},
+  "money": {"status": "clear", "note": "Finance-brain ran clean this morning (exception-only, no email) — business operating account healthy, no bank NSF/low-balance in 24h; the NFCU alert on the linked personal account cleared via deposits 7/13–7/14. Keep an eye on the card-on-file decline pattern (a vendor auto-payment plan failed its 2nd attempt today) — cash-tight signal, not a bank alert."},
+  "isa": {"openCallTasks": 60, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
   "builds": ["Cash Flow Forecaster Agent (NSF-preventer) — #1 build of the week, p1", "Tax Strategist Agent + 2025 tax catch-up — p1", "Create Google booking link (5 min) — p1"],
   "controls": {
-    "do": "Close Andy B. — lock his PCB 3-home tour",
+    "do": "Close Andy B. — lock the offer after today's PCB tour",
     "decide": "Signature closing-gift A/B (day 7)",
-    "watch": "195 Lake View live counter — awaiting Chesley sig (7/14)",
-    "draftsWaiting": 18
+    "watch": "195 Lake View counter out — awaiting Chesley sig (7/14)",
+    "draftsWaiting": 20
   }
 }
