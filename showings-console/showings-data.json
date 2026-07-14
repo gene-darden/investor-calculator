@@ -1,0 +1,140 @@
+{
+  "updated": "2026-07-14 4:15 PM CT",
+  "headline": "🔥 Lake View has an interested buyer at ~$340K — that's a negotiation, not feedback. Work it.",
+  "stats": { "showings14d": 13, "feedback14d": 8, "gaps": 6 },
+  "hotSignals": [
+    {
+      "addr": "195 Lake View Cir",
+      "date": "7/12",
+      "isNew": true,
+      "signal": "INTERESTED BUYER — Kenneth R. (Local Realty): client IS interested, thinks $369K is high, floated \"$340ish\". Liked location + size.",
+      "action": "Call Kenneth R. today — test whether $340ish becomes paper. Then brief Chesley C. on counter posture before responding."
+    },
+    {
+      "addr": "355 Comanche St",
+      "date": "7/7",
+      "isNew": false,
+      "signal": "REPEAT INTEREST — Deidre G. (ERA King): her client passed (stairs), but she told an OUT-OF-STATE client about the house and may schedule a second showing.",
+      "action": "Nudge Deidre G. — offer a video walkthrough for the out-of-state client to lock the 2nd showing."
+    },
+    {
+      "addr": "5167 Lake Crest Cir",
+      "date": "7/8",
+      "isNew": false,
+      "signal": "COMING-SOON MOMENTUM — first showing already booked (Tue 7/21, 12 PM) before the listing even goes live at $899K.",
+      "action": "Tell the sellers — pre-launch demand is a great story. Confirm show-ready for 7/21."
+    }
+  ],
+  "upcoming": [
+    { "when": "TODAY · Tue 7/14 · 4:45 PM", "addr": "3350 Altamont Rd E21", "type": "Showing", "note": "3rd showing in 8 days on the condo" },
+    { "when": "Mon 7/20 · 9:30 AM", "addr": "160 Lake Forest Way", "type": "Buyer walk-through", "note": "Contingent — closing march continues" },
+    { "when": "Tue 7/21 · 12:00 PM", "addr": "5167 Lake Crest Cir", "type": "Showing", "note": "Coming-soon debut showing" }
+  ],
+  "listings": [
+    {
+      "addr": "195 Lake View Cir",
+      "city": "Riverside",
+      "price": "$369,000",
+      "client": "Chesley C.",
+      "status": "ACTIVE",
+      "showings14d": 3,
+      "feedback": [
+        { "date": "7/12", "agent": "Kenneth R. · Local Realty", "tone": "hot", "note": "INTERESTED — price high, \"$340ish\" · liked location + size · staging 3/5" },
+        { "date": "7/9", "agent": "Michelle G. · EXIT Coosa River", "tone": "cold", "note": "Not interested (6/13 showing, late reply)" },
+        { "date": "7/4", "agent": "Alison L. · ERA King", "tone": "cold", "note": "Pass — wanted a pool, not an above-ground · price \"just right\"" },
+        { "date": "7/1", "agent": "Eli S. · ARC Realty Hoover", "tone": "cold", "note": "Pass — thought price too high" }
+      ],
+      "gaps": ["Fri 7/10 5:45 PM showing — no feedback yet"]
+    },
+    {
+      "addr": "198 Rena Dr",
+      "city": "Springville",
+      "price": "$450,000",
+      "client": "Ann & Don C.",
+      "status": "ACTIVE",
+      "showings14d": 2,
+      "feedback": [
+        { "date": "7/12", "agent": "Amy S. · ARC Realty", "tone": "warm", "note": "\"She LOVED the yard and lot!!\" — but interior felt too compartmentalized" }
+      ],
+      "gaps": ["Fri 7/3 11 AM showing — no feedback yet"],
+      "note": "Wed 7/15 showing was cancelled 7/13"
+    },
+    {
+      "addr": "355 Comanche St",
+      "city": "Montevallo",
+      "price": "$299,000",
+      "client": "Seth B.",
+      "status": "ACTIVE",
+      "showings14d": 3,
+      "feedback": [
+        { "date": "7/7", "agent": "Deidre G. · ERA King", "tone": "warm", "note": "Pass on stairs — BUT pitched it to an out-of-state client, possible 2nd showing" }
+      ],
+      "gaps": ["Sat 7/4 showing — no feedback", "Sun 7/5 showing — no feedback"],
+      "note": "Mon 7/13 showing was cancelled"
+    },
+    {
+      "addr": "3350 Altamont Rd E21",
+      "city": "Birmingham",
+      "price": "$169,000",
+      "client": "Sulman M.",
+      "status": "ACTIVE",
+      "showings14d": 3,
+      "feedback": [
+        { "date": "7/9", "agent": "Murry H. · RealtySouth", "tone": "cold", "note": "Pass — price too high · condition 5/5, staging a non-issue" }
+      ],
+      "gaps": ["Thu 7/9 10 AM showing — no feedback yet"]
+    },
+    {
+      "addr": "2368 Ridge Trail",
+      "city": "Birmingham",
+      "price": "$559,000",
+      "client": "Shea H. (Opendoor)",
+      "status": "CONTINGENT",
+      "showings14d": 1,
+      "feedback": [],
+      "gaps": ["Thu 7/9 8 AM showing (backup interest) — no feedback yet"],
+      "note": "Inspection completed 7/8 ✓"
+    },
+    {
+      "addr": "160 Lake Forest Way",
+      "city": "Maylene",
+      "price": "$400,000",
+      "client": "Jared & Amanda B.",
+      "status": "CONTINGENT",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "Appraisal done 7/2 ✓ · walk-through Mon 7/20 9:30 AM"
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "city": "Panama City Beach",
+      "price": "$364,000",
+      "client": "Jeff B.",
+      "status": "ACTIVE",
+      "showings14d": 1,
+      "feedback": [
+        { "date": "7/1", "agent": "Cheri B. · Emerald Coast Realty", "tone": "cold", "note": "Pass — \"needs too much work,\" buyer wants move-in ready · price right for condition" }
+      ],
+      "gaps": [],
+      "note": "New showing requested 7/8 for Fri 7/10 2 PM — confirm it happened"
+    },
+    {
+      "addr": "5167 Lake Crest Cir",
+      "city": "Hoover",
+      "price": "$899,000",
+      "client": "—",
+      "status": "COMING SOON",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "First showing booked Tue 7/21 12 PM — before launch 🎉"
+    }
+  ],
+  "oweFeedback": [
+    { "addr": "211 El Prado Pl · PCB", "price": "$549,000", "when": "Tue 7/14 12:30 PM" },
+    { "addr": "306 Jasmine Pl · PCB", "price": "$539,500", "when": "Tue 7/14" },
+    { "addr": "309 Jasmine Pl · PCB", "price": "$495,000", "when": "Tue 7/14 11:30 AM" },
+    { "addr": "209 S Wells St · PCB", "price": "$449,900", "when": "Tue 7/14 12:00 PM" }
+  ]
+}
