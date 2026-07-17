@@ -1,14 +1,21 @@
 {
-  "updated": "2026-07-14 5:35 PM CT",
-  "headline": "🔥 Lake View counter is OUT (net $360K) — awaiting Chesley's signature. That's a live negotiation, not feedback. Close it.",
-  "stats": { "showings14d": 13, "feedback14d": 8, "gaps": 6 },
+  "updated": "2026-07-16 8:40 PM CT",
+  "headline": "🔥 195 Lake View counter is LIVE (net $360K) — Chesley replied, make your move. And you owe 4 PCB agents feedback from Tuesday's buyer tour — they've each asked 3 times.",
+  "stats": { "showings14d": 15, "feedback14d": 6, "gaps": 7 },
   "hotSignals": [
     {
       "addr": "195 Lake View Cir",
       "date": "7/12",
+      "isNew": false,
+      "signal": "LIVE NEGOTIATION — off Kenneth R.'s 'interested, $340ish' read, Gene countered net $360K; buyers counter-countered, Scarlett sent Chesley a net sheet 7/15 and Chesley replied.",
+      "action": "Decide the next counter posture with Chesley C. and respond — this is a live deal, not just feedback."
+    },
+    {
+      "addr": "5167 Lake Crest Cir",
+      "date": "7/21",
       "isNew": true,
-      "signal": "INTERESTED BUYER — Kenneth R. (Local Realty): client IS interested, thinks $369K is high, floated \"$340ish\". Liked location + size.",
-      "action": "Call Kenneth R. today — test whether $340ish becomes paper. Then brief Chesley C. on counter posture before responding."
+      "signal": "COMING-SOON MOMENTUM — now TWO pre-launch showings booked for Tue 7/21 (11:15 AM + 12 PM) before the $899K listing goes live.",
+      "action": "Tell the sellers — two bookings before launch is a great story. Confirm show-ready for 7/21."
     },
     {
       "addr": "355 Comanche St",
@@ -16,18 +23,11 @@
       "isNew": false,
       "signal": "REPEAT INTEREST — Deidre G. (ERA King): her client passed (stairs), but she told an OUT-OF-STATE client about the house and may schedule a second showing.",
       "action": "Nudge Deidre G. — offer a video walkthrough for the out-of-state client to lock the 2nd showing."
-    },
-    {
-      "addr": "5167 Lake Crest Cir",
-      "date": "7/8",
-      "isNew": false,
-      "signal": "COMING-SOON MOMENTUM — first showing already booked (Tue 7/21, 12 PM) before the listing even goes live at $899K.",
-      "action": "Tell the sellers — pre-launch demand is a great story. Confirm show-ready for 7/21."
     }
   ],
   "upcoming": [
-    { "when": "TODAY · Tue 7/14 · 4:45 PM", "addr": "3350 Altamont Rd E21", "type": "Showing", "note": "3rd showing in 8 days on the condo" },
-    { "when": "Mon 7/20 · 9:30 AM", "addr": "160 Lake Forest Way", "type": "Buyer walk-through", "note": "Contingent — closing march continues" },
+    { "when": "Mon 7/20 · 9:30 AM", "addr": "160 Lake Forest Way", "type": "Buyer walk-through", "note": "Contingent — closes Tue 7/21 9 AM" },
+    { "when": "Tue 7/21 · 11:15 AM", "addr": "5167 Lake Crest Cir", "type": "Showing", "note": "Coming-soon — 2nd pre-launch booking" },
     { "when": "Tue 7/21 · 12:00 PM", "addr": "5167 Lake Crest Cir", "type": "Showing", "note": "Coming-soon debut showing" }
   ],
   "listings": [
@@ -36,15 +36,15 @@
       "city": "Riverside",
       "price": "$369,000",
       "client": "Chesley C.",
-      "status": "ACTIVE",
-      "showings14d": 3,
+      "status": "ACTIVE — live counter",
+      "showings14d": 2,
       "feedback": [
-        { "date": "7/12", "agent": "Kenneth R. · Local Realty", "tone": "hot", "note": "INTERESTED — price high, \"$340ish\" · liked location + size · staging 3/5" },
-        { "date": "7/9", "agent": "Michelle G. · EXIT Coosa River", "tone": "cold", "note": "Not interested (6/13 showing, late reply)" },
-        { "date": "7/4", "agent": "Alison L. · ERA King", "tone": "cold", "note": "Pass — wanted a pool, not an above-ground · price \"just right\"" },
-        { "date": "7/1", "agent": "Eli S. · ARC Realty Hoover", "tone": "cold", "note": "Pass — thought price too high" }
+        { "date": "7/12", "agent": "Kenneth R. · Local Realty", "tone": "hot", "note": "INTERESTED — price high, \"$340ish\" · liked location + size · staging 3/5 → became the offer now in counter-negotiation" },
+        { "date": "7/9", "agent": "Michelle G. · EXIT Coosa River", "tone": "cold", "note": "Not interested (late reply)" },
+        { "date": "7/4", "agent": "Alison L. · ERA King", "tone": "cold", "note": "Pass — wanted a pool, not an above-ground · price \"just right\"" }
       ],
-      "gaps": ["Fri 7/10 5:45 PM showing — no feedback yet"]
+      "gaps": [],
+      "note": "Counter is out at net $360K / 2.5% BA / 48-hr break; buyers counter-countered, net sheet to Chesley 7/15, he replied — live deal"
     },
     {
       "addr": "198 Rena Dr",
@@ -57,7 +57,7 @@
         { "date": "7/12", "agent": "Amy S. · ARC Realty", "tone": "warm", "note": "\"She LOVED the yard and lot!!\" — but interior felt too compartmentalized" }
       ],
       "gaps": ["Fri 7/3 11 AM showing — no feedback yet"],
-      "note": "Wed 7/15 showing was cancelled 7/13"
+      "note": "Wed 7/15 showing was cancelled same-morning (buyer not interested). Hot inbound buyer Kimberly W. still wants to see it"
     },
     {
       "addr": "355 Comanche St",
@@ -65,12 +65,12 @@
       "price": "$299,000",
       "client": "Seth B.",
       "status": "ACTIVE",
-      "showings14d": 3,
+      "showings14d": 5,
       "feedback": [
         { "date": "7/7", "agent": "Deidre G. · ERA King", "tone": "warm", "note": "Pass on stairs — BUT pitched it to an out-of-state client, possible 2nd showing" }
       ],
-      "gaps": ["Sat 7/4 showing — no feedback", "Sun 7/5 showing — no feedback"],
-      "note": "Mon 7/13 showing was cancelled"
+      "gaps": ["Sat 7/4 & Sun 7/5 showings — no feedback", "Wed 7/15 1:25 PM showing — no feedback yet"],
+      "note": "Mon 7/13 showing was cancelled; steady traffic, price validated 'just right'"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -78,11 +78,11 @@
       "price": "$169,000",
       "client": "Sulman M.",
       "status": "ACTIVE",
-      "showings14d": 3,
+      "showings14d": 4,
       "feedback": [
         { "date": "7/9", "agent": "Murry H. · RealtySouth", "tone": "cold", "note": "Pass — price too high · condition 5/5, staging a non-issue" }
       ],
-      "gaps": ["Thu 7/9 10 AM showing — no feedback yet"]
+      "gaps": ["Tue 7/14 4:45 PM showing — no feedback yet", "Wed 7/15 1:30 PM showing — no feedback yet", "Thu 7/9 (Ken Grodner/KW) — no feedback, nudge drafted"]
     },
     {
       "addr": "2368 Ridge Trail",
@@ -93,7 +93,7 @@
       "showings14d": 1,
       "feedback": [],
       "gaps": ["Thu 7/9 8 AM showing (backup interest) — no feedback yet"],
-      "note": "Inspection completed 7/8 ✓"
+      "note": "Clear to Close — inspection completed 7/8 ✓, watching for funded/closed"
     },
     {
       "addr": "160 Lake Forest Way",
@@ -104,7 +104,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "Appraisal done 7/2 ✓ · walk-through Mon 7/20 9:30 AM"
+      "note": "Clear to Close — final walk-through Mon 7/20 9:30 AM, closing Tue 7/21 9 AM"
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
@@ -128,13 +128,13 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "First showing booked Tue 7/21 12 PM — before launch 🎉"
+      "note": "TWO showings booked Tue 7/21 (11:15 AM + 12 PM) — before launch 🎉"
     }
   ],
   "oweFeedback": [
-    { "addr": "211 El Prado Pl · PCB", "price": "$549,000", "when": "Tue 7/14 12:30 PM" },
-    { "addr": "306 Jasmine Pl · PCB", "price": "$539,500", "when": "Tue 7/14" },
-    { "addr": "309 Jasmine Pl · PCB", "price": "$495,000", "when": "Tue 7/14 11:30 AM" },
-    { "addr": "209 S Wells St · PCB", "price": "$449,900", "when": "Tue 7/14 12:00 PM" }
+    { "addr": "211 El Prado Pl · PCB", "price": "$549,000", "when": "Tue 7/14 12:30 PM — agent asked 3× (Lynne Hand messaged)" },
+    { "addr": "306 Jasmine Pl · PCB", "price": "$539,500", "when": "Tue 7/14 — agent asked 3×" },
+    { "addr": "309 Jasmine Pl · PCB", "price": "$495,000", "when": "Tue 7/14 11:30 AM — agent asked 3× (Scott Suber messaged)" },
+    { "addr": "209 S Wells St · PCB", "price": "$449,900", "when": "Tue 7/14 12:00 PM — agent asked 3×" }
   ]
 }
