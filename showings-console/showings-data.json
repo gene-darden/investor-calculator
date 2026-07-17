@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-17 7:37 AM CT",
-  "headline": "🔥 355 Comanche has a live offer — and Seth B. has waited 2 days for your $3,500 answer. Call him. (195 Lake View's offer was rescinded — that counter is dead.) You still owe 4 PCB agents feedback from Tuesday's tour; they've each asked 4 times now.",
+  "updated": "2026-07-17 12:50 PM CT",
+  "headline": "🔥 355 Comanche has a live offer — and Seth B. has waited 2+ days for your $3,500 answer. Call him. (195 Lake View's offer was rescinded — that counter is dead.) You still owe 4 PCB agents feedback from Tuesday's tour; they've each asked 4 times now.",
   "stats": { "showings14d": 14, "feedback14d": 6, "gaps": 9 },
   "hotSignals": [
     {
       "addr": "355 Comanche St",
       "date": "7/16",
-      "isNew": true,
-      "signal": "OFFER RECEIVED — offer came together via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers on 7/15 and the corrected net sheet never went out — the thread has been silent 2 days.",
+      "isNew": false,
+      "signal": "OFFER RECEIVED — offer came together via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers on 7/15 and the corrected net sheet never went out — the thread has been silent 2+ days.",
       "action": "Call Seth B. today, answer the $3,500 question, and get the corrected net sheet out. This is the One Thing — already tasked, no new alert sent."
     },
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/21",
       "isNew": false,
-      "signal": "COMING-SOON MOMENTUM — two pre-launch showings now booked for Tue 7/21 (11:15 AM + 12 PM) on the $899K listing before it goes live.",
-      "action": "Tell the sellers — two bookings before launch is a great story. Confirm show-ready, media and pricing before 7/21."
+      "signal": "COMING-SOON MOMENTUM — two pre-launch showings now booked for Tue 7/21 (11:15 AM + 12 PM) on the $899K listing before it goes live, and buyer agent Manda L. texted asking to write an offer before launch.",
+      "action": "Tell the sellers — two bookings and an agent asking to write before launch is a great story. Confirm show-ready, media and pricing before 7/21."
     },
     {
       "addr": "355 Comanche St",
@@ -42,7 +42,7 @@
         { "date": "7/7", "agent": "Deidre G. · ERA King", "tone": "warm", "note": "Pass on the stairs — BUT pitched it to an out-of-state client, possible 2nd showing" }
       ],
       "gaps": ["Sat 7/4 & Sun 7/5 showings — no feedback", "Wed 7/15 1:25 PM showing — no feedback yet"],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is 2 days unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is 2+ days unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "195 Lake View Cir",
@@ -83,7 +83,7 @@
         { "date": "7/12", "agent": "Amy S. · ARC Realty", "tone": "warm", "note": "\"She LOVED the yard and lot!!\" — but the interior felt too compartmentalized" }
       ],
       "gaps": ["Fri 7/3 11 AM showing — no feedback yet"],
-      "note": "The Wed 7/15 showing cancelled same-morning (buyer not interested). Hot inbound buyer Kimberly W. still wants to see it — she's on your call list"
+      "note": "The Wed 7/15 showing cancelled same-morning (buyer not interested). Hot inbound buyer Kimberly W. still wants to see it — she called again today and is on your call list"
     },
     {
       "addr": "5167 Lake Crest Cir",
@@ -94,7 +94,18 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "TWO showings booked Tue 7/21 (11:15 AM + 12 PM) — before launch 🎉"
+      "note": "TWO showings booked Tue 7/21 (11:15 AM + 12 PM) — before launch — and an agent asking to write early 🎉"
+    },
+    {
+      "addr": "16896 Whispering Pines",
+      "city": "Athens",
+      "price": "—",
+      "client": "—",
+      "status": "CLEAR TO CLOSE",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "🎉 Just cleared to close (7/27). Institutional/Lennar seller, no showings — listed here for pipeline visibility"
     },
     {
       "addr": "2368 Ridge Trail",
@@ -105,7 +116,7 @@
       "showings14d": 1,
       "feedback": [],
       "gaps": ["Thu 7/9 8 AM showing (backup interest) — no feedback yet"],
-      "note": "Clear to Close — but the FHA appraisal 'ordered' claim is 11 days unverified and the lender reply is a 6-day-old draft"
+      "note": "Clear to Close — but the FHA appraisal 'ordered' claim is ~11 days unverified and the lender reply is a stale draft"
     },
     {
       "addr": "160 Lake Forest Way",

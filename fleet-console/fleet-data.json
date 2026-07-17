@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-17 7:37 AM CT",
-  "headline": "DO: call Seth B. — 355 Comanche has a live offer and his $3,500 concession question has sat 2 days unanswered · WATCH: Autumn G. relist still unpapered, day 4 · The 195 Lake View offer was RESCINDED — that counter is dead, resume marketing.",
+  "updated": "2026-07-17 12:50 PM CT",
+  "headline": "DO: call Seth B. — 355 Comanche has a live offer and his $3,500 concession question has sat 2+ days unanswered · WATCH: Autumn G. relist still unpapered, day 4 · WIN: 16896 Whispering Pines just cleared to close (7/27).",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "Fleet is back on its feet — no BLOCKED routines in 24h. The app reopened this morning after the 7/13–7/16 outage, but every 7/17 routine fired late: The Daily 44 min late, finance-brain ~95 min late, triage and DB-power missed their slots entirely. The Daily composed off 7/16-vintage handoffs and flagged it in-letter.",
-      "Inbox triage PARTIAL for the second run running — ~150 older newsletter/promo threads still uncleared from the outage backlog; native filters are under-catching. No client mail is sitting in it.",
+      "No BLOCKED routines in 24h — the fleet has recovered from the 7/13–7/16 app-closed outage. This morning's routines fired late (The Daily 44 min, finance-brain ~95 min; triage and DB-power missed their slots), but the midday runs are back on schedule (milestone engine, DB-power, team-daily all ran clean).",
+      "Inbox triage still PARTIAL — ~150 older newsletter/promo threads from the outage backlog remain uncleared for a second run running; native filters are under-catching. No client mail is stuck in it.",
       "Two standing degradations: Listing Folder Sync Chrome-wedged since 7/9 (roster held at 22, engine runs Gmail-only, no lead coverage lost), and the voicemail relay to dardengroupusa has been 550-bouncing for 10 days."
     ]
   },
   "callBlock": [
-    {"who": "Seth B.", "why": "ONE THING — 355 Comanche has a live offer; he asked what the $3,500 seller concessions were on 7/15 and the corrected net sheet never went out. Two days of silence on a live deal", "heat": "hot"},
-    {"who": "Jared & Amanda B.", "why": "160 Lake Forest Clear to Close — walk-through Mon 7/20 9:30a, signing Tue 7/21 9am. Last touch was 6 days ago; confirm logistics + closing-day expectations", "heat": "hot"},
+    {"who": "Seth B.", "why": "ONE THING — 355 Comanche has a live offer; he asked what the $3,500 seller concessions were on 7/15 and the corrected net sheet still hasn't gone out. Now 2+ days of silence on a live deal", "heat": "hot"},
+    {"who": "Jared & Amanda B.", "why": "160 Lake Forest Clear to Close — walk-through Mon 7/20 9:30a, signing Tue 7/21 9am. Last touch 6 days ago; confirm logistics + closing-day expectations", "heat": "hot"},
     {"who": "Autumn G.", "why": "1211 Cornell relist — day 4 with no signed listing or MLS receipt since the appointment. Paper it, or find out what stalled (if you papered it offline, mark it done)", "heat": "hot"},
     {"who": "Bill P.", "why": "Verified seller lead (Alabaster) — registered 7/16, checked his own value, Equity Review draft waiting on your approve+send", "heat": "hot"},
-    {"who": "Greg E.", "why": "HOT Helena seller who asked to be called — 6 days ago. Offer a current equity read; draft staged", "heat": "hot"},
-    {"who": "Cedric M.", "why": "HOT expired/FSBO seller (Calera) — motivated source, listing-appointment angle; draft staged", "heat": "hot"},
+    {"who": "Kimberly W.", "why": "HOT inbound buyer on your own 198 Rena listing — left another voicemail today asking for a callback and a showing. Speed-to-lead", "heat": "hot"},
     {"who": "Helena seller (Old Cahaba)", "why": "Texted asking your advice pricing 833 Madison Ln — you said you'd dive into it. Close the loop: run the value + call back. Name unknown, capture it in Brivity on the call", "heat": "hot"},
-    {"who": "Sharonda R.", "why": "Seller-intent (McCalla) — ran her home value 7/15; Equity Review draft ready. Verify Brivity assignment before dialing", "heat": "hot"}
+    {"who": "Sharonda R.", "why": "Seller-intent (McCalla) — ran her home value 7/15; Equity Review draft ready. Verify Brivity assignment before dialing", "heat": "hot"},
+    {"who": "Tyler A.", "why": "Past client (Helena, sale closed) — texted this morning asking for a callback, 'no emergency.' Unprompted past-client call = your highest-ROI segment", "heat": "warm"}
   ],
   "listings": [
-    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — OFFER RECEIVED", "note": "🔥 The live one. Offer came together 7/16 via buyer agent Davis Haley (ARC Realty) — $5K buyer credit, $3,500 concession. Seth asked what the $3,500 covers on 7/15 12:02p, Scarlett said 'one sec, I'll update' — and the thread ends there. Answer it today; price already validated 'just right'"},
+    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — OFFER RECEIVED", "note": "🔥 The live one. Offer came together 7/16 via buyer agent Davis Haley (ARC Realty) — $5K buyer credit, $3,500 concession. Seth asked what the $3,500 covers on 7/15 12:02p, Scarlett said 'one sec, I'll update' — and the thread ends there. Answer it today; price already validated 'just right.' A 7/15 showing came back silent"},
+    {"addr": "16896 Whispering Pines", "client": "—", "status": "Clear to Close", "note": "🎉 Just cleared — fired UNDER CONTRACT → CLEAR TO CLOSE at 11:06a on Real's 'commission document generated, about to close.' Close date 7/27. Institutional/Lennar seller (no seller email — team-align only). Two Real checklist items still required (final settlement statement + proof of payment)"},
     {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Cleared — appraisal in, loan cleared, ALTA out. Walk-through Mon 7/20 9:30a, signing Tue 7/21 9am at South Oak. Last client touch 7/11 (6 days) — call them"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — offer rescinded", "note": "⚠️ CORRECTION: the offer was RESCINDED 7/16 (the buyers' own home never went under contract). The counter is dead — resume marketing. The 3-day-old counter-play draft to Chesley in your Gmail is now wrong; don't send it. Follows 3 'priced too high' reads"},
-    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "$899K pre-launch — TWO showings booked Tue 7/21 (11:15a + 12p) before it goes live. Strong demand story for the sellers; confirm go-live, media and pricing are show-ready before then"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — but the FHA appraisal 'ordered' claim is 11 days unverified, and the greenlight reply to the lender has sat as a 6-day draft. Verify or send"},
-    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Price cut to $450K pulling traffic — 7/12 showing (Amy S. 'loved the yard') + hot inbound buyer Kimberly W. still wants to see it. The 7/15 showing cancelled same-morning. Keep steady"},
+    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — offer rescinded", "note": "⚠️ The offer was RESCINDED 7/16 (the buyers' own home never went under contract). The counter is dead — resume marketing. The counter-play draft to Chesley in your Gmail is now wrong; don't send it. Three 'priced too high' reads sit behind it, so the price conversation is still live"},
+    {"addr": "5167 Lake Crest Circle", "client": "—", "status": "Coming Soon", "note": "$899K pre-launch — TWO showings booked Tue 7/21 (11:15a + 12p) before it goes live, plus buyer agent Manda L. texted wanting to write before launch. Strong demand story for the sellers; confirm go-live, media and pricing are show-ready"},
+    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Holding CTC — but the FHA appraisal 'ordered' claim is now ~11 days unverified, and the greenlight reply to the lender has sat as a stale draft. Verify or send"},
+    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "Price cut to $450K pulling traffic — 7/12 showing (Amy S. 'loved the yard') + hot inbound buyer Kimberly W. still wants to see it (called again today). The 7/15 showing cancelled same-morning. Keep steady"},
     {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "Four showings in 14 days but feedback is drying up — 7/14 and 7/15 both silent, plus Ken Grodner (KW) from 7/9 (nudge drafted, never sent). Prior 'priced too high' read. Group with Sulman's Martinwood call"},
     {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Price call overdue. Still no email on file in Brivity — capture it on the call, and confirm whether the 7/10 showing happened"},
-    {"addr": "16896 Whispering Pines", "client": "—", "status": "Under Contract", "note": "Holding UC — no new signal"},
-    {"addr": "2127 Hwy 93", "client": "—", "status": "Coming Soon", "note": "$1.15M — newly seeded 7/16 from folder sync, listed 7/14. Awaiting go-live signal"},
+    {"addr": "2127 Hwy 93", "client": "—", "status": "Coming Soon", "note": "$1.15M — newly seeded 7/16 from folder sync, listed 7/14 (your own SPG address). Awaiting go-live signal"},
     {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "No new signals"},
     {"addr": "821 Martinwood Rd", "client": "Sulman M.", "status": "Active", "note": "No showings, stale — propose a re-push (grouped with Sulman's Altamont call)"},
     {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
@@ -42,10 +42,10 @@
     {"addr": "435 Bay Shore Dr", "client": "—", "status": "Active", "note": "No new signals"},
     {"addr": "104 95th St N", "client": "—", "status": "Active", "note": "No new signals"}
   ],
-  "pipeline": {"closedYTD": 26, "goal": 45, "teamGoal": 90, "paceProjection": 48, "note": "⚠️ Numbers reconciled DOWN today. This board carried 30/pace-54; finance-brain counts 26 hard-confirmed in Brivity, tracking ~48. The Daily used the conservative figure this morning because it cites Brivity directly — so this board now matches it. Both beat the 45 goal. Monday's Pipeline & Forecast settles it (none has landed since 7/6 — the outage ate two weeks of them). 160 Lake Forest signing Tue 7/21 is the next add."},
-  "money": {"status": "alert", "note": "Money Pulse sent an ACTION alert this morning: a personal-account past-due notice reopens an NSF the fleet had marked handled — it may not be. A vendor card-on-file is also at 'risk of cancellation', day 5, no payment receipt found. Business side is clean — no NSF in the 72h scan, AR/AP zero."},
+  "pipeline": {"closedYTD": 26, "goal": 45, "teamGoal": 90, "paceProjection": 48, "note": "Reconciled to the conservative Brivity-confirmed figure: 26 hard-confirmed, tracking ~48 — both beat the 45 goal. Two closings on deck this window: 160 Lake Forest signs Tue 7/21, and 16896 Whispering Pines just cleared to close for 7/27. No fresh Monday Pipeline & Forecast has landed since 7/6 (the outage ate two weeks of them) — Monday's forecast settles the count."},
+  "money": {"status": "alert", "note": "Money Pulse sent an ACTION alert this morning — a personal-account past-due notice reopens an NSF the fleet had marked handled, and a vendor card-on-file is at 'risk of cancellation' (day 5, no payment receipt found). Business side is clean — no NSF in the 72h scan, AR/AP zero."},
   "isa": {"openCallTasks": 61, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
-  "builds": ["Cash Flow Forecaster Agent (the NSF-preventer) — build of the week, p1", "Tax Strategist Agent + 2025 tax catch-up — p1", "Create your Google booking link (5 min) — p1"],
+  "builds": ["Cash Flow Forecaster Agent (the NSF-preventer) — build of the week, p1", "Tax Strategist Agent + 2025 tax catch-up — p1", "DECIDE: fix the Brivity crawl or change the listing rule (Sunday blitz) — p2"],
   "controls": {
     "do": "Call Seth B. — answer the $3,500 question",
     "decide": "Closing gift: pick one, or kill it (day 9)",
