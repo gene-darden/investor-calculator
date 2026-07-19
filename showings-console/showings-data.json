@@ -1,12 +1,16 @@
 {
-  "updated": "2026-07-19 7:31 AM CT",
+  "updated": "2026-07-19 7:38 AM CT",
   "headline": "🔥 An offer is being written on 5167 Lake Crest — call Sulman M. before it lands, he still hasn't heard it from you. Two showings on your board TODAY at almost the same hour (195 Lake View 1:00, 2368 Ridge Trail 1:15) — and your 1PM 'Sharon' appointment is probably the first one.",
-  "stats": { "showings14d": 13, "feedback14d": 6, "gaps": 5 },
+  "stats": {
+    "showings14d": 13,
+    "feedback14d": 6,
+    "gaps": 5
+  },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/18",
-      "isNew": true,
+      "isNew": false,
       "signal": "OFFER INCOMING — buyer agent Manda L. texted Sat 1:53 PM: \"We are writing an offer on your listing! There was a pool party at club house today and they walked the trails around neighborhood, they are sold.\" On a COMING SOON $899K listing that hasn't launched. No document yet, so this is intent, not a received offer.",
       "action": "Call the seller FIRST — he has not heard about his own listing from you. Buyers sold on amenities is leverage on TERMS, not just price, and Tue 7/21 brings two more showings = possible competition worth waiting for. Also still owe Manda the finish-list + lockbox combo."
     },
@@ -33,12 +37,42 @@
     }
   ],
   "upcoming": [
-    { "when": "TODAY Sun 7/19 · 1:00 PM", "addr": "195 Lake View Cir", "type": "Showing", "note": "Fresh buyer after the rescinded offer — likely the same 1PM appointment sitting in your text thread" },
-    { "when": "TODAY Sun 7/19 · 1:15 PM", "addr": "2368 Ridge Trail", "type": "Showing", "note": "Clear to Close (Opendoor) — backup-interest showing. Note the 15-minute overlap with 195 Lake View" },
-    { "when": "Mon 7/20 · 9:30 AM", "addr": "160 Lake Forest Way", "type": "Buyer walk-through", "note": "Clear to Close — signs Tue 7/21 9 AM" },
-    { "when": "Mon 7/20 · 6:00 PM", "addr": "3350 Altamont Rd E21", "type": "Showing", "note": "New booking — 5th showing in 14 days" },
-    { "when": "Tue 7/21 · 11:15 AM", "addr": "5167 Lake Crest Cir", "type": "Showing", "note": "Coming-soon — 2nd pre-launch booking, possible competition for the incoming offer" },
-    { "when": "Tue 7/21 · 12:00 PM", "addr": "5167 Lake Crest Cir", "type": "Showing", "note": "Coming-soon debut showing" }
+    {
+      "when": "TODAY Sun 7/19 · 1:00 PM",
+      "addr": "195 Lake View Cir",
+      "type": "Showing",
+      "note": "Fresh buyer after the rescinded offer — likely the same 1PM appointment sitting in your text thread"
+    },
+    {
+      "when": "TODAY Sun 7/19 · 1:15 PM",
+      "addr": "2368 Ridge Trail",
+      "type": "Showing",
+      "note": "Clear to Close (Opendoor) — backup-interest showing. Note the 15-minute overlap with 195 Lake View"
+    },
+    {
+      "when": "Mon 7/20 · 9:30 AM",
+      "addr": "160 Lake Forest Way",
+      "type": "Buyer walk-through",
+      "note": "Clear to Close — signs Tue 7/21 9 AM"
+    },
+    {
+      "when": "Mon 7/20 · 6:00 PM",
+      "addr": "3350 Altamont Rd E21",
+      "type": "Showing",
+      "note": "New booking — 5th showing in 14 days"
+    },
+    {
+      "when": "Tue 7/21 · 11:15 AM",
+      "addr": "5167 Lake Crest Cir",
+      "type": "Showing",
+      "note": "Coming-soon — 2nd pre-launch booking, possible competition for the incoming offer"
+    },
+    {
+      "when": "Tue 7/21 · 12:00 PM",
+      "addr": "5167 Lake Crest Cir",
+      "type": "Showing",
+      "note": "Coming-soon debut showing"
+    }
   ],
   "listings": [
     {
@@ -60,9 +94,16 @@
       "status": "ACTIVE — offer received",
       "showings14d": 2,
       "feedback": [
-        { "date": "7/7", "agent": "Deidre G. · ERA King", "tone": "warm", "note": "Pass on the stairs — BUT pitched it to an out-of-state client, possible 2nd showing" }
+        {
+          "date": "7/7",
+          "agent": "Deidre G. · ERA King",
+          "tone": "warm",
+          "note": "Pass on the stairs — BUT pitched it to an out-of-state client, possible 2nd showing"
+        }
       ],
-      "gaps": ["Wed 7/15 1:25 PM showing — no feedback yet"],
+      "gaps": [
+        "Wed 7/15 1:25 PM showing — no feedback yet"
+      ],
       "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is still unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
@@ -73,8 +114,18 @@
       "status": "ACTIVE — offer rescinded",
       "showings14d": 3,
       "feedback": [
-        { "date": "7/12", "agent": "Kenneth R. · Local Realty", "tone": "cold", "note": "Was INTERESTED at \"$340ish\" and became the offer — but the offer was RESCINDED 7/16 when his buyers' own home never went under contract" },
-        { "date": "7/9", "agent": "Michelle G. · EXIT Coosa River", "tone": "cold", "note": "Not interested (late reply)" }
+        {
+          "date": "7/12",
+          "agent": "Kenneth R. · Local Realty",
+          "tone": "cold",
+          "note": "Was INTERESTED at \"$340ish\" and became the offer — but the offer was RESCINDED 7/16 when his buyers' own home never went under contract"
+        },
+        {
+          "date": "7/9",
+          "agent": "Michelle G. · EXIT Coosa River",
+          "tone": "cold",
+          "note": "Not interested (late reply)"
+        }
       ],
       "gaps": [],
       "note": "⚠️ The counter is dead — resume marketing. A fresh buyer showing lands TODAY 1:00 PM, which matters more than usual with the offer gone. Three 'priced too high' reads sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is now wrong — don't send it"
@@ -87,10 +138,23 @@
       "status": "ACTIVE",
       "showings14d": 4,
       "feedback": [
-        { "date": "7/18", "agent": "Sherry C. · ARC Realty Pelham", "tone": "cold", "note": "Pass — \"they found something they liked in a different area.\" No price complaint this time, staging scored 4/5. That's a location loss, not a price loss" },
-        { "date": "7/9", "agent": "Murry H. · RealtySouth", "tone": "cold", "note": "Pass — price too high · condition 5/5, staging a non-issue" }
+        {
+          "date": "7/18",
+          "agent": "Sherry C. · ARC Realty Pelham",
+          "tone": "cold",
+          "note": "Pass — \"they found something they liked in a different area.\" No price complaint this time, staging scored 4/5. That's a location loss, not a price loss"
+        },
+        {
+          "date": "7/9",
+          "agent": "Murry H. · RealtySouth",
+          "tone": "cold",
+          "note": "Pass — price too high · condition 5/5, staging a non-issue"
+        }
       ],
-      "gaps": ["Thu 7/9 10 AM showing (Ken Grodner/KW) — no feedback, nudge drafted 7/13 but never sent", "Tue 7/14 4:45 PM showing — no feedback yet"],
+      "gaps": [
+        "Thu 7/9 10 AM showing (Ken Grodner/KW) — no feedback, nudge drafted 7/13 but never sent",
+        "Tue 7/14 4:45 PM showing — no feedback yet"
+      ],
       "note": "Traffic is real — four showings in 14 days and a fifth booked Mon 7/20 6 PM. Two reads back now, and they disagree on why: one said price, the newest said location. Worth a pricing conversation that doesn't assume price is the problem"
     },
     {
@@ -101,7 +165,12 @@
       "status": "ACTIVE",
       "showings14d": 1,
       "feedback": [
-        { "date": "7/12", "agent": "Amy S. · ARC Realty", "tone": "warm", "note": "\"She LOVED the yard and lot!!\" — but the interior felt too compartmentalized" }
+        {
+          "date": "7/12",
+          "agent": "Amy S. · ARC Realty",
+          "tone": "warm",
+          "note": "\"She LOVED the yard and lot!!\" — but the interior felt too compartmentalized"
+        }
       ],
       "gaps": [],
       "note": "🔥 Hot inbound buyer Kimberly W. asked to see it THIS WEEKEND and you said yes — today is the last day of it. Phone-only, no email on file. The Wed 7/15 showing cancelled same-morning"
@@ -114,7 +183,9 @@
       "status": "CLEAR TO CLOSE",
       "showings14d": 2,
       "feedback": [],
-      "gaps": ["Thu 7/9 8 AM showing (backup interest) — no feedback yet"],
+      "gaps": [
+        "Thu 7/9 8 AM showing (backup interest) — no feedback yet"
+      ],
       "note": "Backup-interest showing TODAY 1:15 PM — 15 minutes after the 195 Lake View showing, so one of them needs a plan. The FHA appraisal 'ordered' claim is still unverified and the lender reply is a stale draft"
     },
     {
@@ -147,7 +218,9 @@
       "status": "ACTIVE",
       "showings14d": 1,
       "feedback": [],
-      "gaps": ["Fri 7/10 2 PM showing — no confirmation it happened, no feedback"],
+      "gaps": [
+        "Fri 7/10 2 PM showing — no confirmation it happened, no feedback"
+      ],
       "note": "Price call overdue. Still no email on file in Brivity — capture it on the call"
     },
     {
@@ -163,9 +236,25 @@
     }
   ],
   "oweFeedback": [
-    { "addr": "211 El Prado Pl · PCB", "price": "$549,000", "when": "Tue 7/14 12:30 PM — agent has asked 5× (Lynne Hand messaged directly; latest re-ask 7/16)" },
-    { "addr": "309 Jasmine Pl · PCB", "price": "$495,000", "when": "Tue 7/14 11:30 AM — agent has asked 5× (Scott Suber messaged directly; latest re-ask 7/16)" },
-    { "addr": "306 Jasmine Pl · PCB", "price": "$539,500", "when": "Tue 7/14 — agent has asked 5× (latest re-ask 7/16)" },
-    { "addr": "209 S Wells St · PCB", "price": "$449,900", "when": "Tue 7/14 12:00 PM — agent has asked 5× (latest re-ask 7/16)" }
+    {
+      "addr": "211 El Prado Pl · PCB",
+      "price": "$549,000",
+      "when": "Tue 7/14 12:30 PM — agent has asked 5× (Lynne Hand messaged directly; latest re-ask 7/16)"
+    },
+    {
+      "addr": "309 Jasmine Pl · PCB",
+      "price": "$495,000",
+      "when": "Tue 7/14 11:30 AM — agent has asked 5× (Scott Suber messaged directly; latest re-ask 7/16)"
+    },
+    {
+      "addr": "306 Jasmine Pl · PCB",
+      "price": "$539,500",
+      "when": "Tue 7/14 — agent has asked 5× (latest re-ask 7/16)"
+    },
+    {
+      "addr": "209 S Wells St · PCB",
+      "price": "$449,900",
+      "when": "Tue 7/14 12:00 PM — agent has asked 5× (latest re-ask 7/16)"
+    }
   ]
 }

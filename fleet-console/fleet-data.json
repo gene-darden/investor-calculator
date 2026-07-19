@@ -1,54 +1,203 @@
 {
-  "updated": "2026-07-19 7:31 AM CT",
+  "updated": "2026-07-19 7:38 AM CT",
   "headline": "DO: call Sulman M. — an offer is being written on his $899K Lake Crest listing and he still has not heard it from you · WATCH: your 1PM today and the 195 Lake View showing at 1PM today are almost certainly the same appointment.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "No BLOCKED routines in 24h. Overnight Sunday runs all landed: nightly Deep Dive, ISA sweep, and the instant-responder (correctly holding Sunday no-touch).",
-      "CORRECTION to last night's alarm: the Deep Dive flagged listing-milestone-engine 'DARK ~36 hrs' at 7:25a — but the engine's own state file now carries a complete Sunday run stamped 7:45a. The alarm looks already resolved. It has not written its heartbeat line yet, so confirm rather than assume.",
-      "The engine's dark window did cost something real: Saturday's 5167 Lake Crest offer announcement never fired OFFER_RECEIVED, so the seller call was never triggered by the machine. The Deep Dive caught it by hand and it is now the top task."
+      "No BLOCKED routines in 24h. This is a 4-minute re-run of the 7:31a refresh — no new ShowingTime events, no new tasks, no new alerts. Board content stands.",
+      "RESOLVED: last night's 'listing-milestone-engine DARK ~36 hrs' alarm is closed. Its state file now carries a completed Sunday scan (07-18 13:40Z → 07-19 12:45Z), 0 milestones fired, clean. Caveat: it still has not written its heartbeat line, so the run is confirmed by state file only.",
+      "CORRECTION to the earlier money note: finance-brain runs weekdays only, so no Money Pulse Sat/Sun is expected behavior, not a stalled routine. What IS still open is Friday's unresolved read — that part carries."
     ]
   },
   "callBlock": [
-    {"who": "Sharon — 1PM today", "why": "You confirmed this by text Saturday morning and sent your contact card. It lives ONLY in that text thread — no calendar item. Strong chance this is the 195 Lake View showing also booked for 1PM today; confirm which before you drive", "heat": "hot"},
-    {"who": "Kimberly W.", "why": "She asked to see 198 Rena 'this weekend' and you said yes. Today is the last day of that weekend — day 2 carried. Call-in buyer on your OWN listing = double-end, and there is no email on file so the phone is the only channel", "heat": "hot"},
-    {"who": "Andy B.", "why": "HOT FL buyer, two self-raised callback asks now. He reviewed all 6 listings, they 'all look fine,' and he wants to tour. He is waiting on you", "heat": "hot"},
-    {"who": "Helena seller (Old Cahaba)", "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it. Close the loop: run the value + call back. Name unknown — capture it in Brivity on the call", "heat": "hot"},
-    {"who": "Sharonda R.", "why": "Seller-intent (McCalla) — home value ran 7/15, Equity Review draft is sitting ready in Gmail. Verify Brivity assignment before dialing", "heat": "hot"},
-    {"who": "Bill P.", "why": "⚠️ HOLD, do not dial. API says he's yours, but a teammate claimed him the same day. Clear the conflict with her first — the draft is held, not sent", "heat": "hot"},
-    {"who": "June F.", "why": "Multi-signal Bessemer seller — Connect lead + two home-value forms + IDX registration in one burst. Reads like a move within or out of Bessemer. Verified yours", "heat": "hot"},
-    {"who": "Tyler A.", "why": "Past client who asked for a callback, 'no emergency' — now carried 3 days. Unprompted past-client call is your highest-ROI segment", "heat": "warm"}
+    {
+      "who": "Sharon — 1PM today",
+      "why": "You confirmed this by text Saturday morning and sent your contact card. It lives ONLY in that text thread — no calendar item. Strong chance this is the 195 Lake View showing also booked for 1PM today; confirm which before you drive",
+      "heat": "hot"
+    },
+    {
+      "who": "Kimberly W.",
+      "why": "She asked to see 198 Rena 'this weekend' and you said yes. Today is the last day of that weekend — day 2 carried. Call-in buyer on your OWN listing = double-end, and there is no email on file so the phone is the only channel",
+      "heat": "hot"
+    },
+    {
+      "who": "Andy B.",
+      "why": "HOT FL buyer, two self-raised callback asks now. He reviewed all 6 listings, they 'all look fine,' and he wants to tour. He is waiting on you",
+      "heat": "hot"
+    },
+    {
+      "who": "Helena seller (Old Cahaba)",
+      "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it. Close the loop: run the value + call back. Name unknown — capture it in Brivity on the call",
+      "heat": "hot"
+    },
+    {
+      "who": "Sharonda R.",
+      "why": "Seller-intent (McCalla) — home value ran 7/15, Equity Review draft is sitting ready in Gmail. Verify Brivity assignment before dialing",
+      "heat": "hot"
+    },
+    {
+      "who": "Bill P.",
+      "why": "⚠️ HOLD, do not dial. API says he's yours, but a teammate claimed him the same day. Clear the conflict with her first — the draft is held, not sent",
+      "heat": "hot"
+    },
+    {
+      "who": "June F.",
+      "why": "Multi-signal Bessemer seller — Connect lead + two home-value forms + IDX registration in one burst. Reads like a move within or out of Bessemer. Verified yours",
+      "heat": "hot"
+    },
+    {
+      "who": "Tyler A.",
+      "why": "Past client who asked for a callback, 'no emergency' — now carried 3 days. Unprompted past-client call is your highest-ROI segment",
+      "heat": "warm"
+    }
   ],
   "listings": [
-    {"addr": "5167 Lake Crest Circle", "client": "Sulman M.", "status": "Coming Soon — offer incoming", "note": "🔥 THE ONE. Buyer agent Manda L. texted Sat 1:53p: 'We are writing an offer on your listing!' — a clubhouse pool party and a trail walk sold them. No document yet, so this is intent, not an offer. Seller identity CORRECTED to Sulman M. (the prior 'Mike Campbell' was a stale home-value lead). He has not heard about his own $899K listing from you — every touch so far ran through Scarlett or the buyer's agent. Two more showings Tue 7/21 = possible competition"},
-    {"addr": "355 Comanche St", "client": "Seth B.", "status": "Active — OFFER RECEIVED", "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still open on a 7/15 thread. Price already validated 'just right'"},
-    {"addr": "195 Lake View Cir", "client": "Chesley & Lauren C.", "status": "Active — offer rescinded", "note": "Fresh buyer showing TODAY 1:00 PM — and it matters, because the Wilson offer died 7/16 when the buyers' own home never went under contract. The counter is dead; resume marketing. The counter-play draft still in your Gmail is now wrong — don't send it. Three 'priced too high' reads sit behind it"},
-    {"addr": "198 Rena Dr", "client": "Ann & Don C.", "status": "Active — showings", "note": "The $450K price cut is pulling traffic. Hot inbound buyer Kimberly W. asked to see it THIS WEEKEND and you said yes — today is the last day of that weekend. Warm 7/12 read from Amy S. ('LOVED the yard')"},
-    {"addr": "160 Lake Forest Way", "client": "Jared & Amanda B.", "status": "Clear to Close", "note": "🎉 Walk-through TOMORROW Mon 7/20 9:30a, signing Tue 7/21 9am at South Oak. Note the date conflict: Real's paperwork says 7/23, but both sellers accepted the 7/21 appointment — the appointment wins. Last client touch 7/11, call them today"},
-    {"addr": "3350 Altamont Rd E21", "client": "Sulman M.", "status": "Active — showings", "note": "New feedback 7/18 (Sherry C., ARC Realty): buyer passed — 'found something they liked in a different area,' staging scored 4/5, no price complaint this time. That's a location loss, not a price loss. Another showing booked Mon 7/20 6:00 PM. Group with Sulman's Lake Crest call"},
-    {"addr": "2368 Ridge Trail", "client": "Opendoor", "status": "Clear to Close", "note": "Backup-interest showing TODAY 1:15 PM. The FHA appraisal 'ordered' claim is still unverified and the greenlight reply to the lender is still a stale draft — verify or send"},
-    {"addr": "16896 Whispering Pines", "client": "—", "status": "Clear to Close", "note": "🎉 Cleared 7/17, closing 7/27. Institutional/Lennar seller (team-align only, no seller email). Two Real checklist items still required: final settlement statement + proof of payment"},
-    {"addr": "23223 Front Beach Rd B3-407", "client": "Jeff B.", "status": "Active — showings", "note": "Price call overdue. Still no email on file in Brivity — capture it on the call, and confirm whether the 7/10 showing happened"},
-    {"addr": "2127 Hwy 93", "client": "—", "status": "Coming Soon", "note": "$1.15M — your own SPG address, listed 7/14. Awaiting go-live signal"},
-    {"addr": "118 Hayesbury Ln", "client": "—", "status": "Coming Soon", "note": "Awaiting go-live signal"},
-    {"addr": "821 Martinwood Rd", "client": "Sulman M.", "status": "Active", "note": "No showings, stale — propose a re-push. Group with Sulman's Lake Crest + Altamont calls; he's now three listings deep with you"},
-    {"addr": "1406 Marina Landing", "client": "Gloria F.", "status": "Active", "note": "No new signals"},
-    {"addr": "3035 County Line Rd", "client": "—", "status": "Active", "note": "No new signals"},
-    {"addr": "225 Willow Point Cir", "client": "—", "status": "Active", "note": "No new signals"},
-    {"addr": "1709 Fieldstone Cir", "client": "—", "status": "Active", "note": "No new signals"},
-    {"addr": "42770 Hwy 77", "client": "—", "status": "Active", "note": "Pre-publish verify due before Tue 7/21 auto-publish"},
-    {"addr": "1230 Calvert Rd", "client": "—", "status": "Active", "note": "No new signals"},
-    {"addr": "315 Pond Spring Dr", "client": "—", "status": "Active", "note": "No new signals"},
-    {"addr": "104 95th St N", "client": "—", "status": "Active", "note": "No new signals"}
+    {
+      "addr": "5167 Lake Crest Circle",
+      "client": "Sulman M.",
+      "status": "Coming Soon — offer incoming",
+      "note": "🔥 THE ONE. Buyer agent Manda L. texted Sat 1:53p: 'We are writing an offer on your listing!' — a clubhouse pool party and a trail walk sold them. No document yet, so this is intent, not an offer. Seller identity CORRECTED to Sulman M. (the prior 'Mike Campbell' was a stale home-value lead). He has not heard about his own $899K listing from you — every touch so far ran through Scarlett or the buyer's agent. Two more showings Tue 7/21 = possible competition"
+    },
+    {
+      "addr": "355 Comanche St",
+      "client": "Seth B.",
+      "status": "Active — OFFER RECEIVED",
+      "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still open on a 7/15 thread. Price already validated 'just right'"
+    },
+    {
+      "addr": "195 Lake View Cir",
+      "client": "Chesley & Lauren C.",
+      "status": "Active — offer rescinded",
+      "note": "Fresh buyer showing TODAY 1:00 PM — and it matters, because the Wilson offer died 7/16 when the buyers' own home never went under contract. The counter is dead; resume marketing. The counter-play draft still in your Gmail is now wrong — don't send it. Three 'priced too high' reads sit behind it"
+    },
+    {
+      "addr": "198 Rena Dr",
+      "client": "Ann & Don C.",
+      "status": "Active — showings",
+      "note": "The $450K price cut is pulling traffic. Hot inbound buyer Kimberly W. asked to see it THIS WEEKEND and you said yes — today is the last day of that weekend. Warm 7/12 read from Amy S. ('LOVED the yard')"
+    },
+    {
+      "addr": "160 Lake Forest Way",
+      "client": "Jared & Amanda B.",
+      "status": "Clear to Close",
+      "note": "🎉 Walk-through TOMORROW Mon 7/20 9:30a, signing Tue 7/21 9am at South Oak. Note the date conflict: Real's paperwork says 7/23, but both sellers accepted the 7/21 appointment — the appointment wins. Last client touch 7/11, call them today"
+    },
+    {
+      "addr": "3350 Altamont Rd E21",
+      "client": "Sulman M.",
+      "status": "Active — showings",
+      "note": "New feedback 7/18 (Sherry C., ARC Realty): buyer passed — 'found something they liked in a different area,' staging scored 4/5, no price complaint this time. That's a location loss, not a price loss. Another showing booked Mon 7/20 6:00 PM. Group with Sulman's Lake Crest call"
+    },
+    {
+      "addr": "2368 Ridge Trail",
+      "client": "Opendoor",
+      "status": "Clear to Close",
+      "note": "Backup-interest showing TODAY 1:15 PM. The FHA appraisal 'ordered' claim is still unverified and the greenlight reply to the lender is still a stale draft — verify or send"
+    },
+    {
+      "addr": "16896 Whispering Pines",
+      "client": "—",
+      "status": "Clear to Close",
+      "note": "🎉 Cleared 7/17, closing 7/27. Institutional/Lennar seller (team-align only, no seller email). Two Real checklist items still required: final settlement statement + proof of payment"
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "client": "Jeff B.",
+      "status": "Active — showings",
+      "note": "Price call overdue. Still no email on file in Brivity — capture it on the call, and confirm whether the 7/10 showing happened"
+    },
+    {
+      "addr": "2127 Hwy 93",
+      "client": "—",
+      "status": "Coming Soon",
+      "note": "$1.15M — your own SPG address, listed 7/14. Awaiting go-live signal"
+    },
+    {
+      "addr": "118 Hayesbury Ln",
+      "client": "—",
+      "status": "Coming Soon",
+      "note": "Awaiting go-live signal"
+    },
+    {
+      "addr": "821 Martinwood Rd",
+      "client": "Sulman M.",
+      "status": "Active",
+      "note": "No showings, stale — propose a re-push. Group with Sulman's Lake Crest + Altamont calls; he's now three listings deep with you"
+    },
+    {
+      "addr": "1406 Marina Landing",
+      "client": "Gloria F.",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "3035 County Line Rd",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "225 Willow Point Cir",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "1709 Fieldstone Cir",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "42770 Hwy 77",
+      "client": "—",
+      "status": "Active",
+      "note": "Pre-publish verify due before Tue 7/21 auto-publish"
+    },
+    {
+      "addr": "1230 Calvert Rd",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "315 Pond Spring Dr",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    },
+    {
+      "addr": "104 95th St N",
+      "client": "—",
+      "status": "Active",
+      "note": "No new signals"
+    }
   ],
-  "pipeline": {"closedYTD": 26, "goal": 45, "teamGoal": 90, "paceProjection": 48, "note": "Unchanged — still no fresh Weekly Pipeline & Forecast since 7/6 (the outage ate two weeks), so these are carried figures, not a new read. Tomorrow's Monday forecast settles the count. Two closings on deck: 160 Lake Forest signs Tue 7/21, 16896 Whispering Pines closes 7/27. Team pended 34/90, now ~13 days stale."},
-  "money": {"status": "alert", "note": "No fresh Money Pulse since Friday — finance-brain hasn't run in two days, so the board still carries Friday's unresolved read: a personal past-due notice reopened an NSF the fleet had marked handled, and a vendor account is at risk of cancellation with no payment receipt found. Business side was clean at last check. Treat as unresolved, not re-verified."},
-  "isa": {"openCallTasks": 36, "decayPolicy": "10-day auto-decay active", "sweepCadence": "every 15 min"},
-  "builds": ["Verify listing-milestone-engine recovered (state says yes, no heartbeat line) — p1", "Cash Flow Forecaster Agent (the NSF-preventer) — build of the week, p1", "DECIDE: fix the Brivity crawl or change the listing rule — due today"],
+  "pipeline": {
+    "closedYTD": 26,
+    "goal": 45,
+    "teamGoal": 90,
+    "paceProjection": 48,
+    "note": "Unchanged — still no fresh Weekly Pipeline & Forecast since 7/6 (the outage ate two weeks), so these are carried figures, not a new read. Tomorrow's Monday forecast settles the count. Two closings on deck: 160 Lake Forest signs Tue 7/21, 16896 Whispering Pines closes 7/27. Team pended 34/90, now ~13 days stale."
+  },
+  "money": {
+    "status": "alert",
+    "note": "No new bank or payment alerts in the last 24h. The flag is a CARRIED item, not a fresh one: Friday's unresolved read (a reopened past-due the fleet had marked handled, plus a vendor account at cancellation risk with no payment receipt found) has not been re-verified. Weekend silence from Money Pulse is expected — it runs weekdays."
+  },
+  "isa": {
+    "openCallTasks": 36,
+    "decayPolicy": "10-day auto-decay active",
+    "sweepCadence": "every 15 min"
+  },
+  "builds": [
+    "Cash Flow Forecaster Agent (the NSF-preventer) — build of the week, p1",
+    "DECIDE: fix the Brivity crawl or change the listing rule — due today",
+    "Tax Strategist Agent + 2025 tax catch-up package — p1"
+  ],
   "controls": {
     "do": "Call Sulman M. — offer incoming on Lake Crest",
     "decide": "Brivity crawl vs listing rule — due today",
     "watch": "Seth B.'s $3,500 answer still open — evidence 7/15",
-    "draftsWaiting": 50
+    "draftsWaiting": 100
   }
 }
