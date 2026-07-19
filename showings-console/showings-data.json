@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-19 12:35 PM CT",
-  "headline": "🔥 The 5167 Lake Crest offer is no longer coming — it LANDED at 10:25a, signed by all parties, and you promised the buyer's agent an answer today. Read the packet, then call Sulman M. Also: two showings on your board within 15 minutes of each other at 1:00 and 1:15 today.",
+  "updated": "2026-07-19 5:20 PM CT",
+  "headline": "Two showings landed on your board TODAY — 195 Lake View 1:00 PM and 2368 Ridge Trail 1:15 PM — and both owe feedback now. The live one is still 5167 Lake Crest: an $899K offer in hand, with two MORE showings hitting it Tue 7/21. No new co-op feedback since Friday.",
   "stats": {
-    "showings14d": 15,
+    "showings14d": 17,
     "feedback14d": 6,
-    "gaps": 5
+    "gaps": 7
   },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/19",
-      "isNew": true,
+      "isNew": false,
       "signal": "OFFER RECEIVED — the signed packet arrived 10:25 AM from buyer agent Manda L. (DocuSign completed, all parties signed, mortgage preapproval attached). Verified terms from the text thread: no home-sale contingency (\"We have nothing to sell\"), financed with preapproval, Parker Law Firm on closing/title/earnest. Manda: \"We'll be very easy!!\" On a COMING SOON $899K listing that never launched.",
-      "action": "Open the PDF FIRST — the offer price is still unverified, so quote nothing until you read it. Then call Sulman M.: you told Manda by text you'd present today. Two more showings Tue 7/21 mean waiting is a live option worth putting in front of him, not just the number."
+      "action": "Open the PDF FIRST — the offer price is still unverified, so quote nothing until you read it. Then call Sulman M.: you told Manda by text you'd present today, and no seller response has come back. Two more showings Tue 7/21 mean waiting is a live option worth putting in front of him, not just the number."
     },
     {
       "addr": "355 Comanche St",
       "date": "7/16",
       "isNew": false,
       "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers on 7/15 and the corrected net sheet never went out.",
-      "action": "Day 4 on an unanswered seller question during a live offer. Answer the $3,500 with the corrected net sheet. Already tasked — no new alert sent."
+      "action": "Unanswered seller question during a live offer. Answer the $3,500 with the corrected net sheet. Already tasked — no new alert sent."
     },
     {
       "addr": "198 Rena Dr",
@@ -38,22 +38,10 @@
   ],
   "upcoming": [
     {
-      "when": "TODAY Sun 7/19 · 1:00 PM",
-      "addr": "195 Lake View Cir",
-      "type": "Showing",
-      "note": "Fresh buyer after the rescinded offer — likely the same 1PM appointment sitting in your text thread"
-    },
-    {
-      "when": "TODAY Sun 7/19 · 1:15 PM",
-      "addr": "2368 Ridge Trail",
-      "type": "Showing",
-      "note": "Clear to Close (Opendoor) — backup-interest showing. Note the 15-minute overlap with 195 Lake View"
-    },
-    {
       "when": "Mon 7/20 · 9:30 AM",
       "addr": "160 Lake Forest Way",
       "type": "Buyer walk-through",
-      "note": "Clear to Close — signs Tue 7/21 9 AM"
+      "note": "Clear to Close — signs Tue 7/21 9 AM. ⚠️ Still not on your calendar (verified 3× today)"
     },
     {
       "when": "Mon 7/20 · 6:00 PM",
@@ -104,7 +92,7 @@
       "gaps": [
         "Wed 7/15 1:25 PM showing — no feedback yet"
       ],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is unanswered on day 4. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is still unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "195 Lake View Cir",
@@ -112,7 +100,7 @@
       "price": "$369,000",
       "client": "Chesley & Lauren C.",
       "status": "ACTIVE — offer rescinded",
-      "showings14d": 3,
+      "showings14d": 4,
       "feedback": [
         {
           "date": "7/12",
@@ -127,8 +115,10 @@
           "note": "Not interested (late reply)"
         }
       ],
-      "gaps": [],
-      "note": "⚠️ The counter is dead — resume marketing. A fresh buyer showing lands TODAY 1:00 PM, which matters more than usual with the offer gone. Three 'priced too high' reads sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is now wrong — don't send it"
+      "gaps": [
+        "Sun 7/19 1:00 PM showing — feedback requested, none back yet"
+      ],
+      "note": "⚠️ The counter is dead — resume marketing. A fresh buyer showing HAPPENED today at 1:00 PM (feedback pending), which matters more than usual with the offer gone. Three 'priced too high' reads sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is now wrong — don't send it"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -184,9 +174,9 @@
       "showings14d": 2,
       "feedback": [],
       "gaps": [
-        "Thu 7/9 8 AM showing (backup interest) — no feedback yet"
+        "Sun 7/19 1:15 PM showing (backup interest) — no feedback yet"
       ],
-      "note": "Backup-interest showing TODAY 1:15 PM — 15 minutes after the 195 Lake View showing, so one of them needs a plan. Close date now confirmed 7/29. ⚠️ ShowingTime still lists this ACTIVE while the deal is Clear to Close — possible stale MLS status worth a look. The FHA appraisal 'ordered' claim is still unverified and the lender reply is a stale draft"
+      "note": "Backup-interest showing HAPPENED today 1:15 PM. Close date now confirmed 7/29. ⚠️ ShowingTime still lists this ACTIVE while the deal is Clear to Close — possible stale MLS status worth a look"
     },
     {
       "addr": "160 Lake Forest Way",
@@ -197,7 +187,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "Final walk-through TOMORROW Mon 7/20 9:30 AM, signing Tue 7/21 9 AM. Real's paperwork says 7/23 but both sellers accepted the 7/21 appointment — the appointment wins. Last client touch 7/11"
+      "note": "Final walk-through TOMORROW Mon 7/20 9:30 AM, signing Tue 7/21 9 AM. ⚠️ The walk-through is still not on your calendar. Real's paperwork says 7/23 but both sellers accepted the 7/21 appointment — the appointment wins. Last client touch 7/11"
     },
     {
       "addr": "16896 Whispering Pines",
