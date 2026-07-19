@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-19 7:38 AM CT",
-  "headline": "🔥 An offer is being written on 5167 Lake Crest — call Sulman M. before it lands, he still hasn't heard it from you. Two showings on your board TODAY at almost the same hour (195 Lake View 1:00, 2368 Ridge Trail 1:15) — and your 1PM 'Sharon' appointment is probably the first one.",
+  "updated": "2026-07-19 12:35 PM CT",
+  "headline": "🔥 The 5167 Lake Crest offer is no longer coming — it LANDED at 10:25a, signed by all parties, and you promised the buyer's agent an answer today. Read the packet, then call Sulman M. Also: two showings on your board within 15 minutes of each other at 1:00 and 1:15 today.",
   "stats": {
-    "showings14d": 13,
+    "showings14d": 15,
     "feedback14d": 6,
     "gaps": 5
   },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
-      "date": "7/18",
-      "isNew": false,
-      "signal": "OFFER INCOMING — buyer agent Manda L. texted Sat 1:53 PM: \"We are writing an offer on your listing! There was a pool party at club house today and they walked the trails around neighborhood, they are sold.\" On a COMING SOON $899K listing that hasn't launched. No document yet, so this is intent, not a received offer.",
-      "action": "Call the seller FIRST — he has not heard about his own listing from you. Buyers sold on amenities is leverage on TERMS, not just price, and Tue 7/21 brings two more showings = possible competition worth waiting for. Also still owe Manda the finish-list + lockbox combo."
+      "date": "7/19",
+      "isNew": true,
+      "signal": "OFFER RECEIVED — the signed packet arrived 10:25 AM from buyer agent Manda L. (DocuSign completed, all parties signed, mortgage preapproval attached). Verified terms from the text thread: no home-sale contingency (\"We have nothing to sell\"), financed with preapproval, Parker Law Firm on closing/title/earnest. Manda: \"We'll be very easy!!\" On a COMING SOON $899K listing that never launched.",
+      "action": "Open the PDF FIRST — the offer price is still unverified, so quote nothing until you read it. Then call Sulman M.: you told Manda by text you'd present today. Two more showings Tue 7/21 mean waiting is a live option worth putting in front of him, not just the number."
     },
     {
       "addr": "355 Comanche St",
       "date": "7/16",
       "isNew": false,
       "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers on 7/15 and the corrected net sheet never went out.",
-      "action": "Answer the $3,500 question with the corrected net sheet. Already tasked — no new alert sent."
+      "action": "Day 4 on an unanswered seller question during a live offer. Answer the $3,500 with the corrected net sheet. Already tasked — no new alert sent."
     },
     {
       "addr": "198 Rena Dr",
@@ -65,13 +65,13 @@
       "when": "Tue 7/21 · 11:15 AM",
       "addr": "5167 Lake Crest Cir",
       "type": "Showing",
-      "note": "Coming-soon — 2nd pre-launch booking, possible competition for the incoming offer"
+      "note": "Coming-soon — now competition for a LIVE offer, not just traffic. Leverage"
     },
     {
       "when": "Tue 7/21 · 12:00 PM",
       "addr": "5167 Lake Crest Cir",
       "type": "Showing",
-      "note": "Coming-soon debut showing"
+      "note": "Coming-soon debut showing — second of two on offer-decision day"
     }
   ],
   "listings": [
@@ -80,11 +80,11 @@
       "city": "Hoover",
       "price": "$899,000",
       "client": "Sulman M.",
-      "status": "COMING SOON — offer incoming",
+      "status": "COMING SOON — OFFER RECEIVED",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔥 Buyer agent Manda L. announced Sat 7/18 she's writing an offer — pre-launch, sight-sold on the clubhouse and trails. Two more showings Tue 7/21. Seller identity corrected to Sulman M. (the earlier name on file was a stale home-value lead)"
+      "note": "🔥 Signed offer packet landed 10:25 AM today from buyer agent Manda L. — sight-sold pre-launch off a clubhouse pool party and a trail walk. Clean terms: no home-sale contingency, preapproved financing, Parker Law Firm. ⚠️ Offer price unverified — still inside the unopened PDF. Two more showings Tue 7/21"
     },
     {
       "addr": "355 Comanche St",
@@ -104,7 +104,7 @@
       "gaps": [
         "Wed 7/15 1:25 PM showing — no feedback yet"
       ],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is still unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is unanswered on day 4. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "195 Lake View Cir",
@@ -152,10 +152,10 @@
         }
       ],
       "gaps": [
-        "Thu 7/9 10 AM showing (Ken Grodner/KW) — no feedback, nudge drafted 7/13 but never sent",
+        "Thu 7/9 10 AM showing (Ken G./KW) — no feedback, nudge drafted 7/13 but never sent",
         "Tue 7/14 4:45 PM showing — no feedback yet"
       ],
-      "note": "Traffic is real — four showings in 14 days and a fifth booked Mon 7/20 6 PM. Two reads back now, and they disagree on why: one said price, the newest said location. Worth a pricing conversation that doesn't assume price is the problem"
+      "note": "Traffic is real — four showings in 14 days and a fifth booked Mon 7/20 6 PM. Two reads back now, and they disagree on why: one said price, the newest said location. Worth a pricing conversation that doesn't assume price is the problem — and Sulman is on the phone today anyway about Lake Crest"
     },
     {
       "addr": "198 Rena Dr",
@@ -186,7 +186,7 @@
       "gaps": [
         "Thu 7/9 8 AM showing (backup interest) — no feedback yet"
       ],
-      "note": "Backup-interest showing TODAY 1:15 PM — 15 minutes after the 195 Lake View showing, so one of them needs a plan. The FHA appraisal 'ordered' claim is still unverified and the lender reply is a stale draft"
+      "note": "Backup-interest showing TODAY 1:15 PM — 15 minutes after the 195 Lake View showing, so one of them needs a plan. Close date now confirmed 7/29. ⚠️ ShowingTime still lists this ACTIVE while the deal is Clear to Close — possible stale MLS status worth a look. The FHA appraisal 'ordered' claim is still unverified and the lender reply is a stale draft"
     },
     {
       "addr": "160 Lake Forest Way",
@@ -239,12 +239,12 @@
     {
       "addr": "211 El Prado Pl · PCB",
       "price": "$549,000",
-      "when": "Tue 7/14 12:30 PM — agent has asked 5× (Lynne Hand messaged directly; latest re-ask 7/16)"
+      "when": "Tue 7/14 12:30 PM — agent has asked 5× (Lynne H. messaged directly; latest re-ask 7/16)"
     },
     {
       "addr": "309 Jasmine Pl · PCB",
       "price": "$495,000",
-      "when": "Tue 7/14 11:30 AM — agent has asked 5× (Scott Suber messaged directly; latest re-ask 7/16)"
+      "when": "Tue 7/14 11:30 AM — agent has asked 5× (Scott S. messaged directly; latest re-ask 7/16)"
     },
     {
       "addr": "306 Jasmine Pl · PCB",
