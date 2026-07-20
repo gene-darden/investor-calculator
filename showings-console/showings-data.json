@@ -1,32 +1,32 @@
 {
-  "updated": "2026-07-19 5:20 PM CT",
-  "headline": "Two showings landed on your board TODAY — 195 Lake View 1:00 PM and 2368 Ridge Trail 1:15 PM — and both owe feedback now. The live one is still 5167 Lake Crest: an $899K offer in hand, with two MORE showings hitting it Tue 7/21. No new co-op feedback since Friday.",
+  "updated": "2026-07-20 7:45 AM CT",
+  "headline": "TODAY: the 160 Lake Forest walk-through at 9:30 AM — and it IS confirmed, ShowingTime booked it 7/10, which closes the two-day 'not on your calendar' scare. The live one is still 5167 Lake Crest: a signed offer in hand on the $899K listing, with two MORE showings hitting it tomorrow. No new co-op feedback since Saturday; 8 showings still owe you a read.",
   "stats": {
-    "showings14d": 17,
+    "showings14d": 14,
     "feedback14d": 6,
-    "gaps": 7
+    "gaps": 8
   },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/19",
       "isNew": false,
-      "signal": "OFFER RECEIVED — the signed packet arrived 10:25 AM from buyer agent Manda L. (DocuSign completed, all parties signed, mortgage preapproval attached). Verified terms from the text thread: no home-sale contingency (\"We have nothing to sell\"), financed with preapproval, Parker Law Firm on closing/title/earnest. Manda: \"We'll be very easy!!\" On a COMING SOON $899K listing that never launched.",
-      "action": "Open the PDF FIRST — the offer price is still unverified, so quote nothing until you read it. Then call Sulman M.: you told Manda by text you'd present today, and no seller response has come back. Two more showings Tue 7/21 mean waiting is a live option worth putting in front of him, not just the number."
+      "signal": "OFFER RECEIVED — the signed packet arrived Sunday 10:25 AM from buyer agent Manda L. (DocuSign completed, all parties signed, mortgage preapproval attached). Verified terms: no home-sale contingency (\"We have nothing to sell\"), financed with a 7/16 preapproval, Parker Law Firm on closing/title/earnest. Manda: \"We'll be very easy!!\" On a COMING SOON $899K listing that never launched.",
+      "action": "Open the PDF FIRST — the offer price is still unverified, so quote nothing until you read it. Then call Sulman M. by voice: you texted Manda at 5:19p Sunday that you'd have a response TODAY. Two more showings tomorrow mean waiting is a live option worth putting in front of him, not just the number."
     },
     {
       "addr": "355 Comanche St",
       "date": "7/16",
       "isNew": false,
       "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers on 7/15 and the corrected net sheet never went out.",
-      "action": "Unanswered seller question during a live offer. Answer the $3,500 with the corrected net sheet. Already tasked — no new alert sent."
+      "action": "Unanswered seller question during a live offer, now 5 days. You two met socially Saturday, so this is a wire problem — send the corrected net sheet. Already tasked, no new alert sent."
     },
     {
       "addr": "198 Rena Dr",
       "date": "7/17",
       "isNew": false,
       "signal": "INBOUND BUYER ASKED FOR THIS WEEKEND — Kimberly W. texted Friday 1:33 PM asking to see the Springville house 'this weekend' after a Sunday voicemail, and you replied yes. Call-in buyer on your own listing = a double-end.",
-      "action": "Today is the last day of that weekend. Call and put a time on it — no email on file, phone is the only channel."
+      "action": "The weekend came and went. Call and put a real time on it before she books with someone else — no email on file, phone is the only channel."
     },
     {
       "addr": "355 Comanche St",
@@ -38,16 +38,16 @@
   ],
   "upcoming": [
     {
-      "when": "Mon 7/20 · 9:30 AM",
+      "when": "TODAY Mon 7/20 · 9:30 AM",
       "addr": "160 Lake Forest Way",
       "type": "Buyer walk-through",
-      "note": "Clear to Close — signs Tue 7/21 9 AM. ⚠️ Still not on your calendar (verified 3× today)"
+      "note": "✅ Confirmed by ShowingTime 7/10 — the 'not on your calendar' alarm is closed. Clear to Close, signs Tue 7/21 9 AM"
     },
     {
-      "when": "Mon 7/20 · 6:00 PM",
+      "when": "TODAY Mon 7/20 · 6:00 PM",
       "addr": "3350 Altamont Rd E21",
       "type": "Showing",
-      "note": "New booking — 5th showing in 14 days"
+      "note": "5th showing in 14 days"
     },
     {
       "when": "Tue 7/21 · 11:15 AM",
@@ -72,7 +72,18 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔥 Signed offer packet landed 10:25 AM today from buyer agent Manda L. — sight-sold pre-launch off a clubhouse pool party and a trail walk. Clean terms: no home-sale contingency, preapproved financing, Parker Law Firm. ⚠️ Offer price unverified — still inside the unopened PDF. Two more showings Tue 7/21"
+      "note": "🔥 Signed offer packet landed Sunday 10:25 AM from buyer agent Manda L. — sight-sold pre-launch off a clubhouse pool party and a trail walk. Clean terms: no home-sale contingency, preapproved financing, Parker Law Firm. ⚠️ Offer price unverified — still inside the unopened PDF. Two more showings tomorrow"
+    },
+    {
+      "addr": "160 Lake Forest Way",
+      "city": "Maylene",
+      "price": "$400,000",
+      "client": "Jared & Amanda B.",
+      "status": "CLEAR TO CLOSE",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "Final walk-through TODAY 9:30 AM — ✅ confirmed by ShowingTime back on 7/10, so the two-day 'unverified appointment' worry is settled. Signing Tue 7/21 9:00–10:50 AM at South Oak Title, both sellers accepted. Real's paperwork says 7/23 but the accepted appointment wins. Last client touch 7/11 — text them and confirm the whole week"
     },
     {
       "addr": "355 Comanche St",
@@ -92,7 +103,7 @@
       "gaps": [
         "Wed 7/15 1:25 PM showing — no feedback yet"
       ],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is still unanswered. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 has been open since 7/15. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "195 Lake View Cir",
@@ -100,7 +111,7 @@
       "price": "$369,000",
       "client": "Chesley & Lauren C.",
       "status": "ACTIVE — offer rescinded",
-      "showings14d": 4,
+      "showings14d": 3,
       "feedback": [
         {
           "date": "7/12",
@@ -116,9 +127,10 @@
         }
       ],
       "gaps": [
-        "Sun 7/19 1:00 PM showing — feedback requested, none back yet"
+        "Sun 7/19 1:00 PM showing — feedback requested 1:30p, none back yet",
+        "Fri 7/10 5:45 PM showing — no feedback"
       ],
-      "note": "⚠️ The counter is dead — resume marketing. A fresh buyer showing HAPPENED today at 1:00 PM (feedback pending), which matters more than usual with the offer gone. Three 'priced too high' reads sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is now wrong — don't send it"
+      "note": "⚠️ The counter is dead — resume marketing. Sunday's fresh showing matters more than usual with the offer gone, and the read hasn't come back. Three 'priced too high' opinions sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is now wrong — don't send it"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -143,9 +155,10 @@
       ],
       "gaps": [
         "Thu 7/9 10 AM showing (Ken G./KW) — no feedback, nudge drafted 7/13 but never sent",
-        "Tue 7/14 4:45 PM showing — no feedback yet"
+        "Tue 7/14 4:45 PM showing — no feedback yet",
+        "Wed 7/15 1:30 PM showing — no feedback yet"
       ],
-      "note": "Traffic is real — four showings in 14 days and a fifth booked Mon 7/20 6 PM. Two reads back now, and they disagree on why: one said price, the newest said location. Worth a pricing conversation that doesn't assume price is the problem — and Sulman is on the phone today anyway about Lake Crest"
+      "note": "Traffic is real — four showings in 14 days and a fifth TONIGHT at 6 PM. The two reads back disagree on why: one said price, the newest said location. Worth a pricing conversation that doesn't assume price is the problem — and Sulman is on the phone today anyway about Lake Crest"
     },
     {
       "addr": "198 Rena Dr",
@@ -163,7 +176,7 @@
         }
       ],
       "gaps": [],
-      "note": "🔥 Hot inbound buyer Kimberly W. asked to see it THIS WEEKEND and you said yes — today is the last day of it. Phone-only, no email on file. The Wed 7/15 showing cancelled same-morning"
+      "note": "🔥 Hot inbound buyer Kimberly W. asked to see it 'this weekend' and the weekend passed — phone-only, no email on file. The objection on record is the floor plan, not the price: pivot the photos and copy to the lot and outdoor living. 63 DOM. The Wed 7/15 showing cancelled same-morning"
     },
     {
       "addr": "2368 Ridge Trail",
@@ -176,18 +189,20 @@
       "gaps": [
         "Sun 7/19 1:15 PM showing (backup interest) — no feedback yet"
       ],
-      "note": "Backup-interest showing HAPPENED today 1:15 PM. Close date now confirmed 7/29. ⚠️ ShowingTime still lists this ACTIVE while the deal is Clear to Close — possible stale MLS status worth a look"
+      "note": "Backup-interest showing happened Sunday 1:15 PM. Close date confirmed 7/29. ⚠️ ShowingTime still lists this ACTIVE while the deal is Clear to Close — possible stale MLS status worth a look"
     },
     {
-      "addr": "160 Lake Forest Way",
-      "city": "Maylene",
-      "price": "$400,000",
-      "client": "Jared & Amanda B.",
-      "status": "CLEAR TO CLOSE",
-      "showings14d": 0,
+      "addr": "23223 Front Beach Rd B3-407",
+      "city": "Panama City Beach",
+      "price": "$364,000",
+      "client": "Jeff B.",
+      "status": "ACTIVE",
+      "showings14d": 1,
       "feedback": [],
-      "gaps": [],
-      "note": "Final walk-through TOMORROW Mon 7/20 9:30 AM, signing Tue 7/21 9 AM. ⚠️ The walk-through is still not on your calendar. Real's paperwork says 7/23 but both sellers accepted the 7/21 appointment — the appointment wins. Last client touch 7/11"
+      "gaps": [
+        "Fri 7/10 2 PM showing — never confirmed it happened, no feedback"
+      ],
+      "note": "122 days on market and the ONLY listing with zero activity this week. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings — inventory outrunning absorption. Price-or-reposition call is due today. Still no email on file in Brivity — capture it on the call"
     },
     {
       "addr": "16896 Whispering Pines",
@@ -199,19 +214,6 @@
       "feedback": [],
       "gaps": [],
       "note": "🎉 Cleared to close 7/17, closing 7/27. Institutional/Lennar seller, no showings — listed here for pipeline visibility"
-    },
-    {
-      "addr": "23223 Front Beach Rd B3-407",
-      "city": "Panama City Beach",
-      "price": "$364,000",
-      "client": "Jeff B.",
-      "status": "ACTIVE",
-      "showings14d": 1,
-      "feedback": [],
-      "gaps": [
-        "Fri 7/10 2 PM showing — no confirmation it happened, no feedback"
-      ],
-      "note": "Price call overdue. Still no email on file in Brivity — capture it on the call"
     },
     {
       "addr": "2127 Hwy 93",
