@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-21 12:55 PM CT",
-  "headline": "Two more Lake Crest showings ran this morning (11:15a, 12p) while the seller packet was on the signing table — that traffic is your leverage, not noise. Altamont finally answered one of its four open reads, and it's a live maybe. 10 showings still owe you feedback.",
+  "updated": "2026-07-21 5:32 PM CT",
+  "headline": "🎉 5167 Lake Crest turned its offer into a signed contract this afternoon — the board's hottest signal is now a closed win. No new seller-listing feedback has come back since 7/18, and 8 showings still owe reads. On the buyer side you now owe feedback on 3 luxury homes you toured today.",
   "stats": {
     "showings14d": 16,
     "feedback14d": 7,
-    "gaps": 10
+    "gaps": 8
   },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
-      "date": "7/19",
+      "date": "7/21",
       "isNew": false,
-      "signal": "OFFER IN HAND, NOW BEING SIGNED — buyer agent Manda L.'s signed packet reads full $899K list price, $10K earnest, 8/19 close, no closing-cost ask, no home warranty, 5-day inspection, 2.5% buyer-agent comp, no home-sale contingency, preapproved. As of 12:29 PM today the seller packet is HALF-EXECUTED: the co-signer completed, Sulman M. opened at 12:19 PM and had not finished on two re-checks.",
-      "action": "Get Sulman over the line by voice, then call Manda L. — you told her by text this morning she'd have an answer today. After that the fully-executed packet goes to the closing attorney. Keep today's and Wednesday's showings on the book until the contract is fully executed and earnest money is receipted."
+      "signal": "✅ SIGNAL REALIZED — the full-price offer from buyer agent Manda L. went UNDER CONTRACT this afternoon at the full $899K list ($10K earnest, 8/14 close, no closing-cost ask, no home warranty, 5-day inspection, no home-sale contingency). Three showings in 32 hours drove it.",
+      "action": "Manage to the finish line: physical inspection is booked Fri 7/24 9:00 AM. Wednesday's showing was cancelled the moment it went contingent. No further showings needed — keep an eye on the inspection outcome."
     },
     {
       "addr": "355 Comanche St",
@@ -38,22 +38,10 @@
   ],
   "upcoming": [
     {
-      "when": "TODAY Tue 7/21 · 1:00 PM",
-      "addr": "3421 Hwy 109, Columbiana",
-      "type": "Your buyer showing",
-      "note": "Booked this morning — you're the showing agent, RealtySouth-Inverness listing"
-    },
-    {
-      "when": "TODAY Tue 7/21 · 1:45 PM",
-      "addr": "3110 Hwy 51, Wilsonville",
-      "type": "Your buyer showing",
-      "note": "ARC Realty 280 listing — owner unlocks the door. Back-to-back with the 1:00"
-    },
-    {
-      "when": "Wed 7/22 · 4:30 PM",
+      "when": "Fri 7/24 · 9:00 AM",
       "addr": "5167 Lake Crest Cir",
-      "type": "Showing",
-      "note": "Keep it booked until the contract is fully executed and earnest money is receipted"
+      "type": "Buyer inspection",
+      "note": "Physical inspection under the just-signed contract — first contingency to clear"
     }
   ],
   "listings": [
@@ -62,26 +50,22 @@
       "city": "Hoover",
       "price": "$899,000",
       "client": "Sulman M.",
-      "status": "ACTIVE — SIGNING IN PROGRESS",
+      "status": "🎉 UNDER CONTRACT",
       "showings14d": 3,
       "feedback": [],
-      "gaps": [
-        "TODAY 7/21 12:00 PM showing — no feedback yet",
-        "TODAY 7/21 11:15 AM showing — no feedback yet",
-        "Mon 7/20 5:30 PM showing (first since going ACTIVE) — no feedback yet"
-      ],
-      "note": "🔥 Full-price signed offer from buyer agent Manda L. — and as of 12:29 PM the seller packet is half-executed: the co-signer completed, Sulman opened at 12:19 PM and hadn't finished on two re-checks. Terms verified: $899K, $10K earnest, 8/19 close, no closing costs, no warranty, 5-day inspection, no home-sale contingency. Three showings ran in 32 hours and a fourth is booked Wednesday — that competition is exactly why the play was take-it-clean-and-squeeze rather than highest-and-best"
+      "gaps": [],
+      "note": "🔥 Full-price offer converted to a signed contract this afternoon at $899K — no home-sale contingency, 5-day inspection, close moved up to 8/14. Three showings ran in 32 hours (Mon 5:30p + two Tuesday) and that competition is exactly why the play was take-it-clean-and-squeeze rather than highest-and-best. Inspection Fri 7/24 9 AM; the Wednesday showing was cancelled"
     },
     {
       "addr": "160 Lake Forest Way",
       "city": "Maylene",
       "price": "$400,000",
       "client": "Jared & Amanda B.",
-      "status": "SIGNED — awaiting funding",
+      "status": "🎉 CLOSED + FUNDED",
       "showings14d": 1,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 The table happened this morning — buyer agent's lockbox entry logged 9:04 AM, title messages 10:10–11:05 AM. No funding or recording receipt yet, so it's signed, not closed. Open loose end: the other office still owes the sellers the deed for utilities"
+      "note": "Signed at the table 9:04 AM, funded this afternoon (net ~$10K). Terminal — post-close review + referral sequence is armed. Loose end: the other office still owes the sellers the deed for utilities, already chased"
     },
     {
       "addr": "355 Comanche St",
@@ -125,10 +109,10 @@
         }
       ],
       "gaps": [
-        "Sun 7/19 1:00 PM showing — ShowingTime has re-asked twice (7/19 and 7/20), still nothing back",
+        "Sun 7/19 1:00 PM showing — ShowingTime has re-asked THREE times (7/19, 7/20, 7/21), still nothing back",
         "Fri 7/10 5:45 PM showing — no feedback"
       ],
-      "note": "⚠️ The counter is dead — resume marketing. Sunday's showing is the freshest signal on this listing and the read is now two re-asks overdue. Three 'priced too high' opinions sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is a HAZARD — its premise is gone. Delete it"
+      "note": "⚠️ The counter is dead — resume marketing. Sunday's showing is the freshest signal on this listing and the read is now three re-asks overdue. Three 'priced too high' opinions sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is a HAZARD — its premise is gone. Delete it"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -142,7 +126,7 @@
           "date": "7/20",
           "agent": "Emma Kathryn B. · Ray & Poynor",
           "tone": "warm",
-          "note": "✅ NEW — answered your nudge on the 7/14 showing: the buyer \"really liked it.\" They toured in pouring rain and flagged PUDDLING in the little patio area. He's still deciding which part of Birmingham he wants. A live maybe, not a pass — and no price complaint"
+          "note": "Answered your nudge on the 7/14 showing: the buyer \"really liked it.\" They toured in pouring rain and flagged PUDDLING in the little patio area. He's still deciding which part of Birmingham he wants. A live maybe, not a pass — and no price complaint"
         },
         {
           "date": "7/18",
@@ -162,7 +146,7 @@
         "Wed 7/15 1:30 PM showing — no feedback yet",
         "Thu 7/9 10 AM showing (Ken G./KW) — no feedback, nudge drafted 7/13 but never sent"
       ],
-      "note": "The traffic king — five showings in 14 days. Your nudge worked: the 7/14 read came back and it's the best news on this listing in two weeks. Three of the five reads now point AWAY from price (location, location, still-deciding) and only the oldest said 'too high.' Two cheap moves: check the patio grading and downspout before the next rain showing, and hold the number while the traffic holds"
+      "note": "The traffic king — five showings in 14 days. Three of the five reads now point AWAY from price (location, location, still-deciding) and only the oldest said 'too high.' Two cheap moves: check the patio grading and downspout before the next rain showing, and hold the number while the traffic holds"
     },
     {
       "addr": "198 Rena Dr",
@@ -206,7 +190,7 @@
       "gaps": [
         "Fri 7/10 2 PM showing — never confirmed it happened, no feedback"
       ],
-      "note": "123 days on market and the ONLY listing with zero activity. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings — inventory outrunning absorption. The price-or-reposition call is overdue. Still no email on file — capture it on the call"
+      "note": "122 days on market and the ONLY listing with zero activity. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings — inventory outrunning absorption. The price-or-reposition call is overdue. Still no email on file — capture it on the call"
     },
     {
       "addr": "16896 Whispering Pines",
@@ -228,7 +212,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "New to the board today — shows PENDING with you as listing agent, but the file has ZERO messages behind it and a 90-day search found nothing. Seller, price and close date all unverified. Here for visibility, not as a claim"
+      "note": "Shows PENDING with you as listing agent, but the file has ZERO messages behind it and a 90-day search found nothing. Seller, price and close date all unverified. Here for visibility, not as a claim"
     },
     {
       "addr": "2127 Hwy 93",
@@ -255,6 +239,21 @@
   ],
   "oweFeedback": [
     {
+      "addr": "100 Autumn Crest Dr · Chelsea",
+      "price": "$2,500,000",
+      "when": "Tue 7/21 12:15 PM — you toured it today; the listing side requested feedback at 1:30 PM"
+    },
+    {
+      "addr": "3421 Hwy 109 · Columbiana",
+      "price": "$2,350,000",
+      "when": "Tue 7/21 1:00 PM — you toured it today (RealtySouth-Inverness); feedback requested 2:00 PM"
+    },
+    {
+      "addr": "3110 Hwy 51 · Wilsonville",
+      "price": "$1,619,900",
+      "when": "Tue 7/21 1:45 PM — you toured it today (ARC Realty 280); feedback requested 3:30 PM"
+    },
+    {
       "addr": "211 El Prado Pl · PCB",
       "price": "$549,000",
       "when": "Tue 7/14 12:30 PM — agent has asked 5× (Lynne H. messaged directly; latest re-ask 7/16)"
@@ -273,11 +272,6 @@
       "addr": "209 S Wells St · PCB",
       "price": "$449,900",
       "when": "Tue 7/14 12:00 PM — agent has asked 5× (latest re-ask 7/16)"
-    },
-    {
-      "addr": "100 Autumn Crest Dr · Chelsea",
-      "price": "—",
-      "when": "TODAY Tue 7/21 12:15 PM — you just showed it, the read will be asked for shortly"
     }
   ]
 }
