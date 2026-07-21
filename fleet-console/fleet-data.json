@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-21 7:45 AM CT",
-  "headline": "DO: call Sulman M. and give him the $899K answer you promised \"in the am\" — the terms are now verified and the listing went ACTIVE with three more showings stacked behind the offer · then the 9:00 AM Burks closing. WATCH: the vendor card is on day 9 and the website behind it is at risk.",
+  "updated": "2026-07-21 12:55 PM CT",
+  "headline": "DO: confirm Sulman M. finishes signing, then call the buyer's agent — one of the two seller signatures went on paper at 12:29 PM and the packet is half-executed · WATCH: 100+ machine-staged drafts still unsent, oldest 31 days.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "No BLOCKED lines in 24h. Morning stack fired: triage 6:55a, The Daily 6:58a (letter sent), equity-engine 7:15a, finance 7:20a, database-power-daily 7:20a. Yesterday ran clean end-to-end as well.",
-      "Two PARTIALs, neither blocking: finance-brain ran LATE (7:20a, after the letter went out, so today's letter composed without a fresh money handoff), and team-daily staged 0 agent drafts — a deliberate Rule 12 stop, not a failure.",
-      "New standing rule shipped overnight — Rule 12 DRAFT EXPIRY: a machine draft unsent at 5 days is dead follow-up and converts to a phone call. Three stalled relationships were being re-staged as fresh unsent drafts every morning."
+      "No BLOCKED lines in 24h. Morning stack fired clean: triage 6:55a, The Daily 6:58a (letter sent), equity 7:15a, finance 7:20a, DB-power 7:20a, console 7:47a. Midday: milestone engine 12:40p.",
+      "One PARTIAL, deliberate: team-daily staged 0 agent drafts — a Rule 12 stop, not a failure.",
+      "Midday movement: 5167 Lake Crest seller packet is HALF-EXECUTED (co-signer completed 12:29p, Sulman opened 12:19p and had not finished on two re-checks). The milestone engine deliberately held the ladder at OFFER_RECEIVED rather than fire UNDER_CONTRACT early — a milestone can only fire once, ever."
     ]
   },
   "callBlock": [
     {
-      "who": "Sulman M. — the answer call",
-      "why": "🔥 THE call, and it has a clock on it: you told the buyer's agent by text last night you'd have an answer \"in the am.\" Terms are finally verified — full list price, $10K earnest, 8/19 close, no closing costs, no home warranty, 5-day inspection. Recommended play is take it clean and squeeze the terms (raise earnest, shorten inspection, pull the close in) rather than call highest-and-best. The buyers start new jobs in four weeks and called this \"our one and only\"",
+      "who": "Sulman M. — the signature call",
+      "why": "🔥 THE call and it is live right now: the seller packet is half-executed. The co-signer completed at 12:29 PM ('Sign OK' plus the estimated closing statement viewed); Sulman opened his at 12:19 PM and had not finished on two re-checks six minutes apart. Get him over the line by voice, then call the buyer's agent — you promised her an answer today by text this morning, and the fully-executed packet goes to the closing attorney after that",
       "heat": "hot"
     },
     {
       "who": "Jared & Amanda B.",
-      "why": "🎉 Closing TODAY 9:00–10:50 AM at the title company in Pelham. Gratitude call plus eyes on the final settlement statement before you sit down. Note the paperwork/appointment date discrepancy — confirm it at the table, don't chase it beforehand",
+      "why": "🎉 They signed this morning — the table happened at 9:04 AM in Pelham. One live loose end you raised yourself at 9:56 AM: the other office still owes them the deed and they need it for utilities. Your assistant already chased it. A short congratulations call plus 'the deed is coming' closes the day cleanly. Funding receipt has not landed yet, so the file is signed, not funded",
       "heat": "hot"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "who": "Andy B.",
-      "why": "HOT FL buyer with two self-raised callback asks. He reviewed all 6 listings, they 'all look fine,' and he wants to tour. He has been waiting since 7/17 — and he's a cash 1031 buyer for a ZIP where you already hold 8 warm seller names",
+      "why": "HOT FL buyer with two self-raised callback asks. He reviewed all 6 listings, they 'all look fine,' and he wants to tour. Waiting since 7/17 — a cash 1031 buyer for a ZIP where you already hold 8 warm seller names",
       "heat": "hot"
     },
     {
       "who": "Corky M.",
-      "why": "NEW client-referral buyer, ownership verified. Referral speed-to-lead — a draft is staged in Gmail but the phone beats it",
+      "why": "NEW client-referral buyer, ownership verified. Referral speed-to-lead — a draft has been staged in Gmail since 2:16 AM yesterday, but the phone beats it and the draft clock is running",
       "heat": "hot"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "who": "Dale M.",
-      "why": "Real seller lead on a Hoover address — was wrongly flagged contactless, that's now corrected and he is reachable. Fresh, unworked",
+      "why": "Real seller lead on a Hoover address — was wrongly flagged contactless, that's now corrected and he is reachable. Fresh, unworked, draft staged this morning",
       "heat": "hot"
     },
     {
       "who": "Helena seller (Old Cahaba)",
-      "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it — now 6 days. There's a second Old Cahaba home-value hand-raise in the same subdivision today. Run the value, then call both",
+      "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it — now 6 days. A second Old Cahaba home-value hand-raise landed in the same subdivision. Run the value once, call both",
       "heat": "hot"
     }
   ],
@@ -55,38 +55,38 @@
     {
       "addr": "5167 Lake Crest Circle",
       "client": "Sulman M.",
-      "status": "Active — OFFER IN HAND",
-      "note": "🔥 THE ONE, and it moved twice yesterday. Terms are VERIFIED off the net sheet: full $899K list, $10K earnest, 8/19 close, no closing-cost ask, no home warranty, 5-day inspection, 2.5% buyer-agent comp. No home-sale contingency, preapproved. The listing also went ACTIVE 7/20 and a second party toured at 5:30 PM — with two more showings TODAY (11:15a, 12p) and another Wed 4:30p. Competition is real now, which strengthens A: take it clean, squeeze the terms. You promised the buyer's agent an answer this morning"
+      "status": "Active — SIGNING IN PROGRESS",
+      "note": "🔥 THE ONE, and it is moving as you read this. The seller packet is HALF-EXECUTED off the document receipts: the co-signer opened 12:27 PM and COMPLETED 12:29 PM; Sulman opened 12:19 PM and had not completed on two re-checks. Terms verified: full $899K list, $10K earnest, 8/19 close, no closing-cost ask, no home warranty, 5-day inspection, 2.5% buyer-agent comp, no home-sale contingency, preapproved. The ladder is deliberately held at OFFER RECEIVED until his completion lands — a milestone fires once and can never be un-fired. Two showings ran today (11:15a, 12p) and Wednesday 4:30p is still booked: keep them until the contract is fully executed and earnest money is receipted"
     },
     {
       "addr": "160 Lake Forest Way",
       "client": "Jared & Amanda B.",
-      "status": "Closing TODAY",
-      "note": "🎉 Closing 9:00–10:50 AM at the title company in Pelham, both sellers accepted. Walk-through cleared yesterday 9:30 AM. One open item: brokerage paperwork says 7/23 while the accepted appointment says today — confirm it at the table, it is not a red flag"
+      "status": "Closed at the table — awaiting funding",
+      "note": "🎉 Signed this morning: the buyer agent's lockbox entry logged 9:04 AM, title messages ran 10:10–11:05 AM. Still NO funding or recording receipt, so the file stays at CLOSING, not CLOSED — it flips on the brokerage payday email, which also opens the post-close review and referral sequence. Open item: the other office still owes the sellers the deed for utilities"
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "Active — OFFER RECEIVED",
-      "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still the open item, though the day-count on it isn't verified either way (the 7/20 texts with him were birthday banter, no business receipt). Price already validated 'just right.' Send the corrected net sheet"
+      "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still the open item, though the day-count on it isn't verified either way. Price already validated 'just right.' Send the corrected net sheet"
     },
     {
       "addr": "195 Lake View Cir",
       "client": "Chesley & Lauren C.",
       "status": "Active — offer rescinded",
-      "note": "Sunday's fresh showing still owes a read — ShowingTime has now re-asked twice (7/19 and 7/20). The Wilson offer died 7/16 when the buyers' own home never went under contract; the counter is dead, resume marketing. ⚠️ The counter-play draft still sitting in Gmail is a HAZARD — its premise is gone. Delete it, don't send it"
+      "note": "Sunday's showing still owes a read — ShowingTime has now re-asked twice (7/19 and 7/20). The Wilson offer died 7/16 when the buyers' own home never went under contract; the counter is dead, resume marketing. ⚠️ The counter-play draft still sitting in Gmail is a HAZARD — its premise is gone. Delete it, don't send it"
     },
     {
       "addr": "3350 Altamont Rd E21",
       "client": "Sulman M.",
       "status": "Active — showings",
-      "note": "5th showing happened last night at 6:00 PM, no read back yet — that makes four Altamont showings with no feedback. Latest read 7/18 (Sherry C., ARC Realty): buyer passed, 'found something they liked in a different area,' staging 4/5, no price complaint. Location loss, not a price loss — and it contradicts the 7/9 'too high.' Fold into the Sulman call"
+      "note": "✅ A gap closed: the 7/14 showing finally reported back 7/20 — buyer 'really liked it,' saw it in pouring rain and flagged PUDDLING in the little patio area, and is still deciding which part of Birmingham he wants. That's a live maybe, not a pass. Two seller talking points: check the patio grading/downspout before the next rain showing, and a still-deciding buyer argues for holding price and keeping showings coming. Last night's 6 PM showing still owes a read"
     },
     {
       "addr": "198 Rena Dr",
       "client": "Ann & Don C.",
       "status": "Active — showings",
-      "note": "The objection on record is the floor plan, not the number — Amy S. 7/12: 'She LOVED the yard and lot,' interior 'too compartmentalized.' Pivot the photos and copy to the lot and outdoor living. Hot inbound buyer Kimberly W. is still waiting on a showing time. 64 DOM. Client draft staged in Gmail"
+      "note": "The objection on record is the floor plan, not the number — 7/12: 'She LOVED the yard and lot,' interior 'too compartmentalized.' Pivot the photos and copy to the lot and outdoor living. Hot inbound buyer Kimberly W. is still waiting on a showing time. 64 DOM. Client draft staged in Gmail"
     },
     {
       "addr": "2368 Ridge Trail",
@@ -99,6 +99,12 @@
       "client": "—",
       "status": "Clear to Close",
       "note": "🎉 Cleared 7/17, closing 7/27. Institutional/Lennar seller (team-align only, no seller email). Two brokerage checklist items still required: final settlement statement + proof of payment"
+    },
+    {
+      "addr": "2704 19th Street N",
+      "client": "⚠️ unidentified",
+      "status": "Under Contract (baseline)",
+      "note": "NEW to the board today — the folder sync found a Bessemer file showing PENDING with you as listing agent, and the folder has ZERO messages. A 90-day address search and 120 days of Bessemer mail found nothing, so seller, price and close date are all UNVERIFIED and no milestone was fired. Recorded at Under Contract only so a stale email can't later fire a bogus one. Worth 60 seconds to confirm this is real"
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
@@ -122,7 +128,7 @@
       "addr": "821 Martinwood Rd",
       "client": "Sulman M.",
       "status": "Active",
-      "note": "Still no showings. Now has its own deal dossier (auto-built 7/20) so the fleet is finally watching it. Sulman is three listings deep with you and on the phone this morning anyway — fold a re-push into that call"
+      "note": "Still no showings. Has its own deal dossier as of 7/20 so the fleet is finally watching it. Sulman is on the phone today anyway — fold a re-push into that call once the Lake Crest signature is done"
     },
     {
       "addr": "1406 Marina Landing",
@@ -134,7 +140,7 @@
       "addr": "683 Flag Cir",
       "client": "—",
       "status": "Active",
-      "note": "No new signals"
+      "note": "Buyer-side file, confirmed 7/14 — you represent the buyers here, not the seller"
     },
     {
       "addr": "3035 County Line Rd",
@@ -184,14 +190,14 @@
     "goal": 45,
     "teamGoal": 90,
     "paceProjection": 48,
-    "note": "No fresh forecast since 7/20 (that run was PARTIAL — no live Brivity closed-deal pull, so the count is still the carried estimate). You're ahead on 45 personal, annualizing ~48; team is annualizing ~55 against 90. The calendar is still the real problem: closings land today, 7/27 and 7/29, then 8/3 through 8/30 has ZERO dated closings across all live dossiers. A p1 task is open to set 3 listing appointments this week."
+    "note": "No fresh forecast since 7/20 (that run was PARTIAL — no live Brivity closed-deal pull, so the count is still the carried estimate). You're ahead on 45 personal, annualizing ~48; team is annualizing ~55 against 90. Today's signing adds one once it funds. The calendar is still the real problem: closings land today, 7/27 and 7/29, then 8/3 through 8/30 has ZERO dated closings across all live dossiers — the newly-surfaced Bessemer file may or may not change that, it has no verified close date. A p1 task is open to set 3 listing appointments this week."
   },
   "money": {
     "status": "alert",
-    "note": "Day 9 on the vendor subscription — the 3rd charge failed 7/20 and the card on file is expired, so the domain and the website behind it are at risk. Business checking is healthy with zero NSF in 72 hours, and last month was the best revenue month of 2026."
+    "note": "Day 9 on the vendor subscription — the third charge failed and the card on file is expired, so the domain and the website behind it are at risk. No new bank alerts in the last 24 hours; business checking is healthy with zero NSF."
   },
   "isa": {
-    "openCallTasks": 46,
+    "openCallTasks": 56,
     "decayPolicy": "10-day auto-decay active",
     "sweepCadence": "every 15 min"
   },
@@ -201,9 +207,9 @@
     "Tax Strategist Agent + 2025 books catch-up — p1, deadline-driven"
   ],
   "controls": {
-    "do": "Give Sulman M. the $899K answer — promised this morning",
-    "decide": "A — take it clean, squeeze terms (recommended)",
-    "watch": "Vendor card day 9, website at risk — 7/21",
-    "draftsWaiting": 50
+    "do": "Confirm Sulman M. signs, then call buyer's agent",
+    "decide": "Ruled ✓ — offer taken, packet signing now",
+    "watch": "One of two seller signatures still open — 7/21",
+    "draftsWaiting": 100
   }
 }

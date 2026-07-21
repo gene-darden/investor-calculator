@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-21 7:45 AM CT",
-  "headline": "5167 Lake Crest went ACTIVE yesterday and immediately drew a 5:30 PM tour — with two MORE showings today (11:15a, 12p) and a third Wednesday, all stacked behind a full-price offer you owe an answer on this morning. That's leverage, not noise. Meanwhile 9 showings still owe you a read, four of them on Altamont.",
+  "updated": "2026-07-21 12:55 PM CT",
+  "headline": "Two more Lake Crest showings ran this morning (11:15a, 12p) while the seller packet was on the signing table — that traffic is your leverage, not noise. Altamont finally answered one of its four open reads, and it's a live maybe. 10 showings still owe you feedback.",
   "stats": {
-    "showings14d": 14,
-    "feedback14d": 6,
-    "gaps": 9
+    "showings14d": 16,
+    "feedback14d": 7,
+    "gaps": 10
   },
   "hotSignals": [
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/19",
       "isNew": false,
-      "signal": "OFFER IN HAND, TERMS NOW VERIFIED — buyer agent Manda L.'s signed packet reads full $899K list price, $10K earnest, 8/19 close, no closing-cost ask, no home warranty, 5-day inspection, 2.5% buyer-agent comp, no home-sale contingency, preapproved financing. Her buyers start new jobs in four weeks and called this \"our one and only.\" She also asked last night whether she should change the offer.",
-      "action": "You told her by text you'd answer \"in the am.\" Call Sulman M. by voice first. The listing went ACTIVE yesterday and a second party toured at 5:30 PM, with two more showings today and one Wednesday — competition is real, which argues for taking it clean and squeezing the terms (raise earnest, shorten inspection, pull the close in) over calling highest-and-best."
+      "signal": "OFFER IN HAND, NOW BEING SIGNED — buyer agent Manda L.'s signed packet reads full $899K list price, $10K earnest, 8/19 close, no closing-cost ask, no home warranty, 5-day inspection, 2.5% buyer-agent comp, no home-sale contingency, preapproved. As of 12:29 PM today the seller packet is HALF-EXECUTED: the co-signer completed, Sulman M. opened at 12:19 PM and had not finished on two re-checks.",
+      "action": "Get Sulman over the line by voice, then call Manda L. — you told her by text this morning she'd have an answer today. After that the fully-executed packet goes to the closing attorney. Keep today's and Wednesday's showings on the book until the contract is fully executed and earnest money is receipted."
     },
     {
       "addr": "355 Comanche St",
       "date": "7/16",
       "isNew": false,
       "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a $5K buyer credit and a $3,500 concession. Seth B. asked what the $3,500 covers and the corrected net sheet never went out.",
-      "action": "Send the corrected net sheet. Note: the day-count on his question isn't verified either way — the 7/20 texts with him were birthday banter, no business receipt. Already tasked, no new alert sent."
+      "action": "Send the corrected net sheet. The day-count on his question isn't verified either way. Already tasked, no new alert sent."
     },
     {
       "addr": "198 Rena Dr",
@@ -38,34 +38,22 @@
   ],
   "upcoming": [
     {
-      "when": "TODAY Tue 7/21 · 9:00–10:50 AM",
-      "addr": "160 Lake Forest Way",
-      "type": "CLOSING",
-      "note": "🎉 Signing at the title company in Pelham, both sellers accepted. Walk-through cleared yesterday"
-    },
-    {
-      "when": "TODAY Tue 7/21 · 11:15 AM",
-      "addr": "5167 Lake Crest Cir",
-      "type": "Showing",
-      "note": "First of two today — now live competition against a full-price offer, not just traffic"
-    },
-    {
-      "when": "TODAY Tue 7/21 · 12:00 PM",
-      "addr": "5167 Lake Crest Cir",
-      "type": "Showing",
-      "note": "Second showing on offer-decision day"
+      "when": "TODAY Tue 7/21 · 1:00 PM",
+      "addr": "3421 Hwy 109, Columbiana",
+      "type": "Your buyer showing",
+      "note": "Booked this morning — you're the showing agent, RealtySouth-Inverness listing"
     },
     {
       "when": "TODAY Tue 7/21 · 1:45 PM",
       "addr": "3110 Hwy 51, Wilsonville",
       "type": "Your buyer showing",
-      "note": "You're the showing agent — ARC Realty 280 listing. Booked overnight"
+      "note": "ARC Realty 280 listing — owner unlocks the door. Back-to-back with the 1:00"
     },
     {
       "when": "Wed 7/22 · 4:30 PM",
       "addr": "5167 Lake Crest Cir",
       "type": "Showing",
-      "note": "Third new booking since the listing went ACTIVE"
+      "note": "Keep it booked until the contract is fully executed and earnest money is receipted"
     }
   ],
   "listings": [
@@ -74,24 +62,26 @@
       "city": "Hoover",
       "price": "$899,000",
       "client": "Sulman M.",
-      "status": "ACTIVE — OFFER IN HAND",
-      "showings14d": 1,
+      "status": "ACTIVE — SIGNING IN PROGRESS",
+      "showings14d": 3,
       "feedback": [],
       "gaps": [
+        "TODAY 7/21 12:00 PM showing — no feedback yet",
+        "TODAY 7/21 11:15 AM showing — no feedback yet",
         "Mon 7/20 5:30 PM showing (first since going ACTIVE) — no feedback yet"
       ],
-      "note": "🔥 Full-price signed offer from buyer agent Manda L., terms now verified off the net sheet: $899K, $10K earnest, 8/19 close, no closing costs, no warranty, 5-day inspection, no home-sale contingency. The listing went ACTIVE 7/20 and drew a tour that evening, with two more today and one Wednesday. Answer promised to Manda this morning"
+      "note": "🔥 Full-price signed offer from buyer agent Manda L. — and as of 12:29 PM the seller packet is half-executed: the co-signer completed, Sulman opened at 12:19 PM and hadn't finished on two re-checks. Terms verified: $899K, $10K earnest, 8/19 close, no closing costs, no warranty, 5-day inspection, no home-sale contingency. Three showings ran in 32 hours and a fourth is booked Wednesday — that competition is exactly why the play was take-it-clean-and-squeeze rather than highest-and-best"
     },
     {
       "addr": "160 Lake Forest Way",
       "city": "Maylene",
       "price": "$400,000",
       "client": "Jared & Amanda B.",
-      "status": "CLOSING TODAY",
+      "status": "SIGNED — awaiting funding",
       "showings14d": 1,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 Walk-through cleared Mon 7/20 9:30 AM. Signing TODAY 9:00–10:50 AM at the title company in Pelham, both sellers accepted. Brokerage paperwork says 7/23 but the accepted appointment wins — confirm it at the table"
+      "note": "🎉 The table happened this morning — buyer agent's lockbox entry logged 9:04 AM, title messages 10:10–11:05 AM. No funding or recording receipt yet, so it's signed, not closed. Open loose end: the other office still owes the sellers the deed for utilities"
     },
     {
       "addr": "355 Comanche St",
@@ -149,10 +139,16 @@
       "showings14d": 5,
       "feedback": [
         {
+          "date": "7/20",
+          "agent": "Emma Kathryn B. · Ray & Poynor",
+          "tone": "warm",
+          "note": "✅ NEW — answered your nudge on the 7/14 showing: the buyer \"really liked it.\" They toured in pouring rain and flagged PUDDLING in the little patio area. He's still deciding which part of Birmingham he wants. A live maybe, not a pass — and no price complaint"
+        },
+        {
           "date": "7/18",
           "agent": "Sherry C. · ARC Realty Pelham",
           "tone": "cold",
-          "note": "Pass — \"they found something they liked in a different area.\" No price complaint this time, staging scored 4/5. That's a location loss, not a price loss"
+          "note": "Pass — \"they found something they liked in a different area.\" No price complaint, staging scored 4/5. That's a location loss, not a price loss"
         },
         {
           "date": "7/9",
@@ -164,10 +160,9 @@
       "gaps": [
         "Mon 7/20 6:00 PM showing — no feedback yet",
         "Wed 7/15 1:30 PM showing — no feedback yet",
-        "Tue 7/14 4:45 PM showing — no feedback yet",
         "Thu 7/9 10 AM showing (Ken G./KW) — no feedback, nudge drafted 7/13 but never sent"
       ],
-      "note": "The traffic king — five showings in 14 days, the newest last night at 6 PM. But FOUR of the five owe a read, so you're pricing off two opinions that disagree with each other (one said price, the newest said location). Chase the feedback before you touch the number. Sulman is on the phone this morning anyway about Lake Crest"
+      "note": "The traffic king — five showings in 14 days. Your nudge worked: the 7/14 read came back and it's the best news on this listing in two weeks. Three of the five reads now point AWAY from price (location, location, still-deciding) and only the oldest said 'too high.' Two cheap moves: check the patio grading and downspout before the next rain showing, and hold the number while the traffic holds"
     },
     {
       "addr": "198 Rena Dr",
@@ -225,6 +220,17 @@
       "note": "🎉 Cleared to close 7/17, closing 7/27. Institutional/Lennar seller, no showings — listed here for pipeline visibility"
     },
     {
+      "addr": "2704 19th Street N",
+      "city": "Bessemer",
+      "price": "—",
+      "client": "⚠️ unidentified",
+      "status": "UNDER CONTRACT (baseline)",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "New to the board today — shows PENDING with you as listing agent, but the file has ZERO messages behind it and a 90-day search found nothing. Seller, price and close date all unverified. Here for visibility, not as a claim"
+    },
+    {
       "addr": "2127 Hwy 93",
       "city": "Helena",
       "price": "$1,150,000",
@@ -267,6 +273,11 @@
       "addr": "209 S Wells St · PCB",
       "price": "$449,900",
       "when": "Tue 7/14 12:00 PM — agent has asked 5× (latest re-ask 7/16)"
+    },
+    {
+      "addr": "100 Autumn Crest Dr · Chelsea",
+      "price": "—",
+      "when": "TODAY Tue 7/21 12:15 PM — you just showed it, the read will be asked for shortly"
     }
   ]
 }
