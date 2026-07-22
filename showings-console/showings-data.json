@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 7:38 AM CT",
-  "headline": "🔥 A SECOND buyer came back 'interested: Yes' on 5167 Lake Crest — the read landed 7/21 6:11p, after the deal ratified, so nobody worked it. Ask for a backup offer before Friday's 9 AM inspection. Meanwhile 9 showings still owe reads (195 Lake View's Sunday has been re-asked four times), and you owe feedback on 7 homes you toured.",
+  "updated": "2026-07-22 12:45 PM CT",
+  "headline": "🔥 Two things moved at midday: the 195 Lake View buyers came back with a conditional re-offer at 12:16, and the PCB condo that has sat 123 days with zero activity just booked a showing for Saturday 9:30 AM. Meanwhile 9 showings still owe reads, and you owe feedback on 7 homes you toured.",
   "stats": {
     "showings14d": 13,
     "feedback14d": 7,
@@ -8,18 +8,25 @@
   },
   "hotSignals": [
     {
-      "addr": "5167 Lake Crest Cir",
-      "date": "7/21",
+      "addr": "195 Lake View Cir",
+      "date": "7/22",
       "isNew": true,
-      "signal": "🔥 BACKUP BUYER — Kulsum B. (Keller Williams Hoover) answered 'Is your client interested in this listing? Yes' on the Mon 7/20 5:30 PM showing. Every other box blank: no price objection, no staging note, no complaint of any kind. The read arrived 6:11 PM on 7/21, hours after the contract ratified, so it was filed as leftover instead of read as live demand.",
-      "action": "Call Kulsum and ask for a written backup offer this week. Your contract carries a 5-day inspection contingency and the physical inspection is Fri 7/24 at 9:00 AM — that is the one window where this deal can die, and a backup at or near the $899K list costs you nothing while quietly strengthening you on any repair ask. Fold the news into today's Sulman roadmap call."
+      "signal": "🔥 OFFER BACK — buyer agent Kenneth R. (Local Realty) re-engaged at 12:16 PM today with a conditional re-offer for the same buyers who rescinded on 7/16. This is the first true positive on this deal in six days, and the exact re-engagement condition the dossier has been carrying since the rescission.",
+      "action": "Call your seller FIRST and get his answer — the buyer side gets a same-day reply, but only after the seller rules. ⚠️ Only half the condition was met: the buyers came back, but their own home is still NOT under contract (it goes live Monday), so the no-firm-close risk that killed round one is unchanged. The 48-hour break clause is the term that makes this workable."
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "date": "7/22",
+      "isNew": true,
+      "signal": "🔔 FIRST BOOKING IN WEEKS — Christine S. (Counts Real Estate Group) requested and confirmed a showing for Sat 7/25 9:30 AM on the only listing carrying zero activity at 123 days. Agent remark on the request was simply 'thank you.' This is showing #7 all-time on the unit and the first in the 14-day window.",
+      "action": "Call Jeff B. with the showing news BEFORE the price-or-reposition conversation — the framing changes completely when there is a buyer in the door Saturday. Then nudge Christine for feedback Saturday afternoon while the walkthrough is fresh; PCB feedback on this listing has historically never come back unasked."
     },
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/21",
       "isNew": false,
-      "signal": "✅ SIGNAL REALIZED — the full-price offer from buyer agent Manda L. went UNDER CONTRACT at the full $899K list ($10K earnest, no closing-cost ask, no home warranty, 5-day inspection, no home-sale contingency). Three showings in 32 hours drove it.",
-      "action": "⚠️ Two loose ends: the close date moved up to 8/14 is NOT agreed — the contract still says 8/19 and only the lender replied. And the cancelled Wed 4:30 showing is still on your calendar as a phantom. Kill the event, confirm Friday 9 AM with Manda yourself."
+      "signal": "🔥 BACKUP BUYER — Kulsum B. (Keller Williams Hoover) answered 'Is your client interested in this listing? Yes' on the Mon 7/20 5:30 PM showing. Every other box blank: no price objection, no staging note, no complaint of any kind. The read arrived 6:11 PM on 7/21, hours after the contract ratified, so it was filed as leftover instead of read as live demand.",
+      "action": "Call Kulsum and ask for a written backup offer this week. Your contract carries a 5-day inspection contingency and the physical inspection is CONFIRMED Fri 7/24 at 9:00 AM — that is the one window where this deal can die, and a backup at or near the $899K list costs you nothing while quietly strengthening you on any repair ask."
     },
     {
       "addr": "355 Comanche St",
@@ -48,10 +55,56 @@
       "when": "Fri 7/24 · 9:00 AM",
       "addr": "5167 Lake Crest Cir",
       "type": "Buyer inspection",
-      "note": "Physical inspection under the signed contract — the first contingency to clear, and the reason a backup offer is worth asking for this week"
+      "note": "CONFIRMED. Physical inspection under the signed contract — the first contingency to clear, and the reason a backup offer is worth asking for this week"
+    },
+    {
+      "when": "Sat 7/25 · 9:30 AM",
+      "addr": "23223 Front Beach Rd B3-407",
+      "type": "Showing",
+      "note": "NEW — booked and confirmed today. Buyer agent Christine S., Counts Real Estate Group. First activity on this listing in weeks"
     }
   ],
   "listings": [
+    {
+      "addr": "195 Lake View Cir",
+      "city": "Riverside",
+      "price": "$369,000",
+      "client": "Chesley & Lauren C.",
+      "status": "🔥 ACTIVE — offer back",
+      "showings14d": 2,
+      "feedback": [
+        {
+          "date": "7/12",
+          "agent": "Kenneth R. · Local Realty",
+          "tone": "hot",
+          "note": "Was INTERESTED at \"$340ish\" and became the offer — rescinded 7/16 when his buyers' own home never went under contract. AS OF 12:16 TODAY he is back with a conditional re-offer. Their home is still not under contract; it goes live Monday"
+        },
+        {
+          "date": "7/9",
+          "agent": "Michelle G. · EXIT Coosa River",
+          "tone": "cold",
+          "note": "Not interested (late reply)"
+        }
+      ],
+      "gaps": [
+        "Sun 7/19 1:00 PM showing — ShowingTime has now re-asked FOUR times (7/19, 7/20, 7/21), still nothing back",
+        "Fri 7/10 5:45 PM showing — no feedback"
+      ],
+      "note": "🔥 The deal is alive again — same buyers, same agent, new number, same unresolved contingency. Seller answers first, buyer side second. The 48-hour break clause is what makes a no-firm-date contract workable. Sunday's showing is still the freshest independent signal on this listing and it is four re-asks overdue; at that point the silence IS the feedback. ⚠️ The old counter-play draft in Gmail is a HAZARD — its premise is gone. Delete it, write fresh"
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "city": "Panama City Beach",
+      "price": "$364,000",
+      "client": "Jeff B.",
+      "status": "ACTIVE — showing booked",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [
+        "Fri 7/10 2 PM showing — never confirmed it happened, no feedback"
+      ],
+      "note": "🔔 NEW TODAY: showing requested and confirmed for Sat 7/25 9:30 AM (Christine S., Counts Real Estate Group) — the first booking after 123 days on market and the longest zero-activity streak on the board. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings. Call Jeff with the showing news before the price-or-reposition conversation, and nudge for feedback Saturday afternoon. Still no email on file — capture it on the call"
+    },
     {
       "addr": "5167 Lake Crest Cir",
       "city": "Hoover",
@@ -70,18 +123,7 @@
       "gaps": [
         "Tue 7/21 11:15 AM showing — no feedback yet"
       ],
-      "note": "🔥 Under contract at the full $899K, close moved up to 8/14 (⚠️ not agreed — contract still reads 8/19, only the lender replied). Inspection Fri 7/24 9 AM; the Wed 4:30 showing was cancelled but is still a phantom on the calendar. THREE buyers wanted this house inside 32 hours — that is a list, not a coincidence, and one of them just said yes in writing"
-    },
-    {
-      "addr": "160 Lake Forest Way",
-      "city": "Maylene",
-      "price": "$400,000",
-      "client": "Jared & Amanda B.",
-      "status": "🎉 CLOSED + FUNDED",
-      "showings14d": 1,
-      "feedback": [],
-      "gaps": [],
-      "note": "Signed at the table 9:04 AM 7/21, funded the same afternoon. Terminal — post-close review + referral sequence is armed. Loose end: the other office still owes the sellers the deed for utilities, already chased"
+      "note": "🔥 Under contract at the full $899K, close moved up to 8/14 (⚠️ not agreed — contract still reads 8/19, only the lender replied). Inspection CONFIRMED Fri 7/24 9 AM; the Wed 4:30 showing was cancelled but may still be a phantom on the calendar. THREE buyers wanted this house inside 32 hours — that is a list, not a coincidence, and one of them just said yes in writing"
     },
     {
       "addr": "355 Comanche St",
@@ -101,34 +143,7 @@
       "gaps": [
         "Wed 7/15 1:25 PM showing — no feedback yet, 7 days out"
       ],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is the open item. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
-    },
-    {
-      "addr": "195 Lake View Cir",
-      "city": "Riverside",
-      "price": "$369,000",
-      "client": "Chesley & Lauren C.",
-      "status": "ACTIVE — offer rescinded",
-      "showings14d": 3,
-      "feedback": [
-        {
-          "date": "7/12",
-          "agent": "Kenneth R. · Local Realty",
-          "tone": "cold",
-          "note": "Was INTERESTED at \"$340ish\" and became the offer — but the offer was RESCINDED 7/16 when his buyers' own home never went under contract"
-        },
-        {
-          "date": "7/9",
-          "agent": "Michelle G. · EXIT Coosa River",
-          "tone": "cold",
-          "note": "Not interested (late reply)"
-        }
-      ],
-      "gaps": [
-        "Sun 7/19 1:00 PM showing — ShowingTime has now re-asked FOUR times (7/19, 7/20, 7/21), still nothing back",
-        "Fri 7/10 5:45 PM showing — no feedback"
-      ],
-      "note": "⚠️ The counter is dead — resume marketing. Sunday's showing is the freshest signal on this listing and the read is now four re-asks overdue; at that point the silence IS the feedback. Three 'priced too high' opinions sit behind it, so the price conversation with Chesley is still live. The counter-play draft in Gmail is a HAZARD — its premise is gone. Delete it"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — $5K buyer credit + $3,500 concession. Seth B.'s question about the $3,500 is the open item and the corrected net sheet still has not gone out. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -196,17 +211,26 @@
       "note": "Backup-interest showing Sunday 7/19, still quiet. Close date 7/29. ⚠️ FHA appraisal ordered is unverified at day 14 — ask, don't chase. ShowingTime also still lists this ACTIVE while the deal is Clear to Close; possible stale MLS status"
     },
     {
-      "addr": "23223 Front Beach Rd B3-407",
-      "city": "Panama City Beach",
-      "price": "$364,000",
-      "client": "Jeff B.",
-      "status": "ACTIVE",
+      "addr": "1709 Fieldstone Cir",
+      "city": "Helena",
+      "price": "—",
+      "client": "Dennis & Lee H.",
+      "status": "✅ NEW — COMING SOON",
       "showings14d": 0,
       "feedback": [],
-      "gaps": [
-        "Fri 7/10 2 PM showing — never confirmed it happened, no feedback"
-      ],
-      "note": "123 days on market and the ONLY listing with zero activity. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings — inventory outrunning absorption. The price-or-reposition call is overdue. Still no email on file — capture it on the call"
+      "gaps": [],
+      "note": "Listing agreement SIGNED 7:37 AM today — all seven documents including the Coming Soon addendum, 17 hours after he opened them and stalled. Nothing to show yet: photos, copy and a go-live plan are the next moves, and the Coming Soon window is the cheapest demand you will ever build on this house"
+    },
+    {
+      "addr": "160 Lake Forest Way",
+      "city": "Maylene",
+      "price": "$400,000",
+      "client": "Jared & Amanda B.",
+      "status": "🎉 CLOSED + FUNDED",
+      "showings14d": 1,
+      "feedback": [],
+      "gaps": [],
+      "note": "Signed at the table 9:04 AM 7/21, funded the same afternoon. Terminal — post-close review + referral sequence is armed. Loose end: the other office still owes the sellers the deed for utilities, already chased"
     },
     {
       "addr": "16896 Whispering Pines",
@@ -228,7 +252,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "Zero showings since listing. Same seller as 5167 Lake Crest and Altamont E21 — he's on the phone today anyway, so fold a re-push into that call"
+      "note": "Zero showings since listing. Same seller as 5167 Lake Crest and Altamont E21 — he's on the phone anyway, so fold a re-push into that call"
     },
     {
       "addr": "2704 19th Street N",

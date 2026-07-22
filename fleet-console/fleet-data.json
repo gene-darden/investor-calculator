@@ -1,80 +1,86 @@
 {
-  "updated": "2026-07-22 7:38 AM CT",
-  "headline": "DO: call Dennis H. — he opened your listing agreement at 2:31 yesterday and didn't sign; don't email a man who already has the email. · WATCH: two SIM changes hit your 2FA line in nine hours while the books were blind 3 days — 90 seconds in the bank app. · NEW: a second buyer said YES on 5167 Lake Crest — ask for a backup before Friday's inspection.",
+  "updated": "2026-07-22 12:45 PM CT",
+  "headline": "DO: call Chesley C. — the 195 Lake View buyers came back at 12:16 today with a fresh number, and the buyer side gets no answer until your seller gives you one. · ALSO: the PCB condo with 123 days and zero activity just booked a showing for Saturday 9:30. · WATCH: two SIM changes on your 2FA line are still unconfirmed.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "No BLOCKED lines in 24h. Morning stack fired clean — triage 5:52a, finance 5:55a, The Daily 6:52a, team-daily 7:14a, DB-power 11:02a UTC-log — and the milestone engine ran through 9:32p last night.",
-      "One PARTIAL: finance-brain — QBO's bank feed has been frozen 3 days so the cash figure is stale and the bill-vs-cash cross-check couldn't run. No NSF, no overdraft. An ACTION email went out.",
-      "Two structural findings worth your eye: Zapier's Gmail actions vanished (triage ran on the native connector instead), and DB-power proved agent_uuid CANNOT tell a Lead Pond record from your own book — that's the root cause behind 8 burned leads in 8 days."
+      "No BLOCKED lines in 24h. Full stack fired: triage 5:52a → finance 5:55a → The Daily 6:52a → team-daily 7:14a → console 7:38a → milestone 8:15a/11:03a → Delta 9:20a/12:20p → DB-power 11:02a.",
+      "Two PARTIALs: the Brivity deep sweep at 12:20p ran API-only (Chrome MCP unreachable — the person-page ownership check, the only one that works, was unavailable), and finance-brain's QBO bank feed is frozen a 3rd day.",
+      "The One Thing RESOLVED itself at 7:37a — Dennis H. signed all seven listing documents 17 hours after opening them. First milestone ever fired on 1709 Fieldstone; dossier created."
     ]
   },
   "callBlock": [
     {
-      "who": "Dennis H.",
-      "why": "🔥 THE ONE THING. He opened the Exclusive Right to Sell at 2:31 yesterday afternoon and signed neither document. A listing sat three days in a file nobody read — and the Sunday conversation that produced it never reached a task list. He is at the pen. Call, don't email",
+      "who": "Chesley C.",
+      "why": "🔥 THE ONE THING. The 195 Lake View buyers came back at 12:16 today with a conditional re-offer through their agent — the first real positive on that deal since the rescission six days ago. Their own house still is not under contract, so the same no-firm-date risk is live. He owes you a decision and the buyer side owes a same-day reply, in that order: seller first, never the other way",
       "heat": "hot"
     },
     {
-      "who": "Andy B.",
-      "why": "HOT FL cash 1031 buyer, verified yours the hard way (person page reads Primary Agent). He asked to tour 7/13 by text and again 7/17 by voicemail — nothing has gone back. 45-day identification clock on money that MUST be spent, and you hold 11 verified-yours seller names in his target ZIP. The same call can source a listing",
-      "heat": "hot"
-    },
-    {
-      "who": "Corky M.",
-      "why": "NEW client-referral buyer, ownership verified. Referral speed-to-lead — the draft has now been staged in Gmail since 2:16 AM Monday and the phone beats it every time",
+      "who": "Kulsum B.",
+      "why": "5167 Lake Crest — her buyer answered 'interested: Yes' in writing on the Monday showing, and that read landed hours after the contract ratified so nobody worked it. Ask for a written backup this week. Inspection is Friday 9:00 AM and that is the one window where the deal can die",
       "heat": "hot"
     },
     {
       "who": "Jeff B.",
-      "why": "Your longest-running listing and the only one still at zero activity — 122 days on market, last feedback 7/1 was 'not interested,' PCB inventory outrunning absorption 218 new vs 68 sold. Candid price-or-reposition call. Still no email on file, so capture it on the phone",
+      "why": "NEW TODAY — his PCB condo just booked its first showing in weeks: Saturday 7/25 9:30 AM, buyer agent from Counts Real Estate. 123 days on market with zero activity, and you were about to have a price-or-reposition conversation. Have the showing conversation first. Still no email on file, so capture it on the phone",
+      "heat": "hot"
+    },
+    {
+      "who": "Andy B.",
+      "why": "HOT FL cash 1031 buyer, verified yours the hard way (person page reads Primary Agent). Asked to tour 7/13 by text and again 7/17 by voicemail — nothing has gone back, now day 9. A 45-day identification clock on money that MUST be spent, and you hold 11 verified-yours seller names in his target ZIP. The same call can source a listing",
+      "heat": "hot"
+    },
+    {
+      "who": "Corky M.",
+      "why": "NEW client-referral buyer, ownership verified. Referral speed-to-lead — the draft has now been staged in Gmail since 2:16 AM Monday and never sent. Rule 12 says the phone beats a draft that keeps getting re-staged",
       "heat": "hot"
     },
     {
       "who": "Kimberly W.",
-      "why": "She asked to see 198 Rena 'this weekend' and you said yes — two weekends have now passed. A call-in buyer on your OWN listing is a double-end, and there's no email on file, so the phone is the only channel",
+      "why": "She asked to see 198 Rena 'this weekend' and you said yes — two weekends have now passed. A call-in buyer on your OWN listing is a double-end, and there is no email on file, so the phone is the only channel",
+      "heat": "hot"
+    },
+    {
+      "who": "David S. (PCB seller)",
+      "why": "Fresh seller hand-raise today: he pulled a home value on a Panama City address and told the form the estimate is TOO LOW. A seller who argues with your number is a seller who wants to talk about his number",
       "heat": "hot"
     },
     {
       "who": "Helena seller (Old Cahaba)",
-      "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it — now 6 days. A second Old Cahaba home-value hand-raise landed in the same subdivision. Run the value once, call both",
+      "why": "Texted for your pricing advice on a Madison Ln house and you said you'd dive into it — now 7 days. A second Old Cahaba home-value hand-raise landed in the same subdivision. Run the value once, call both",
       "heat": "hot"
-    },
-    {
-      "who": "Sharonda R.",
-      "why": "Seller-intent — she ran a home value on a McCalla address and an Equity Review draft has been sitting ready in Gmail since 7/16. Six days is long enough for a hand-raise",
-      "heat": "hot"
-    },
-    {
-      "who": "Ed S.",
-      "why": "Pinnacle Port 32413 owner, status HOT, VERIFIED yours — one of the few fresh names this week that survived the ownership check. Same ZIP as Andy B., so stack the two calls back to back",
-      "heat": "warm"
     }
   ],
   "listings": [
     {
+      "addr": "195 Lake View Cir",
+      "client": "Chesley & Lauren C.",
+      "status": "🔥 Active — OFFER BACK",
+      "note": "NEW 12:16 PM TODAY: buyer agent Kenneth R. (Local Realty) came back with a conditional re-offer on behalf of the same buyers who rescinded 7/16 — the first true positive on this deal in six days. ⚠️ Only half the re-engagement condition was met: they came back, but their own home is NOT under contract (it goes live Monday), so the no-firm-close risk that killed round one is still sitting there. Seller answers first, buyer side gets the reply second. Separately, Sunday 7/19's showing STILL owes a read after four ShowingTime re-asks — and the old counter-play draft in Gmail is a hazard, its premise is gone. Delete it"
+    },
+    {
       "addr": "5167 Lake Crest Circle",
       "client": "Sulman M.",
       "status": "🎉 UNDER CONTRACT",
-      "note": "$899K full list, fully executed 7/21. ⚠️ TWO OPEN ITEMS: (1) the close date moved up to 8/14 is NOT agreed — the contract still says 8/19 and only the lender replied to Scarlett's change request; (2) a SECOND buyer came back 'interested: Yes' from the Monday 5:30p showing (buyer agent Kulsum B., KW Hoover) — ask for a backup offer before Friday. Physical inspection Fri 7/24 9:00 AM; the Wednesday 4:30 showing was cancelled but is still sitting on your calendar as a phantom. Three buyers wanted this house inside 32 hours"
+      "note": "$899K full list, fully executed 7/21. Physical inspection CONFIRMED Fri 7/24 9:00 AM. ⚠️ Two open items: (1) the close date moved up to 8/14 is NOT agreed — the contract still says 8/19 and only the lender replied; (2) a SECOND buyer came back 'interested: Yes' from the Monday 5:30p showing (buyer agent Kulsum B., KW Hoover) — ask for a backup before Friday. The cancelled Wednesday 4:30 showing may still be sitting on your calendar as a phantom. Three buyers wanted this house inside 32 hours"
     },
     {
-      "addr": "160 Lake Forest Way",
-      "client": "Jared & Amanda B.",
-      "status": "🎉 CLOSED + FUNDED",
-      "note": "Signed 9:04 AM 7/21, funded the same afternoon. Terminal. Post-close sequence armed: Day-1 review-ask call, Day-30 check-in, Day-90 referral. One open courtesy item: the other office still owes the sellers the deed for utilities — already chased"
+      "addr": "1709 Fieldstone Cir",
+      "client": "Dennis & Lee H.",
+      "status": "✅ NEW — Coming Soon (signed today)",
+      "note": "SIGNED 7:37 AM TODAY — all seven documents including the Exclusive Right to Sell and the Coming Soon addendum, 17 hours after he opened them and stalled. First milestone ever fired on this listing and a deliberate baseline correction: the old ACTIVE status was a bad June seed, this home was never on market. Dossier created. Next: photos, copy, go-live plan"
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "client": "Jeff B.",
+      "status": "Active — SHOWING BOOKED",
+      "note": "NEW TODAY 10:48 AM: SHOWING CONFIRMED Sat 7/25 9:30 AM — the first activity on this listing in weeks after 123 days on market. Buyer agent is with Counts Real Estate, out of the Laguna Beach side. Last feedback 7/1 was 'not interested' and the 7/10 showing was never confirmed. PCB market 7/16: 68 sold vs 218 new listings. Call Jeff with the showing news BEFORE the price conversation — still no email on file"
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "Active — OFFER RECEIVED",
-      "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still the open item. Price already validated 'just right.' Send the corrected net sheet. The 7/15 showing still owes a read"
-    },
-    {
-      "addr": "195 Lake View Cir",
-      "client": "Chesley & Lauren C.",
-      "status": "Active — offer rescinded",
-      "note": "Sunday 7/19's showing still owes a read — ShowingTime has now re-asked FOUR times (7/19, 7/20, 7/21). The Wilson offer died 7/16 when the buyers' own home never went under contract; the counter is dead, resume marketing. ⚠️ The counter-play draft still sitting in Gmail is a HAZARD — its premise is gone. Delete it, don't send it"
+      "note": "Live offer via buyer agent Davis H. (ARC Realty) — $5K buyer credit, $3,500 concession. Seth's question about what the $3,500 covers is still the open item and the corrected net sheet still has not gone out. Price already validated 'just right.' The 7/15 showing still owes a read, 7 days out"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -86,13 +92,13 @@
       "addr": "198 Rena Dr",
       "client": "Ann & Don C.",
       "status": "Active — showings",
-      "note": "The objection on record is the floor plan, not the number — 7/12: 'She LOVED the yard and lot,' interior 'too compartmentalized.' Pivot the photos and copy to the lot and outdoor living. Hot inbound buyer Kimberly W. is still waiting on a showing time. 65 DOM. Client draft staged in Gmail"
+      "note": "The objection on record is the floor plan, not the number — 7/12: 'She LOVED the yard and lot,' interior 'too compartmentalized.' Pivot the photos and copy to the lot and outdoor living. Hot inbound buyer Kimberly W. is still waiting on a showing time. 65 DOM. Client draft staged in Gmail since 7/20 and unsent"
     },
     {
       "addr": "2368 Ridge Trail",
       "client": "Opendoor",
       "status": "Clear to Close",
-      "note": "Close date 7/29. Backup-interest showing Sunday 7/19, still no feedback. ⚠️ FHA appraisal ordered is UNVERIFIED at day 14 — ask, don't chase. ShowingTime also still shows this ACTIVE while the deal is Clear to Close; worth eyeballing the MLS status"
+      "note": "Close date 7/29 — after that there is not one dated closing on the books. Backup-interest showing Sunday 7/19, still no feedback. ⚠️ FHA appraisal ordered is UNVERIFIED at day 14 — ask, don't chase. ShowingTime also still shows this ACTIVE while the deal is Clear to Close; worth eyeballing the MLS status"
     },
     {
       "addr": "16896 Whispering Pines",
@@ -101,22 +107,22 @@
       "note": "Closing 7/27, title has acknowledged disbursement. Institutional/Lennar seller (team-align only, no seller email). Two brokerage checklist items still required: final settlement statement + proof of payment"
     },
     {
+      "addr": "160 Lake Forest Way",
+      "client": "Jared & Amanda B.",
+      "status": "🎉 CLOSED + FUNDED",
+      "note": "Signed 9:04 AM 7/21, funded the same afternoon. Terminal. Post-close sequence armed: Day-1 review-ask call, Day-30 check-in, Day-90 referral. One open courtesy item: the other office still owes the sellers the deed for utilities — already chased"
+    },
+    {
       "addr": "2704 19th Street N",
       "client": "⚠️ unidentified",
       "status": "Under Contract (baseline)",
       "note": "Folder sync found a Bessemer file showing PENDING with you as listing agent, and the folder has ZERO messages. A 90-day address search and 120 days of Bessemer mail found nothing, so seller, price and close date are all UNVERIFIED and no milestone was fired. Recorded at Under Contract only so a stale email can't later fire a bogus one. Worth 60 seconds to confirm this is real"
     },
     {
-      "addr": "23223 Front Beach Rd B3-407",
-      "client": "Jeff B.",
-      "status": "Active — showings",
-      "note": "123 days on market and still the only listing with zero activity. Last feedback 7/1 was 'not interested'; the 7/10 showing was never confirmed. PCB market 7/16: 68 sold vs 218 new listings. Price-or-reposition call is overdue — and still no email on file, so capture it on the phone"
-    },
-    {
       "addr": "2127 Hwy 93",
       "client": "—",
       "status": "Coming Soon",
-      "note": "$1.15M — your own SPG address, listed 7/14. Still awaiting a go-live signal, but it drew its FIRST inbound demand overnight: a buyer registered saying he'd like to learn more about the house. Buyer-side interest on a pre-launch listing is worth working now"
+      "note": "$1.15M — your own SPG address, listed 7/14. Still awaiting a go-live signal, but it drew its first inbound demand overnight: a buyer registered saying he'd like to learn more about the house. Buyer-side interest on a pre-launch listing is worth working now"
     },
     {
       "addr": "118 Hayesbury Ln",
@@ -128,7 +134,7 @@
       "addr": "821 Martinwood Rd",
       "client": "Sulman M.",
       "status": "Active",
-      "note": "Still no showings. Has its own deal dossier as of 7/20 so the fleet is finally watching it. Sulman is on the phone today anyway (Lake Crest roadmap + backup-offer news) — fold a re-push into that call"
+      "note": "Still no showings. Has its own deal dossier as of 7/20 so the fleet is finally watching it. Sulman is on the phone anyway (Lake Crest roadmap + backup-offer news) — fold a re-push into that call"
     },
     {
       "addr": "1406 Marina Landing",
@@ -153,12 +159,6 @@
       "client": "—",
       "status": "Active",
       "note": "No new signals"
-    },
-    {
-      "addr": "1709 Fieldstone Cir",
-      "client": "—",
-      "status": "Active",
-      "note": "Photo appointment landed on the folder 7/21 — no other new signals"
     },
     {
       "addr": "42770 Hwy 77",
@@ -190,14 +190,14 @@
     "goal": 45,
     "teamGoal": 90,
     "paceProjection": 49,
-    "note": "160 Lake Forest funding reconciled the count to 27 — you're ahead on the 45 and tracking 49. No fresh Weekly Pipeline & Forecast email in 8 days, so the closed count comes from this morning's letter, not a live Brivity pull. Dated closings on the books: 7/27 Whispering Pines, 7/29 Ridge Trail, 8/14 (or 8/19 — unagreed) Lake Crest. The p1 'set 3 listing appointments this week' still stands: one August close doesn't fill a month, and today you have a 2:00 listing contract on the calendar plus a listing agreement sitting unsigned. Team annualizes ~55 against 90; yesterday's opportunity board drew 42 leads and zero claims."
+    "note": "No fresh Weekly Pipeline & Forecast email in 9 days, so these numbers carry from this morning's letter, not a live Brivity pull. Dated closings on the books: 7/27 Whispering Pines, 7/29 Ridge Trail, 8/14 (or 8/19 — still unagreed) Lake Crest. Today added a real one on the front end: 1709 Fieldstone signed at 7:37 AM, which is one of the three listing appointments the p1 goal asked for. Two more to go this week — after 7/29 there is a hole until August. Team annualizes ~55 against 90."
   },
   "money": {
     "status": "alert",
-    "note": "Nothing bounced, nothing is due, and checking is healthy — but the two systems that would CATCH a problem are both dark: the accounting bank feed has been frozen three days, and two SIM changes landed on your 2FA line inside that same window. 90 seconds in the bank app with your own eyes is today's whole ask. The vendor subscription is now day 10 on an expired card — domain and website still at risk."
+    "note": "Nothing bounced, nothing is due, and checking is healthy — but the two systems that would CATCH a problem are both dark: the accounting bank feed has been frozen a third day, and two SIM changes landed on your 2FA line inside that same window and are still unconfirmed as yours. 90 seconds in the bank app with your own eyes is today's whole ask. The vendor subscription is now day 10 on an expired card — domain and website still at risk."
   },
   "isa": {
-    "openCallTasks": 60,
+    "openCallTasks": 67,
     "decayPolicy": "10-day auto-decay active",
     "sweepCadence": "every 15 min"
   },
@@ -207,9 +207,9 @@
     "📈 Cash Flow Forecaster Agent (the NSF-preventer) — p1, due today"
   ],
   "controls": {
-    "do": "Call Dennis H. — opened the listing, never signed",
-    "decide": "Auto-kill dead showings (A), or by hand (B)?",
-    "watch": "Two SIM changes in nine hours — your 2FA line (7/21)",
-    "draftsWaiting": 100
+    "do": "Call Chesley C. — 195 Lake View offer came back",
+    "decide": "Build the Showing Reconciler (A), or keep catching by hand (B)?",
+    "watch": "Two SIM changes on your 2FA line, still unconfirmed (7/21)",
+    "draftsWaiting": 150
   }
 }
