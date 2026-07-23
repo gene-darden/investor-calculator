@@ -1,67 +1,60 @@
 {
-  "updated": "2026-07-23 7:45 AM CT",
-  "headline": "🔥 A brand-new agent walks 195 Lake View at 9:00 THIS MORNING — competing interest arriving while yesterday's re-offer still waits on your seller. Tomorrow 9:00 is the Lake Crest inspection and you have a written backup buyer nobody has called. Meanwhile 9 showings still owe reads and you owe feedback on 7 homes you toured.",
+  "updated": "2026-07-23 5:45 PM CT",
+  "headline": "Two reads landed this afternoon and both were passes — but one of them exposed a Monday showing on 821 Martinwood that no board was tracking, and it says 'too high.' Tomorrow is the Lake Crest inspection at 9:00 and a second showing on a house that's already clear-to-close. Nine showings still owe reads and you owe feedback on 7 homes you toured.",
   "stats": {
-    "showings14d": 12,
-    "feedback14d": 7,
+    "showings14d": 14,
+    "feedback14d": 9,
     "gaps": 9
   },
   "hotSignals": [
     {
       "addr": "195 Lake View Cir",
       "date": "7/23",
-      "isNew": true,
-      "signal": "🔥 COMPETING SHOWING TODAY 9:00 AM — William K. (Killough Bailey Properties) booked and confirmed at 7:20 PM last night. He has never shown this house; this is showing #10 all-time. It lands while the conditional re-offer from 12:16 PM yesterday is still sitting unanswered on your seller's desk.",
-      "action": "Call Chesley C. BEFORE 9:00. Lead with the 7/19 read you promised him three days ago, then the number, then this: somebody new is walking the house this morning. A second interested party is the only thing that fixes the weak spot in the re-offer — their own home is still NOT under contract and goes live Monday. Do not answer the buyer side before your seller rules. Then chase William K. for feedback the same afternoon."
+      "isNew": false,
+      "signal": "🔥 THE SHOWING HAPPENED AND THE OFFER IS STILL UNANSWERED. William K. (Killough Bailey) toured at 9:00 this morning — showing #10, no read back yet. Separately at 11:08 AM the buyer side reached your seller DIRECTLY about the crawl space and got the answer without you. The conditional re-offer from 12:16 PM yesterday is now 29 hours old, past your own 24-hour bar.",
+      "action": "Call Chesley C. tonight. When the other side is talking to your client and your client has no answer from you, you are not running the negotiation anymore. Lead with the number, then the fact that a new agent walked it this morning — competing interest is the only thing that fixes the re-offer's weak spot (their own home is still NOT under contract, it goes live Monday). Then chase William K. for the read."
     },
     {
       "addr": "5167 Lake Crest Cir",
       "date": "7/21",
       "isNew": false,
-      "signal": "🔥 BACKUP BUYER — Kulsum B. (Keller Williams Hoover) answered 'Is your client interested in this listing? Yes' on the Mon 7/20 5:30 PM showing. Every other box blank: no price objection, no staging note, no complaint of any kind. The read arrived hours after the contract ratified, so it was filed as leftover instead of read as live demand.",
-      "action": "⏰ THE INSPECTION IS TOMORROW 9:00 AM — that is the one window where this deal can die, and the backup call has now gone two days unmade. Call Kulsum today and ask for a written backup at or near list. It costs you nothing and quietly strengthens you on any repair ask."
+      "signal": "🔥 BACKUP BUYER, THIRD DAY UNCALLED — Kulsum B. (Keller Williams Hoover) answered 'Is your client interested in this listing? Yes' on the Mon 7/20 5:30 PM showing, with every other box blank: no price objection, no complaint of any kind.",
+      "action": "⏰ THE INSPECTION IS TOMORROW 9:00 AM — tonight is the last night this ask is free. Call Kulsum and ask for a written backup at or near list. It costs nothing and quietly strengthens you on every repair ask that comes out of tomorrow morning."
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
       "date": "7/22",
       "isNew": false,
-      "signal": "🔔 FIRST BOOKING IN WEEKS — Christine S. (Counts Real Estate Group) requested and confirmed a showing for Sat 7/25 9:30 AM on the only listing carrying zero activity at 123 days. Agent remark on the request was simply 'thank you.' Showing #7 all-time on the unit and the first in the 14-day window.",
-      "action": "Call Jeff B. with the showing news BEFORE the price-or-reposition conversation — the framing changes completely when there is a buyer in the door Saturday. Then nudge Christine for feedback Saturday afternoon while the walkthrough is fresh; PCB feedback on this listing has historically never come back unasked."
+      "signal": "🔔 FIRST BOOKING IN WEEKS — Christine S. (Counts Real Estate Group) requested and confirmed Sat 7/25 9:30 AM on the only listing carrying zero activity at 123 days. Showing #7 all-time on the unit and the first in the 14-day window.",
+      "action": "Call Jeff B. with the showing news BEFORE the price-or-reposition conversation — the framing changes completely when there's a buyer in the door Saturday. Then nudge Christine for feedback Saturday afternoon while it's fresh; PCB feedback on this listing has never come back unasked."
     },
     {
       "addr": "355 Comanche St",
       "date": "7/16",
       "isNew": false,
-      "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a buyer credit and a concession. Seth B. asked what the concession covers and the corrected net sheet never went out. That question is now a week old.",
-      "action": "Send the corrected net sheet. Already tasked, no new alert sent — but a week of silence on an open offer is how offers go cold."
+      "signal": "OFFER RECEIVED — offer via buyer's agent Davis H. (ARC Realty) with a buyer credit and a concession. Seth B. asked what the concession covers and the corrected net sheet never went out. That question is now eight days old.",
+      "action": "Send the corrected net sheet. Already tasked, no new alert — but eight days of silence on an open offer is how offers go cold."
     },
     {
       "addr": "198 Rena Dr",
       "date": "7/17",
       "isNew": false,
-      "signal": "INBOUND BUYER ASKED FOR A SHOWING — Kimberly W. texted asking to see the Springville house 'this weekend' after a voicemail, and you replied yes. Call-in buyer on your own listing = a double-end.",
-      "action": "Two weekends have now passed and a third is coming. Call and put a real time on it before she books with someone else — no email on file, phone is the only channel."
-    },
-    {
-      "addr": "355 Comanche St",
-      "date": "7/7",
-      "isNew": false,
-      "signal": "REPEAT INTEREST — Deidre G. (ERA King): her client passed on the stairs, but she pitched the house to an out-of-state client and may book a second showing.",
-      "action": "Nudge Deidre G. — offer a video walkthrough for the out-of-state client. Secondary to the live offer."
+      "signal": "INBOUND BUYER ASKED FOR A SHOWING — Kimberly W. texted asking to see the Springville house 'this weekend' after a voicemail, and you replied yes. A call-in buyer on your own listing is a double-end.",
+      "action": "Three weekends have now passed and a fourth is two days out. Call and put a real time on it before she books with someone else — no email on file, the phone is the only channel."
     }
   ],
   "upcoming": [
     {
-      "when": "TODAY Thu 7/23 · 9:00 AM",
-      "addr": "195 Lake View Cir",
-      "type": "Showing",
-      "note": "🔥 NEW — booked 7:20 PM last night. Buyer agent William K., Killough Bailey Properties, first time showing this house. Showing #10 all-time, and it arrives while the re-offer waits on your seller"
-    },
-    {
       "when": "Fri 7/24 · 9:00 AM",
       "addr": "5167 Lake Crest Cir",
       "type": "Buyer inspection",
-      "note": "CONFIRMED. Physical inspection under the signed contract — the first contingency to clear, and the reason the backup offer is worth asking for TODAY"
+      "note": "CONFIRMED, and on your own calendar since 7/21. The first contingency to clear — and the reason the backup call is tonight's work, not tomorrow's"
+    },
+    {
+      "when": "Fri 7/24 · 11:15 AM",
+      "addr": "2368 Ridge Trail",
+      "type": "Showing",
+      "note": "🆕 Booked 5:31 PM today — the SECOND showing on a house that's clear-to-close for 7/29. Backup interest, or a stale MLS status. Worth checking before the agent shows up"
     },
     {
       "when": "Sat 7/25 · 9:30 AM",
@@ -76,14 +69,14 @@
       "city": "Riverside",
       "price": "$369,000",
       "client": "Chesley & Lauren C.",
-      "status": "🔥 ACTIVE — offer back + showing today",
+      "status": "🔥 ACTIVE — offer 29 hrs unanswered",
       "showings14d": 4,
       "feedback": [
         {
           "date": "7/12",
           "agent": "Kenneth R. · Local Realty",
           "tone": "hot",
-          "note": "Interested: Yes · priced 'too high' — became the offer, then rescinded 7/16 when his buyers' own home never went under contract. As of 12:16 PM 7/22 he is back with a conditional re-offer. Their home is still not under contract; it goes live Monday"
+          "note": "Interested: Yes · priced 'too high' — became the offer, then rescinded 7/16 when his buyers' own home never went under contract. Back with a conditional re-offer 12:16 PM 7/22. Their home is still not under contract; it goes live Monday"
         },
         {
           "date": "7/9",
@@ -93,43 +86,91 @@
         }
       ],
       "gaps": [
-        "Sun 7/19 1:00 PM showing — ShowingTime has now re-asked FIVE times (7/19, 7/20, 7/21, 7/22), still nothing back. At five asks the silence IS the feedback",
+        "TODAY Thu 7/23 9:00 AM showing (William K., Killough Bailey) — happened this morning, no read back yet",
+        "Sun 7/19 1:00 PM showing — ShowingTime has now re-asked SIX times (7/19–7/23), still nothing. At six asks the silence IS the feedback",
         "Fri 7/10 5:45 PM showing — no feedback, 13 days"
       ],
-      "note": "🔥 Two live threads at once. A NEW agent (William K., Killough Bailey) tours at 9:00 AM TODAY — booked 7:20 PM last night, never shown this house, 10th showing all-time. And the Wilsons' re-offer from 12:16 yesterday is still waiting on your seller. Competing interest is the single thing that fixes the re-offer's weak spot: their home is NOT under contract. The 48-hour break clause is what makes a contingent contract workable at all. Seller answers first, buyer side second. ⚠️ The old counter-play draft in Gmail is a HAZARD — its premise is gone. Delete it, write fresh"
+      "note": "🔥 Three things moved today and none of them were your answer. The new agent's 9:00 AM showing happened (showing #10). At 11:08 AM the buyer side reached your seller DIRECTLY about the crawl space and got it answered without you. And the re-offer is 29 hours old, past your own 24-hour bar. The weak spot is unchanged — the buyers' home is NOT under contract — so the 48-hour break clause is what makes this workable, and that conversation is 9 days old. ⚠️ THREE unsent drafts are stacked to this seller in Gmail, one a counter on the offer rescinded 7/16. Do not bulk-approve"
     },
     {
       "addr": "5167 Lake Crest Cir",
       "city": "Hoover",
       "price": "$899,000",
       "client": "Sulman M.",
-      "status": "🎉 UNDER CONTRACT — inspection tomorrow",
+      "status": "🎉 UNDER CONTRACT — inspection tomorrow 9:00 AM",
       "showings14d": 2,
       "feedback": [
         {
           "date": "7/21",
           "agent": "Kulsum B. · Keller Williams Hoover",
           "tone": "hot",
-          "note": "\"Is your client interested in this listing? Yes\" — from the Mon 7/20 5:30p showing. No price objection, no staging note, nothing negative recorded. A live backup buyer nobody has called, now two days on"
+          "note": "\"Is your client interested in this listing? Yes\" — from the Mon 7/20 5:30p showing. No price objection, no staging note, nothing negative recorded. A live backup buyer nobody has called, now three days on"
         }
       ],
       "gaps": [
         "Tue 7/21 11:15 AM showing — no feedback yet"
       ],
-      "note": "🔥 Under contract at full list. ⏰ Inspection CONFIRMED TOMORROW Fri 7/24 9:00 AM — the contingency window, and the reason the backup call is today's work, not this week's. ⚠️ The moved-up close date is still NOT agreed: the contract reads the original date and only the lender replied. The cancelled Wednesday 4:30 showing may still be a phantom on the calendar. THREE buyers wanted this house inside 32 hours — that is a list, not a coincidence, and one of them said yes in writing"
+      "note": "🔥 Under contract at full list. ⏰ Inspection CONFIRMED tomorrow Fri 7/24 9:00 AM — locked on your own calendar since 7/21, utilities prep sent. That is the contingency window and it opens in 15 hours. ⚠️ The moved-up close date is still NOT agreed: the contract reads the original date and only the lender replied. THREE buyers wanted this house inside 32 hours, and one of them said yes in writing — tonight is the last night that ask is free"
+    },
+    {
+      "addr": "821 Martinwood Rd",
+      "city": "Birmingham",
+      "price": "$189,000",
+      "client": "Sulman M.",
+      "status": "ACTIVE — first feedback ever",
+      "showings14d": 1,
+      "feedback": [
+        {
+          "date": "7/23",
+          "agent": "Cinnamon G. · Keller Williams Homewood",
+          "tone": "cold",
+          "note": "Not interested · price \"TOO HIGH\" · listing rated 3 of 5 · overall showing experience \"good.\" From a Mon 7/20 10:45 AM showing that no board was tracking until this read arrived"
+        }
+      ],
+      "gaps": [],
+      "note": "🆕 The first feedback this listing has ever produced, and it did double duty: it revealed a Monday showing nobody knew about AND it named the number. One read is not a pricing verdict — but it is the only read this house has. Same seller as 5167 Lake Crest and Altamont E21, and he's on the phone tomorrow anyway for the inspection"
+    },
+    {
+      "addr": "2368 Ridge Trail",
+      "city": "Birmingham",
+      "price": "$559,000",
+      "client": "Shea H. (Opendoor)",
+      "status": "CLEAR TO CLOSE — still taking showings",
+      "showings14d": 1,
+      "feedback": [
+        {
+          "date": "7/23",
+          "agent": "Dan W. · The Williams Group at KW",
+          "tone": "cold",
+          "note": "From the Sun 7/19 1:15 PM backup showing: not interested, but priced \"JUST RIGHT.\" Reason given — \"They are looking in the Oak Mountain Intermediate School District. They also want some updates and a decent-sized backyard.\" A location-and-condition loss, not a price loss"
+        }
+      ],
+      "gaps": [],
+      "note": "🆕 Two moves today. The 7/19 gap finally closed at 2:27 PM with a clean pass that validated the price. Then at 5:31 PM a SECOND showing was confirmed for tomorrow 11:15 AM — on a house that's supposed to close 7/29. ShowingTime still reads ACTIVE. Either that's real backup interest worth keeping warm, or the MLS status is stale and a co-op agent is about to tour a sold house. ⚠️ FHA appraisal ordered is unverified at day 16"
+    },
+    {
+      "addr": "1709 Fieldstone Cir",
+      "city": "Helena",
+      "price": "—",
+      "client": "Dennis & Lee H.",
+      "status": "✅ ACTIVE — went live today",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "🆕 LIVE IN THE MLS as of today, roughly two days early — verified two ways: your seller texting \"we're on the market now\" at 10:53 AM and an outside MLS feed at 12:05 PM. No routine caught it because the go-live signal never touched email. 🔴 The list price is still unreadable by any routine and must not be quoted — it lives in a signed PDF nothing parses. The launch draft has sat unsent 29+ hours and its stated hold has expired. Photos, copy, go-live push"
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
       "city": "Panama City Beach",
       "price": "$364,000",
       "client": "Jeff B.",
-      "status": "ACTIVE — showing booked",
+      "status": "ACTIVE — showing Saturday",
       "showings14d": 0,
       "feedback": [],
       "gaps": [
         "Fri 7/10 2 PM showing — never confirmed it happened, no feedback"
       ],
-      "note": "🔔 Showing requested and confirmed 7/22 for Sat 7/25 9:30 AM (Christine S., Counts Real Estate Group) — the first booking after 123 days on market and the longest zero-activity streak on the board. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings. Call Jeff with the showing news before the price-or-reposition conversation, and nudge for feedback Saturday afternoon. Still no email on file — capture it on the call"
+      "note": "🔔 Showing requested and confirmed 7/22 for Sat 7/25 9:30 AM (Christine S., Counts Real Estate Group) — the first booking after 123 days on market and the longest zero-activity streak on the board. Last feedback 7/1 was 'not interested.' PCB market 7/16: 68 sold vs 218 new listings. Call Jeff with the showing news before the price conversation, and nudge for feedback Saturday afternoon. Still no email on file — capture it on the call"
     },
     {
       "addr": "355 Comanche St",
@@ -149,7 +190,7 @@
       "gaps": [
         "Wed 7/15 1:25 PM showing — no feedback yet, 8 days out"
       ],
-      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — a buyer credit plus a concession. Seth B.'s question about what the concession covers is the open item and the corrected net sheet still has not gone out, a full week later. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
+      "note": "🔥 LIVE OFFER via Davis H. (ARC Realty) — a buyer credit plus a concession. Seth B.'s question about what the concession covers is the open item and the corrected net sheet still has not gone out, eight days later. Price validated 'just right' 7/7. The Mon 7/13 showing cancelled"
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -201,31 +242,7 @@
         }
       ],
       "gaps": [],
-      "note": "🔥 Hot inbound buyer Kimberly W. is still waiting on a showing time — two weekends have passed and a third is coming. Phone-only, no email on file. The objection on record is the floor plan, not the price: pivot the photos and copy to the lot and outdoor living. 66 DOM. The Wed 7/15 showing cancelled same-morning"
-    },
-    {
-      "addr": "2368 Ridge Trail",
-      "city": "Birmingham",
-      "price": "$559,000",
-      "client": "Shea H. (Opendoor)",
-      "status": "CLEAR TO CLOSE",
-      "showings14d": 1,
-      "feedback": [],
-      "gaps": [
-        "Sun 7/19 1:15 PM showing (backup interest) — no feedback yet, 4 days"
-      ],
-      "note": "Backup-interest showing Sunday 7/19, still quiet. Close date 7/29 — the last dated closing on the books. ⚠️ FHA appraisal ordered is unverified at day 15 — ask, don't chase. ShowingTime also still lists this ACTIVE while the deal is Clear to Close; possible stale MLS status"
-    },
-    {
-      "addr": "1709 Fieldstone Cir",
-      "city": "Helena",
-      "price": "—",
-      "client": "Dennis & Lee H.",
-      "status": "✅ COMING SOON",
-      "showings14d": 0,
-      "feedback": [],
-      "gaps": [],
-      "note": "Listing agreement SIGNED 7/22 — all seven documents including the Coming Soon addendum. 🔴 The list price is still UNVERIFIED and must not be quoted: three numbers are live and the real one sits in a signed PDF. Setting it with Dennis and Lee is the blocking item on the entire launch. Then photos, copy and a go-live plan — the Coming Soon window is the cheapest demand you will ever build on this house"
+      "note": "🔥 Hot inbound buyer Kimberly W. is still waiting on a showing time — three weekends have passed and a fourth is two days out. Phone-only, no email on file. The objection on record is the floor plan, not the price: pivot the photos and copy to the lot and outdoor living. 66 DOM. Your own 'Sold by Strategy' feedback letter went to the Carrolls — that thread is warm, use it. The Wed 7/15 showing cancelled same-morning"
     },
     {
       "addr": "160 Lake Forest Way",
@@ -243,22 +260,33 @@
       "city": "Athens",
       "price": "—",
       "client": "—",
-      "status": "CLEAR TO CLOSE",
+      "status": "🔴 MONDAY CLOSE AT RISK",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 Cleared to close 7/17, closing Monday 7/27, title has acknowledged disbursement. Institutional/Lennar seller, no showings — listed here for pipeline visibility"
+      "note": "🆕 2:46 PM today the lender said the file has been 'in for final since this morning, hasn't been picked up,' can't close Monday, and the borrower has slow-walked docs. The deadline hour is still unknown. ⚠️ Also corrected today: the 7/17 'clear to close' was a brokerage commission document, NOT a lender clear-to-close — this deal was never lender-cleared. Institutional seller, no showings; here for pipeline visibility"
     },
     {
-      "addr": "821 Martinwood Rd",
-      "city": "Birmingham",
-      "price": "—",
-      "client": "Sulman M.",
-      "status": "ACTIVE",
+      "addr": "2127 Hwy 93",
+      "city": "Helena",
+      "price": "$1,150,000",
+      "client": "—",
+      "status": "COMING SOON",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "Zero showings since listing. Same seller as 5167 Lake Crest and Altamont E21 — he's on the phone today anyway about tomorrow's inspection, so fold a re-push into that call"
+      "note": "🔥 Four people raised a hand on the campaign today and each already got an in-thread reply with the landing page and a private-showing offer — four DMs you owe before Saturday's go-live, plus the buyer who registered 7/22 asking to learn more. Real pre-launch demand. A Coming Soon window is the cheapest demand you will ever build on this house"
+    },
+    {
+      "addr": "118 Hayesbury Ln",
+      "city": "Pelham",
+      "price": "—",
+      "client": "—",
+      "status": "COMING SOON",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "Awaiting go-live signal. ⚠️ After Fieldstone went live today without any routine seeing it, don't assume this one will be caught either — the signal may never touch email"
     },
     {
       "addr": "2704 19th Street N",
@@ -270,45 +298,23 @@
       "feedback": [],
       "gaps": [],
       "note": "Shows PENDING with you as listing agent, but the file has ZERO messages behind it and a 90-day search found nothing. Seller, price and close date all unverified. Here for visibility, not as a claim"
-    },
-    {
-      "addr": "2127 Hwy 93",
-      "city": "Helena",
-      "price": "$1,150,000",
-      "client": "—",
-      "status": "COMING SOON",
-      "showings14d": 0,
-      "feedback": [],
-      "gaps": [],
-      "note": "Listed 7/14, still awaiting go-live — but it drew inbound demand on 7/22: a buyer registered asking to learn more about the house. Pre-launch demand, worth working now. The reveal carousel publishes today"
-    },
-    {
-      "addr": "118 Hayesbury Ln",
-      "city": "Pelham",
-      "price": "—",
-      "client": "—",
-      "status": "COMING SOON",
-      "showings14d": 0,
-      "feedback": [],
-      "gaps": [],
-      "note": "Awaiting go-live signal"
     }
   ],
   "oweFeedback": [
     {
       "addr": "3110 Hwy 51 · Wilsonville",
       "price": "$1,619,900",
-      "when": "Tue 7/21 1:45 PM — ✅ you answered by text 7/22 3:50p (\"beautiful home just not quite what they are looking for\"), but the FORM is still open and ShowingTime has asked twice. 2 min to close the record"
+      "when": "Tue 7/21 1:45 PM — ✅ you answered by text 7/22 3:50p (\"beautiful home just not quite what they are looking for\"), but the FORM is still open and ShowingTime asked a THIRD time at 3:31p today. 2 min to close the record"
     },
     {
       "addr": "3421 Hwy 109 · Columbiana",
       "price": "$2,350,000",
-      "when": "Tue 7/21 1:00 PM — you toured it (RealtySouth-Inverness). Asked twice, 7/21 and 7/22. No answer yet — she left the front door open on a same-day request"
+      "when": "Tue 7/21 1:00 PM — you toured it (RealtySouth-Inverness). Asked three times now: 7/21, 7/22, and again 2:01p today. No answer yet, 2 days"
     },
     {
       "addr": "100 Autumn Crest Dr · Chelsea",
       "price": "$2,500,000",
-      "when": "Tue 7/21 12:15 PM — you toured it. Asked twice, 7/21 and 7/22. No answer yet, 2 days"
+      "when": "Tue 7/21 12:15 PM — you toured it. Asked three times: 7/21, 7/22, and again 1:30p today. No answer yet, 2 days"
     },
     {
       "addr": "211 El Prado Pl · PCB",
