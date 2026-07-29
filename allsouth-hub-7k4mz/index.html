@@ -60,7 +60,7 @@
   .src a { color:var(--goldsoft); }
   /* verdict row */
   .verdicts { display:flex; gap:7px; padding:10px 14px 12px; }
-  .v-btn { flex:1; text-align:center; font-size:11.5px; font-weight:800; padding:9px 2px; border-radius:10px; border:1.5px solid rgba(255,255,255,.18); color:var(--cream); background:transparent; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+  .v-btn { flex:1; text-align:center; font-size:11px; font-weight:800; padding:9px 2px; border-radius:10px; border:1.5px solid rgba(255,255,255,.18); color:var(--cream); background:transparent; cursor:pointer; white-space:nowrap; overflow:hidden; -webkit-tap-highlight-color:transparent; }
   .v-btn.sel-pursue { background:var(--ok); border-color:var(--ok); }
   .v-btn.sel-watch { background:var(--warm); border-color:var(--warm); }
   .v-btn.sel-pass { background:var(--hot); border-color:var(--hot); }
@@ -194,7 +194,7 @@ function card(l, open) {
       <button class="v-btn ${v==='pursue'?'sel-pursue':''}" onclick="verdict('${l.id}','pursue')">🟢 Pursue</button>
       <button class="v-btn ${v==='watch'?'sel-watch':''}" onclick="verdict('${l.id}','watch')">🟡 Watch</button>
       <button class="v-btn ${v==='pass'?'sel-pass':''}" onclick="verdict('${l.id}','pass')">🔴 Pass</button>
-      <button class="v-btn v-more" onclick="tellMore('${l.id}')">📩 Tell me more</button>
+      <button class="v-btn v-more" onclick="tellMore('${l.id}')">📩 More info</button>
     </div>
   </div>`;
 }
