@@ -118,6 +118,19 @@
 <script>
 const GENE_SMS = "+12054261113";
 const GENE_EMAIL = "gene@mysrsagent.com";
+const SIGNAL_URL = "https://hook.us2.make.com/b4o0d1lwsmw99cjcpq3a0srozb0vykoo";
+
+function beacon(id, v) {
+  try {
+    const [l, ln] = findListing(id);
+    if (!l) return;
+    fetch(SIGNAL_URL + "?ts=" + encodeURIComponent(new Date().toISOString())
+      + "&listingId=" + encodeURIComponent(l.id)
+      + "&address=" + encodeURIComponent(l.address + ", " + l.city)
+      + "&lane=" + encodeURIComponent(ln.id)
+      + "&verdict=" + encodeURIComponent(v), { mode: "no-cors", keepalive: true });
+  } catch (e) {}
+}
 let DATA = null, laneId = localStorage.getItem("asa-lane") || null;
 
 const seen = JSON.parse(localStorage.getItem("asa-seen") || "[]");
@@ -207,6 +220,7 @@ function findListing(id) {
 function verdict(id, v) {
   verdicts[id] = v;
   localStorage.setItem("asa-verdicts", JSON.stringify(verdicts));
+  beacon(id, v);
   if (v === "pursue") {
     const [l, ln] = findListing(id);
     openSheet("🟢 Pursue " + l.address,
@@ -216,6 +230,7 @@ function verdict(id, v) {
 }
 
 function tellMore(id) {
+  beacon(id, "more-info");
   const [l, ln] = findListing(id);
   openSheet("📩 More info on " + l.address,
     "Gene will pull the full package — financials, condition, seller situation — and get it to you.",
