@@ -1127,7 +1127,14 @@ function render(){
                  budget:viewBudget, playbook:viewPlaybook, timeline:viewTimeline, march:viewMarch};
   document.getElementById("app").innerHTML = (views[TAB] || viewCommand)();
 }
-function setMe(n){ ME = (ME===n? "" : n); localStorage.setItem("fthq-me", ME); render(); if(ME) toast(`Hi ${ME} — your entries now save to the team board automatically.`); }
+function setMe(n){
+  // Drop any in-flight debounced push: it was queued under the previous
+  // identity, and letting it land would attribute those edits to the new one.
+  clearTimeout(_pt);
+  ME = (ME===n? "" : n); localStorage.setItem("fthq-me", ME);
+  render();
+  if(ME) toast(`Hi ${ME} — your entries now save to the team board automatically.`);
+}
 function setTab(t){ TAB = t; localStorage.setItem("fthq-tab", t); window.scrollTo(0,0); render(); }
 render();
 _lastPull = Date.now();
