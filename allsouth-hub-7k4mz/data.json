@@ -1,7 +1,7 @@
 {
-  "updated": "Jul 29, 2026 · 5:37 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Evening check-in: nothing on your three lanes has come off the market since this morning, and the two best beach-value plays re-verified live at unchanged prices — 5621 Galvez still $375K with its stated $52–65K rental projection, and 914 Cadillac still $359K for four bedrooms on Dauphin Island.",
+  "updated": "Jul 30, 2026 · 7:56 AM CT",
+  "nextSweep": "this evening",
+  "headline": "One property on your beach lane now proves its income instead of projecting it: 4660 Casablanca in Orange Beach states $3,600+ a month currently coming in, short- and long-term rental approved, at $599,000 — and a new water-view find on Little Lagoon joins the board at $599,900.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "Sweep verified Jul 29, 2026 on live listing pages. The headline: the affluent south corridor (Franklin/Brentwood) is a LEASE market at your size — ownership under $3M concentrates in Berry Hill and Spring Hill. Freestanding restaurant/bank conversion product is scarce in the south corridor right now; the one strong verified restaurant conversion (former Sakura, Hermitage) sits east of town. The sweep keeps hunting twice a day. EVENING PASS Jul 29, 5:37 PM CT: no new inventory surfaced in the five hours since the morning sweep, and nothing has been removed. Honest limit on this pass — the commercial marketplaces blocked automated re-checks tonight (LoopNet returned 403), so the individual listing pages below carry their morning verification rather than a fresh one; the full page-by-page re-verify runs again tomorrow morning."
+      "note": "Sweep verified Jul 29, 2026 on live listing pages. The headline: the affluent south corridor (Franklin/Brentwood) is a LEASE market at your size — ownership under $3M concentrates in Berry Hill and Spring Hill. Freestanding restaurant/bank conversion product is scarce in the south corridor right now; the one strong verified restaurant conversion (former Sakura, Hermitage) sits east of town. The sweep keeps hunting twice a day. MORNING PASS Jul 30, 7:56 AM CT — ⚠️ STATED PLAINLY BECAUSE IT MATTERS: the page-by-page re-verify promised for this morning DID NOT HAPPEN. LoopNet returned 403 to every automated request on this pass, exactly as it did last night, so every listing below carries its Jul 29 morning verification and none of them was re-read today. That is two sweeps in a row on this lane. Nothing was added, nothing was removed, and no price was changed — stale-but-labelled beats invented. If a specific building matters to a decision this week, ask Gene and he will pull it from the MLS/CoStar side directly rather than waiting on the scraper."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "Sweep verified Jul 29, 2026 on live listing pages. Showroom+warehouse combo product is genuinely scarce here — only 9 flex properties for sale metro-wide, and the good ones move fast (the Hwy 321 building listed Jul 27). The realistic playbook: buy function over address (Lenoir City/Powell at $145–245/sf) and lease a west-side showroom — or lease Amherst's new glass-front/dock-rear construction at $13/sf and skip the purchase. Side note: 120 Interchange Park Dr in Lenoir City also shows a separate $1.3M, 4,255 sf leased retail building on LoopNet — distinct from the lot you already know. EVENING PASS Jul 29, 5:37 PM CT: no new inventory surfaced in the five hours since the morning sweep, and nothing has been removed. Honest limit on this pass — the commercial marketplaces blocked automated re-checks tonight (LoopNet returned 403), so the individual listing pages below carry their morning verification rather than a fresh one; the full page-by-page re-verify runs again tomorrow morning."
+      "note": "Sweep verified Jul 29, 2026 on live listing pages. Showroom+warehouse combo product is genuinely scarce here — only 9 flex properties for sale metro-wide, and the good ones move fast (the Hwy 321 building listed Jul 27). The realistic playbook: buy function over address (Lenoir City/Powell at $145–245/sf) and lease a west-side showroom — or lease Amherst's new glass-front/dock-rear construction at $13/sf and skip the purchase. Side note: 120 Interchange Park Dr in Lenoir City also shows a separate $1.3M, 4,255 sf leased retail building on LoopNet — distinct from the lot you already know. MORNING PASS Jul 30, 7:56 AM CT — ⚠️ STATED PLAINLY BECAUSE IT MATTERS: the page-by-page re-verify promised for this morning DID NOT HAPPEN. LoopNet returned 403 to every automated request on this pass, exactly as it did last night, so every listing below carries its Jul 29 morning verification and none of them was re-read today. That is two sweeps in a row on this lane. Nothing was added, nothing was removed, and no price was changed — stale-but-labelled beats invented. If a specific building matters to a decision this week, ask Gene and he will pull it from the MLS/CoStar side directly rather than waiting on the scraper."
     },
     {
       "id": "beach",
@@ -696,6 +696,7 @@
           "waterPosition": "inland",
           "rentalHistory": "Listing states: \"RENTAL PROJECTION OF $52K – $65K\"",
           "highlights": [
+            "Page now reads REDUCED $20K and \"MOTIVATED SELLER - BRING AN OFFER\" (verified Jul 30) — asking held at $375,000",
             "Separate cottage/flex structure + 2-car garage",
             "New roof and gutters, move-in ready",
             "Deeded boat-launch access",
@@ -719,8 +720,9 @@
           "baths": 3,
           "sf": 2576,
           "waterPosition": "water-view",
-          "rentalHistory": "Currently generating $3,600+/mo; marketed with both short-term AND long-term rental approval",
+          "rentalHistory": "Listing states: \"Currently generating $3,600+ per month in rental income\"; approved for both short-term and long-term rental",
           "highlights": [
+            "Only property on this lane with rental income stated ON the listing — $3,600+/mo, verified Jul 30",
             "Bay views + community pool over the bay",
             "2021 build, private primary balcony",
             "Golf-cart ride to The Wharf / Margaritaville",
@@ -732,32 +734,7 @@
           "photoUrl": null,
           "broker": "Coldwell Banker",
           "mls": "394907",
-          "badge": null
-        },
-        {
-          "id": "16637-brigadoon-trail",
-          "address": "16637 Brigadoon Trail",
-          "city": "Gulf Shores (Fort Morgan Rd)",
-          "state": "AL",
-          "price": 589900,
-          "beds": 3,
-          "baths": 2,
-          "sf": 1200,
-          "waterPosition": "water-view",
-          "rentalHistory": null,
-          "highlights": [
-            "2022 Gold Fortified raised build",
-            "Private Gunite pool (2023) + outdoor shower",
-            "30×10 covered porch facing Little Lagoon",
-            "Backs to nature preserve, minutes to the Gulf"
-          ],
-          "fitNote": "Strongest pure-STR spec on the Alabama side under $600K — pool listings out-earn non-pool comps by 20–30% here, and Gold Fortified cuts the insurance line.",
-          "strNote": null,
-          "url": "https://www.condoinvestment.com/listing/399437-middle-brigadoon-residential-16637-brigadoon-trail-gulf-shores-al-36542/",
-          "photoUrl": null,
-          "broker": null,
-          "mls": "399437",
-          "badge": null
+          "badge": "INCOME"
         },
         {
           "id": "703-bienville-blvd",
@@ -776,9 +753,9 @@
             "2025-updated primary bath, hurricane hardware",
             "Two under-home storage areas"
           ],
-          "fitNote": "Heated pool + golf cart is the highest-converting amenity combo on the island — day-one STR with zero setup capex.",
+          "fitNote": "Heated pool + golf cart is the highest-converting amenity combo on the island — day-one STR with zero setup capex. ⚠️ LINK NOTE (Jul 30): the listing broker's property page now returns 404, but the listing itself re-verified ACTIVE at $575,000 / 3BR / 2BA / 1,512 sf on independent sources this morning — so this is a broken link, not a dead listing. Direct link is being re-sourced; ask Gene for the MLS sheet in the meantime.",
           "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/property/7793405/",
+          "url": "",
           "photoUrl": "https://property-images.realgeeks.com/algulf/71b5eb7b2e0e1c56fd814f7bcd767739.jpg",
           "broker": "Griffin Realty",
           "mls": "7793405",
@@ -1008,6 +985,31 @@
           "broker": "Griffin Realty",
           "mls": "7789888",
           "badge": null
+        },
+        {
+          "id": "17330-state-highway-180",
+          "address": "17330 State Highway 180",
+          "city": "Gulf Shores (Laguna Park / Fort Morgan Rd)",
+          "dealType": "",
+          "price": 599900,
+          "leaseRate": "",
+          "sf": 2129,
+          "beds": 3,
+          "baths": 3,
+          "propertyType": "Detached single-family",
+          "waterPosition": "Water view of Little Lagoon",
+          "rentalHistory": "",
+          "highlights": [
+            "Water view of Little Lagoon — the lagoon side is where Gulf Shores value lives, per this lane's own read",
+            "2,129 sf / 3BR / 3BA on the Fort Morgan Rd corridor",
+            "Detached house, not a condo — meets the hard rule on this lane"
+          ],
+          "fitNote": "NEW Jul 30. The one find this morning that clears every gate on this lane at once: detached, 3BR+, under $600K, and an actual stated water position rather than water-adjacent. At $282/sf it is better value per foot than most of the Dauphin Island set. ⚠️ NO rental income or projection is stated on the listing, so none is claimed here — and Fort Morgan Rd corridor STR rules vary parcel to parcel, so the zoning check matters more here than usual.",
+          "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required before any offer.",
+          "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
+          "photoUrl": "",
+          "broker": "Sourced via CondoInvestment MLS feed (Gulf Shores homes $500–600K), verified Jul 30, 2026",
+          "badge": ""
         }
       ],
       "intel": [
@@ -1079,7 +1081,7 @@
           ]
         }
       ],
-      "note": "Sweep verified July 2026 across MLS-fed broker sites. Big picture: Dauphin Island owns the sub-$600K house market; Gulf Shores' value is on the lagoon/canal side; Pensacola Beach itself has nothing in budget (the FL yield plays are Perdido-side mainland). Before any offer: parcel-level STR zoning check + current wind/flood quotes — insurance swings net yield more than nightly rate in every one of these markets. EVENING PASS Jul 29, 5:37 PM CT: spot re-verified live and unchanged — 5621 Galvez Rd still ACTIVE at $375,000 / 4BR with the listing itself stating a $52K–$65K rental projection, and 914 Cadillac Ave still ACTIVE at $359,000 / 4BR. No new sub-$600K houses hit the market since this morning; two other pages sat behind bot-protection tonight and get re-checked tomorrow morning."
+      "note": "Sweep verified July 2026 across MLS-fed broker sites. Big picture: Dauphin Island owns the sub-$600K house market; Gulf Shores' value is on the lagoon/canal side; Pensacola Beach itself has nothing in budget (the FL yield plays are Perdido-side mainland). Before any offer: parcel-level STR zoning check + current wind/flood quotes — insurance swings net yield more than nightly rate in every one of these markets. MORNING PASS Jul 30, 7:56 AM CT — this lane got a genuine page-by-page re-verify today, unlike last night. Ten of twelve listing pages re-read live and every one is still ACTIVE at an unchanged price. TWO REAL CHANGES: 4660 Casablanca Dr in Orange Beach now states \"currently generating $3,600+ per month in rental income\" on the listing itself — that makes it the only property on this lane with an income receipt rather than a guess, and it is badged INCOME accordingly. And 5621 Galvez Rd now reads REDUCED $20K with \"motivated seller — bring an offer\" while holding at $375,000 with its stated $52–65K projection. ONE ADDITION: 17330 State Highway 180 (Laguna Park) at $599,900, 3BR/3BA with a water view of Little Lagoon. ONE REMOVAL for fit, not for status: 16637 Brigadoon Trail came off — at 1,200 sf and $589,900 it was the weakest value on the lane and only water-adjacent. ⚠️ TWO HONEST LIMITS: 703 Bienville Blvd's broker page now returns 404, but the listing re-verified ACTIVE at $575,000 on independent sources, so the link is broken — not the listing — and its Pursue button has no destination until the direct link is re-sourced. And 209 Sunrise Dr sat behind bot protection again this morning, so it carries its prior verification rather than a fresh one."
     }
   ]
 }
