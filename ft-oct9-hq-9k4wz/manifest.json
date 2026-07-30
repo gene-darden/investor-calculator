@@ -1,0 +1,9 @@
+{
+  "name": "Further Together HQ",
+  "short_name": "FT HQ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1B2A4A",
+  "theme_color": "#1B2A4A",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

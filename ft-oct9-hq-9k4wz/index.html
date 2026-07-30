@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Further Together HQ — Oct 9, 2026</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<style>
+  :root{--navy:#1B2A4A;--navy2:#22345C;--navy3:#2A3F6E;--gold:#D8973C;--goldsoft:#F0C987;--cream:#F8F4ED;--hot:#c0392b;--warm:#d68910;--ok:#3d9a5f;--blue:#3b7dd8;--purple:#7a4fb5;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  /* Committed single-theme brand surface (Darden navy/gold) — hold it even if
+     the host page stamps a light theme on the root. */
+  html{-webkit-text-size-adjust:100%;background:var(--navy);color-scheme:dark;}
+  body{font-family:-apple-system,"Segoe UI",Arial,sans-serif;background:var(--navy);color:var(--cream);padding-bottom:80px;min-height:100vh;}
+  header{padding:calc(env(safe-area-inset-top) + 16px) 16px 10px;}
+  header h1{font-size:18px;letter-spacing:.04em;line-height:1.25;}
+  header h1 span{color:var(--gold);}
+  .sub{font-size:11.5px;opacity:.72;margin-top:4px;line-height:1.5;}
+  .whoami{margin-top:9px;display:flex;align-items:center;gap:7px;flex-wrap:wrap;}
+  .whoami .lab{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;opacity:.55;font-weight:700;}
+  .chip{font-size:11.5px;font-weight:700;padding:5px 11px;border-radius:20px;border:1.5px solid rgba(255,255,255,.2);cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .chip.on{background:var(--gold);border-color:var(--gold);color:var(--navy);}
+  .headline{background:var(--gold);color:var(--navy);font-weight:700;font-size:13px;line-height:1.45;padding:11px 16px;}
+  .tabs{display:flex;margin:12px 10px 0;background:var(--navy2);border-radius:12px;overflow-x:auto;-webkit-overflow-scrolling:touch;}
+  .tab{flex:0 0 auto;text-align:center;padding:10px 13px 8px;font-size:11.5px;font-weight:700;letter-spacing:.02em;opacity:.6;cursor:pointer;border-bottom:3px solid transparent;-webkit-tap-highlight-color:transparent;white-space:nowrap;}
+  .tab .e{display:block;font-size:16px;margin-bottom:2px;}
+  .tab.on{opacity:1;border-bottom-color:var(--gold);background:var(--navy3);}
+  section{margin:12px 10px 0;background:var(--navy2);border-radius:14px;overflow:hidden;}
+  .sec-h{padding:12px 14px 9px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:700;display:flex;align-items:center;gap:8px;}
+  .count{background:rgba(216,151,60,.18);color:var(--gold);border-radius:20px;font-size:11px;padding:1px 9px;font-weight:800;letter-spacing:0;}
+  .pad{padding:0 14px 14px;}
+  p.body{font-size:13px;line-height:1.6;opacity:.9;padding:2px 0 8px;}
+  p.body b{color:var(--goldsoft);}
+  /* countdown */
+  .cd{display:flex;gap:8px;padding:0 14px 14px;}
+  .cd-box{flex:1;background:var(--navy3);border-radius:11px;padding:11px 6px;text-align:center;}
+  .cd-n{font-size:25px;font-weight:800;color:var(--gold);line-height:1.1;}
+  .cd-l{font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;opacity:.65;margin-top:3px;font-weight:700;}
+  /* stat row */
+  .stats{display:flex;flex-wrap:wrap;gap:8px;padding:0 14px 14px;}
+  .stat{flex:1 1 30%;min-width:92px;background:var(--navy3);border-radius:11px;padding:10px 8px;text-align:center;}
+  .stat .n{font-size:19px;font-weight:800;color:var(--goldsoft);line-height:1.15;}
+  .stat .n.red{color:#f0938a;} .stat .n.grn{color:#7fd4a1;} .stat .n.amb{color:#f0c987;}
+  .stat .l{font-size:9.5px;letter-spacing:.05em;text-transform:uppercase;opacity:.62;margin-top:4px;line-height:1.35;font-weight:700;}
+  /* progress */
+  .bar{background:rgba(255,255,255,.12);border-radius:6px;height:11px;overflow:hidden;margin:2px 0 5px;}
+  .bar i{display:block;height:11px;background:var(--gold);border-radius:6px;}
+  .bar i.grn{background:var(--ok);} .bar i.red{background:var(--hot);}
+  .bar-l{font-size:11.5px;opacity:.75;line-height:1.45;}
+  /* rows / cards */
+  .row{border-top:1px solid rgba(255,255,255,.07);padding:11px 14px;}
+  .row:first-of-type{border-top:none;}
+  .r-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .r-t{font-size:14px;font-weight:800;line-height:1.3;}
+  .r-m{font-size:11.5px;opacity:.7;margin-top:3px;line-height:1.5;}
+  .r-right{text-align:right;flex:none;}
+  .r-amt{font-size:14px;font-weight:800;color:var(--goldsoft);white-space:nowrap;}
+  .r-amt small{display:block;font-size:9.5px;font-weight:400;opacity:.65;letter-spacing:.04em;}
+  .r-body{display:none;padding-top:9px;}
+  .row.open .r-body{display:block;}
+  .r-head::after{content:"▾";opacity:.4;font-size:12px;margin-left:2px;}
+  .row.open .r-head::after{content:"▴";}
+  .badge{display:inline-block;font-size:9px;font-weight:800;letter-spacing:.05em;border-radius:10px;padding:2px 7px;margin-left:5px;vertical-align:2px;white-space:nowrap;}
+  .b-lock{background:var(--ok);color:#fff;} .b-open{background:var(--hot);color:#fff;}
+  .b-maybe{background:var(--warm);color:#fff;} .b-proven{background:var(--blue);color:#fff;}
+  .b-inc{background:var(--purple);color:#fff;} .b-new{background:var(--gold);color:var(--navy);}
+  .kv{display:flex;justify-content:space-between;gap:10px;font-size:12.5px;padding:4px 0;line-height:1.45;border-bottom:1px dashed rgba(255,255,255,.08);}
+  .kv:last-child{border-bottom:none;}
+  .kv span:first-child{opacity:.68;} .kv span:last-child{text-align:right;font-weight:700;}
+  .li{font-size:12.5px;line-height:1.55;padding:3px 0;}
+  .li::before{content:"· ";color:var(--gold);font-weight:800;}
+  .pro::before{content:"✓ ";color:#7fd4a1;font-weight:800;}
+  .con::before{content:"✗ ";color:#e08a7f;font-weight:800;}
+  .note{font-size:12.5px;margin-top:9px;padding:9px 11px;background:rgba(216,151,60,.1);border-left:3px solid var(--gold);border-radius:6px;line-height:1.5;color:var(--goldsoft);}
+  .warn{font-size:12.5px;margin:9px 0 0;padding:9px 11px;background:rgba(192,57,43,.14);border-left:3px solid var(--hot);border-radius:6px;line-height:1.5;}
+  .warn b{color:#f0938a;}
+  .quote{font-size:12.5px;font-style:italic;opacity:.85;line-height:1.55;padding:8px 11px;background:rgba(255,255,255,.05);border-radius:8px;margin:8px 0;}
+  .quote cite{display:block;font-style:normal;font-size:11px;opacity:.6;margin-top:5px;}
+  .lab{font-size:10px;letter-spacing:.1em;text-transform:uppercase;opacity:.55;padding:9px 0 3px;font-weight:800;}
+  /* checklist */
+  .ck{display:flex;align-items:flex-start;gap:9px;padding:8px 0;border-top:1px solid rgba(255,255,255,.06);cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .ck:first-of-type{border-top:none;}
+  .ck .box{flex:none;width:21px;height:21px;border-radius:6px;border:2px solid rgba(255,255,255,.28);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:800;margin-top:1px;}
+  .ck.done .box{background:var(--ok);border-color:var(--ok);color:#fff;}
+  .ck .txt{font-size:13px;line-height:1.5;flex:1;}
+  .ck.done .txt{opacity:.5;text-decoration:line-through;}
+  .ck .by{display:block;font-size:10px;opacity:.6;margin-top:2px;font-style:italic;text-decoration:none;}
+  .owner{flex:none;font-size:9.5px;font-weight:800;letter-spacing:.04em;background:rgba(255,255,255,.1);border-radius:8px;padding:2px 6px;margin-top:2px;}
+  /* votes */
+  .votes{display:flex;gap:6px;margin-top:10px;}
+  .vb{flex:1;text-align:center;font-size:11px;font-weight:800;padding:9px 2px;border-radius:10px;border:1.5px solid rgba(255,255,255,.18);color:var(--cream);background:transparent;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .vb.sel-yes{background:var(--ok);border-color:var(--ok);} .vb.sel-mid{background:var(--warm);border-color:var(--warm);} .vb.sel-no{background:var(--hot);border-color:var(--hot);}
+  .tally{font-size:11px;opacity:.7;margin-top:7px;line-height:1.5;}
+  .tally b{color:var(--goldsoft);}
+  /* inputs */
+  .fld{display:flex;align-items:center;gap:9px;padding:7px 0;border-top:1px solid rgba(255,255,255,.06);}
+  .fld:first-of-type{border-top:none;}
+  .fld label{flex:1;font-size:12.5px;line-height:1.4;}
+  .fld input{flex:none;width:96px;background:var(--navy);border:1.5px solid rgba(255,255,255,.2);color:var(--cream);border-radius:8px;padding:8px 9px;font-size:13px;font-weight:700;font-family:inherit;text-align:right;}
+  .fld input:focus{outline:none;border-color:var(--gold);}
+  textarea{width:100%;background:var(--navy);border:1.5px solid rgba(255,255,255,.18);color:var(--cream);border-radius:9px;padding:10px;font-size:13px;font-family:inherit;line-height:1.5;margin-top:8px;resize:vertical;min-height:64px;}
+  textarea:focus{outline:none;border-color:var(--gold);}
+  /* buttons */
+  .btn{display:block;width:100%;text-align:center;font-size:14px;font-weight:800;padding:13px;border-radius:11px;margin-top:9px;text-decoration:none;border:none;font-family:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .b-gold{background:var(--gold);color:var(--navy);} .b-out{background:transparent;color:var(--cream);border:1.5px solid rgba(255,255,255,.22);}
+  .b-call{background:var(--ok);color:#fff;}
+  .btn-row{display:flex;gap:8px;}
+  .btn-row .btn{margin-top:9px;}
+  /* timeline */
+  .tl{position:relative;padding-left:22px;}
+  .tl::before{content:"";position:absolute;left:6px;top:6px;bottom:6px;width:2px;background:rgba(255,255,255,.14);}
+  .tl-i{position:relative;padding:9px 0;}
+  .tl-i::before{content:"";position:absolute;left:-20px;top:15px;width:9px;height:9px;border-radius:50%;background:var(--navy2);border:2px solid var(--gold);}
+  .tl-i.past::before{background:var(--ok);border-color:var(--ok);}
+  .tl-i.now::before{background:var(--hot);border-color:var(--hot);box-shadow:0 0 0 4px rgba(192,57,43,.25);}
+  .tl-d{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--gold);font-weight:800;}
+  .tl-t{font-size:13.5px;font-weight:700;line-height:1.4;margin-top:2px;}
+  .tl-m{font-size:11.5px;opacity:.7;line-height:1.5;margin-top:3px;}
+  footer{text-align:center;font-size:10px;opacity:.5;margin-top:26px;padding:0 22px;line-height:1.75;}
+  footer b{color:var(--goldsoft);}
+  /* sync bar */
+  .syncbar{display:flex;align-items:center;gap:9px;padding:8px 16px;background:var(--navy2);font-size:11.5px;}
+  .syncbar .dot{flex:none;width:8px;height:8px;border-radius:50%;background:var(--ok);}
+  .syncbar.busy .dot{background:var(--gold);}
+  .syncbar.bad .dot{background:var(--hot);}
+  .syncbar .txt{flex:1;opacity:.75;line-height:1.4;}
+  .syncbar .txt b{color:var(--goldsoft);}
+  .syncbar button{flex:none;background:transparent;border:1.5px solid rgba(255,255,255,.22);color:var(--cream);font-size:11px;font-weight:800;padding:6px 12px;border-radius:16px;font-family:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(env(safe-area-inset-bottom) + 18px);background:var(--gold);color:var(--navy);font-size:13px;font-weight:800;padding:11px 20px;border-radius:24px;z-index:99;opacity:0;transition:opacity .25s;pointer-events:none;max-width:88%;text-align:center;line-height:1.4;}
+  .toast.on{opacity:1;}
+</style>
+</head>
+<body>
+<header>
+  <h1>🤝 FURTHER TOGETHER <span>HQ</span></h1>
+  <div class="sub">Friday, <b>October 9, 2026</b> · Birmingham, AL · Southeast agent event<br>Connie Alexander Jacks &amp; Gene Darden · Betty Mathew · Steven Jacks</div>
+  <div class="whoami">
+    <span class="lab">You are</span>
+    <span id="who"></span>
+  </div>
+</header>
+<div class="headline" id="headline"></div>
+<div class="syncbar" id="syncbar"></div>
+<div class="tabs" id="tabs"></div>
+<div id="app"></div>
+<footer>
+  Built from the <b>March 11, 2026</b> event's real numbers — the FURTHER TOGETHER playbook sheet, the sponsor ledger, and the full expense trail.<br>
+  Your checkmarks, votes, notes and numbers sync to the <b>shared team board</b> automatically.<br>
+  The Darden Group · Real Broker LLC &nbsp;|&nbsp; The Luxe Group at Real Broker, LLC
+</footer>
+<div class="toast" id="toast"></div>
+
+<script>
+/* ══════════════════════════════════════════════════════════════
+   FURTHER TOGETHER HQ — team planning app
+   All planning data lives in DATA below. Edit here to update the app.
+   Sources: "FURTHER TOGETHER March 2026" + "Oct 9 Further Together"
+   Google Sheets (Betty Mathew), and the Oct 9 email thread.
+   ══════════════════════════════════════════════════════════════ */
+
+const EVENT_DATE = "2026-10-09T09:00:00-05:00";
+const TEAM = ["Gene","Connie","Betty","Steven","Scarlett"];
+const TEAM_EMAILS = "connie@luxebhm.com,betty@luxebhm.com,steven@luxebhm.com,gene@dardengroupusa.com,scarlett@dardengroupusa.com";
+
+const DATA = {
+  /* ── MARCH 11, 2026 — WHAT ACTUALLY HAPPENED (the receipts) ── */
+  march: {
+    revenue: 18838, expenses: 18069.37, net: 768.63,
+    sponsorCash: 15500, ticketGross: 3518, ticketFees: 179.78, ticketNet: 3338.22,
+    ticketsPaid: 62, mainPaid: 48, mainComp: 14, vipPaid: 11,
+    // Room count corrected by Connie 7/29 — she was in it. The ledger only ever
+    // proved 62 PAID tickets; bodies in the room were closer to 100 once
+    // speakers, sponsor reps and both of the ~15-guest comp lists are counted.
+    mainRoomEst: 100,
+    goalLow: 150, goalHigh: 200,
+    // The March surplus was never spent — it carries into Oct 9 as seed money.
+    carryover: 768.63,
+    sponsors: [
+      {tier:"Platinum — VIP Event", amt:4000, who:"Assurance Mortgage", note:"Needed a table. Paid in 3 installments — Jan / Feb / March."},
+      {tier:"Platinum — Main Event", amt:4000, who:"Heights Title", note:"Paid. Needed a table."},
+      {tier:"Gold", amt:3000, who:"Brian Bell / 2-10", note:"Needed a table."},
+      {tier:"Gold (in-kind)", amt:0, who:"VVMM — Video Vision Media Marketing", note:"Did the photos + videography free."},
+      {tier:"Silver", amt:1500, who:"SouthOak", note:"Paid. Needed a table."},
+      {tier:"Silver", amt:1500, who:"FirstBank", note:"Paid. No table — couldn't attend."},
+      {tier:"Silver", amt:1500, who:"Alfa — Jacob Vail", note:"Paid."}
+    ],
+    expenseLines: [
+      {item:"Back Forty — deposit", amt:2500.00},
+      {item:"Back Forty — balance", amt:5379.41},
+      {item:"TopGolf — deposit", amt:1910.58},
+      {item:"TopGolf — balance", amt:2762.97},
+      {item:"Westin room reservations", amt:1859.48},
+      {item:"Gifts (AI voice recorders, etc.)", amt:1027.83},
+      {item:"Phil Gerdes — airfare", amt:789.39},
+      {item:"John Kitchens — airfare", amt:573.41},
+      {item:"Katie Day — airfare", amt:430.00},
+      {item:"Clicker + attendee giveaways", amt:343.43},
+      {item:"TopGolf — drinks tab", amt:335.19},
+      {item:"Directional signs", amt:157.68}
+    ],
+    ticketWeeks: [
+      {wk:"Jan 25–31", n:7, amt:453}, {wk:"Feb 1–10", n:4, amt:336},
+      {wk:"Feb 11–17", n:0, amt:0}, {wk:"Feb 18–24", n:2, amt:78},
+      {wk:"Feb 25–Mar 3", n:19, amt:1004}, {wk:"Mar 4–11", n:30, amt:1647}
+    ],
+    backForty: [
+      {k:"Open food", v:"$5,375.00"}, {k:"Open bar fee", v:"$250.00"},
+      {k:"Tea bar", v:"$200.00"}, {k:"Gratuity (20%)", v:"$1,165.00"},
+      {k:"Venue fee", v:"$200.00"}, {k:"Taxes (AL + BHM + Jeff Co.)", v:"$557.50"},
+      {k:"Invoiced subtotal", v:"$7,747.50"}, {k:"Actually paid out", v:"$7,879.41"}
+    ],
+    agenda: [
+      {t:"Intro & Welcome", who:"Connie & Gene"}, {t:"1:00–1:10", who:"Platinum sponsor"},
+      {t:"1:10–2:00", who:"John Kitchens"}, {t:"2:00–2:45", who:"Katie Day"},
+      {t:"2:45–3:00", who:"Break + Platinum sponsor"}, {t:"3:00–3:45", who:"Southeast leadership panel"},
+      {t:"3:45–5:00", who:"Phil Gerdes"}, {t:"5:00–6:00", who:"Happy hour networking"}
+    ]
+  },
+
+  /* ── OCT 9 SPONSOR LADDER (target) ── */
+  sponsorTargets: [
+    {id:"plat1", tier:"Platinum — Main Event", ask:4000, who:"", status:"open",
+     perks:"Speaking slot from the stage, top billing on all creative, table, logo on badge + signage."},
+    {id:"plat2", tier:"Platinum — Main Event", ask:4000, who:"", status:"open",
+     perks:"Second stage slot (post-break), top billing, table, logo on badge + signage."},
+    {id:"gold1", tier:"Gold", ask:3000, who:"Assurance Mortgage / Ben Dunham", status:"warm",
+     perks:"Table, logo on lanyards or tote bags or tees, verbal recognition, attendee list."},
+    {id:"gold2", tier:"Gold", ask:3000, who:"Brian Bell / 2-10", status:"asked",
+     perks:"Table, logo on lanyards or tote bags or tees, verbal recognition, attendee list."},
+    {id:"silv1", tier:"Silver", ask:1500, who:"", status:"open", perks:"Table, logo on signage + program, verbal recognition."},
+    {id:"silv2", tier:"Silver", ask:1500, who:"", status:"open", perks:"Table, logo on signage + program, verbal recognition."},
+    {id:"silv3", tier:"Silver", ask:1500, who:"", status:"open", perks:"Table, logo on signage + program, verbal recognition."}
+  ],
+  renewals: [
+    {who:"Brian Bell / 2-10", last:"Gold — $3,000", heat:"hot", note:"Already asked Connie for an invoice, unprompted. Home warranty slot is effectively filled. Invoice him first."},
+    {who:"Assurance Mortgage / Ben Dunham", last:"Platinum VIP — $4,000", heat:"hot", note:"Paid $4K over three installments in March. Penciled at Gold ($3K) on the Oct sheet — worth asking for Platinum again."},
+    {who:"Heights Title", last:"Platinum Main — $4,000", heat:"hot", note:"Paid in full, brought Matthew Kidd, Paige Briggs and Patrick Warren. Best single renewal target."},
+    {who:"SouthOak", last:"Silver — $1,500", heat:"warm", note:"Paid, took a table, sent Cortnie Draper."},
+    {who:"Alfa — Jacob Vail", last:"Silver — $1,500", heat:"warm", note:"Paid and attended. Usually brings giveaway product."},
+    {who:"FirstBank", last:"Silver — $1,500", heat:"warm", note:"Paid but couldn't attend and took no table. Easy yes if the ask stays at Silver."},
+    {who:"VVMM — Video Vision Media Marketing", last:"Gold, in-kind", heat:"warm", note:"Shot photo + video free in March. Re-up the trade before budgeting a videographer."},
+    {who:"PLACE / Ben Kinney", last:"Asked, no close", heat:"cold", note:"Gene and Scarlett pitched in Jan–Feb. Unresolved — worth one more swing."}
+  ],
+
+  /* ── VENUES ── */
+  venues: [
+    {id:"cahaba", name:"Cahaba Brewing — Barrel Room / Daytime Taproom", badge:"BEST FIT ON PAPER", bcls:"b-new",
+     addr:"4500 5th Ave S, Building C, Birmingham, AL 35222", phone:"+12055782616", phoneTxt:"(205) 578-2616",
+     url:"https://cahababrewing.com/rent-the-space/",
+     specs:[["Barrel Room","Seated 120 / reception 300 · 3,000 sq ft"],["Daytime taproom","Seated 150 / reception 300"],["Outdoor","6,000 sq ft + covered patio (seated 75)"],["Rooms","3"],["Published price","None — must call"]],
+     pros:["Daytime taproom already has projectors and TVs in place — the 9:00am–12:45pm format needs exactly that, with no AV rental.","Seated 150 matches the 150–200 attendance goal. Back Forty never had to hold that many.","A Friday morning is dead time for a taproom, which is the cheapest slot you will ever be quoted.","Reclaimed-wood furniture is already set, so setup and teardown shrink.","Barrel Room separates from the taproom by a sliding door — a private option if the morning slot is unavailable."],
+     cons:["Pricing is unpublished, so the whole comparison hangs on one phone call.","Continental Gin Building is less polished than The Club if the goal is to feel upmarket.","Food is not in-house the way a restaurant venue is — catering needs to be arranged."],
+     ask:["Friday Oct 9, roughly 8:00am–1:30pm — is the daytime taproom or Barrel Room available?","Room rent for a Friday morning, and is there a food-and-beverage minimum?","Confirm the projectors and TVs — resolution, inputs, and whether mics and a speaker system come with the room.","Outside catering or in-house? If in-house, get a per-head breakfast/brunch price.","How many 6-ft tables can we get for sponsors, and is there a charge?","Parking count, and is it free?"]},
+    {id:"theclub", name:"The Club — Main Dining Room", badge:"CONNIE'S PICK", bcls:"b-maybe",
+     addr:"1 Robert S. Smith Dr, Birmingham, AL 35209 (Red Mountain)", phone:"+12053235821", phoneTxt:"(205) 323-5821",
+     url:"https://www.theclubinc.org/",
+     specs:[["Capacity range","10-person meetings up to 1,500-person receptions"],["Spaces","3 à la carte dining rooms + private rooms"],["Opened","1951 · mid-century modern, downtown skyline views"],["Recognition","Voted Best Event Venue by Birmingham Magazine readers"],["Published price","None — must call"]],
+     pros:["The prestige play. \"This feels BIG TIME\" is on the March success list, and this is the room that delivers it.","Skyline views and the architecture do promotional work for you — strong creative for the reels and the invite.","Staff handle menu, decor, timing and AV, which takes real load off Betty.","Connie already wants it, so there is no internal selling to do."],
+     cons:["Almost certainly the highest cost per head of the three — full-service private club catering, not a brewery bar tab.","Likely a food-and-beverage minimum, and possibly a member sponsor requirement to book at all.","A private club reads as less accessible to a broad cross-brokerage agent crowd than a brewery does.","No published capacity for the main dining room specifically — the 1,500 figure is the whole facility."],
+     ask:["Can non-members book the main dining room, or do we need a member to sponsor the booking? (Connie or Steven may already qualify.)","Friday Oct 9, 8:00am–1:30pm — is the main dining room available?","Seated capacity of the main dining room specifically, at rounds with a stage.","Room rent plus the food-and-beverage minimum, and the per-head breakfast/brunch price.","Is AV included — screen, projector, microphones — or rented?","Sponsor tables: how many can the room hold without hurting sightlines?"]},
+    {id:"goodpeople", name:"Good People Brewing", badge:"NEEDS A CALL", bcls:"b-open",
+     addr:"114 14th St S, Birmingham, AL 35233 (Parkside, by Regions Field)", phone:"+12052862337", phoneTxt:"(205) 286-2337",
+     url:"https://www.goodpeoplebrewing.com/privateevents",
+     specs:[["Private events","Offered — dedicated booking page"],["Capacity","Not published — must call"],["Published price","None — must call"],["Location","Parkside District, walkable downtown"]],
+     pros:["Best-known brewery name in Birmingham — recognition helps ticket sales.","Parkside location is central and easy to find, next to Regions Field.","Brewery pricing should sit well under a private club."],
+     cons:["Least information available of the three. Capacity is the open question — if it seats well under 150 it is out.","No published event specs at all, so AV is entirely unknown.","Downtown parking near the ballpark needs checking against an Oct 9 event calendar."],
+     ask:["What is the seated capacity of the private event space? (If it is under 120, stop here.)","Friday Oct 9, 8:00am–1:30pm — available?","Room rent and any food-and-beverage minimum.","AV: screen, projector, microphones — included, rented, or bring your own?","Outside catering allowed, or food trucks?","Parking — and is anything at Regions Field on Oct 9?"]},
+    {id:"backforty", name:"Back Forty Beer Company", badge:"INCUMBENT — KNOWN COST", bcls:"b-inc",
+     addr:"3201 1st Ave North, Birmingham, AL 35222", phone:"", phoneTxt:"—",
+     url:"https://www.backfortybeer.com/birmingham-back-forty-beer-company",
+     specs:[["March 2026 all-in","$7,879.41 actually paid"],["Food + bar + tea","$5,825.00"],["Gratuity","$1,165.00 (20%)"],["Venue fee","$200.00"],["Taxes","$557.50"],["Held","~62 people in the main room"]],
+     pros:["The only venue where the true all-in cost is already known, down to the tax line.","Hosted the March main event and the happy hour, so the format is proven in the space.","Connie will still consider it — if someone else runs the relationship."],
+     cons:["Connie's own words: she doesn't love them after the post-event issues. That is a real relationship cost.","$127 per head at 62 people. The 20% gratuity applies to food and bar, so scaling the room scales the bill hard.","Someone other than Connie has to own the vendor relationship, and nobody has volunteered."],
+     ask:["Only if the team decides to return: who owns the Back Forty relationship this time? Connie has said it cannot be her.","Get the post-event issues named and resolved in writing before signing anything.","Fresh quote for 150 people, not 62 — the March per-head does not scale linearly."]}
+  ],
+
+  /* ── SPEAKERS ── */
+  speakers: [
+    {name:"Giselle Ugarte", status:"locked", role:"Online presence / personal-brand coach",
+     note:"Confirmed by Connie on July 24: \"Giselle Ugarte is on board for October 9.\" She is the anchor — build the run-of-show around her slot and use her name in the launch creative.",
+     todo:["Lock her exact slot and length","Collect headshot + bio","Confirm topic and the outcome it delivers","Set the no-pitch expectation in writing","Slide deadline","AV needs","Travel and hotel"]},
+    {name:"Jason Cassity", status:"maybe", role:"Content / social-first agent marketing",
+     note:"On the Oct 9 sheet with a double question mark — nobody has reached out yet. One of Gene's marketing influences, so Gene is the natural person to ask.",
+     todo:["Assign an owner for the ask","Find the booking contact and rate","Check the Oct 9 date"]},
+    {name:"Jason Pantana", status:"maybe", role:"Marketing / lead-gen trainer (Tom Ferry org)",
+     note:"On the sheet with a double question mark. Likely carries a speaking fee — the Oct budget only holds $1,000 for speaker fees total.",
+     todo:["Assign an owner for the ask","Get the fee before promising a slot","Check the Oct 9 date"]},
+    {name:"Shannon Gillette", status:"maybe", role:"High-production listing marketing",
+     note:"On the sheet with a double question mark, spelled \"Shannon Gilette\" — confirm the spelling before it reaches any public creative.",
+     todo:["Confirm name spelling","Assign an owner for the ask","Check the Oct 9 date"]},
+    {name:"John Kitchens", status:"proven", role:"Coach — headlined March 1:10–2:00",
+     note:"March's longest main slot. Flew in at $573.41 and stayed two nights at the Westin. A known quantity who filled 50 minutes.",
+     todo:["Decide whether to repeat a March headliner or go all-new"]},
+    {name:"Katie Day", status:"proven", role:"Spoke March 2:00–2:45",
+     note:"Cheapest March flight at $430, one night. Solid value if the budget tightens.",
+     todo:["Decide whether to repeat"]},
+    {name:"Phil Gerdes", status:"proven", role:"Closed March 3:45–5:00",
+     note:"Most expensive March flight at $789.39, one night. Had the closing inspiration slot.",
+     todo:["Decide whether to repeat"]},
+    {name:"Amanda Eckart & April Crawford", status:"proven", role:"March Southeast leadership panel",
+     note:"Both were on the March panel and each got a hotel night. Scarlett sent them a question list in advance and asked each to submit one more — that prep step is worth repeating.",
+     todo:["Decide whether the panel returns","Rebuild the advance question list"]}
+  ],
+  octAgenda: [
+    {t:"8:00–9:00am", who:"Registration + networking", fixed:true},
+    {t:"9:00–9:10am", who:"Welcome (Connie & Gene) + Platinum sponsor", fixed:true},
+    {t:"9:10–10:00am", who:"Speaker 1 — open", fixed:false},
+    {t:"10:00–10:45am", who:"Speaker 2 — open", fixed:false},
+    {t:"10:45–11:00am", who:"Break + Platinum sponsor", fixed:true},
+    {t:"11:00am–12:00pm", who:"Panel or speaker — undecided", fixed:false},
+    {t:"12:00–12:45pm", who:"Speaker 3 — open", fixed:false},
+    {t:"12:45pm", who:"Close + happy hour? — undecided", fixed:false}
+  ],
+
+  /* ── OCT 9 BUDGET (from the sheet) ── */
+  budget: [
+    {item:"Hall rental", amt:5000}, {item:"Food", amt:2000},
+    {item:"Speaker fees", amt:1000}, {item:"Airfare for speakers", amt:2400},
+    {item:"Hotel — 4 speakers", amt:1500}, {item:"Giveaways for attendees", amt:500},
+    {item:"Videographer / photographer", amt:500}, {item:"Speaker gifts", amt:1000},
+    {item:"Other (×3 lines)", amt:3000}
+  ],
+
+  /* ── PLAYBOOKS (from the March sheet, owners preserved) ── */
+  playbooks: [
+    {owner:"Connie + Gene", role:"Vision • Relationships • Speakers • Sponsors",
+     line:"You two control the power, credibility, and financial fuel for the event.",
+     groups:[
+      {g:"Speaker leadership", items:["Confirm keynote speaker","Confirm tactical speakers","Confirm Southeast leadership panel","Secure backups for any speaker risks"]},
+      {g:"Speaker preparation", items:["Collect headshot + bio","Confirm topic + outcome alignment","Set expectations (no pitch, value only)","Establish slide deadline","Provide AV expectations","Confirm travel details if needed"]},
+      {g:"Sponsorship leadership", items:["Identify sponsorship targets","Send outreach + proposals","Conduct personal calls / follow ups","Secure commitments + deposits","Confirm sponsorship benefits","Coordinate sponsor tables / branding","Ensure sponsor experience feels valued"]}
+     ]},
+    {owner:"Betty", role:"Operations • Logistics • Execution",
+     line:"Betty ensures what is promised actually happens smoothly and professionally.",
+     groups:[
+      {g:"Venue & vendor operations", items:["Lock venue","Contract signed + deposit paid","Confirm room layout & seating","Confirm stage + lighting","Confirm happy hour logistics","Parking + access confirmed","Table placement planned"]},
+      {g:"AV, production & run-through", items:["Secure microphones","Secure screens / projection","Confirm tech rehearsal","Run full rehearsal","Sound tested","Backup AV plan established"]},
+      {g:"Materials + environment", items:["Registration setup","Printed agendas","Signage & directionals","Name badges","Sponsor tables prepared","Raffle + materials","Speaker welcome gifts"]},
+      {g:"Media & atmosphere", items:["Photographer booked","Videographer booked","Step & repeat or photo moment","Playlist or DJ secured"]}
+     ]},
+    {owner:"Scarlett", role:"Project Management • Promotion • Accountability",
+     line:"Scarlett keeps everything organized, moving, and on time.",
+     groups:[
+      {g:"Registration + attendance", items:["Build registration page","Test registration workflow","Track RSVP count","Build waitlist if needed","Monitor weekly signup goals","Manage check-in process"]},
+      {g:"Marketing + promotion", items:["Create promo calendar","Launch announcement","Social media pushes","Posts in agent groups","Targeted outreach messaging","Coordination with speakers for promotion","FOMO reminders leading to event"]},
+      {g:"Project management & comms", items:["Weekly team update meetings","Status updates sent to team","Accountability on deadlines","Confirmed completion tracking","Final week daily oversight","Day-of team coordination","Speaker + sponsor communications support"]}
+     ]},
+    {owner:"Everyone", role:"Attendee Experience",
+     line:"The promise the room is judged against.",
+     groups:[
+      {g:"Attendee experience checklist", items:["Registration system tested and working","Clear directions / signage day of event","Friendly check-in experience","Strong opening energy & momentum","Speakers prepared / confident","Q&A or audience engagement moment","Photo & media opportunities","Happy hour social environment","Thank-you + follow-up delivered"]},
+      {g:"Event day success snapshot", items:["Room is full","Speakers are strong","Attendees engaged","Sponsors happy","Experience feels elevated","People leave inspired and connected"]}
+     ]}
+  ],
+
+  /* ── TIMELINE: March's real dates, remapped onto Oct 9 ── */
+  timeline: [
+    {date:"2026-07-24", t:"Connie opens the Oct 9 thread", m:"Giselle Ugarte confirmed. Venue flagged as urgent — \"the event space will book quickly.\" Brian Bell asks for an invoice unprompted.", done:true},
+    {date:"2026-07-28", t:"Betty spins up the Oct 9 planning sheet", m:"Copied from the March playbook and shared with the group.", done:true},
+    {date:"2026-07-29", t:"Kickoff Zoom, 10:30am", m:"Gene brings speaker names. Decisions needed: venue shortlist, sponsor ladder, who fronts money this time.", done:true},
+    {date:"2026-08-05", t:"Venue decided and contract signed", m:"March locked TopGolf and Back Forty by 30 days out and it was already tight. Three venues need calls before this date — get quotes, then decide.", done:false},
+    {date:"2026-08-10", t:"Registration live · promo launch", m:"THE BIG CHANGE FROM MARCH. Tickets opened ~45 days out in March and 79% of sales landed in the final 15 days. Opening at T-60 buys a real ramp.", done:false},
+    {date:"2026-08-17", t:"Sponsor ladder fully invoiced", m:"Every committed sponsor invoiced, not just verbally agreed. Connie's rule: paid before the event, no exceptions.", done:false},
+    {date:"2026-08-25", t:"Speaker lineup locked and announced", m:"All slots filled, headshots and bios in hand, no-pitch expectation set in writing. Lineup announcement is the second promo spike.", done:false},
+    {date:"2026-09-09", t:"30 days out — the March pressure point", m:"In March this was the \"we have to make sure we can pay for this without coming out of pocket\" moment. Sponsor money should be banked by now, not pending.", done:false},
+    {date:"2026-09-18", t:"Swag ordered · agenda finalized", m:"Lanyards, tote bags and tees need print lead time. Sponsor logos must be final. March ordered from customlanyard.net.", done:false},
+    {date:"2026-09-25", t:"Two weeks out — full promo push", m:"March rolled the invite email at T-15 and got its first real sales spike. Public itinerary and internal run-of-show both go out.", done:false},
+    {date:"2026-10-02", t:"One week out — final logistics", m:"Sponsor table count verified, AV rehearsal scheduled, name badges printed, speaker travel reconfirmed, reminder email with the agenda attached.", done:false},
+    {date:"2026-10-08", t:"Day before — tech rehearsal", m:"March had Phillip set up the presentation deck the morning of. Do the rehearsal the day before instead. Decide whether a VIP night happens.", done:false},
+    {date:"2026-10-09", t:"FURTHER TOGETHER · Birmingham", m:"Doors 8:00am. Program 9:00am–12:45pm.", done:false},
+    {date:"2026-10-16", t:"Follow-through week", m:"Thank-you emails, recap video, speaker decks shared, sponsor ROI recap, and the charitable donation Connie wants to make from the surplus.", done:false}
+  ],
+
+  /* ── DECISIONS ON THE TABLE ── */
+  decisions: [
+    {id:"d-friday", q:"Giselle on a Friday, or a better day without her?", heat:"hot",
+     m:"This is now the real fork, and it is bigger than a calendar question. Oct 9 is a Friday because that is the only day Giselle is available. Friday 9:00am–12:45pm competes with showings, Friday closings and weekend prep — the busiest stretch of an agent's week. So the choice is: keep Giselle and accept the hardest day to fill a room, or move to a Tuesday/Wednesday and hold Giselle for spring. Given that filling the room is the thing March got wrong, the day matters more than it looks.",
+     input:[{who:"Connie", note:"It's the only day Giselle is available. Do we want to scrap her visit and save it for spring or keep going with her?"}]},
+    {id:"d-venue", q:"Which venue?", heat:"hot",
+     m:"Cahaba, The Club, Good People — or back to Back Forty. All three new options need a phone call before anyone can compare them. This is the gating decision; nothing else can be finalized until the room is booked.",
+     input:[]},
+    {id:"d-cap", q:"What is the real attendance target?", heat:"",
+     m:"The sheet still says 150–200. Connie's read on the March room is close to 100 people, against 62 paid tickets. Her proposal for Oct 9 is 125 — a real stretch over March without over-promising sponsors a number we have never hit. The catering budget depends entirely on this answer.",
+     input:[{who:"Connie", note:"I think we sold 62 tickets but there were close to 100 in the room. Great for our first event! I would say we could do better next time but maybe 125?"}]},
+    {id:"d-money", q:"Who fronts the money this time?", heat:"",
+     m:"Connie personally carried $18,069.37 on her own cards in March. She is willing to do it again and confirms the cards were paid off with no interest cost to her — and the $768.63 surplus is still sitting there, so Oct 9 starts from a positive balance rather than zero.",
+     input:[{who:"Connie", note:"I don't mind doing this. I still have the 768.63 sitting there so we can start with a positive. Cards were paid off with zero interest to me."}]},
+    {id:"d-vip", q:"Is there a VIP night on Oct 8?", heat:"",
+     m:"March ran a TopGolf VIP night funded by a dedicated $4,000 Platinum sponsor — it cost $5,008.74, so it lost about $1,000. Connie has voted no. Dropping it also removes a $4,000 Platinum tier from the ladder, so the remaining tiers have to carry more, or the budget comes down.",
+     input:[{who:"Connie", note:"I'd like to vote No VIP event."}]},
+    {id:"d-price", q:"What do tickets cost?", heat:"",
+     m:"March was $39 general and $99 VIP, netting $3,338 — about 18% of revenue. Connie has proposed $49. At 125 attendees that is roughly $6,125 gross before fees, nearly double March's ticket line. Tickets are still a commitment device more than a funding source, but $49 is a meaningful bump without being a barrier.",
+     input:[{who:"Connie", note:"Maybe $49 ticket price?"}]},
+    {id:"d-charity", q:"Which charity, and what do we promise publicly?", heat:"",
+     m:"Connie wants \"a generous charitable donation once we are all paid up.\" Naming the cause up front is also a ticket-sales and sponsor-pitch asset — but only promise it if the margin can carry it.",
+     input:[]}
+  ]
+};
+
+/* Add-to-Home-Screen hints. The local file carries these as meta tags; the
+   hosted copy gets its document head from the host page, so inject them at
+   runtime for a cleaner home-screen launch on iOS/Android. */
+(function(){
+  [["apple-mobile-web-app-capable","yes"],
+   ["mobile-web-app-capable","yes"],
+   ["apple-mobile-web-app-status-bar-style","black-translucent"],
+   ["apple-mobile-web-app-title","Further Together"],
+   ["theme-color","#1B2A4A"]].forEach(([n,c])=>{
+    if(document.querySelector(`meta[name="${n}"]`)) return;
+    const m = document.createElement("meta");
+    m.name = n; m.content = c; document.head.appendChild(m);
+  });
+})();
+
+/* ══════════════ SHARED SYNC (Make data store) ══════════════
+   Load  → GET  ft-board-load  → returns the merged board JSON
+   Save  → POST ft-board-save  → form-encoded (a CORS "simple request", so no
+           preflight; Make parses form fields but NOT a text/plain JSON body).
+   localStorage stays the source of truth on-device, so the board keeps working
+   if Make is down, out of operations, or the phone is offline. */
+const SYNC_LOAD = "https://hook.us2.make.com/nlgjlaa0o0985aulqb8d3fi7o7dxmtjz";
+const SYNC_SAVE = "https://hook.us2.make.com/8cquy5cmn9y6b2yqmbrdhmxxokh81sre";
+
+/* ══════════════ STATE ══════════════ */
+const LS = "fthq-v1";
+let S = JSON.parse(localStorage.getItem(LS) || '{"checks":{},"votes":{},"fields":{},"notes":{}}');
+let ME = localStorage.getItem("fthq-me") || "";
+let TAB = localStorage.getItem("fthq-tab") || "command";
+let SYNC = { state:"idle", at:null, msg:"" };   // idle | pulling | pushing | ok | err
+
+function save(){ localStorage.setItem(LS, JSON.stringify(S)); schedulePush(); }
+
+/* Row-open flags are per-device UI state and must never travel. */
+function shareable(){
+  const c = {};
+  Object.entries(S.checks).forEach(([k,v])=>{ if(!k.startsWith("_open-")) c[k]=v; });
+  return { checks:c, votes:S.votes, fields:S.fields, notes:S.notes };
+}
+
+/* Remote first, then local on top — so your own latest edit always wins on
+   your own device, and teammates' entries fill in everything you haven't touched. */
+function mergeRemote(r){
+  if(!r || typeof r !== "object") return false;
+  const openFlags = {};
+  Object.entries(S.checks).forEach(([k,v])=>{ if(k.startsWith("_open-")) openFlags[k]=v; });
+  S.checks = Object.assign({}, r.checks||{}, S.checks, openFlags);
+  S.fields = Object.assign({}, r.fields||{}, S.fields);
+  S.notes  = Object.assign({}, r.notes||{},  S.notes);
+  const v = Object.assign({}, r.votes||{});
+  Object.entries(S.votes||{}).forEach(([k,mine])=>{ v[k] = Object.assign({}, v[k]||{}, mine); });
+  S.votes = v;
+  localStorage.setItem(LS, JSON.stringify(S));
+  return true;
+}
+
+function syncLabel(){
+  if(SYNC.state==="pulling") return "syncing…";
+  if(SYNC.state==="pushing") return "saving…";
+  if(SYNC.state==="err")     return "offline — saved on this device";
+  if(SYNC.at){
+    const mins = Math.floor((Date.now()-SYNC.at)/60000);
+    return mins<1 ? "shared with the team just now" : `shared ${mins} min ago`;
+  }
+  return "not synced yet";
+}
+
+async function pullBoard(quiet){
+  if(SYNC.state==="pulling") return;
+  SYNC.state="pulling"; if(!quiet) renderSyncOnly();
+  try{
+    const r = await fetch(SYNC_LOAD, {method:"GET", cache:"no-store"});
+    const txt = await r.text();
+    let obj = null;
+    try{ obj = JSON.parse(txt); }catch(e){ obj = null; }   // "Accepted" = queued, not JSON
+    if(obj) mergeRemote(obj);
+    SYNC.state = obj ? "ok" : "err"; SYNC.at = obj ? Date.now() : SYNC.at;
+  }catch(e){ SYNC.state="err"; }
+  render();
+}
+
+async function pushBoard(){
+  if(!ME){ return; }                       // nothing to attribute yet
+  SYNC.state="pushing"; renderSyncOnly();
+  try{
+    // Pull-then-merge-then-push so a teammate's concurrent entry isn't clobbered.
+    try{
+      const r0 = await fetch(SYNC_LOAD, {method:"GET", cache:"no-store"});
+      const t0 = await r0.text();
+      try{ mergeRemote(JSON.parse(t0)); }catch(e){}
+    }catch(e){}
+    const body = "by=" + encodeURIComponent(ME) + "&json=" + encodeURIComponent(JSON.stringify(shareable()));
+    const r = await fetch(SYNC_SAVE, {
+      method:"POST",
+      headers:{"Content-Type":"application/x-www-form-urlencoded"},
+      body
+    });
+    SYNC.state = r.ok ? "ok" : "err";
+    if(r.ok) SYNC.at = Date.now();
+  }catch(e){ SYNC.state="err"; }
+  render();
+}
+
+/* Debounced so a burst of typing becomes one save, not twenty. */
+let _pt; function schedulePush(){ clearTimeout(_pt); _pt = setTimeout(pushBoard, 6000); }
+let _lastPull = 0;
+function maybePull(){
+  if(Date.now()-_lastPull < 45000) return;
+  _lastPull = Date.now(); pullBoard(true);
+}
+window.addEventListener("focus", maybePull);
+document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) maybePull(); });
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const money = n => "$" + Math.round(n).toLocaleString();
+const money2 = n => "$" + n.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2});
+
+function toast(msg){
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.classList.add("on");
+  clearTimeout(t._h); t._h = setTimeout(()=>t.classList.remove("on"), 2200);
+}
+function needMe(){
+  if(!ME){ toast("Tap your name up top first so the team knows who did what."); return true; }
+  return false;
+}
+
+/* days out */
+function daysOut(){
+  const ms = new Date(EVENT_DATE) - new Date();
+  return Math.max(0, Math.ceil(ms / 86400000));
+}
+function daysFrom(dateStr){
+  const ms = new Date(dateStr + "T12:00:00-05:00") - new Date();
+  return Math.ceil(ms / 86400000);
+}
+
+/* sponsor math — reads editable fields */
+function sponsorIn(){
+  return DATA.sponsorTargets.reduce((s,t)=> s + (Number(S.fields["spon-"+t.id]) || 0), 0);
+}
+function sponsorTarget(){
+  return DATA.sponsorTargets.reduce((s,t)=> s + t.ask, 0);
+}
+function ticketsSold(){ return Number(S.fields["tix-sold"]) || 0; }
+// Defaults reflect Connie's 7/29 proposals: $49 tickets, 125 in the room.
+function ticketPrice(){ return Number(S.fields["tix-price"]) || 49; }
+function attendGoal(){ return Number(S.fields["goal-attend"]) || 125; }
+function budgetTotal(){ return DATA.budget.reduce((s,b)=> s + (S.fields["bud-"+b.item] !== undefined ? Number(S.fields["bud-"+b.item])||0 : b.amt), 0); }
+
+/* ══════════════ RENDER HELPERS ══════════════ */
+function checkbox(id, txt, owner){
+  const c = S.checks[id];
+  return `<div class="ck ${c?'done':''}" onclick="toggleCheck('${id}')">
+    <div class="box">${c?'✓':''}</div>
+    <div class="txt">${esc(txt)}${c?`<span class="by">${esc(c.by)} · ${esc(c.on)}</span>`:''}</div>
+    ${owner?`<span class="owner">${esc(owner)}</span>`:''}
+  </div>`;
+}
+function toggleCheck(id){
+  if(S.checks[id]) delete S.checks[id];
+  else { if(needMe()) return; S.checks[id] = {by:ME, on:new Date().toLocaleDateString("en-US",{month:"short",day:"numeric"})}; }
+  save(); render();
+}
+function voteRow(id, labels){
+  const mine = ME ? (S.votes[id]||{})[ME] : null;
+  const all = S.votes[id] || {};
+  const t = {};
+  Object.values(all).forEach(v => t[v] = (t[v]||0)+1);
+  const tallyTxt = Object.keys(all).length
+    ? Object.entries(all).map(([p,v])=>`<b>${esc(p)}</b> ${esc(labels[v]||v)}`).join(" · ")
+    : "No votes yet.";
+  return `<div class="votes">
+    ${Object.entries(labels).map(([k,v])=>`<div class="vb ${mine===k?'sel-'+k:''}" onclick="vote('${id}','${k}')">${esc(v)}</div>`).join("")}
+  </div><div class="tally">${tallyTxt}</div>`;
+}
+function vote(id, val){
+  if(needMe()) return;
+  S.votes[id] = S.votes[id] || {};
+  if(S.votes[id][ME] === val) delete S.votes[id][ME]; else S.votes[id][ME] = val;
+  save(); render();
+}
+function numField(key, label, dflt){
+  const v = S.fields[key] !== undefined ? S.fields[key] : (dflt===undefined?"":dflt);
+  return `<div class="fld"><label>${esc(label)}</label>
+    <input type="number" inputmode="decimal" value="${esc(v)}" oninput="setField('${key}', this.value)"></div>`;
+}
+function setField(key, val){ S.fields[key] = val; save(); scheduleRender(); }
+let _rt; function scheduleRender(){ clearTimeout(_rt); _rt = setTimeout(render, 700); }
+function noteBox(key, ph){
+  return `<textarea placeholder="${esc(ph)}" oninput="setNote('${key}', this.value)">${esc(S.notes[key]||"")}</textarea>`;
+}
+function setNote(key,val){ S.notes[key]=val; save(); }
+function row(id, title, meta, right, body){
+  const open = S.checks["_open-"+id];
+  return `<div class="row ${open?'open':''}">
+    <div class="r-head" onclick="toggleOpen('${id}')">
+      <div><div class="r-t">${title}</div>${meta?`<div class="r-m">${meta}</div>`:''}</div>
+      ${right?`<div class="r-right">${right}</div>`:''}
+    </div>
+    <div class="r-body">${body}</div>
+  </div>`;
+}
+function toggleOpen(id){
+  const k = "_open-"+id;
+  if(S.checks[k]) delete S.checks[k]; else S.checks[k] = true;
+  save(); render();
+}
+
+/* ══════════════ TABS ══════════════ */
+const TABS = [
+  {id:"command", e:"🎯", t:"Command"},
+  {id:"venue", e:"📍", t:"Venue"},
+  {id:"speakers", e:"🎤", t:"Speakers"},
+  {id:"sponsors", e:"💰", t:"Sponsors"},
+  {id:"budget", e:"💵", t:"Budget"},
+  {id:"playbook", e:"✅", t:"Playbook"},
+  {id:"timeline", e:"📅", t:"Timeline"},
+  {id:"march", e:"📖", t:"March"}
+];
+
+/* ══════════════ VIEWS ══════════════ */
+function viewCommand(){
+  const d = daysOut(), m = DATA.march;
+  const sIn = sponsorIn(), sTgt = sponsorTarget();
+  const tix = ticketsSold(), goal = attendGoal();
+  const bud = budgetTotal();
+  const projRev = sIn + tix * ticketPrice();
+  const gap = bud - projRev;
+  const sPct = Math.min(100, sTgt? sIn/sTgt*100 : 0);
+  const tPct = Math.min(100, goal? tix/goal*100 : 0);
+
+  let h = `<section>
+    <div class="sec-h">⏱ Countdown to Oct 9</div>
+    <div class="cd">
+      <div class="cd-box"><div class="cd-n">${d}</div><div class="cd-l">Days out</div></div>
+      <div class="cd-box"><div class="cd-n">${Math.max(0,Math.ceil((new Date("2026-08-05T12:00:00-05:00")-new Date())/86400000))}</div><div class="cd-l">To venue call</div></div>
+      <div class="cd-box"><div class="cd-n">${Math.ceil(d/7)}</div><div class="cd-l">Weeks left</div></div>
+    </div>
+    <div class="pad">
+      <div class="lab">Sponsor money banked</div>
+      <div class="bar"><i class="${sPct>=100?'grn':(sPct<25?'red':'')}" style="width:${sPct}%"></i></div>
+      <div class="bar-l">${money(sIn)} of ${money(sTgt)} target — ${Math.round(sPct)}%. March banked <b>${money(m.sponsorCash)}</b> in sponsor cash.</div>
+      <div class="lab">Tickets sold vs. goal</div>
+      <div class="bar"><i class="${tPct>=100?'grn':(tPct<25?'red':'')}" style="width:${tPct}%"></i></div>
+      <div class="bar-l">${tix} of ${goal} — ${Math.round(tPct)}%. March sold <b>${m.mainPaid} paid main-event tickets</b> against a 150–200 goal.</div>
+    </div>
+  </section>`;
+
+  h += `<section>
+    <div class="sec-h">📊 The one number that should drive every decision</div>
+    <div class="pad">
+      <div class="stats" style="padding:0 0 12px;">
+        <div class="stat"><div class="n grn">${money(m.revenue)}</div><div class="l">March revenue</div></div>
+        <div class="stat"><div class="n amb">${money(m.expenses)}</div><div class="l">March spend</div></div>
+        <div class="stat"><div class="n ${m.net>0?'grn':'red'}">${money2(m.net)}</div><div class="l">Still in the bank</div></div>
+        <div class="stat"><div class="n">${m.mainPaid}</div><div class="l">Paid tickets</div></div>
+        <div class="stat"><div class="n amb">~${m.mainRoomEst}</div><div class="l">In the room</div></div>
+        <div class="stat"><div class="n amb">${Math.round(m.mainRoomEst/m.goalLow*100)}%</div><div class="l">Of the 150 goal</div></div>
+      </div>
+      <p class="body">March was <b>not a money problem</b> — the sponsors funded it and it closed ${money2(m.net)} in the black, and that surplus is still sitting there as seed money for Oct 9. Where March fell short was <b>the size of the room</b>: the playbook promised sponsors 150–200 agents. Connie's count, and she was in it, is close to <b>${m.mainRoomEst}</b> once speakers, sponsor reps and the comp lists are counted. The ledger only ever proved <b>${m.mainPaid} paid tickets</b>.</p>
+      <div class="note"><b>Both numbers are true and they mean different things.</b> ~${m.mainRoomEst} is what sponsors saw, and for a first event that is a real room. ${m.mainPaid} is what the promotion actually sold — and that is the number that has to grow, because comps do not scale and sponsors eventually count heads.</div>
+      <div class="warn"><b>The tell:</b> ${m.ticketWeeks[4].n + m.ticketWeeks[5].n} of ${m.ticketsPaid} tickets — ${Math.round((m.ticketWeeks[4].n+m.ticketWeeks[5].n)/m.ticketsPaid*100)}% — sold in the final 15 days. The first four weeks of selling produced ${m.ticketWeeks.slice(0,4).reduce((s,w)=>s+w.n,0)} tickets combined. Promotion did not start too small; it started too late, and nobody could tell they were behind until it was too late to fix. That is the one thing this board is built to catch.</div>
+    </div>
+  </section>`;
+
+  h += `<section>
+    <div class="sec-h">🔥 Live funding math <span class="count">editable</span></div>
+    <div class="pad">
+      ${numField("tix-sold","Tickets sold so far",0)}
+      ${numField("tix-price","Ticket price ($)",39)}
+      ${numField("goal-attend","Attendance goal",125)}
+      <div class="kv"><span>March surplus carried forward</span><span>${money2(m.carryover)}</span></div>
+      <div class="kv"><span>Sponsor cash committed</span><span>${money(sIn)}</span></div>
+      <div class="kv"><span>Projected ticket revenue</span><span>${money(tix*ticketPrice())}</span></div>
+      <div class="kv"><span>Projected total revenue</span><span>${money(projRev)}</span></div>
+      <div class="kv"><span>Budgeted spend</span><span>${money(bud)}</span></div>
+      <div class="kv"><span>${gap>0?"Still to raise":"Cushion"}</span><span style="color:${gap>0?'#f0938a':'#7fd4a1'}">${money(Math.abs(gap))}</span></div>
+      ${gap>0?`<div class="warn">You are <b>${money(gap)}</b> short of the ${money(bud)} budget. Connie has said she is willing to float it again as she did in March — <b>${money2(m.expenses)}</b> on her own cards, paid off at no interest cost to her. Worth not treating that as free just because she is gracious about it: get sponsors invoiced early so the float is short.</div>`:''}
+      <div class="note"><b>If the ${money(4000)} Platinum VIP tier goes away</b> with the VIP night, the ladder loses that slot. Either the two remaining Platinums absorb it, a third Platinum gets added, or the budget comes down by roughly that much. Do not drop the night without adjusting one of the three.</div>
+    </div>
+  </section>`;
+
+  h += `<section>
+    <div class="sec-h">⚖️ Decisions on the table <span class="count">${DATA.decisions.length}</span></div>`;
+  DATA.decisions.forEach(dec => {
+    const inp = (dec.input||[]).map(i=>
+      `<div class="quote">"${esc(i.note)}"<cite>${esc(i.who)} · via the board</cite></div>`).join("");
+    const title = esc(dec.q) + (dec.heat==="hot"? ' <span class="badge b-open">DECIDE FIRST</span>' : '');
+    h += row(dec.id, title, (dec.input||[]).length? `${dec.input.length} teammate on record` : "", "",
+      `<p class="body">${esc(dec.m)}</p>
+      ${inp? `<div class="lab">On the record</div>${inp}` : ''}
+      ${voteRow("v-"+dec.id, {yes:"👍 Settled", mid:"🤔 Discuss", no:"👎 Not yet"})}
+      ${noteBox("n-"+dec.id, "Your take — this travels with your updates.")}`);
+  });
+  h += `</section>`;
+
+  h += `<section>
+    <div class="sec-h">🔄 How the board stays in sync</div>
+    <div class="pad">
+      <p class="body">Everything you enter <b>saves to the shared team board automatically</b> — a few seconds after you stop typing. Everyone else picks it up next time they open the app or tap Refresh. No emailing state around.</p>
+      <div class="li">Your entries are stamped with your name, so the team can see who moved what.</div>
+      <div class="li">If two people edit at once, both sets survive — the board merges rather than overwrites.</div>
+      <div class="li">If you lose signal, everything keeps working and saves on your phone, then syncs when you are back.</div>
+      <div class="note"><b>One thing worth knowing:</b> this is a shared scratchpad, not a locked system of record. If something matters — a signed contract, a paid invoice — put it in the notes <i>and</i> tell the group.</div>
+      <button class="btn b-gold" onclick="pullBoard()">↻ Pull the latest from the team</button>
+      <p class="body" style="padding-top:12px;">Need to send a written summary of your updates instead — for a text thread or a reply-all?</p>
+      <button class="btn b-out" onclick="sendUpdates()">📤 Email my updates as a summary</button>
+    </div>
+  </section>`;
+  return h;
+}
+
+function viewVenue(){
+  const m = DATA.march;
+  const perHead = 5825/m.mainRoomEst;
+  const goal = attendGoal();
+  const fb = perHead*goal, fbAll = fb*1.28;
+  let h = `<section>
+    <div class="sec-h">🚨 Read this before you call anybody</div>
+    <div class="pad">
+      <p class="body">Back Forty's March bill is the only real per-head benchmark you have. Food, bar and the tea bar came to <b>$5,825</b> for a room of about <b>${m.mainRoomEst}</b> — roughly <b>${money(perHead)} a head</b> before the 20% gratuity and tax that ride on top of it.</p>
+      <div class="warn"><b>Run the number for ${goal} people:</b> food and bar alone comes to about <b>${money(fb)}</b>, and about <b>${money(fbAll)}</b> once gratuity and tax are added — before a dollar of room rent. The Oct sheet allows <b>$5,000 hall + $2,000 food = $7,000</b>. Catering ${goal} people the March way does not fit inside that.</div>
+      <p class="body">Three honest ways to close it, and the venue call is where you pick one:</p>
+      <div class="li"><b>Change the food model.</b> The strongest option. A brewery with a cash bar and a light breakfast has no mandatory per-head catering — and a 9:00am start means coffee and pastries instead of March's afternoon open bar and full spread, which was the single biggest line in the whole budget.</div>
+      <div class="li"><b>Move the food money.</b> Reallocate inside the ${money(budgetTotal())} budget — the March speaker travel, hotels and gifts ran ${money2(1859.48+789.39+573.41+430+1027.83)} combined. Fewer flown-in speakers buys a lot of breakfast.</div>
+      <div class="li"><b>Raise the ladder.</b> If you want ${goal} people fully catered, the sponsor target needs to clear roughly <b>${money(Math.ceil((fbAll + 7500)/1000)*1000)}</b> against today's ${money(sponsorTarget())}.</div>
+      <div class="note"><b>Two caveats on that per-head figure.</b> Back Forty billed "open food" as a package, not per plate, so the real quote at ${goal} people may not scale linearly — ask each venue directly. And the 9:00am–12:45pm format is quietly the best cost decision on the sheet: a morning program is structurally cheaper than an afternoon one, whatever room you pick.</div>
+    </div>
+  </section>`;
+
+  DATA.venues.forEach(v => {
+    const specs = v.specs.map(s=>`<div class="kv"><span>${esc(s[0])}</span><span>${esc(s[1])}</span></div>`).join("");
+    const pros = v.pros.map(p=>`<div class="li pro">${esc(p)}</div>`).join("");
+    const cons = v.cons.map(c=>`<div class="li con">${esc(c)}</div>`).join("");
+    const asks = v.ask.map((a,i)=>checkbox(`ask-${v.id}-${i}`, a)).join("");
+    const body = `
+      <div class="lab">The numbers</div>${specs}
+      <div class="lab">In favor</div>${pros}
+      <div class="lab">Against</div>${cons}
+      <div class="lab">Ask them exactly this</div>${asks}
+      ${v.phone?`<a class="btn b-call" href="tel:${v.phone}">📞 Call ${esc(v.phoneTxt)}</a>`:''}
+      <a class="btn b-out" href="${esc(v.url)}" target="_blank" rel="noopener">🔗 Venue site</a>
+      <div class="lab">Team vote</div>
+      ${voteRow("v-venue-"+v.id, {yes:"👍 Yes", mid:"🤔 Maybe", no:"👎 No"})}
+      ${noteBox("n-venue-"+v.id, "What did they quote you? Capacity, room rent, F&B minimum, AV, catering rules…")}`;
+    h += `<section><div class="sec-h">📍 ${esc(v.name)} <span class="badge ${v.bcls}">${esc(v.badge)}</span></div>
+      <div class="pad"><div class="r-m" style="margin-bottom:8px;">${esc(v.addr)}</div>${body}</div></section>`;
+  });
+
+  h += `<section><div class="sec-h">💬 What Connie actually said</div><div class="pad">
+    <div class="quote">"I don't love Back Forty after the issues we had with them once the event was over but I wouldn't be opposed to having it there again if someone else wants to handle working with them. Would love to do The Club main dining room but not sure what that runs."<cite>Connie Alexander Jacks · July 24, 2026</cite></div>
+    <p class="body">Two things to take from that. Back Forty is not dead, but it needs a new owner on the team — and nobody has volunteered. And The Club is Connie's preference on feel, with the cost genuinely unknown. Getting that one quote is the highest-value phone call on this page.</p>
+  </div></section>`;
+  return h;
+}
+
+function viewSpeakers(){
+  const badges = {locked:["b-lock","CONFIRMED"], maybe:["b-maybe","NOT ASKED YET"], proven:["b-proven","MARCH ALUMNI"]};
+  let h = `<section><div class="sec-h">🎤 Run of show — Oct 9</div><div class="pad">
+    <p class="body">March ran <b>1:00–5:00pm on a Wednesday</b> with a happy hour after. Oct 9 flips to <b>Friday morning, 9:00am–12:45pm</b>. Three speaker slots and one panel-or-speaker slot are still open.</p>`;
+  DATA.octAgenda.forEach((a,i)=>{
+    h += `<div class="kv"><span>${esc(a.t)}</span><span style="color:${a.fixed?'var(--goldsoft)':'#f0938a'}">${esc(a.who)}</span></div>`;
+  });
+  h += `<div class="warn"><b>Friday-morning risk:</b> March was a Wednesday afternoon. A Friday 9:00am start competes with showings, Friday closings and weekend prep — the busiest stretch of an agent's week. Sanity-check the day with a handful of agents before any promo money is spent.</div>
+    ${noteBox("n-agenda","Run-of-show notes — who goes where, and why.")}
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🎯 Speaker board <span class="count">${DATA.speakers.length}</span></div>`;
+  DATA.speakers.forEach((s,i)=>{
+    const b = badges[s.status];
+    const todos = s.todo.map((t,j)=>checkbox(`sp-${i}-${j}`, t)).join("");
+    h += row("sp-"+i, esc(s.name)+` <span class="badge ${b[0]}">${b[1]}</span>`, esc(s.role), "",
+      `<p class="body">${esc(s.note)}</p><div class="lab">To do</div>${todos}
+       <div class="lab">Should they be on this stage?</div>
+       ${voteRow("v-sp-"+i, {yes:"👍 Yes", mid:"🤔 Maybe", no:"👎 Pass"})}
+       ${noteBox("n-sp-"+i,"Contact info, fee, availability, who owns the ask…")}`);
+  });
+  h += `</section>`;
+
+  h += `<section><div class="sec-h">📋 The March speaker-prep standard</div><div class="pad">
+    <p class="body">This list is lifted straight from the March playbook. It is the difference between a lineup and a show — run it for <b>every</b> speaker, including Giselle.</p>
+    ${["Collect headshot + bio","Confirm topic + the outcome it delivers","Set expectations in writing: no pitch, value only","Establish the slide deadline","Send AV expectations","Confirm travel and hotel","Collect the deck and decide who runs it in the room","Send the advance question list (panel only)"].map((t,i)=>checkbox("spstd-"+i,t)).join("")}
+    <div class="note"><b>March lesson:</b> six days out, Scarlett was still asking "Have they all sent in their presentations? Where are these stored and who will play them during the event?" The decks landed the morning of, and Phillip set them up on site. Set a hard slide deadline and name the operator early.</div>
+  </div></section>`;
+  return h;
+}
+
+function viewSponsors(){
+  const m = DATA.march;
+  const sIn = sponsorIn(), sTgt = sponsorTarget();
+  const heat = {hot:["b-lock","HOT"], warm:["b-maybe","WARM"], cold:["b-open","COLD"]};
+  const st = {open:["b-open","OPEN"], warm:["b-maybe","WARM"], asked:["b-lock","ASKED"]};
+
+  let h = `<section><div class="sec-h">💰 The ladder <span class="count">${money(sIn)} / ${money(sTgt)}</span></div>
+    <div class="pad"><p class="body">Enter money <b>actually received</b>, not promised. March's total was <b>${money(m.sponsorCash)}</b> in sponsor cash plus one in-kind Gold.</p></div>`;
+  DATA.sponsorTargets.forEach(t=>{
+    const b = st[t.status];
+    const got = Number(S.fields["spon-"+t.id])||0;
+    h += row("spon-"+t.id, esc(t.tier)+` <span class="badge ${b[0]}">${b[1]}</span>`,
+      t.who? esc(t.who) : "Unassigned",
+      `<div class="r-amt">${money(got)}<small>of ${money(t.ask)}</small></div>`,
+      `<p class="body"><b>What they get:</b> ${esc(t.perks)}</p>
+       ${numField("spon-"+t.id, "Cash received ($)", 0)}
+       ${checkbox("spinv-"+t.id, "Invoice sent")}
+       ${checkbox("sppaid-"+t.id, "Invoice PAID — money in the account")}
+       ${checkbox("sptable-"+t.id, "Table confirmed / not needed")}
+       ${checkbox("splogo-"+t.id, "Logo files received (print-ready)")}
+       ${noteBox("n-spon-"+t.id, "Who is chasing this, and where does it stand?")}`);
+  });
+  h += `</section>`;
+
+  h += `<section><div class="sec-h">⚖️ Connie's law <span class="count">non-negotiable</span></div><div class="pad">
+    <div class="quote">"We have to make sure we can pay for this without coming out of pocket, so even if we have lots of $1500 table sponsors, let's make sure to get them secured and invoiced. Invoices need to be paid before the event. I have had a few people try to pay after the events and it never works out."<cite>Connie Alexander Jacks · February 9, 2026 · 30 days out from March</cite></div>
+    <p class="body">Two rules come out of that, and both are worth treating as hard gates: <b>invoiced is not paid</b>, and <b>nothing gets signed against money that has not landed</b>. March cleared only ${money2(m.net)} — there was no room for a sponsor who paid late.</p>
+    <div class="note"><b>Connie's new goal for Oct 9:</b> "hopefully we can make a generous charitable donation once we are all paid up." That is a genuinely good pitch asset — naming the cause up front helps both ticket sales and the sponsor conversation. It only works if the margin is real, and March's margin was ${money2(m.net)}.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🔁 Renewal pipeline <span class="count">${DATA.renewals.length}</span></div>
+    <div class="pad"><p class="body">Everyone below has already said yes to this event once. These are the warmest asks in the pipeline — work them before cold outreach.</p></div>`;
+  DATA.renewals.forEach((r,i)=>{
+    const b = heat[r.heat];
+    h += row("ren-"+i, esc(r.who)+` <span class="badge ${b[0]}">${b[1]}</span>`, "March: "+esc(r.last), "",
+      `<p class="body">${esc(r.note)}</p>
+       ${checkbox("ren-reach-"+i,"Reached out")}
+       ${checkbox("ren-yes-"+i,"Committed to a tier")}
+       ${checkbox("ren-paid-"+i,"Paid")}
+       ${noteBox("n-ren-"+i,"Who owns this relationship, and what did they say?")}`);
+  });
+  h += `</section>`;
+
+  h += `<section><div class="sec-h">📎 What sponsors bought in March</div><div class="pad">`;
+  m.sponsors.forEach(s=>{
+    h += `<div class="kv"><span>${esc(s.tier)} — ${esc(s.who)}</span><span>${s.amt? money(s.amt) : "in-kind"}</span></div>`;
+  });
+  h += `<div class="kv" style="border-top:2px solid var(--gold);margin-top:6px;padding-top:8px;"><span><b>Sponsor cash total</b></span><span>${money(m.sponsorCash)}</span></div>
+    <div class="note">Sponsors were <b>${Math.round(m.sponsorCash/m.revenue*100)}%</b> of March revenue. Tickets were only <b>${Math.round(m.ticketNet/m.revenue*100)}%</b>. This event is sponsor-funded — tickets exist to fill the room and create commitment, not to pay the bills. Price them accordingly.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🎁 Swag — the Gold hooks</div><div class="pad">
+    <p class="body">March's model attached a <b>$3,000 Gold</b> sponsor to each swag item. Print lead time is the constraint, so logos have to be final well before the event.</p>
+    ${[["Lanyards (printed both sides)","https://www.customlanyard.net/product/custom-one-color-sublimation-lanyards"],["Tote bags (printed both sides)","https://www.customlanyard.net/product/custom-non-woven-tradeshow-tote-bags"],["T-shirts (front design, sponsor on sleeve)","https://www.customlanyard.net/product/custom-comfort-colors-heavyweight-ring-spun-tee/S"]].map((s,i)=>
+      `<div class="kv"><span><a href="${s[1]}" target="_blank" rel="noopener" style="color:var(--goldsoft)">${esc(s[0])}</a></span><span>Gold · $3,000</span></div>`).join("")}
+    ${["Decide which swag items run this time","Attach a Gold sponsor to each item","Collect print-ready logos","Place the order (allow print lead time)"].map((t,i)=>checkbox("swag-"+i,t)).join("")}
+  </div></section>`;
+  return h;
+}
+
+function viewBudget(){
+  const m = DATA.march;
+  const bud = budgetTotal();
+  const sIn = sponsorIn(), projRev = sIn + ticketsSold()*ticketPrice();
+  let h = `<section><div class="sec-h">💵 Oct 9 budget <span class="count">${money(bud)}</span></div>
+    <div class="pad"><p class="body">These are the numbers from the Oct 9 sheet. Edit any line as real quotes come in.</p>`;
+  DATA.budget.forEach(b=>{
+    h += numField("bud-"+b.item, b.item, b.amt);
+  });
+  h += `<div class="kv" style="border-top:2px solid var(--gold);margin-top:8px;padding-top:9px;"><span><b>Total budget</b></span><span>${money(bud)}</span></div>
+    <div class="kv"><span>Revenue committed so far</span><span>${money(projRev)}</span></div>
+    <div class="kv"><span>${bud-projRev>0?"Gap to close":"Cushion"}</span><span style="color:${bud-projRev>0?'#f0938a':'#7fd4a1'}">${money(Math.abs(bud-projRev))}</span></div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">📖 March actual — every dollar</div><div class="pad">
+    <p class="body">Connie paid all of this personally and was reimbursed from sponsor and ticket money.</p>`;
+  m.expenseLines.forEach(e=>{
+    h += `<div class="kv"><span>${esc(e.item)}</span><span>${money2(e.amt)}</span></div>`;
+  });
+  h += `<div class="kv" style="border-top:2px solid var(--gold);margin-top:6px;padding-top:8px;"><span><b>Total spent</b></span><span>${money2(m.expenses)}</span></div>
+    <div class="kv"><span><b>Total raised</b></span><span>${money2(m.revenue)}</span></div>
+    <div class="kv"><span><b>Net</b></span><span style="color:#7fd4a1">${money2(m.net)}</span></div>
+    <div class="warn"><b>The exposure nobody has addressed yet:</b> Connie carried <b>${money2(m.expenses)}</b> on her own credit cards — the Amex charges on 3/13 alone were ${money2(1859.48+5379.41)}. She got it back, but on a ${money2(m.net)} margin. If sponsor money had slipped, that was her money at risk. Decide who fronts what before the venue deposit.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🏛 Back Forty, line by line</div><div class="pad">
+    <p class="body">Worth studying whichever venue you pick — it shows where event money actually goes.</p>`;
+  m.backForty.forEach(b=>{
+    h += `<div class="kv"><span>${esc(b.k)}</span><span>${esc(b.v)}</span></div>`;
+  });
+  h += `<div class="note">Room rent was only <b>$200</b>. The bill was <b>food, bar and the 20% gratuity riding on top of them</b>. That is why the food model matters more than the room rate — and why a 9:00am coffee-and-breakfast program is structurally cheaper than March's afternoon open bar.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🎟 How March tickets actually sold</div><div class="pad">`;
+  const maxN = Math.max(...m.ticketWeeks.map(w=>w.n));
+  m.ticketWeeks.forEach(w=>{
+    h += `<div class="lab" style="padding-bottom:1px;">${esc(w.wk)} — ${w.n} tickets · ${money(w.amt)}</div>
+      <div class="bar"><i style="width:${maxN? w.n/maxN*100:0}%"></i></div>`;
+  });
+  h += `<div class="kv" style="border-top:2px solid var(--gold);margin-top:6px;padding-top:8px;"><span><b>Total</b></span><span>${m.ticketsPaid} tickets · ${money(m.ticketGross)} gross</span></div>
+    <div class="kv"><span>Processing fees</span><span>−${money2(m.ticketFees)}</span></div>
+    <div class="kv"><span>Net payout (Webconnex)</span><span>${money2(m.ticketNet)}</span></div>
+    <div class="warn"><b>The shape of that chart is the whole lesson.</b> ${m.ticketWeeks[2].n} tickets in the week of Feb 11–17. Then ${m.ticketWeeks[4].n} and ${m.ticketWeeks[5].n} in the last two weeks. Nothing sells until the event is real to people — which is an argument for locking the venue and the lineup early and announcing loudly, not for hoping the late rush is bigger this time.</div>
+    <div class="note"><b>Price check:</b> March was $39 general, $99 VIP — ${m.ticketsPaid} tickets grossed ${money(m.ticketGross)}, about ${money(m.ticketGross/m.ticketsPaid)} average. Connie has proposed <b>$49</b>. At ${attendGoal()} paid that is roughly <b>${money(49*attendGoal())}</b> gross, against March's ${money(m.ticketGross)} — the increase comes far more from filling the room than from the extra $10. Worth remembering the lever: moving one Silver up to Platinum raises ${money(2500)} with no attendance risk at all. Sponsors are the lever; tickets are the turnstile.</div>
+  </div></section>`;
+  return h;
+}
+
+function viewPlaybook(){
+  let h = `<section><div class="sec-h">✅ Role playbooks</div><div class="pad">
+    <p class="body">Straight from the March playbook, owners intact. Tick items as they land — your name and the date stamp automatically so the team can see movement.</p>
+    <div class="note"><b>One gap worth naming:</b> the playbook assigns project management, promotion and accountability to <b>Scarlett</b>. Gene's brief for this app named Connie, Steven and Betty. Somebody has to own the promo calendar and the weekly signup targets — and given that late-selling ticket curve, that role is the one that decides whether the room fills. Confirm who has it.</div>
+  </div></section>`;
+  DATA.playbooks.forEach((p,pi)=>{
+    let inner = `<div class="pad"><p class="body" style="opacity:.8"><b>${esc(p.role)}</b><br>${esc(p.line)}</p>`;
+    p.groups.forEach((g,gi)=>{
+      const done = g.items.filter((_,ii)=>S.checks[`pb-${pi}-${gi}-${ii}`]).length;
+      inner += `<div class="lab">${esc(g.g)} — ${done}/${g.items.length}</div>
+        <div class="bar"><i class="${done===g.items.length?'grn':''}" style="width:${done/g.items.length*100}%"></i></div>
+        ${g.items.map((it,ii)=>checkbox(`pb-${pi}-${gi}-${ii}`, it)).join("")}`;
+    });
+    inner += `${noteBox("n-pb-"+pi,"Notes for this lane…")}</div>`;
+    h += `<section><div class="sec-h">${esc(p.owner)}</div>${inner}</section>`;
+  });
+  return h;
+}
+
+function viewTimeline(){
+  let h = `<section><div class="sec-h">📅 Critical path to Oct 9</div><div class="pad">
+    <p class="body">Rebuilt from what actually happened in March, remapped onto Oct 9 — with the promo dates pulled <b>earlier</b>, because that is where March left money and seats on the table.</p>
+    <div class="tl">`;
+  DATA.timeline.forEach((t,i)=>{
+    const dd = daysFrom(t.date);
+    const cls = t.done ? "past" : (dd >= 0 && dd <= 7 ? "now" : "");
+    const when = new Date(t.date+"T12:00:00-05:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"});
+    const rel = t.done ? "done" : (dd === 0 ? "today" : dd > 0 ? `${dd} days away` : `${Math.abs(dd)} days ago`);
+    h += `<div class="tl-i ${cls}">
+      <div class="tl-d">${esc(when)} · ${esc(rel)}</div>
+      <div class="tl-t">${esc(t.t)}</div>
+      <div class="tl-m">${esc(t.m)}</div>
+      ${t.done?"":checkbox("tl-"+i,"Mark this milestone complete")}
+    </div>`;
+  });
+  h += `</div></div></section>`;
+
+  const goal = attendGoal();
+  const ramp = [[60,"Aug 10",0.10],[45,"Aug 25",0.27],[30,"Sept 9",0.50],[21,"Sept 18",0.67],[14,"Sept 25",0.83],[7,"Oct 2",0.97],[0,"Oct 9",1.0]];
+  h += `<section><div class="sec-h">🎟 Weekly ticket gates <span class="count">goal ${goal}</span></div><div class="pad">
+    <p class="body">March had no weekly targets, so nobody knew they were behind until the last fortnight. These are the gates that would have caught it. Miss one, and that is the week to spend on promotion — not the final week.</p>`;
+  ramp.forEach((r,i)=>{
+    h += `<div class="kv"><span>T−${r[0]} · ${r[1]}</span><span>${Math.round(goal*r[2])} sold</span></div>`;
+  });
+  h += `<div class="note">March's actual curve against these gates: by T−30 it had sold <b>11</b> tickets. This ramp would have wanted <b>${Math.round(goal*0.5)}</b>. The alarm would have gone off five weeks out, with time to do something about it.</div>
+    ${noteBox("n-ramp","Promo plan per gate — who does what, on which channel.")}
+  </div></section>`;
+  return h;
+}
+
+function viewMarch(){
+  const m = DATA.march;
+  let h = `<section><div class="sec-h">📖 March 11, 2026 — the debrief nobody wrote</div><div class="pad">
+    <p class="body">Everything here comes from the team's own playbook sheet and expense ledger. It is the most valuable asset you have going into Oct 9, because it is real.</p>
+    <div class="stats" style="padding:0 0 8px;">
+      <div class="stat"><div class="n grn">${money(m.revenue)}</div><div class="l">Raised</div></div>
+      <div class="stat"><div class="n amb">${money(m.expenses)}</div><div class="l">Spent</div></div>
+      <div class="stat"><div class="n grn">${money2(m.net)}</div><div class="l">Net</div></div>
+      <div class="stat"><div class="n">${m.ticketsPaid}</div><div class="l">Paid tickets</div></div>
+      <div class="stat"><div class="n amb">~${m.mainRoomEst}</div><div class="l">Main room</div></div>
+      <div class="stat"><div class="n">${m.vipPaid}</div><div class="l">VIP paid</div></div>
+    </div>
+    <div class="note"><b>On the room count:</b> the ledger proves ${m.mainPaid} paid main-event tickets and ${m.mainComp} comped guests. Connie's count from the room itself is closer to <b>${m.mainRoomEst}</b> once speakers, sponsor reps and both comp lists are included — and she was standing in it. Use ~${m.mainRoomEst} when talking to sponsors about the experience, and ${m.mainPaid} when judging whether the promotion worked.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">✅ What clearly worked</div><div class="pad">
+    <div class="li pro"><b>The sponsor model.</b> ${money(m.sponsorCash)} from seven sponsors, six of whom paid in full and on time. That is a repeatable engine and the reason the event existed.</div>
+    <div class="li pro"><b>Budget discipline.</b> Budgeted ${money(18716)}, spent ${money2(m.expenses)}. Came in under. Rare for a first-time event.</div>
+    <div class="li pro"><b>Renewal signal.</b> Brian Bell asked for an Oct invoice before anyone pitched him. Ben Dunham told Gene by email it was great meeting him at the conference and that a deal came out of it. The event produced real business.</div>
+    <div class="li pro"><b>In-kind trades.</b> VVMM shot photo and video for free — a $500+ line item eliminated. Worth re-upping before budgeting for it again.</div>
+    <div class="li pro"><b>The prep standard.</b> Scarlett built both a public itinerary and an internal run-of-show with advance panel questions. That is why the room felt organized.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">⚠️ What did not work</div><div class="pad">
+    <div class="li con"><b>The room came in under the promise.</b> About ${m.mainRoomEst} against a stated goal of ${m.goalLow}–${m.goalHigh}. Respectable for a first event, but it is the gap that matters most going into the second one.</div>
+    <div class="li con"><b>Promotion started too late.</b> ${Math.round((m.ticketWeeks[4].n+m.ticketWeeks[5].n)/m.ticketsPaid*100)}% of tickets sold inside the final 15 days, with a week in mid-February that sold zero. And ${m.mainComp} of the main-room seats were comps — comps do not scale.</div>
+    <div class="li con"><b>One person carried all the financial risk.</b> Connie floated ${money2(m.expenses)} personally on a ${money2(m.net)} margin. She has offered to do it again, which is generous, not a solution.</div>
+    <div class="li con"><b>The VIP night lost money.</b> TopGolf cost ${money2(4673.55+335.19)} against the ${money(4000)} Platinum VIP sponsorship that funded it — roughly ${money(1008)} underwater.</div>
+    <div class="li con"><b>Decks arrived at the last minute.</b> Six days out the team still did not have presentations or a named operator. They were set up the morning of the event.</div>
+    <div class="li con"><b>Back Forty ended badly.</b> Post-event issues serious enough that Connie will not manage that relationship again.</div>
+    <div class="li con"><b>The free-event promise never held.</b> The playbook says "Cost: FREE | Funded by Sponsors" but tickets sold at $39 and $99. That line is still on the Oct 9 sheet — decide what is true and say it consistently.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🕐 The March run of show</div><div class="pad">
+    <p class="body">Wednesday, March 11 · 1:00–5:00pm at Back Forty · happy hour 5:00–6:00pm. VIP night the evening before at TopGolf, 6:00–9:00pm.</p>`;
+  m.agenda.forEach(a=>{ h += `<div class="kv"><span>${esc(a.t)}</span><span>${esc(a.who)}</span></div>`; });
+  h += `<div class="note">Note the shape: two long teaching slots, a panel, and a closer, with sponsor moments bookending the break. The Oct 9 draft keeps that skeleton and compresses it into a morning. It is a proven structure — the open question is who fills it.</div>
+  </div></section>`;
+
+  h += `<section><div class="sec-h">🧹 Housekeeping on the Oct 9 sheet</div><div class="pad">
+    <p class="body">Three things on the live sheet will mislead somebody if they are not cleaned up:</p>
+    <div class="li">The <b>EXPENSES</b> tab's "ACTUAL so far" column still holds March's numbers — TopGolf, Westin, the March airfares. Nothing has been spent on Oct 9 yet, so that column reads as if money is already out the door.</div>
+    <div class="li">The <b>TICKET SALES</b> tab still lists the March VIP guest names under a Oct 9 column, even though the VIP Platinum tier was removed from the sponsorship tab.</div>
+    <div class="li"><b>Assurance Mortgage</b> moved from Platinum ($4,000 in March) down to Gold ($3,000) on the Oct ladder. If that was not deliberate, it is $1,000 left on the table with a sponsor who already paid more than that.</div>
+    ${["Clear stale March data from the Oct EXPENSES tab","Decide the VIP night question and fix the ticket tab","Confirm Assurance's tier — Gold or Platinum?"].map((t,i)=>checkbox("hk-"+i,t)).join("")}
+  </div></section>`;
+  return h;
+}
+
+/* ══════════════ EXPORT ══════════════ */
+function buildDigest(){
+  const L = [];
+  L.push(`FURTHER TOGETHER — OCT 9 UPDATES FROM ${ME || "(unnamed)"}`);
+  L.push(`Sent ${new Date().toLocaleString("en-US",{dateStyle:"medium",timeStyle:"short"})} · ${daysOut()} days out`);
+  L.push("");
+
+  const sIn = sponsorIn(), bud = budgetTotal(), rev = sIn + ticketsSold()*ticketPrice();
+  L.push("— SCOREBOARD —");
+  L.push(`Sponsor cash committed: ${money(sIn)} of ${money(sponsorTarget())}`);
+  L.push(`Tickets sold: ${ticketsSold()} of ${attendGoal()} goal (at $${ticketPrice()})`);
+  L.push(`Budget: ${money(bud)} · Revenue: ${money(rev)} · ${bud-rev>0?"GAP "+money(bud-rev):"Cushion "+money(rev-bud)}`);
+  L.push("");
+
+  const myChecks = Object.entries(S.checks).filter(([k,v])=> v && v.by === ME && !k.startsWith("_open-"));
+  if(myChecks.length){
+    L.push(`— ${myChecks.length} ITEM${myChecks.length>1?"S":""} I CHECKED OFF —`);
+    myChecks.forEach(([k,v])=> L.push(`[x] ${labelFor(k)}`));
+    L.push("");
+  }
+  const myVotes = Object.entries(S.votes).filter(([k,v])=> v && v[ME]);
+  if(myVotes.length){
+    L.push("— MY VOTES —");
+    myVotes.forEach(([k,v])=> L.push(`${labelFor(k)} → ${v[ME].toUpperCase()}`));
+    L.push("");
+  }
+  const myNotes = Object.entries(S.notes).filter(([k,v])=> v && v.trim());
+  if(myNotes.length){
+    L.push("— NOTES —");
+    myNotes.forEach(([k,v])=> { L.push(`${labelFor(k)}:`); L.push(v.trim()); L.push(""); });
+  }
+  L.push("— PASTE-TO-SYNC (for whoever merges the board) —");
+  L.push(JSON.stringify({me:ME, checks:S.checks, votes:S.votes, fields:S.fields, notes:S.notes}));
+  return L.join("\n");
+}
+function labelFor(k){
+  const map = {
+    "d-venue":"Which venue?","d-cap":"Attendance goal","d-money":"Who fronts the money",
+    "d-vip":"VIP night on Oct 8?","d-price":"Ticket price","d-friday":"Friday morning?",
+    "d-charity":"Charity choice","n-agenda":"Run of show","n-ramp":"Promo plan per gate"
+  };
+  let s = k.replace(/^(v-|n-|_open-)/,"");
+  for(const [key,val] of Object.entries(map)) if(s === key) return val;
+  DATA.venues.forEach(v=>{ if(s === "venue-"+v.id) s = v.name; });
+  const spAct = {"spinv-":"invoice sent","sppaid-":"INVOICE PAID","sptable-":"table confirmed","splogo-":"logo files received","spon-":"cash received"};
+  for(const [pre,act] of Object.entries(spAct)){
+    if(s.startsWith(pre)){
+      const t = DATA.sponsorTargets.find(x=> x.id === s.slice(pre.length));
+      if(t) return `${t.tier}${t.who? " — "+t.who : ""} · ${act}`;
+    }
+  }
+  const renAct = {"ren-reach-":"reached out","ren-yes-":"committed to a tier","ren-paid-":"paid"};
+  for(const [pre,act] of Object.entries(renAct)){
+    if(s.startsWith(pre)){
+      const r = DATA.renewals[+s.slice(pre.length)];
+      if(r) return `${r.who} · ${act}`;
+    }
+  }
+  const spm = s.match(/^sp-(\d+)$/); if(spm && DATA.speakers[+spm[1]]) s = DATA.speakers[+spm[1]].name;
+  const rnm = s.match(/^ren-(\d+)$/); if(rnm && DATA.renewals[+rnm[1]]) s = DATA.renewals[+rnm[1]].who;
+  const askm = s.match(/^ask-([a-z]+)-(\d+)$/);
+  if(askm){ const v = DATA.venues.find(x=>x.id===askm[1]); if(v) s = v.name + " — " + v.ask[+askm[2]]; }
+  const tlm = s.match(/^tl-(\d+)$/); if(tlm && DATA.timeline[+tlm[1]]) s = "Milestone: " + DATA.timeline[+tlm[1]].t;
+  const pbm = s.match(/^pb-(\d+)-(\d+)-(\d+)$/);
+  if(pbm){ const p = DATA.playbooks[+pbm[1]]; if(p) s = p.owner + " — " + p.groups[+pbm[2]].items[+pbm[3]]; }
+  const spd = s.match(/^sp-(\d+)-(\d+)$/);
+  if(spd && DATA.speakers[+spd[1]]) s = DATA.speakers[+spd[1]].name + " — " + DATA.speakers[+spd[1]].todo[+spd[2]];
+  return s;
+}
+function sendUpdates(){
+  if(needMe()) return;
+  const body = buildDigest();
+  const subj = `Further Together Oct 9 — updates from ${ME} (${daysOut()} days out)`;
+  // Always put it on the clipboard first — mail links are blocked in some
+  // hosted/embedded contexts, and long bodies get truncated by mail clients.
+  try{ navigator.clipboard?.writeText(body); }catch(e){}
+  toast("Update copied to your clipboard. Opening your email…");
+  const short = body.split("— PASTE-TO-SYNC")[0];
+  const href = `mailto:${TEAM_EMAILS}?subject=${encodeURIComponent(subj)}&body=${encodeURIComponent(short)}`;
+  try{ window.open(href, "_blank"); }catch(e){}
+  setTimeout(()=>toast("If no email opened, just paste from your clipboard."), 2600);
+}
+function exportState(){
+  const txt = JSON.stringify({me:ME, checks:S.checks, votes:S.votes, fields:S.fields, notes:S.notes});
+  navigator.clipboard?.writeText(txt).then(
+    ()=>toast("Board state copied. Paste it to whoever merges."),
+    ()=>toast("Copy failed — use Send My Updates instead.")
+  );
+}
+function importState(){
+  const raw = prompt("Paste a board state from a teammate. Their checks, votes, notes and numbers merge into yours.");
+  if(!raw) return;
+  try{
+    const o = JSON.parse(raw.trim());
+    Object.assign(S.checks, o.checks||{});
+    Object.assign(S.fields, o.fields||{});
+    Object.entries(o.votes||{}).forEach(([k,v])=>{ S.votes[k] = Object.assign(S.votes[k]||{}, v); });
+    Object.entries(o.notes||{}).forEach(([k,v])=>{ if(v && v.trim()) S.notes[k] = (S.notes[k] && S.notes[k]!==v) ? S.notes[k]+"\n---\n"+v : v; });
+    save(); render(); toast(`Merged${o.me?" "+o.me+"'s":""} updates.`);
+  }catch(e){ toast("That wasn't valid board state."); }
+}
+
+/* ══════════════ SHELL ══════════════ */
+function renderSyncOnly(){
+  const bar = document.getElementById("syncbar");
+  if(!bar) return;
+  const busy = SYNC.state==="pulling" || SYNC.state==="pushing";
+  bar.className = "syncbar" + (busy?" busy":"") + (SYNC.state==="err"?" bad":"");
+  const who = ME ? "" : " <b>Tap your name above to start entering.</b>";
+  bar.innerHTML = `<span class="dot"></span><span class="txt">${esc(syncLabel())}${who}</span>
+    <button onclick="pullBoard()">↻ Refresh</button>`;
+}
+
+function render(){
+  document.getElementById("who").innerHTML =
+    TEAM.map(n=>`<span class="chip ${ME===n?'on':''}" onclick="setMe('${n}')">${n}</span>`).join(" ");
+  renderSyncOnly();
+
+  const d = daysOut(), sIn = sponsorIn(), sTgt = sponsorTarget();
+  const venueVotes = DATA.venues.reduce((n,v)=> n + Object.keys(S.votes["v-venue-"+v.id]||{}).length, 0);
+  const bits = [`${d} days to Oct 9`];
+  bits.push(sIn>0 ? `${money(sIn)} of ${money(sTgt)} sponsor money in` : `${money(0)} sponsor money banked — the ladder is empty`);
+  bits.push(venueVotes ? `venue: ${venueVotes} vote${venueVotes>1?"s":""} cast` : `venue undecided — 3 calls to make`);
+  document.getElementById("headline").textContent = bits.join(" · ");
+
+  document.getElementById("tabs").innerHTML = TABS.map(t=>
+    `<div class="tab ${TAB===t.id?'on':''}" onclick="setTab('${t.id}')"><span class="e">${t.e}</span>${t.t}</div>`).join("");
+
+  const views = {command:viewCommand, venue:viewVenue, speakers:viewSpeakers, sponsors:viewSponsors,
+                 budget:viewBudget, playbook:viewPlaybook, timeline:viewTimeline, march:viewMarch};
+  document.getElementById("app").innerHTML = (views[TAB] || viewCommand)();
+}
+function setMe(n){ ME = (ME===n? "" : n); localStorage.setItem("fthq-me", ME); render(); if(ME) toast(`Hi ${ME} — your entries now save to the team board automatically.`); }
+function setTab(t){ TAB = t; localStorage.setItem("fthq-tab", t); window.scrollTo(0,0); render(); }
+render();
+_lastPull = Date.now();
+pullBoard(true);   // pick up whatever the team has already entered
+</script>
+</body>
+</html>
