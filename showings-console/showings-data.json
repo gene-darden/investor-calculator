@@ -1,81 +1,111 @@
 {
-  "updated": "2026-07-30 12:36 PM CT",
-  "headline": "🔥 A SECOND SHOWING TODAY — 23223 Front Beach booked at 10:57 this morning for 3:30 PM, the second tour in five days on a condo that had gone 126 days with nothing. Your out-of-state seller should hear that today, not in Monday's report.",
+  "updated": "2026-07-30 5:40 PM CT",
+  "headline": "✅ THE 2127 READ CAME BACK — and it took you five minutes, not the form's twenty-four hours. You emailed Mason P. directly at 1:05 and had the answer at 1:10: his buyer likes the house, the LAND isn't what he wants. That's the cheapest possible objection on a $1.15M listing — and it's the instruction manual for the four other reads still owed.",
   "stats": {
-    "showings14d": 15,
-    "feedback14d": 8,
-    "gaps": 8
+    "showings14d": 18,
+    "feedback14d": 9,
+    "gaps": 7
   },
   "hotSignals": [
     {
-      "addr": "23223 Front Beach Rd B3-407",
+      "addr": "2127 Hwy 93",
       "date": "7/30",
       "isNew": true,
-      "signal": "🔥 BOOKED AT 10:57 THIS MORNING AND CONFIRMED TWELVE MINUTES LATER FOR 3:30 THIS AFTERNOON — a DIFFERENT agent than Saturday's, showing this unit for the first time. That is the second tour in five days on a condo that had gone 126 days with essentially no activity, and it takes this listing from the longest zero-activity streak on the board to the most improved. The notice independently verifies the MLS line: $364,000 | ACTIVE | ID# 787112, Pinnacle Port Phase 1-D, lifetime showings now 8. The requesting agent's details sit behind ShowingTime's Action Required button and were not in the notice.",
-      "action": "⭐ CALL YOUR SELLER TODAY, NOT MONDAY. He is out of state and lives on these reads; two tours in five days after four months of nothing is the first genuinely good news this unit has produced, and it should not wait for the weekly report. He does have an email on file — Monday's report reached him with 219 Zillow views and the marketing angle change. 🔴 AND CLOSE THE OTHER HALF WHILE YOU ARE IN THERE: Saturday's showing agent has now gone FIVE days without answering the nudge you sent Monday morning, and she left a note in the app, so there is genuinely something to collect. Two unanswered reads in a row on a listing that has NEVER given feedback unprompted means asking is the whole game — one more ask or a phone call, not a sixth day of waiting. ⚠️ Market context so the seller call is not about his unit: PCB ran 68 sold against 218 new listings in mid-July."
+      "signal": "✅ THE READ ARRIVED, AND THE METHOD IS THE STORY. After 24 hours of ShowingTime silence you emailed the buyer's agent directly at 1:05 PM — \"You showed it yesterday at 12:30. How'd your buyers like it?\" — and Mason P. (Stratford Real Estate) answered at 1:10 PM. FIVE MINUTES. Verbatim: \"We pulled up to the home and my buyer had realized he had already see the property when he was looking with another agent. He likes the house but the land isn't what he is looking for.\" You thanked him at 1:12 and forwarded it to your seller at 1:12 — same-day, exactly right. 🔥 HE LIKES THE HOUSE. The objection is the LAND — acreage, not price, not condition, not the number. On a $1.15M listing whose first-ever read could have been \"too expensive,\" a land-fit objection is the cheapest possible loss.",
+      "action": "⭐ TAKE THE POSITIONING QUESTION TO SUNDAY'S OPEN HOUSE, NOT A PRICE QUESTION. The one read this listing has ever produced says the house works and the land is the filter — so the open house 1–3 Sunday should be aimed at the buyer who WANTS this land, not defended on price. ⚠️ AND ONE HONEST DEDUCTION WORTH RECORDING: this buyer had ALREADY SEEN the property with another agent, so the \"first-ever showing\" was not a first look for him. The listing's true unique-buyer count is lower than the tour count suggests, and 807 Zillow views over five days with one tour is still a conversion problem. ⭐ THE REAL LESSON IS TRANSFERABLE AND IT IS WORTH MORE THAN THIS ONE READ: the form produced nothing in 24 hours, and one direct email produced an answer in five minutes. There are four other owed reads on this board right now — 1709 Fieldstone, 198 Rena, the Front Beach agent at five days, and 195 Lake View at eleven. Do exactly what you did here. 🛑 The unrelated security item on this address is unchanged: do not open the replacement meeting link, on any device."
+    },
+    {
+      "addr": "3350 Altamont Rd E21",
+      "date": "7/30",
+      "isNew": true,
+      "signal": "✅ A SHOWING BOOKED FOR SATURDAY — AND THE NOTICE SETTLED A QUESTION THIS BOARD HAS BEEN HEDGING ON FOR FOUR DAYS. At 1:03 PM a ShowingTime confirmation came through for Sat 8/1 10:20 AM carrying the MLS line verbatim: $164,000 | ACTIVE | ID# 21451694. That is a $5,000 reduction from the $169,000 this listing carried on its 7/18 and 7/19 notices — so the price cut the seller approved Monday IS LIVE AND PUBLIC, verified off a primary source rather than assumed. Every board since Monday said \"not asserted that the new number is live.\" It is now. And it is the first new appointment on this unit since 7/20.",
+      "action": "⭐ QUOTE $164,000 FROM HERE ON — the hedge is retired. 🔴 ONE JOB FALLS OUT OF THIS IMMEDIATELY: check the queued social posts for the stale $169,000 number. One already had to be caught for exactly that, and a public price that contradicts the MLS is the same hygiene failure currently sitting nine days open on the sibling listing. ⚠️ A price cut going live and a booking landing the same afternoon is recorded as a SEQUENCE, not a proven cause — one showing is not evidence a reduction worked. ⭐ ONE CHEAP FIX BEFORE 10:20 SATURDAY: the 7/14 buyer really liked this unit and flagged PUDDLING in the little patio area after touring in pouring rain. Check the grading and the downspout — that is a thirty-dollar problem that reads as a water problem to a buyer. ⭐ The recent reads on this unit point AWAY from price: a location loss, and a buyer still deciding which part of Birmingham he wants. Only the oldest said too high."
+    },
+    {
+      "addr": "23223 Front Beach Rd B3-407",
+      "date": "7/30",
+      "isNew": false,
+      "signal": "🔥 THE SECOND SHOWING IN FIVE DAYS RAN AT 3:30 THIS AFTERNOON. Booked at 10:57 this morning and confirmed twelve minutes later by a DIFFERENT agent than Saturday's — first time showing this unit, per the notice's \"Showings by this Agent: 1 / Total # of Showings: 8.\" This condo had gone 126 days with essentially no activity; it has now taken two tours in five days, which moves it from the longest zero-activity streak on the board to the most improved. The notice independently verifies $364,000 | ACTIVE | ID# 787112, Pinnacle Port Phase 1-D.",
+      "action": "⭐ CALL YOUR SELLER TONIGHT, NOT MONDAY. He is out of state and lives on these reads; two tours in five days after four months of nothing is the first genuinely good news this unit has produced and it should not wait for the weekly report. He does have an email on file — Monday's report reached him with 219 Zillow views and the marketing angle change. 🔴 AND CLOSE THE OTHER HALF WHILE YOU ARE IN THERE: Saturday's showing agent has now gone FIVE days without answering the nudge you sent Monday morning, and she left a note in the app, so there is genuinely something to collect. ⭐ TODAY GAVE YOU THE METHOD — on 2127 the form produced nothing in 24 hours and one direct email produced an answer in five minutes. Do not send a sixth ShowingTime reminder; write to her directly or call. ⚠️ The requesting agent's details on today's tour sit behind ShowingTime's Action Required button and were not in the notice body. ⚠️ Market context so the seller call is not about his unit: PCB ran 68 sold against 218 new listings in mid-July."
     },
     {
       "addr": "195 Lake View Cir",
       "date": "7/30",
-      "isNew": true,
-      "signal": "🔥 NINE DAYS OF SILENCE BROKE INTO A LIVE NEGOTIATION IN ONE MORNING. Kenneth R. (LocAL Realty) shared three documents at 8:13:12 AM with the line that changes this file: his sellers go under contract on THEIR house this morning. You acknowledged in six and a half minutes and forwarded to your coordinator at 8:45 — \"net this out and include counter at 355k with other terms ok.\" A fourth document, a personal property agreement, followed at 10:21 with his note that his wife missed that one and is signing. The contingency that collapsed this deal on the 16th — the only buyer, conditional on their own unsold house — is breaking in real time.",
-      "action": "🔴 THE ONLY THING BLOCKING YOU IS YOUR OWN RULING. At 8:55 your coordinator hit a term she cannot pass on her own: the co-op agent is asking 3.5% commission. ✅ She delivered the net sheet anyway at 10:42, so the framing that said she was stopped is stale by two hours — but the action did not change, because her delivering it does not establish how she treated the 3.5% ask. Rule the number and the counter goes. ⛔ DO NOT QUOTE $355,000 AS THE OFFER — it is YOUR COUNTER. The actual offer price, terms and expiry are still unverified: they live inside dotloop documents no routine has opened, and none will guess at them. ⚠️ RULE 9 HOLDS AND IT MATTERS HERE: their house going UNDER CONTRACT is not their house CLOSED, and that remains the entire risk on this deal. ⚠️ Two older items still open on this address: the 7/19 showing has been re-asked six times with nothing back, and Sunday's cancelled 3:00 showing still has not been rebooked at six days — the buyer got called into work, which is a reschedule, not a lost buyer, and the co-op agent's number is on the notice."
+      "isNew": false,
+      "signal": "🔥 A LIVE OFFER, AND YOUR COUNTER STILL HAS NOT LEFT THE BUILDING. Kenneth R. (LocAL Realty) shared three documents at 8:13:12 AM: \"Good morning my sellers will be under contract on their house this morning. Here is a new offer from them.\" You acknowledged at 8:19, then forwarded to your coordinator at 8:45 — \"net this out and include counter at 355k with other terms ok.\" A fourth document, a Personal Property Agreement, followed at 10:21. The contingency that collapsed this deal on the 16th — the only buyer, conditional on their own unsold house — is breaking in real time.",
+      "action": "🔴 NINE HOURS AFTER THE ASK, THE RULING IS STILL THE BLOCKER. At 8:55 your coordinator hit a term she cannot pass on her own: the co-op agent is asking 3.5% commission. She delivered the net sheet anyway at 10:42, but the counter itself has not gone across the table — the midday sweep put it plainly, your $355K counter never left the building. Rule the number and it goes. ⛔ DO NOT QUOTE $355,000 AS THE OFFER — it is YOUR COUNTER. The actual offer price, terms and expiry are still unverified: they live inside dotloop documents no routine has opened, and none will guess at them. ⚠️ RULE 9 HOLDS AND IT MATTERS HERE: their house going UNDER CONTRACT is not their house CLOSED, and that remains the entire risk on this deal. ⚠️ Two older reads still owed on this address, and today proved how to get them: the 7/19 showing has been re-asked SIX times by form with nothing back — at six asks the silence IS the feedback, but one direct email is still worth trying — and Sunday's cancelled 3:00 showing has not been rebooked at six days. The buyer got called into work, which is a reschedule, not a lost buyer, and the co-op agent's number is on the notice."
     },
     {
       "addr": "1709 Fieldstone Cir",
       "date": "7/30",
-      "isNew": true,
-      "signal": "✅ IT HAPPENED. The first showing this listing has ever had ran 10:00–10:45 this morning with Cannon F. of Keller Williams Realty Vestavia — eight days live, 371 Zillow views, zero prior tours. The lockbox question that dominated this board at 7 AM is behind you: the showing was not reported as blocked on any lane. The booking itself came in and confirmed inside 71 seconds Wednesday afternoon, and the notice printed it plainly — 'Showings by this Agent: 1 / Total # of Showings: 1'.",
-      "action": "⭐ THE FEEDBACK CALL IS NOW THE WHOLE POINT AND IT IS CHEAP RIGHT NOW. This is the only read this listing has ever produced, and Saturday's 3–5 open house is already public to 1,900 addresses and should be built on whatever he says. A feedback ask is staged to him in your drafts and has not gone — send it, or better, call him. ⚠️ No ShowingTime feedback has returned and none is due this fast; two and a half hours is not silence. ⭐ THE AD ENGINE IS STILL PRODUCING ON THIS ADDRESS: a THIRD lead came in at 9:23 this morning off the same ad, and her email hard-bounced three seconds after the machine wrote to her — the phone is her only channel and she is on your call block. ✅ AND THE FIVE-DAY FREEZE IS OVER: the portal inquiry held pending a teammate-ownership ruling got its answer at 10:22 — your teammate says that lead is a scam and that she has been seeing a lot of them. The row closes."
-    },
-    {
-      "addr": "2127 Hwy 93",
-      "date": "7/29",
       "isNew": false,
-      "signal": "🔴 A FULL DAY NOW AND THE READ STILL HAS NOT ARRIVED. The first-ever tour on the $1.15M listing ran 12:30–1:15 Wednesday with Mason P. (Stratford Real Estate) and there is nothing on any lane — no ShowingTime feedback, no text, no email. A fresh 14-day pull confirms this is genuine silence and not a missed inbox. Five days live produced 807 Zillow views and 27 saves with zero prior tours, and the only earlier booking was confirmed Fri 7/24 and cancelled 73 minutes later, so this single appointment carries real weight. 🛑 SEPARATELY AND MORE URGENT: the buyer inquiry on this same listing sent a REPLACEMENT meeting link at 10:09 this morning on a lookalike domain, after claiming your working Google link failed in every browser she tried.",
-      "action": "⭐ CALL MASON P. — twenty-four hours is well past the point where waiting for the form is the right play, and a feedback ask has been staged in your drafts since 9:24 without sending. Ask what the buyer has already seen in Helena and what 12:30 was competing against, then call your sellers back the same day. Michigan area code on his direct line, so establish whether this is a relocation before positioning the house. There is an open house Sunday 1–3 that should be built on his answer. 🛑 AND DO NOT OPEN THAT LINK, ON ANY DEVICE. The registrable domain is a Spanish-registry lookalike and the Google part is a path segment, not the hostname — verifiable from the URL text alone, and nothing opened it. You already did the right thing by drafting a re-send of your own real link; that draft is still unsent. Your teammate independently called a structurally identical inquiry on another listing a scam at 10:22 this morning — same template opener, same phone refusal, same overseas alibi, same push to video. Recorded as a pattern match, not a verdict. Nothing sensitive on this one until identity is established: no seller information, no showing access, no lockbox codes. 🔴 Still unresolved: your seller received the 1,900-address marketing email about his own house while the showing was running, and the body asks the reader to forward it along. Thirty seconds on the phone beats him building his own theory, and it folds into the call already owed."
-    },
-    {
-      "addr": "5167 Lake Crest Cir",
-      "date": "7/30",
-      "isNew": true,
-      "signal": "✅ THE INFERENCE FROM LAST NIGHT IS NOW A SECOND SOURCE. At 10:38 this morning your coordinator sent the buyer's agent, at both her addresses, \"Good morning! Attached is the agreed upon inspection addendum.\" Last night the only evidence was a verified co-seller opening a document that named no property; this materially strengthens the read that it is the $18,750 HVAC addendum you executed Wednesday at 3:16 PM with the two-opinions framing. The MLS line reads CONTINGENT following Monday's fully-executed inspection removal.",
-      "action": "⭐ THIRTY SECONDS TO CONFIRM IT ACTUALLY GETS SIGNED. The co-seller opened it a THIRD time at 7:42 this morning and no completion by your seller has ever appeared on any lane. This file has already been burned once by a half-execution that four outside parties then worked from. ⚠️ The property tie is still an inference off the signer, not a receipt. 🟢 THE APPRAISAL WATCH IS NOW ~24 HOURS DARK AND THAT IS NORMAL, NOT OMINOUS — the appraiser walked it Wednesday at eleven, no value exists yet and none is owed, the next rung is clear-to-close, and no low-appraisal read may be carried without a receipt. ⭐ WHAT IS ACTUALLY LEFT ON THIS CLIENT IS THE REFERRAL: the roughly $1M buyer he handed over Tuesday still has no name, number or email — you confirmed this morning that you have asked him, and the reminder now sits Monday. ⚠️ Still open and quiet: the 7/24 certificate-of-completion visit never happened because the inspector left without conducting it, the Hoover permit question is unanswered, and the proposed and ratified close dates still disagree. ⭐ The written 'interested: Yes' backup buyer from 7/21 is now nine days uncalled — with inspection removed and the appraisal behind you, that call is cheap."
+      "signal": "✅ THE FIRST SHOWING THIS LISTING HAS EVER HAD RAN 10:00–10:45 THIS MORNING with Cannon F. of Keller Williams Realty Vestavia — eight days live, 371 Zillow views, zero prior tours. The lockbox question that dominated this board at 7 AM is behind you: the showing was not reported as blocked on any lane. The booking came in and confirmed inside 71 seconds Wednesday afternoon, and the notice printed it plainly — \"Showings by this Agent: 1 / Total # of Showings: 1.\" 🔥 SEPARATELY, THE AD ENGINE ON THIS ADDRESS PRODUCED FOUR LEADS IN 48 HOURS — two Tuesday, one at 9:23 this morning whose email hard-bounced, and a fourth at 3:04 this afternoon.",
+      "action": "⭐ ASK HIM DIRECTLY, TONIGHT OR FIRST THING — DO NOT WAIT ON THE FORM. Today's 2127 result is the instruction manual: 24 hours of form silence there, five minutes for a direct email. This is the only read this listing will ever have from its only tour, and Saturday's 3–5 open house is already public to 1,900 addresses and should be built on it. ⚠️ No ShowingTime feedback has returned and none is strictly due yet — seven hours is not silence. But nothing is gained by waiting. 🔥 THE LEAD FLOW IS THE REAL STORY HERE AND YOU ARE ALREADY WORKING IT BY HAND: you emailed this afternoon's lead yourself at 3:07, three minutes after he came in, quoting $380,000 and leading with the finished basement and the bar. That is now the highest-velocity lead source on the board, pointed at a listing that had zero showings a day ago. ⚠️ This morning's lead is phone-only — her email hard-bounced three seconds after the machine wrote to her, though a text did land at 9:42. ✅ AND THE FIVE-DAY FREEZE IS OVER: the portal inquiry held pending a teammate-ownership ruling got its answer at 10:22 — your teammate says that lead is a scam and she has been getting a lot of them through that brokerage. The row closes."
     },
     {
       "addr": "2368 Ridge Trail",
       "date": "7/28",
       "isNew": false,
       "signal": "⭐ STILL THE MOST USEFUL READ THIS HOUSE HAS PRODUCED. Susan B. (Entera Realty) answered: interested — No; priced right — JUST RIGHT; staging — 4 of 5. And in the box asking for a price-change recommendation she typed, verbatim: \"House seemed dirty and the electrical seemed to be glitching.\" She put a CONDITION objection where a number belongs and separately validated the number. That is the second independent agent in a week to call this price just right.",
-      "action": "🔴 THE ELECTRICAL IS THE ITEM AND IT IS NOW THREE DAYS UNACTIONED. \"Glitching\" on a $559,000 house that just fell out of contract for a reason nobody has ever established is worth an electrician before the next tour rather than after — it may be the answer to what killed it. And a cleaner is the cheapest fix on this entire board: the house reads dirty to buyers at 38 lifetime showings. 🔴 SEPARATELY AND NOW ROUGHLY 47 HOURS OLD: your institutional seller asked for your market read Tue 7/28 1:50 PM copying two colleagues, and it is still unanswered — the reply is already written inside a staged draft and just needs to go. Every pass it sits is a worse look with a client who sends volume. ⛔ DO NOT take a price conversation to this seller off this read — the feedback explicitly does not support one, and the last three reads have blamed schools, EIFS and now condition. Nobody has said the number."
+      "action": "🔴 THE ELECTRICAL IS THE ITEM AND IT IS NOW THREE DAYS UNACTIONED. \"Glitching\" on a $559,000 house that just fell out of contract for a reason nobody has ever established is worth an electrician before the next tour rather than after — it may be the answer to what killed it. And a cleaner is the cheapest fix on this entire board: the house reads dirty to buyers at 38 lifetime showings. 🔴 SEPARATELY AND NOW ROUGHLY 52 HOURS OLD: your institutional seller asked for your market read Tue 7/28 1:50 PM copying two colleagues, and it is still unanswered — the reply is already written inside a staged draft and just needs to go. Every pass it sits is a worse look with a client who sends volume, and today you answered two other agents inside five minutes each. ⛔ DO NOT take a price conversation to this seller off this read — the feedback explicitly does not support one, and the last three reads have blamed schools, EIFS and now condition. Nobody has said the number. ⚠️ Quote $559,000 only."
     }
   ],
   "upcoming": [
-    "🔥 TODAY Thu 7/30 3:30–3:45 PM - 23223 FRONT BEACH RD UNIT B3-407, Panama City Beach. NEW - requested 10:57 AM and confirmed 11:09 AM this morning. A different agent than Saturday's, showing it for the first time. Second tour in five days after 126 days of nothing. Lifetime showings now 8.",
-    "TODAY Thu 7/30 4:00 PM - 198 RENA DR, Springville. Confirmed 7/27 3:29 PM. First new appointment on this house since 7/12; 71 DOM. The yard is the pitch - the only recorded objection is the floor plan, not the price. Access, lights and the yard need sorting now, not at 3:50.",
-    "SATURDAY 8/1 3:00-5:00 PM - 1709 FIELDSTONE CIR, Helena. Open house, carried to 1,900 addresses by Wednesday's campaign. Build it around whatever this morning's 10:00 tour says.",
-    "SUNDAY 8/2 1:00-3:00 PM - 2127 HWY 93, Helena. Open house, hosted personally. Public to 1,900 addresses - and it should be built on a feedback read that is now 24 hours overdue."
+    "SATURDAY 8/1 10:20 AM - 3350 ALTAMONT ROAD Unit# E21, Birmingham. NEW - confirmed 1:03 PM today. First new appointment on this unit since 7/20, and the notice verifies the $5,000 cut is LIVE at $164,000. Check the patio grading and downspout before Saturday - the 7/14 buyer flagged puddling.",
+    "SATURDAY 8/1 3:00-5:00 PM - 1709 FIELDSTONE CIR, Helena. Open house, carried to 1,900 addresses by Wednesday's campaign. Build it around whatever this morning's 10:00 tour says - so get that read tonight.",
+    "SUNDAY 8/2 1:00-3:00 PM - 2127 HWY 93, Helena. Open house, hosted personally. Now build it on a POSITIONING question, not a price one: the one read this listing has says the house works and the LAND is the filter."
   ],
   "listings": [
     {
-      "addr": "23223 Front Beach Rd B3-407",
-      "city": "Panama City Beach",
-      "price": "$364,000",
-      "client": "Jeff B.",
-      "status": "🔥 ACTIVE - a SECOND showing in five days, TODAY at 3:30 PM",
-      "showings14d": 2,
-      "feedback": [],
-      "gaps": [
-        "Sat 7/25 9:30 AM showing (Christine S., Counts Real Estate Group) — nudge sent 7/27 7:13 AM after 3 days; she left a note in the app, so there is something to collect. FIVE days, no answer — one more ask or a phone call, not a sixth day of waiting"
+      "addr": "2127 Hwy 93",
+      "city": "Helena",
+      "price": "$1,150,000",
+      "client": "Paul & Neely F.",
+      "status": "✅ ACTIVE - the read came back, and the objection is LAND not price",
+      "showings14d": 1,
+      "feedback": [
+        {
+          "date": "7/30",
+          "agent": "Mason P. · Stratford Real Estate",
+          "tone": "warm",
+          "note": "🔥 ANSWERED BY DIRECT EMAIL IN FIVE MINUTES after 24 hours of ShowingTime silence. Verbatim: \"We pulled up to the home and my buyer had realized he had already see the property when he was looking with another agent. He likes the house but the land isn't what he is looking for.\" HE LIKES THE HOUSE — the objection is acreage, not price, not condition, not the number. On a $1.15M listing whose first-ever read could have been \"too expensive,\" that is the cheapest possible loss. ⚠️ It also means the buyer had already seen the property with another agent, so this was not a first look for him and the listing's true unique-buyer count is lower than the tour count suggests. Forwarded to the seller at 1:12 PM, same day"
+        }
       ],
-      "note": "🔥 THE MOST IMPROVED LISTING ON THE BOARD, AND IT HAPPENED IN FIVE DAYS. Requested 10:57 AM and confirmed 11:09 AM this morning for 3:30–3:45 today, by a DIFFERENT agent than Saturday's — 'Showings by this Agent: 1', lifetime total now 8. This condo had gone 126 days with essentially no activity; it has now taken two tours in five days. The notice also independently verifies the MLS line: $364,000 | ACTIVE | ID# 787112, Pinnacle Port Phase 1-D. ⚠️ The requesting agent's contact sits behind ShowingTime's Action Required button and is not in the notice body. ⭐ CALL YOUR SELLER TODAY, NOT MONDAY — he is out of state and lives on these reads, and this is the first genuinely good news this unit has produced in four months. Correct one thing this board carried for weeks: he DOES have an email on file — Monday's report reached him with 219 Zillow views and the marketing angle change. 🔴 The other half is still open at day five: feedback on this listing has NEVER come back unprompted and the last read was not interested, so the asking IS the game. When a read lands, call him with it BEFORE any price-or-reposition conversation. Market context so the call is not about his unit: PCB ran 68 sold against 218 new listings in mid-July."
+      "gaps": [],
+      "note": "✅ THE OLDEST OWED CALL ON THE BOARD IS CLOSED, AND GENE CLOSED IT HIMSELF. The first real appointment this listing ever had ran 12:30–1:15 Wednesday and produced nothing on any lane for a full day. At 1:05 PM Thursday Gene emailed the buyer's agent directly and had the answer at 1:10. ⭐ THAT IS THE TRANSFERABLE LESSON OF THE DAY and it should reshape how every other owed read on this board gets chased: the form produced nothing in 24 hours, one direct email produced an answer in five minutes. Four other reads are owed right now. 🔥 THE CONTENT IS BETTER THAN A PASS USUALLY IS: he likes the house, the land is wrong. Sunday's open house 1–3 should be aimed at the buyer who wants THIS land rather than defended on price. ⚠️ Five days live produced 807 Zillow views and 27 saves with one tour — and that tour was a repeat looker, so the conversion problem is real. The only earlier booking was confirmed Fri 7/24 2:27 PM and CANCELLED 73 minutes later. 🛑 A SECOND, UNRELATED ITEM ON THIS ADDRESS IS STILL THE MORE URGENT ONE: the buyer inquiry Gene took a 10:00 AM video call with sent a REPLACEMENT meeting link at 10:09 on a lookalike domain, after claiming his working Google link failed in multiple browsers. The registrable domain is a Spanish-registry lookalike and the Google part is a path segment, not the hostname — verifiable from the URL text alone. Nothing opened it and nothing will. Gene drafted a re-send of his own real link at 10:12 and that draft is STILL unsent tonight. ⚠️ A teammate independently called a structurally identical inquiry on another listing a scam at 10:22 — same template opener, same phone refusal, same overseas alibi, same push to video. Recorded as a PATTERN MATCH, NOT A VERDICT. Nothing sensitive until identity is established; she still has no phone number anywhere. 🔴 STILL UNRESOLVED: the seller received the 1,900-address marketing email about his own house while the showing was running. ✅ Sellers VERIFIED repeat clients."
+    },
+    {
+      "addr": "3350 Altamont Rd E21",
+      "city": "Birmingham",
+      "price": "$164,000",
+      "client": "Sulman M.",
+      "status": "✅ ACTIVE - the $5K cut is VERIFIED LIVE, and a showing is booked Saturday",
+      "showings14d": 2,
+      "feedback": [
+        {
+          "date": "7/20",
+          "agent": "Emma Kathryn B. · Ray & Poynor",
+          "tone": "warm",
+          "note": "Answered the nudge on the 7/14 showing: the buyer \"really liked it.\" They toured in pouring rain and flagged PUDDLING in the little patio area. He is still deciding which part of Birmingham he wants. A live maybe, not a pass — and no price complaint"
+        },
+        {
+          "date": "7/18",
+          "agent": "Sherry C. · ARC Realty Pelham",
+          "tone": "cold",
+          "note": "Pass — \"they found something they liked in a different area.\" No price complaint, staging scored 4/5. A location loss, not a price loss"
+        }
+      ],
+      "gaps": [
+        "Mon 7/20 6:00 PM showing — no feedback yet, 10 days. Form re-asks have produced nothing; try a direct email, which is what worked on 2127 today"
+      ],
+      "note": "✅ THE HEDGE IS RETIRED — THE PRICE CUT IS LIVE AND PUBLIC. Today's 1:03 PM showing confirmation carries the MLS line verbatim: $164,000 | ACTIVE | ID# 21451694, down from the $169,000 printed on the 7/18 and 7/19 notices. Every board since Monday has said \"not asserted that the new number is live in the MLS.\" It is. Quote $164,000. ⭐ AND THE SAME NOTICE BOOKED A SHOWING: Saturday 8/1 at 10:20 AM, the first new appointment on this unit since 7/20. A cut going live and a booking landing the same afternoon is recorded as a SEQUENCE, not a proven cause. 🔴 ONE JOB FALLS OUT IMMEDIATELY: check the queued social posts for the stale $169,000 number — one already had to be caught for exactly that. ⭐ ONE CHEAP FIX BEFORE SATURDAY: check the patio grading and the downspout. The 7/14 buyer really liked the unit and the only thing he flagged was puddling. ⚠️ The listing-agreement expiry date still does not exist in email — the brokerage template never states one, it only says to log into the portal. Pull it there, or ask the seller what he signed. ✅ Traffic supports the reduction rather than panic: 89 days, 341 views, 22 saves, still the most-shown listing on the board, and the recent reads point AWAY from price."
     },
     {
       "addr": "195 Lake View Cir",
       "city": "Riverside",
       "price": "$369,000",
       "client": "Chesley & Lauren C.",
-      "status": "🔥 ACTIVE - a NEW offer landed 8:13 AM and your $355K counter waits on one ruling",
+      "status": "🔥 ACTIVE - live offer, and the $355K counter still has not gone across",
       "showings14d": 2,
       "feedback": [
         {
@@ -98,43 +128,64 @@
         }
       ],
       "gaps": [
-        "Sun 7/19 1:00 PM showing — ShowingTime re-asked SIX times (7/19–7/23), still nothing at 11 days. At six asks the silence IS the feedback",
+        "Sun 7/19 1:00 PM showing — ShowingTime re-asked SIX times (7/19–7/23), still nothing at 11 days. At six asks the silence IS the feedback — but a direct email has never been tried, and that is what produced an answer in five minutes on 2127 today",
         "Sun 7/26 3:00 PM showing (Quin W., EXIT Realty Southern Select) — CANCELLED 11:44 AM because the buyer got called into work. A reschedule, not a lost buyer, with the co-op agent's number on the notice. Still not rebooked at 6 days"
       ],
-      "note": "🔥 NINE DAYS OF SILENCE BROKE INTO A LIVE NEGOTIATION IN ONE MORNING. Kenneth R. shared three dotloop documents at 8:13:12 AM: \"Good morning my sellers will be under contract on their house this morning. Here is a new offer from them.\" You acknowledged at 8:19 (\"Received. Thanks\"), then forwarded to your coordinator at 8:45: \"Can you net this out and include counter at 355k with other terms ok and forward net sheet to me please.\" A fourth document — a Personal Property Agreement — followed at 10:21 with his note \"his wife missed this one. signing.\" ⭐ THE CONTINGENCY THAT COLLAPSED THIS DEAL ON THE 16TH IS BREAKING IN REAL TIME. Every prior read of this file was shaped by 'the only buyer, conditional on their own unsold house.' ⚠️ RULE 9 HOLDS: their house going UNDER CONTRACT is not their house CLOSED, and that remains the entire risk. 🔴 THE ONLY BLOCK IS YOUR OWN RULING — at 8:55 your coordinator hit the co-op agent's 3.5% commission ask, a term she cannot pass on her own. ✅ She delivered the net sheet anyway at 10:42 ('Here ya go!'), so the 'she is stopped' framing is stale by two hours; the action is unchanged, because delivering the sheet does not establish how she treated the 3.5%. ⛔ $355,000 IS YOUR COUNTER, NOT THE OFFER — the offer price, terms and expiry live inside dotloop documents no routine has opened and none will guess at. ⚠️ 45 days unmarketed with 29 photos sitting in Drive since 6/13."
+      "note": "🔴 NINE HOURS AFTER THE ASK, THE RULING IS STILL THE ONLY THING BLOCKING THIS DEAL. Kenneth R. shared three dotloop documents at 8:13:12 AM: \"Good morning my sellers will be under contract on their house this morning. Here is a new offer from them.\" Gene acknowledged at 8:19 (\"Received. Thanks\"), then forwarded to the coordinator at 8:45: \"Can you net this out and include counter at 355k with other terms ok and forward net sheet to me please.\" A fourth document — a Personal Property Agreement — followed at 10:21 with his note \"his wife missed this one. signing.\" At 8:55 the coordinator flagged the term she cannot pass on her own: the co-op agent is asking 3.5% commission. She delivered the net sheet anyway at 10:42 (\"Here ya go!\"), but the counter has not gone across the table — the midday sweep put it plainly, the $355K counter never left the building. ⭐ THE CONTINGENCY THAT COLLAPSED THIS DEAL ON THE 16TH IS BREAKING IN REAL TIME. Every prior read of this file was shaped by 'the only buyer, conditional on their own unsold house.' ⚠️ RULE 9 HOLDS: their house going UNDER CONTRACT is not their house CLOSED, and that remains the entire risk. ⛔ $355,000 IS GENE'S COUNTER, NOT THE OFFER — the offer price, terms and expiry live inside dotloop documents no routine has opened and none will guess at. ⚠️ 45 days unmarketed with 29 photos sitting in Drive since 6/13."
     },
     {
       "addr": "1709 Fieldstone Cir",
       "city": "Helena",
       "price": "$380,000",
       "client": "Dennis & Leigh H.",
-      "status": "✅ ACTIVE - the first-ever showing RAN this morning 10:00-10:45",
+      "status": "✅ ACTIVE - first-ever showing ran this morning; four ad leads in 48 hours",
       "showings14d": 1,
       "feedback": [],
       "gaps": [
-        "Thu 7/30 10:00-10:45 AM showing (Cannon F., Keller Williams Realty Vestavia) — HELD. No feedback yet and none is due this fast; a feedback ask is staged in drafts and unsent. Not a gap yet, but it is the only read this listing will ever have from its only tour"
+        "Thu 7/30 10:00-10:45 AM showing (Cannon F., Keller Williams Realty Vestavia) — HELD, no feedback yet at ~7 hours. Not a gap yet, but it is the only read this listing will ever have from its only tour, and Saturday's open house needs it. Email him directly — that is what worked on 2127 today"
       ],
-      "note": "✅ IT HAPPENED, AND THE ACCESS SCARE IS BEHIND YOU. The first showing this listing has ever had ran 10:00–10:45 this morning with Cannon F. of Keller Williams Realty Vestavia; it was not reported as blocked on any lane. Eight days live, 371 Zillow views, zero tours until that moment. The booking was requested 4:34 PM and confirmed 4:35 PM Wednesday — 71 seconds — and the notice printed 'Showings by this Agent: 1 / Total # of Showings: 1'. ⭐ THE FEEDBACK CALL IS NOW THE WHOLE GAME: this is the only read this listing has ever produced, and Saturday's 3–5 open house is already public to 1,900 addresses and should be built on it. A feedback ask is staged to him in drafts and has not sent — send it, or better, call. ⭐ THE AD ENGINE IS STILL PRODUCING HERE: two leads re-engaged the ad inside 24 hours, Gene emailed the first directly, and a THIRD came in at 9:23 this morning whose email hard-bounced three seconds after the machine wrote to her — phone-only, and she is on the call block. By the 7/25 routing rule, ad leads on this address come to Gene. ✅ THE FIVE-DAY FREEZE IS OVER AND NOT IN OUR FAVOUR: the portal inquiry held pending a teammate-ownership ruling got its answer at 10:22 — the teammate says it is a scam and she has been getting a lot of them through that brokerage. The row closes. ⭐ The client relationship here is the healthiest on the board: Monday's report drew 'Sounds good. The sign showed up yesterday' and 'Love this information!'"
+      "note": "✅ IT HAPPENED, AND THE ACCESS SCARE IS BEHIND YOU. The first showing this listing has ever had ran 10:00–10:45 this morning with Cannon F. of Keller Williams Realty Vestavia; it was not reported as blocked on any lane. Eight days live, 371 Zillow views, zero tours until that moment. The booking was requested 4:34 PM and confirmed 4:35 PM Wednesday — 71 seconds — and the notice printed 'Showings by this Agent: 1 / Total # of Showings: 1'. ⭐ GET THE READ TONIGHT. Saturday's 3–5 open house is already public to 1,900 addresses and should be built on it, and today proved the form is not the way to get it. 🔥 THE AD ENGINE IS THE REAL STORY ON THIS ADDRESS — FOUR LEADS IN 48 HOURS. Two re-engaged Tuesday and Gene emailed the first himself; a third came in at 9:23 this morning whose email hard-bounced three seconds after the machine wrote to her (a text did land at 9:42, so a first touch exists); and a FOURTH landed at 3:04 this afternoon — Gene emailed him directly at 3:07, three minutes after arrival, quoting $380,000 and leading with the finished basement and the bar. That is the highest-velocity lead source on the board, pointed at a listing that had zero showings a day ago. By the 7/25 routing rule, ad leads on this address come to Gene. ✅ THE FIVE-DAY FREEZE IS OVER AND NOT IN OUR FAVOUR: the portal inquiry held pending a teammate-ownership ruling got its answer at 10:22 — the teammate says it is a scam and she has been getting a lot of them through that brokerage. The row closes. ⭐ The client relationship here is the healthiest on the board: Monday's report drew 'Sounds good. The sign showed up yesterday' and 'Love this information!'"
     },
     {
-      "addr": "2127 Hwy 93",
-      "city": "Helena",
-      "price": "$1,150,000",
-      "client": "Paul & Neely F.",
-      "status": "🔴 ACTIVE - 24 hours since the first-ever showing, no feedback on any lane",
-      "showings14d": 1,
+      "addr": "23223 Front Beach Rd B3-407",
+      "city": "Panama City Beach",
+      "price": "$364,000",
+      "client": "Jeff B.",
+      "status": "🔥 ACTIVE - second showing in five days RAN at 3:30 today",
+      "showings14d": 2,
       "feedback": [],
       "gaps": [
-        "Wed 7/29 12:30-1:15 PM showing (Mason P., Stratford Real Estate) — COMPLETED, and 24 hours later nothing has come back on any lane. The only read this listing will ever have from its only tour, and now the oldest owed call on the board. A feedback ask has sat staged and unsent in drafts since 9:24 AM"
+        "Sat 7/25 9:30 AM showing (Christine S., Counts Real Estate Group) — nudge sent 7/27 7:13 AM after 3 days; she left a note in the app, so there is something to collect. FIVE days, no answer. Stop sending form reminders — write to her directly, which is what produced an answer in five minutes on 2127 today",
+        "Thu 7/30 3:30-3:45 PM showing — just held, no feedback due yet"
       ],
-      "note": "🔴 THE SHOWING HAPPENED AND THE READ HAS NOT ARRIVED. The first real appointment this listing ever had ran 12:30 to 1:15 Wednesday and there is still no ShowingTime feedback, no text and no email. A fresh 14-day pull confirms genuine silence rather than a missed inbox. ⭐ TWENTY-FOUR HOURS IS PAST THE POINT WHERE WAITING FOR THE FORM IS RIGHT — call him. Ask what the buyer has already seen in Helena and what 12:30 was competing against, then call the sellers back the same day. Michigan area code on his direct line, so establish relocation before positioning the house. Five days live, 807 Zillow views, 27 saves, zero prior tours; the only earlier booking was confirmed Fri 7/24 2:27 PM and CANCELLED 73 minutes later, so this one appointment carries real weight. 🛑 A SECOND, UNRELATED ITEM ON THIS ADDRESS AND IT IS THE MORE URGENT ONE: the buyer inquiry Gene took a 10:00 AM video call with sent a REPLACEMENT meeting link at 10:09 on a lookalike domain, after claiming his working Google link failed in multiple browsers. The registrable domain is a Spanish-registry lookalike and the Google part is a path segment, not the hostname — verifiable from the URL text alone. Nothing opened it and nothing will. Gene's instinct was right: he drafted a re-send of his own real link at 10:12, and that draft is still unsent. ⚠️ A teammate independently called a structurally identical inquiry on another listing a scam at 10:22 this morning — same template opener, same phone refusal, same overseas alibi, same push to video with a third party added. Recorded as a PATTERN MATCH, NOT A VERDICT (single source on a different lead). Nothing sensitive on this one until identity is established. Still zero phone number for this person anywhere, which remains the cleanest test. 🔴 STILL UNRESOLVED: the seller received the 1,900-address marketing email about his own house while the showing was running, and the body asks the reader to forward it along. ⭐ Open house Sunday 1-3. ✅ Sellers VERIFIED repeat clients."
+      "note": "🔥 THE MOST IMPROVED LISTING ON THE BOARD, AND IT HAPPENED IN FIVE DAYS. Requested 10:57 AM and confirmed 11:09 AM this morning, toured 3:30–3:45 this afternoon by a DIFFERENT agent than Saturday's — 'Showings by this Agent: 1', lifetime total now 8. This condo had gone 126 days with essentially no activity; it has now taken two tours in five days. The notice also independently verifies the MLS line: $364,000 | ACTIVE | ID# 787112, Pinnacle Port Phase 1-D. ⚠️ The requesting agent's contact sits behind ShowingTime's Action Required button and is not in the notice body. ⭐ CALL THE SELLER TONIGHT, NOT MONDAY — he is out of state and lives on these reads, and this is the first genuinely good news this unit has produced in four months. He DOES have an email on file — Monday's report reached him with 219 Zillow views and the marketing angle change. 🔴 The other half is still open at day five, and feedback on this listing has NEVER come back unprompted, so the asking IS the game. When a read lands, call him with it BEFORE any price-or-reposition conversation. Market context so the call is not about his unit: PCB ran 68 sold against 218 new listings in mid-July."
+    },
+    {
+      "addr": "198 Rena Dr",
+      "city": "Springville",
+      "price": "$450,000",
+      "client": "Ann & Don C.",
+      "status": "⭐ ACTIVE - the 4:00 PM showing ran, first in 18 days",
+      "showings14d": 1,
+      "feedback": [
+        {
+          "date": "7/12",
+          "agent": "Amy S. · ARC Realty",
+          "tone": "warm",
+          "note": "\"She LOVED the yard and lot!!\" — but the interior felt too compartmentalized. The objection on record here is the FLOOR PLAN, not the price. It is also the only read this house has produced in 71 days"
+        }
+      ],
+      "gaps": [
+        "Thu 7/30 4:00 PM showing — just held, ~90 minutes ago. Nothing due yet, but ask him directly tomorrow morning rather than waiting on the form, and ask the one question that matters: was it the floor plan again?"
+      ],
+      "note": "⭐ IT RAN AT 4:00 THIS AFTERNOON — the first new appointment on this house since 7/12, landing four days after Sunday's open house. Requested 12:37 PM Monday, confirmed 3:29 PM. ✅ The open-house debrief gap closed Monday at 8:15 — the weekly report reached the sellers with 715 Zillow views, 38 saves and the change Gene wants to make. That is the right frame: 38 buyers have this home saved, so the interest is real and the STORY is what needs to move, not the number. Pivot the photos and copy to the lot and the outdoor living. ⚠️ THE ONE QUESTION TO ASK THIS AGENT is whether the floor plan was the problem again — a second independent vote on compartmentalization turns a single data point into a pattern worth spending money on, and a second vote on the yard tells you where to point the marketing. ⚠️ One call still outstanding from Sunday: the inbound buyer who texted five weekends ago asking specifically to see THIS house and was finally given a real time at a real door. Phone-only, no email on file — call whether or not she came. 71 DOM."
     },
     {
       "addr": "5167 Lake Crest Cir",
       "city": "Hoover",
       "price": "$899,000",
       "client": "Sulman M.",
-      "status": "🟢 UNDER CONTRACT - repair addendum now 'agreed upon' on a second source, closes 8/14",
+      "status": "🟢 UNDER CONTRACT - quiet all afternoon, closes 8/14",
       "showings14d": 1,
       "feedback": [
         {
@@ -147,21 +198,21 @@
       "gaps": [
         "Tue 7/21 11:15 AM showing — no feedback yet, 9 days"
       ],
-      "note": "✅ THE INFERENCE FROM LAST NIGHT IS NOW A SECOND SOURCE. At 10:38 AM the coordinator sent the buyer's agent, at both her addresses: \"Good morning! Attached is the agreed upon inspection addendum.\" Last night the only evidence was a verified co-seller opening a document that named no property; this materially strengthens the read that it is the $18,750 HVAC addendum executed Wednesday 3:16 PM with the two-opinions framing. ⚠️ The property tie remains an inference off the signer, not a receipt. ⭐ THIRTY SECONDS TO CONFIRM IT ACTUALLY GETS SIGNED — the co-seller opened it a THIRD time at 7:42 AM and no completion by the seller has EVER appeared on any lane. This file has already been burned once by a half-execution that four outside parties then worked from. 🟢 THE APPRAISAL WATCH IS NOW ~24 HOURS DARK AND THAT IS NORMAL, NOT OMINOUS: no value exists yet and none is owed, the next rung is clear-to-close, and no low-appraisal read may be carried without a receipt. The MLS line reads CONTINGENT following Monday's fully-executed inspection removal. ⭐ WHAT IS LEFT ON THIS CLIENT IS THE REFERRAL, NOT THE DEAL: the roughly $1M buyer he handed over Tuesday still has no name, number or email — Gene confirmed this morning he has asked, and the reminder now sits Monday. ⚠️ Still open and quiet: the 7/24 certificate-of-completion visit NEVER HAPPENED because the inspector left without conducting it, the Hoover permit question to the coordinator remains unanswered, and the proposed and ratified close dates still disagree with nobody having reconciled them."
+      "note": "🟡 NOTHING NEW LANDED ON THIS FILE SINCE MIDDAY — no appraisal value, no signature completion, no permit answer. Quiet, not alarming. ✅ THE REPAIR ADDENDUM READ IS NOW A SECOND SOURCE: at 10:38 AM the coordinator sent the buyer's agent, at both her addresses, \"Good morning! Attached is the agreed upon inspection addendum.\" Last night the only evidence was a verified co-seller opening a document that named no property; this materially strengthens the read that it is the $18,750 HVAC addendum executed Wednesday 3:16 PM. ⚠️ The property tie remains an inference off the signer, not a receipt. ⭐ THIRTY SECONDS TO CONFIRM IT ACTUALLY GETS SIGNED — the co-seller opened it a THIRD time at 7:42 AM and no completion by the seller has EVER appeared on any lane. This file has already been burned once by a half-execution that four outside parties then worked from. 🟢 THE APPRAISAL WATCH IS NOW ~30 HOURS DARK AND THAT IS NORMAL, NOT OMINOUS: no value exists yet and none is owed, the next rung is clear-to-close, and no low-appraisal read may be carried without a receipt. The MLS line reads CONTINGENT following Monday's fully-executed inspection removal. ⭐ WHAT IS LEFT ON THIS CLIENT IS THE REFERRAL, NOT THE DEAL: the roughly $1M buyer he handed over Tuesday still has no name, number or email — Gene confirmed this morning he has asked, and the reminder sits Monday. ⚠️ Still open and quiet: the 7/24 certificate-of-completion visit NEVER HAPPENED because the inspector left without conducting it, the Hoover permit question remains unanswered, and the proposed and ratified close dates still disagree. ⭐ With Bessemer funded today, this is the ONLY scheduled closing left on the board."
     },
     {
       "addr": "2368 Ridge Trail",
       "city": "Birmingham",
       "price": "$559,000",
       "client": "Shea H. (Opendoor)",
-      "status": "🔥 ACTIVE - priced JUST RIGHT twice over, condition is the problem, seller waiting 47 hours",
+      "status": "🔥 ACTIVE - priced JUST RIGHT twice over, seller waiting 52 hours",
       "showings14d": 5,
       "feedback": [
         {
           "date": "7/28",
           "agent": "Susan B. · Entera Realty LLC",
           "tone": "warm",
-          "note": "Landed 11:18 AM 7/28 from Monday's 6:30 PM tour — her first look at this house. Interested: No. Priced right: JUST RIGHT. Staging: 4 of 5. And in the price-recommendation box, verbatim: \"House seemed dirty and the electrical seemed to be glitching.\" ⭐ She put a CONDITION objection where a number belongs and separately validated the number — the second independent agent in a week to call this price right. The electrical note is the actionable one: 'glitching' on a house that just fell out of contract for an unestablished reason may be the answer to what killed it. THREE days on and neither the electrician nor the cleaner has been called"
+          "note": "Landed 11:18 AM 7/28 from Monday's 6:30 PM tour — her first look at this house. Interested: No. Priced right: JUST RIGHT. Staging: 4 of 5. And in the price-recommendation box, verbatim: \"House seemed dirty and the electrical seemed to be glitching.\" ⭐ She put a CONDITION objection where a number belongs and separately validated the number — the second independent agent in a week to call this price right. THREE days on and neither the electrician nor the cleaner has been called"
         },
         {
           "date": "7/25",
@@ -180,32 +231,14 @@
         "Fri 7/24 11:15 AM showing (Alex M., DREAM Properties) — re-approached 7/27 with the back-on-market news, read still owed, 6 days",
         "Fri 7/24 1:00 PM showing (John F., RealtySouth-OTM-Acton Rd) — re-approached 7/27, read still owed, 6 days"
       ],
-      "note": "🔴 THE STALEST THING HERE IS STILL NOT THE HOUSE, IT IS AN EMAIL — and it has gotten five hours more expensive since this morning. The seller asked for Gene's market read 7/28 at 1:50 PM, copying two colleagues, and it has now gone roughly 47 HOURS unanswered. The answer is already written inside a staged draft; it just needs to go, and every pass it sits is a worse look with a client who sends volume. ✅ The nine-day ghost is dead, in Gene's own words: 'They released the contract.' This is an active 559,000-dollar listing again, after four systems spent nine days arguing about a contract that no longer existed. 🔥 THREE READS NOW: schools and yard size (7/23, priced JUST RIGHT), the EIFS (7/25), and 7/28 — dirty plus glitching electrical (priced JUST RIGHT). ⭐ NOBODY HAS SAID THE NUMBER. Two of three explicitly validated it, and every stated objection is condition, construction or location. 🔴 So the two cheap moves are an electrician and a cleaner, not a price conversation — and the electrical is the one that might explain a contract released for a reason still nobody has established. ⚠️ ONE COUNTING NOTE THAT STANDS: the Saturday 3:00 and 3:45 records are the SAME appointment rescheduled — they share a confirmation number — so the eight-day burst was three unique appointments, not four. ⭐ The agents who toured before the fall-through remain the warmest prospect list; two were corrected by email Monday, so do not send them a second one. Cissy S. was not, and hers is the read worth reopening — by phone. ⚠️ Quote 559,000 only."
-    },
-    {
-      "addr": "198 Rena Dr",
-      "city": "Springville",
-      "price": "$450,000",
-      "client": "Ann & Don C.",
-      "status": "⭐ ACTIVE - showing TODAY 4:00 PM, first in 18 days",
-      "showings14d": 1,
-      "feedback": [
-        {
-          "date": "7/12",
-          "agent": "Amy S. · ARC Realty",
-          "tone": "warm",
-          "note": "\"She LOVED the yard and lot!!\" — but the interior felt too compartmentalized. The objection on record here is the FLOOR PLAN, not the price. It is also the only read this house has produced in 71 days"
-        }
-      ],
-      "gaps": [],
-      "note": "⭐ IN A LITTLE OVER THREE HOURS — and it is one of two showings on the board this afternoon. Requested 12:37 PM Monday, confirmed 3:29 PM. The first new appointment since 7/12, landing four days after Sunday's open house. Access, lights and the yard need sorting NOW, not at 3:50, because the yard is the pitch. ✅ The open-house debrief gap closed Monday at 8:15 — the weekly report reached the sellers with 715 Zillow views, 38 saves and the change Gene wants to make. That is the right frame: 38 buyers have this home saved, so the interest is real and the STORY is what needs to move, not the number. Pivot the photos and copy to the lot and the outdoor living. ⚠️ One call still outstanding from Sunday: the inbound buyer who texted five weekends ago asking specifically to see THIS house and was finally given a real time at a real door. Phone-only, no email on file — call whether or not she came. 71 DOM."
+      "note": "🔴 THE STALEST THING HERE IS STILL NOT THE HOUSE, IT IS AN EMAIL — and it is now roughly 52 HOURS old. The seller asked for Gene's market read 7/28 at 1:50 PM, copying two colleagues. The answer is already written inside a staged draft; it just needs to go, and today Gene answered two other agents inside five minutes each. Every pass it sits is a worse look with a client who sends volume. ✅ The nine-day ghost is dead, in Gene's own words: 'They released the contract.' This is an active 559,000-dollar listing again, after four systems spent nine days arguing about a contract that no longer existed. 🔥 THREE READS NOW: schools and yard size (7/23, priced JUST RIGHT), the EIFS (7/25), and 7/28 — dirty plus glitching electrical (priced JUST RIGHT). ⭐ NOBODY HAS SAID THE NUMBER. Two of three explicitly validated it, and every stated objection is condition, construction or location. 🔴 So the two cheap moves are an electrician and a cleaner, not a price conversation — and the electrical is the one that might explain a contract released for a reason still nobody has established. ⚠️ ONE COUNTING NOTE THAT STANDS: the Saturday 3:00 and 3:45 records are the SAME appointment rescheduled — they share a confirmation number — so the eight-day burst was three unique appointments, not four. ⭐ The agents who toured before the fall-through remain the warmest prospect list; two were corrected by email Monday, so do not send them a second one. Cissy S. was not, and hers is the read worth reopening — by phone. ⚠️ Quote 559,000 only."
     },
     {
       "addr": "355 Comanche St",
       "city": "Montevallo",
       "price": "$299,000",
       "client": "Seth B.",
-      "status": "🟡 ACTIVE - silent all day; the whole gap is $6,000 of concession",
+      "status": "🟡 ACTIVE - silent a second straight day; the gap is $6,000 of concession",
       "showings14d": 1,
       "feedback": [
         {
@@ -222,40 +255,14 @@
         }
       ],
       "gaps": [],
-      "note": "🟡 NO MOVEMENT IN EITHER DIRECTION TODAY — this file was silent across every sweep. Gene's own word corrected this board Wednesday 1:45 PM: the buyer's agent is checking whether the buyers will give a best number. ⚠️ HONEST LIMIT: that is a single record with no receipt on any other lane, so it is Gene's report rather than a verified one, and it is now roughly 47 hours old with nothing behind it. ⭐ READ THE SHAPE BEFORE CONCEDING ANYTHING: buyers papered at exactly 280,000 did not refuse the number, they ran out of letter — 6,000 short of it. Their live position is 289,000 with 7,000 in costs, roughly 282,000 effective, against 288,000. The entire remaining gap is 6,000 AND IT SITS ON THE CONCESSION, not the price — meeting there lands close to the same seller net without asking a maxed-out buyer for a dollar more than their approval allows. ⚠️ Ask for a refreshed pre-approval before conceding — it was never produced. Every step of this deal has lived in text messages; the moment they say yes it needs a signed counter. ⚠️ The Wed 7/15 1:25 PM showing gap has aged out of the 14-day window with feedback never received — at that point the silence is the answer."
-    },
-    {
-      "addr": "3350 Altamont Rd E21",
-      "city": "Birmingham",
-      "price": "$169,000",
-      "client": "Sulman M.",
-      "status": "🟡 ACTIVE — seller approved a $5K cut, agreement expiry still unknown",
-      "showings14d": 1,
-      "feedback": [
-        {
-          "date": "7/20",
-          "agent": "Emma Kathryn B. · Ray & Poynor",
-          "tone": "warm",
-          "note": "Answered the nudge on the 7/14 showing: the buyer \"really liked it.\" They toured in pouring rain and flagged PUDDLING in the little patio area. He is still deciding which part of Birmingham he wants. A live maybe, not a pass — and no price complaint"
-        },
-        {
-          "date": "7/18",
-          "agent": "Sherry C. · ARC Realty Pelham",
-          "tone": "cold",
-          "note": "Pass — \"they found something they liked in a different area.\" No price complaint, staging scored 4/5. A location loss, not a price loss"
-        }
-      ],
-      "gaps": [
-        "Mon 7/20 6:00 PM showing — no feedback yet, 10 days"
-      ],
-      "note": "🟡 THE SELLER APPROVED A $5,000 REDUCTION MONDAY AFTERNOON. ⚠️ Not asserted: that the new number is live in the MLS or anywhere public yet — verify before quoting a price, and check the queued social posts, because one already had to be caught for carrying a number the cut made stale. 🔴 The other item is a date that does not exist in email: a second listing-agreement expiry notice landed Monday at 10:41 and the full body was read — the brokerage template never states a date, it only says to log into the portal. Pull it there, or ask the seller what he signed. ✅ \"He has heard nothing\" is false — Monday's 8:18 portfolio report named this property and flagged the renewal. The traffic is decent: 89 days, 341 views, 22 saves, still the most-shown listing on the board, and the recent reads point AWAY from price. One cheap fix before the next rain showing: check the patio grading and the downspout."
+      "note": "🟡 NO MOVEMENT IN EITHER DIRECTION TODAY — silent across every sweep, for the second day running. Gene's own word corrected this board Wednesday 1:45 PM: the buyer's agent is checking whether the buyers will give a best number. ⚠️ HONEST LIMIT: that is a single record with no receipt on any other lane, so it is Gene's report rather than a verified one, and it is now roughly 52 hours old with nothing behind it. At two days, a text to her costs nothing and settles it. ⭐ READ THE SHAPE BEFORE CONCEDING ANYTHING: buyers papered at exactly 280,000 did not refuse the number, they ran out of letter — 6,000 short of it. Their live position is 289,000 with 7,000 in costs, roughly 282,000 effective, against 288,000. The entire remaining gap is 6,000 AND IT SITS ON THE CONCESSION, not the price — meeting there lands close to the same seller net without asking a maxed-out buyer for a dollar more than their approval allows. ⚠️ Ask for a refreshed pre-approval before conceding — it was never produced. Every step of this deal has lived in text messages; the moment they say yes it needs a signed counter. 🔴 With Bessemer funded today, this counter and 5167 Lake Crest are the only two paths to income before mid-August."
     },
     {
       "addr": "821 Martinwood Rd",
       "city": "Birmingham",
       "price": "$189,000",
       "client": "Sulman M.",
-      "status": "🔴 ACTIVE — cut approved, and two prices are still public",
+      "status": "🔴 ACTIVE — cut approved but UNVERIFIED, and two prices are still public",
       "showings14d": 0,
       "feedback": [
         {
@@ -266,51 +273,51 @@
         }
       ],
       "gaps": [],
-      "note": "🔴 THE SELLER APPROVED A $5,000 CUT MONDAY, WHICH MAKES THE PUBLIC PRICE CONTRADICTION WORSE, NOT BETTER. The MLS and a live Facebook post already quoted two different numbers before this, because an earlier cut happened and the marketing never followed it; the correction was supposedly staged Friday and the draft does not exist. Now there is a third number in play. ⚠️ Verify what is actually live in the MLS before publishing anything new. At this price point the ad is where most buyers meet the house, and anyone comparing ad to listing sees a discrepancy — NINE days open, and this is marketing hygiene, not a pricing question. ✅ The seller did get real numbers in Monday's 8:18 portfolio report. One read is not a pricing verdict, but it names the number, and it is hard to argue the number while two of them are public."
+      "note": "🔴 THE SELLER APPROVED A $5,000 CUT MONDAY AND THIS LISTING STILL HAS NOT PRODUCED THE PROOF ITS SIBLING DID TODAY. The Altamont unit's cut was verified live in the MLS this afternoon off a showing notice at $164,000 — this one has had no showing notice in fourteen days, so its new number remains UNVERIFIED and should not be quoted. ⚠️ THE UNDERLYING PROBLEM IS UNCHANGED AND NINE DAYS OLD: the MLS and a live Facebook post already quoted two different numbers before this, because an earlier cut happened and the marketing never followed it; the correction was supposedly staged Friday and the draft does not exist. Now there is a third number in play. At this price point the ad is where most buyers meet the house, and anyone comparing ad to listing sees a discrepancy — this is marketing hygiene, not a pricing question. ⚠️ Verify what is actually live in the MLS before publishing anything new. ✅ The seller did get real numbers in Monday's 8:18 portfolio report. ⭐ ZERO showings in fourteen days is itself the loudest read on this file. One data point is not a pricing verdict, but it names the number, and it is hard to argue the number while two of them are public."
     },
     {
       "addr": "2704 19th Street N",
       "city": "Bessemer",
       "price": "—",
       "client": "⚠️ unidentified",
-      "status": "🔴 CLEAR TO CLOSE — funds TOMORROW Fri 7/31, silent all day",
+      "status": "🎉 CLOSED + FUNDED TODAY — a day early, $4,949 gross",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "⏰ ONE DAY OUT, NOTHING LANDED IN TODAY'S SWEEPS, AND THE CALL TASK IS NOW TWO DAYS PAST ITS DUE TIME. The close date remains the only verified fact on this file: funds Friday 7/31, and the milestone engine expects CLOSING to fire that day — it is the next scheduled fire on the whole board. It advanced Under Contract → Clear to Close on 7/25 off a brokerage commission document, the first real milestone this listing has ever fired. ⚠️ Seller and price remain UNVERIFIED: a 90-day address search found nothing behind the folder and this morning's crawl added nothing new. A clear-to-close funding tomorrow on a file nobody can name is worth sixty seconds this afternoon rather than discovering the gap at the table. Stays ⚠️ unidentified until a receipt names the seller. ⭐ One thread worth pulling: the Bessemer contact left an 8-second voicemail Wednesday 4:36 PM with no reason given and no return call evidenced — suggestive next to a Friday funding, though nothing ties them on a receipt."
+      "note": "🎉 IT PAID, AND IT PAID A DAY EARLY. The Real Brokerage payday receipt landed at 3:04 PM — \"has closed! We've submitted your commission,\" total commission $4,949.00, net payout $4,780.00. The milestone engine fired CLEAR_TO_CLOSE → CLOSED at 5:03 PM off that receipt. Human-corroborated inside thirteen minutes: Gene forwarded it to the coordinator at 3:15 and she answered \"i will as soon as it hits the wallet!\" at 3:17. ✅ TWO STANDING OPEN ITEMS DIED WITH THAT EMAIL: the unpushed commission-document button, and the 7/31 date every task and dossier line was carrying. The one-day gap also explains why this morning's crawl still read PENDING — the tab was not stale, the close had not happened yet. 🔴 THE DEAL PAID WITH ITS CENTRAL QUESTION STILL OPEN. $4,949 is collected and this desk STILL CANNOT NAME THE CLIENT — no contract, MLS record, title mail or client message has ever named one. Memory carries a name for the Bessemer buyer; memory is not a receipt, and per the identity law it was not promoted onto the fire. ⚠️ Which SIDE Gene was on is also unproven — the checklist shape and the CRM both read seller-side, but nothing as direct as the 683 Flag Cir proof exists. The $155K price is crawl-sourced and not quotable. ⛔ BOTH NAME AND PRICE MUST STAY OFF THE JUST SOLD CREATIVE until a receipt supplies them."
     },
     {
       "addr": "1406 Marina Landing",
       "city": "Panama City Beach",
       "price": "—",
       "client": "Gloria F.",
-      "status": "ACTIVE — the tenant answer is now four days owed",
+      "status": "ACTIVE — the tenant answer is now five days owed",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "⚠️ THE OPEN ITEM IS THE PROMISE, NOT HER QUESTION. She texted Monday 6:33 AM asking whether the tenant is out; Gene answered at 7:05 that he said he would call and hasn't, and that he was on that day's list. She came back at 9:21 with the part that matters — the tenant owes another month's rent if he isn't out — and Gene kept it light at 9:25. A tenant who said he would call and didn't is a vacancy date nobody controls yet, and FOUR days have now passed with nothing going back. ✅ The draft staged Wednesday 12:32 is gone and today's draft pull still shows nothing pending to her, so it either sent or was killed. If it didn't send, this is a call, not a fifth day of silence. ⭐ Worth knowing: a deep sweep proved she is a $1.79M listing client who closed in June and is still opening market reports, with an unclosed valuation loop on this address."
+      "note": "⚠️ THE OPEN ITEM IS THE PROMISE, NOT HER QUESTION, AND IT CROSSED INTO A FIFTH DAY TODAY. She texted Monday 6:33 AM asking whether the tenant is out; Gene answered at 7:05 that he said he would call and hasn't, and that he was on that day's list. She came back at 9:21 with the part that matters — the tenant owes another month's rent if he isn't out — and Gene kept it light at 9:25. A tenant who said he would call and didn't is a vacancy date nobody controls yet. ✅ The draft staged Wednesday 12:32 is gone and tonight's draft pull still shows nothing pending to her, so it either sent or was killed. If it didn't send, this is a call, not a sixth day of silence. ⭐ Worth knowing: a deep sweep proved she is a $1.79M listing client who closed in June and is still opening market reports, with an unclosed valuation loop on this address."
     },
     {
       "addr": "683 Flag Cir",
       "city": "Hoover",
-      "price": "—",
+      "price": "$384,999",
       "client": "—",
-      "status": "✅ BUYER-SIDE — now positively evidenced, not just assumed",
-      "showings14d": 0,
+      "status": "✅ BUYER-SIDE — Gene showed it today, and the listing side wants his read",
+      "showings14d": 1,
       "feedback": [],
       "gaps": [],
-      "note": "✅ THE SUPPRESSION ON THIS ADDRESS IS NO LONGER AN ASSUMPTION. A ShowingTime voicemail at 9:42 AM today confirmed GENE'S OWN request to show 683 Flag Circle today from 12:30 to 1:00 PM — that is the buyer's agent's action, not the listing agent's. The engine has been correctly suppressing the brokerage's close-date notice rather than firing a false seller milestone, and it now has a receipt for why rather than merely an inference. ✅ Gene closed this file himself Wednesday 1:44 PM: 'all complete nothing needed on this end.' ⚠️ RECORDED HONESTLY: that is per Gene, not per a receipt — no signed extension addendum ever appeared on any lane, and the two close dates in circulation were never reconciled. Both carried, neither asserted. ✅ The real win stands: FINAL APPROVAL on the cash-out landed Tuesday 10:47 AM, the domino everyone chased since 7/23, and the text telling the listing agent the money cleared was closed by Gene's own hand."
+      "note": "✅ GENE TOURED IT TODAY 12:30–1:00, and at 1:00 PM the listing side sent a FEEDBACK REQUEST — the listing agent is asking what his buyer thought. That is a live owed item and it is now on the owe-feedback list. The MLS line on the request reads $384,999 | CONTINGENT, presented by a Keller Williams Realty Hoover agent. ⭐ IT ALSO PUTS THE LAST NAIL IN AN OLD AMBIGUITY: a ShowingTime voicemail at 9:42 AM confirmed GENE'S OWN request to show 683 Flag Circle — the buyer's agent's action, not the listing agent's. The engine has been correctly suppressing the brokerage's close-date notice rather than firing a false seller milestone, and it now has receipts on both sides. ⚠️ A TENSION WORTH THIRTY SECONDS: Gene closed this file Wednesday 1:44 PM with 'all complete nothing needed on this end,' and today he showed the house and the other side is asking for feedback. Not contradictory — but the file is not as finished as the note implied. ⚠️ RECORDED HONESTLY: the close-out is per Gene, not per a receipt — no signed extension addendum ever appeared on any lane, and the two close dates in circulation were never reconciled. Both carried, neither asserted. ✅ The real win stands: FINAL APPROVAL on the cash-out landed Tuesday 10:47 AM, the domino everyone chased since 7/23."
     },
     {
       "addr": "3486 Blackridge Cir",
       "city": "Hoover",
       "price": "—",
       "client": "David G.",
-      "status": "🆕 BUYER-SIDE PENDING — surfaced this morning, closes January 2027",
+      "status": "🆕 BUYER-SIDE PENDING — closes January 2027",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🆕 NEW TO THIS BOARD AT 7:08 THIS MORNING, and it is not a new deal — it is a live pending deal of Gene's that had no folder anywhere in the system. This morning's listing-folder sync created one and back-filled nine threads: an all-parties signature notice from 7/22, two builder messages, five client texts and a recorded conversation summary. ⚠️ IT IS BUYER-SIDE, NOT A LISTING — carried here the way 683 Flag Cir is, because it is a real deal with a real client that was invisible until today. Long fuse: closes late January 2027 with a production builder. ⭐ ONE LIVE OPEN ITEM WAS DELIBERATELY LEFT IN THE INBOX RATHER THAN FILED: a builder change-order and pre-qualification message from Wednesday. That is the only thing on this file that wants an answer. ✅ AND THE RELATED ANOMALY IS NOW EXPLAINED RATHER THAN OPEN: Gene answered this morning that the other address is not listing until their purchase closes around January 2027. Three Deep Dives flagged that as a missing transaction record — it was never a gap, and the item is now dated to January."
+      "note": "🆕 NEW TO THIS BOARD THIS MORNING, and it is not a new deal — it is a live pending deal of Gene's that had no folder anywhere in the system. The listing-folder sync created one and back-filled nine threads: an all-parties signature notice from 7/22, two builder messages, five client texts and a recorded conversation summary. ⚠️ IT IS BUYER-SIDE, NOT A LISTING — carried here the way 683 Flag Cir is. Long fuse: closes late January 2027 with a production builder. ⭐ ONE LIVE OPEN ITEM WAS DELIBERATELY LEFT IN THE INBOX RATHER THAN FILED: a builder change-order and pre-qualification message from Wednesday. That is the only thing on this file that wants an answer, and it has now been sitting two days. ✅ AND THE RELATED ANOMALY IS EXPLAINED RATHER THAN OPEN: Gene answered this morning that the other address is not listing until their purchase closes around January 2027."
     },
     {
       "addr": "16896 Whispering Pines",
@@ -321,7 +328,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 IT FUNDED. The payday receipt landed 9:04 AM Tuesday and the milestone engine advanced it CLOSING → CLOSED. Commission $4,725. ⚠️ NOT ROUNDED OFF: the agent-of-record is contested and recorded UNRESOLVED, so the year-to-date count has deliberately not moved. ⚠️ The post-close referral sequence was deliberately not staged — institutional seller, no human on the other end. ⚠️ The address remains an inference from folder data; verify before quoting. ⭐ This morning's crawl flagged it, with 160 Lake Forest Way and one dormant file, as safe to retire from the active roster."
+      "note": "🎉 IT FUNDED. The payday receipt landed 9:04 AM Tuesday and the milestone engine advanced it CLOSING → CLOSED. Commission $4,725. ⚠️ NOT ROUNDED OFF: the agent-of-record is contested and recorded UNRESOLVED, which is why this one still does not move the year-to-date count — while Bessemer's payday today came to Gene's own account with nothing contested, which is why that one DID. ⚠️ The post-close referral sequence was deliberately not staged — institutional seller, no human on the other end. ⚠️ The address remains an inference from folder data; verify before quoting."
     },
     {
       "addr": "160 Lake Forest Way",
@@ -343,10 +350,15 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "⚠️ CORRECTED YESTERDAY MORNING BY A VERIFIED CRAWL: this is Traci's listing, and this board had carried it as an unidentified-seller file of Gene's since 7/24. The crawl confirms Gene is listing agent on 15 live listings and this is not one of them — which is why the folder has always held zero messages and why no milestone ever fired. There was never anything to fire. ✅ Gene also confirmed this morning that its photos are still current. Kept on the board relabeled rather than deleted so the correction is visible instead of silent. Four other rows were re-attributed the same way (42770 Hwy 77, 1230 Calvert Rd, 315 Pond Spring Dr, 118 Hayesbury Ln) — see the fleet console for those."
+      "note": "⚠️ CORRECTED BY A VERIFIED CRAWL: this is Traci's listing, and this board had carried it as an unidentified-seller file of Gene's since 7/24. The crawl confirms Gene is listing agent on 15 live listings and this is not one of them — which is why the folder has always held zero messages and why no milestone ever fired. ✅ Gene also confirmed its photos are still current. Kept on the board relabeled rather than deleted so the correction is visible instead of silent. Four other rows were re-attributed the same way (42770 Hwy 77, 1230 Calvert Rd, 315 Pond Spring Dr, 118 Hayesbury Ln) — see the fleet console for those."
     }
   ],
   "oweFeedback": [
+    {
+      "addr": "683 Flag Cir · Hoover",
+      "price": "$384,999",
+      "when": "🆕 Thu 7/30 12:30–1:00 PM — you toured it (Keller Williams Realty Hoover). The feedback request came at 1:00 PM, minutes after you walked out. NEW TODAY and the freshest one on this list — answering it now costs thirty seconds and it is the only one here that is not already embarrassing. Note the file tension: you closed this deal out Wednesday with 'all complete nothing needed on this end,' then showed the house today"
+    },
     {
       "addr": "3421 Hwy 109 · Columbiana",
       "price": "$2,350,000",
