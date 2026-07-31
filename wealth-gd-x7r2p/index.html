@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Wealth Command</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b1f33">
+<style>
+:root{--navy:#0b1f33;--navy2:#12304d;--gold:#c9a227;--green:#2e9e6b;--red:#c0392b;--amber:#d68910;--ink:#eaf1f8;--mut:#8fa6bc;--card:#122c47}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--navy);color:var(--ink);min-height:100vh;padding-bottom:70px}
+header{padding:18px 16px 10px;text-align:center}
+header h1{font-size:20px;letter-spacing:.5px}
+header .sub{color:var(--mut);font-size:12px;margin-top:2px}
+.gold{color:var(--gold)}
+#gate{position:fixed;inset:0;background:var(--navy);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:99}
+#gate input{font-size:28px;letter-spacing:12px;text-align:center;width:190px;padding:10px;border-radius:12px;border:2px solid var(--gold);background:var(--navy2);color:var(--ink);margin:18px 0}
+#gate button{background:var(--gold);color:var(--navy);border:0;padding:12px 34px;border-radius:24px;font-weight:700;font-size:16px}
+#gate .err{color:var(--red);height:18px;font-size:13px}
+main{max-width:560px;margin:0 auto;padding:0 12px}
+.card{background:var(--card);border-radius:14px;padding:14px;margin:10px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
+.card h2{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--gold);margin-bottom:8px}
+.big{font-size:34px;font-weight:800}
+.row{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid rgba(255,255,255,.06);font-size:14px}
+.row:last-child{border-bottom:0}
+.row .r{text-align:right;font-weight:600}
+.note{color:var(--mut);font-size:11px;margin-top:6px;line-height:1.4}
+.pill{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:700}
+.pg{background:rgba(46,158,107,.2);color:#59d199}.pr{background:rgba(192,57,43,.25);color:#ff8f81}.pa{background:rgba(214,137,16,.22);color:#ffc46b}
+.bar{height:8px;border-radius:4px;background:rgba(255,255,255,.08);overflow:hidden;margin-top:4px}
+.bar i{display:block;height:100%;background:var(--gold)}
+nav{position:fixed;bottom:0;left:0;right:0;background:var(--navy2);display:flex;justify-content:space-around;padding:8px 0 max(8px, env(safe-area-inset-bottom));border-top:1px solid rgba(255,255,255,.08)}
+nav button{background:none;border:0;color:var(--mut);font-size:11px;display:flex;flex-direction:column;align-items:center;gap:2px}
+nav button.on{color:var(--gold)}
+nav button span{font-size:20px}
+section{display:none}section.on{display:block}
+.q{border-left:3px solid var(--gold);padding:8px 10px;background:rgba(201,162,39,.07);border-radius:0 10px 10px 0;margin:8px 0;font-size:13.5px;line-height:1.45}
+.disc{font-size:10.5px;color:var(--mut);text-align:center;padding:14px 20px;line-height:1.4}
+</style>
+</head>
+<body>
+<div id="gate">
+  <h1>🏦 <span class="gold">Wealth Command</span></h1>
+  <div class="err" id="gerr"></div>
+  <input id="pin" type="password" inputmode="numeric" maxlength="6" placeholder="PIN" autocomplete="off">
+  <button onclick="unlock()">Unlock</button>
+</div>
+<header>
+  <h1>🏦 <span class="gold">WEALTH COMMAND</span></h1>
+  <div class="sub" id="updated"></div>
+</header>
+<main>
+  <section id="s-net" class="on"></section>
+  <section id="s-bud"></section>
+  <section id="s-debt"></section>
+  <section id="s-adv"></section>
+</main>
+<nav>
+  <button class="on" data-s="net"><span>📊</span>Net Worth</button>
+  <button data-s="bud"><span>💰</span>Budgets</button>
+  <button data-s="debt"><span>🏦</span>Debts</button>
+  <button data-s="adv"><span>🧭</span>Advisor</button>
+</nav>
+<script src="wealth-data.js"></script>
+<script>
+const $=q=>document.querySelector(q);
+const fmt=n=>n==null?'—':'$'+Math.round(n).toLocaleString();
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));
+  document.querySelectorAll('section').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');$('#s-'+b.dataset.s).classList.add('on');
+});
+async function unlock(){
+  const pin=$('#pin').value.trim();
+  try{
+    const b=window.WEALTH_BLOB, dec=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+    const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(pin),'PBKDF2',false,['deriveKey']);
+    const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:dec(b.salt),iterations:200000,hash:'SHA-1'},km,{name:'AES-GCM',length:256},false,['decrypt']);
+    const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:dec(b.iv)},key,dec(b.ct));
+    render(JSON.parse(new TextDecoder().decode(pt)));
+    $('#gate').style.display='none';
+  }catch(e){$('#gerr').textContent='Wrong PIN';$('#pin').value='';}
+}
+$('#pin').addEventListener('keyup',e=>{if(e.key==='Enter')unlock()});
+function render(D){
+  $('#updated').textContent='Updated '+D.updated+' · refreshed every Monday';
+  // NET WORTH
+  let assets=D.netWorth.assets, eq=0, unknown=0;
+  let rows=assets.map(a=>{
+    const v=(a.value!=null)?(a.value-(a.debt||0)):null;
+    if(v!=null)eq+=v; else unknown++;
+    return `<div class="row"><div>${a.name}<div class="note">${a.note||''}${a.debt?` · owes ${fmt(a.debt)}`:''}</div></div><div class="r">${v!=null?fmt(v):'<span class="pill pa">Mon pricing</span>'}</div></div>`;
+  }).join('');
+  $('#s-net').innerHTML=`<div class="card"><h2>Known Equity</h2><div class="big gold">${fmt(eq)}</div>
+    <div class="note">${unknown} asset(s) priced automatically each Monday (XRP · REAX · Morgan Stanley). Real estate at Gene's stated values.</div></div>
+    <div class="card"><h2>Assets</h2>${rows}</div>`;
+  // BUDGETS
+  const B=D.budgets, st=B.survive_thrive;
+  const fx=B.business.fixed.reduce((s,x)=>s+x.amt,0), vr=B.business.variable_bench.reduce((s,x)=>s+x.amt,0);
+  const pf=B.personal.fixed_est.reduce((s,x)=>s+x.amt,0), pv=B.personal.variable_est.reduce((s,x)=>s+x.amt,0);
+  const li=(x)=>`<div class="row"><div>${x.name}${x.tbc?' <span class="pill pa">est</span>':''}</div><div class="r">${fmt(x.amt)}/mo</div></div>`;
+  $('#s-bud').innerHTML=`
+   <div class="card"><h2>🎯 Survive → Thrive</h2>
+     <div class="row"><div>SURVIVE (personal take-home)</div><div class="r">${fmt(st.survive_monthly_takehome)}/mo</div></div>
+     <div class="note">${st.survive_note}</div>
+     <div class="row" style="margin-top:6px"><div>THRIVE (personal take-home)</div><div class="r gold">${fmt(st.thrive_monthly_takehome)}/mo</div></div>
+     <div class="note">${st.thrive_note}</div>
+     <div class="note" style="margin-top:8px">📐 ${st.closings_math}</div></div>
+   <div class="card"><h2>Business budget (2025 benchmarks)</h2>
+     <div class="row"><div><b>Fixed + debt</b></div><div class="r">${fmt(fx)}/mo</div></div>${B.business.fixed.map(li).join('')}
+     <div class="row" style="margin-top:6px"><div><b>Variable benchmark</b></div><div class="r">${fmt(vr)}/mo</div></div>${B.business.variable_bench.map(li).join('')}
+     <div class="row"><div><b>TOTAL business burn</b></div><div class="r">${fmt(fx+vr)}/mo</div></div></div>
+   <div class="card"><h2>Personal budget (est · verify)</h2>
+     ${B.personal.fixed_est.map(li).join('')}${B.personal.variable_est.map(li).join('')}
+     <div class="row"><div><b>TOTAL personal</b></div><div class="r">${fmt(pf+pv)}/mo</div></div>
+     <div class="note">${B.personal.note}</div></div>`;
+  // DEBTS
+  $('#s-debt').innerHTML=`<div class="card"><h2>Debt Board</h2>${D.debts.map(d=>`
+    <div class="row"><div>${d.name}${d.flag?`<div class="note" style="color:#ffc46b">${d.flag}</div>`:''}${d.note?`<div class="note">${d.note}</div>`:''}</div>
+    <div class="r">${d.bal?fmt(d.bal):'—'}${d.rate?`<div class="note">${d.rate}% · ${d.pmt?fmt(d.pmt)+'/mo':''}</div>`:d.pmt?`<div class="note">${fmt(d.pmt)}/mo</div>`:''}</div></div>`).join('')}</div>`;
+  // ADVISOR
+  $('#s-adv').innerHTML=`<div class="card"><h2>Advisor Corner — open questions</h2>${D.advisor.map(a=>`<div class="q">${a.q}</div>`).join('')}</div>
+   <div class="disc">${D.disclaimer}</div>`;
+}
+</script>
+</body>
+</html>
