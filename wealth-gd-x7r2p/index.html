@@ -120,7 +120,8 @@ function render(D){
     <div class="row"><div>${d.name}${d.flag?`<div class="note" style="color:#ffc46b">${d.flag}</div>`:''}${d.note?`<div class="note">${d.note}</div>`:''}</div>
     <div class="r">${d.bal?fmt(d.bal):'—'}${d.rate?`<div class="note">${d.rate}% · ${d.pmt?fmt(d.pmt)+'/mo':''}</div>`:d.pmt?`<div class="note">${fmt(d.pmt)}/mo</div>`:''}</div></div>`).join('')}</div>`;
   // ADVISOR
-  $('#s-adv').innerHTML=`<div class="card"><h2>Advisor Corner — open questions</h2>${D.advisor.map(a=>`<div class="q">${a.q}</div>`).join('')}</div>
+  const tax=D.tax?`<div class="card"><h2>🧾 ${D.tax.title}</h2><div style="font-size:16px;font-weight:700;color:#59d199;margin:4px 0">${D.tax.estimate}</div><div class="note">${D.tax.detail}</div></div>`:'';
+  $('#s-adv').innerHTML=tax+`<div class="card"><h2>Advisor Corner — open questions</h2>${D.advisor.map(a=>`<div class="q">${a.q}</div>`).join('')}</div>
    <div class="disc">${D.disclaimer}</div>`;
 }
 </script>
