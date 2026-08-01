@@ -52,12 +52,14 @@ section{display:none}section.on{display:block}
 </header>
 <main>
   <section id="s-net" class="on"></section>
+  <section id="s-inc"></section>
   <section id="s-bud"></section>
   <section id="s-debt"></section>
   <section id="s-adv"></section>
 </main>
 <nav>
   <button class="on" data-s="net"><span>📊</span>Net Worth</button>
+  <button data-s="inc"><span>📈</span>Income</button>
   <button data-s="bud"><span>💰</span>Budgets</button>
   <button data-s="debt"><span>🏦</span>Debts</button>
   <button data-s="adv"><span>🧭</span>Advisor</button>
@@ -95,6 +97,18 @@ function render(D){
   $('#s-net').innerHTML=`<div class="card"><h2>Known Equity</h2><div class="big gold">${fmt(eq)}</div>
     <div class="note">${unknown} asset(s) priced automatically each Monday (XRP · REAX · Morgan Stanley). Real estate at Gene's stated values.</div></div>
     <div class="card"><h2>Assets</h2>${rows}</div>`;
+  // INCOME FORECAST
+  if(D.forecast){const F=D.forecast;
+    const pct=Math.min(100,Math.round(F.closedYTD/F.goal*100));
+    const up=F.upcoming.map(u=>`<div class="row"><div>${u.addr}<div class="note">${u.stage}${u.close?' · closes '+u.close:''} · ${u.confidence}</div></div><div class="r">${fmt(u.net_est)}<div class="note">net est</div></div></div>`).join('');
+    const mo=F.monthly.map(m=>{const ok=m.expected_net>=F.surviveMonthly;return `<div class="row"><div>${m.month}<div class="note">${m.note||''}</div></div><div class="r" style="color:${ok?'#59d199':'#ffc46b'}">${fmt(m.expected_net)}</div></div>`}).join('');
+    $('#s-inc').innerHTML=`<div class="card"><h2>📈 Closings Pace</h2>
+      <div class="big">${F.closedYTD}<span style="font-size:16px;color:#8fa6bc"> / ${F.goal} goal · pace ${F.paceProjection}</span></div>
+      <div class="bar"><i style="width:${pct}%"></i></div>
+      <div class="note">avg GCI ${fmt(F.avgGci)} · net/closing ≈ ${fmt(F.avgNetPerClosing)} · survive needs ${fmt(F.surviveMonthly)}/mo total in the door</div></div>
+      <div class="card"><h2>Upcoming closings</h2>${up||'<div class="note">none tracked</div>'}</div>
+      <div class="card"><h2>Next months — expected net</h2>${mo}<div class="note">${F.insight}</div></div>`;
+  }
   // BUDGETS
   const B=D.budgets, st=B.survive_thrive;
   const fx=B.business.fixed.reduce((s,x)=>s+x.amt,0), vr=B.business.variable_bench.reduce((s,x)=>s+x.amt,0);
