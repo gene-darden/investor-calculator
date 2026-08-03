@@ -1,7 +1,7 @@
 {
-    "updated":  "Aug 2, 2026 - 5:50 PM CT",
-    "nextSweep":  "tomorrow morning",
-    "headline":  "Your beach lane got re-read live tonight and it is holding: eight houses confirmed active at the same prices, one dropped off the market, and the Galvez Road house in Pensacola now publishes a rental projection. Straight with you again on the commercial side, both listing sites are still blocking us, so Nashville and Knoxville are carried at their Wednesday read and are now four days old. Tap PURSUE on anything there and Gene will confirm it live before you spend a trip.",
+    "updated":  "Aug 3, 2026 - 8:25 AM CT",
+    "nextSweep":  "this evening",
+    "headline":  "Two more Dauphin Island houses came onto the lane this morning and both are under 410 thousand, which is the cheapest end of the beach board you have seen yet. Everything else on the beach lane re-read live and is holding at the same prices. Straight with you on the commercial side for the fifth run running, both listing sites are still refusing our crawler, so Nashville and Knoxville sit at their Jul 29 read and are now five days old. Tap PURSUE on anything there and Gene will confirm it live before you spend a trip.",
     "lanes":  [
                   {
                       "id":  "nash",
@@ -335,7 +335,7 @@
                                                  ]
                                     }
                                 ],
-                      "note":  "STILL NOT RE-VERIFIED, AND HERE IS THE PLAIN VERSION FOR THE FOURTH RUN RUNNING. Both listing sites these thirteen live on are blocking our crawler, and we tested both again tonight and both refused us. Nobody on this end can confirm prices or availability from a desk right now. These thirteen are carried at their Jul 29 verified read, so treat them as FOUR DAYS OLD and confirm before you act on one. Gene is working the fix and will re-verify by hand in the meantime. The standing read, unchanged: the affluent south corridor (Franklin and Brentwood) is a LEASE market at your size, and ownership under 3M concentrates in Berry Hill and Spring Hill. Adaptive reuse is in scope on this lane, so freestanding former restaurants, banks, ex-dealerships and retail boxes with good bones, visibility, parking and open floor plates all qualify, and you have done the restaurant-to-showroom conversion before. Tap PURSUE on anything here and Gene will confirm it live before you spend a trip on it."
+                      "note":  "STILL NOT RE-VERIFIED, AND HERE IS THE PLAIN VERSION FOR THE FIFTH RUN RUNNING. Both listing sites these thirteen live on are blocking our crawler, and we tested both again this morning and both refused us. We also tried a third commercial source this morning to get around the block; it answered, but it only serves lease listings and nothing at your size or shape, so it does not solve the problem. Nobody on this end can confirm prices or availability from a desk right now. These thirteen are carried at their Jul 29 verified read, so treat them as FIVE DAYS OLD and confirm before you act on one. Gene is working the fix and will re-verify by hand in the meantime. The standing read, unchanged: the affluent south corridor (Franklin and Brentwood) is a LEASE market at your size, and ownership under 3M concentrates in Berry Hill and Spring Hill. Adaptive reuse is in scope on this lane, so freestanding former restaurants, banks, ex-dealerships and retail boxes with good bones, visibility, parking and open floor plates all qualify, and you have done the restaurant-to-showroom conversion before. Tap PURSUE on anything here and Gene will confirm it live before you spend a trip on it."
                   },
                   {
                       "id":  "knox",
@@ -653,7 +653,7 @@
                                                  ]
                                     }
                                 ],
-                      "note":  "STILL NOT RE-VERIFIED, the same crawler block as Nashville, tested again tonight on both sources and both refused. These thirteen are carried at their Jul 29 verified read, so treat them as FOUR DAYS OLD and confirm before you act on one. Tap PURSUE and Gene will check it live for you. The standing read, unchanged: showroom-plus-warehouse combo product is genuinely scarce here, only nine flex properties for sale metro-wide, and the good ones move fast. West Knox, Turkey Creek, Farragut and Lenoir City stay the preferred band, and adaptive reuse counts the same way it does in Nashville. 319 Lovell Rd stays on the board as a RADAR hold."
+                      "note":  "STILL NOT RE-VERIFIED, the same crawler block as Nashville, tested again this morning on both sources and both refused. These thirteen are carried at their Jul 29 verified read, so treat them as FIVE DAYS OLD and confirm before you act on one. Tap PURSUE and Gene will check it live for you. The standing read, unchanged: showroom-plus-warehouse combo product is genuinely scarce here, only nine flex properties for sale metro-wide, and the good ones move fast. West Knox, Turkey Creek, Farragut and Lenoir City stay the preferred band, and adaptive reuse counts the same way it does in Nashville. 319 Lovell Rd stays on the board as a RADAR hold."
                   },
                   {
                       "id":  "beach",
@@ -1075,6 +1075,52 @@
                                            "broker":  "Griffin Realty",
                                            "mls":  "7789888",
                                            "badge":  null
+                                       },
+                                       {
+                                           "id":  "306-apalache-ave",
+                                           "address":  "306 Apalache Ave",
+                                           "city":  "Dauphin Island, AL",
+                                           "dealType":  "sale",
+                                           "price":  405000,
+                                           "beds":  3,
+                                           "baths":  2,
+                                           "propertyType":  "Single-family house",
+                                           "waterPosition":  "Island interior - water position not stated on the listing",
+                                           "rentalHistory":  null,
+                                           "highlights":  [
+                                                              "3 bed / 2 bath just above $400K on Dauphin Island",
+                                                              "New to the lane this morning",
+                                                              "Sits between 1003 Monberaut and the 490s on price"
+                                                          ],
+                                           "fitNote":  "A third sub-410 entry point onto Dauphin Island, which is the part of this coast that actually has detached houses in your band. Read live off the listing site this morning at $405,000; square footage is not published, so it is not claimed here.",
+                                           "strNote":  "No rental income or projection is stated on the listing, so none is claimed here.",
+                                           "url":  "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+                                           "photoUrl":  null,
+                                           "broker":  "Griffin Realty, LLC",
+                                           "badge":  "NEW"
+                                       },
+                                       {
+                                           "id":  "751-cadillac-ave",
+                                           "address":  "751 Cadillac Ave",
+                                           "city":  "Dauphin Island, AL",
+                                           "dealType":  "sale",
+                                           "price":  374900,
+                                           "beds":  3,
+                                           "baths":  2,
+                                           "propertyType":  "Single-family house",
+                                           "waterPosition":  "Island interior - water position not stated on the listing",
+                                           "rentalHistory":  null,
+                                           "highlights":  [
+                                                              "3 bed / 2 bath under $375K",
+                                                              "Same street as 914 Cadillac, the current cheapest house on the lane",
+                                                              "New to the lane this morning"
+                                                          ],
+                                           "fitNote":  "The lowest-priced house on this board that still clears your 3-bedroom floor. Same street as 914 Cadillac, so the two are directly comparable on a single walk. Read live off the listing site this morning at $374,900; square footage is not published, so it is not claimed here.",
+                                           "strNote":  "No rental income or projection is stated on the listing, so none is claimed here.",
+                                           "url":  "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+                                           "photoUrl":  null,
+                                           "broker":  "Griffin Realty, LLC",
+                                           "badge":  "NEW"
                                        }
                                    ],
                       "intel":  [
@@ -1146,7 +1192,7 @@
                                                  ]
                                     }
                                 ],
-                      "note":  "RE-READ LIVE THIS EVENING, AUG 2. Eight of these houses were checked against their own listing pages tonight and every one is still active at the same price: 107 Portier, 1127 Chaumont, 914 Cadillac, 413 Windmill Ridge, 221 W 6th, 5621 Galvez, 4660 Casablanca and 703 Hunley. ONE HOUSE CAME OFF THE BOARD: 710 Alabama Ave on Dauphin Island, the Gold Fortified new build, no longer has a live listing page, so it has been taken off this board rather than carried. Whether it sold, went under contract or was simply withdrawn is not something we can tell from here, so we are not going to guess. NEW TONIGHT: 5621 Galvez Rd in Pensacola now publishes a rental projection, and the listing itself states 52,000 to 65,000 dollars a year. That number is the listing\u0027s, not ours. THREE COULD NOT BE RE-READ and are carried at their last verified read: 302 Audubon (a Gene-curated watch with no public page), 209 Sunrise and 10499 State Highway 180, whose sites put up bot checks tonight. That is a limit on us, not a signal about the houses. THE STANDING READ: Dauphin Island owns the sub-600K detached-house market on this coast; Gulf Shores value sits on the lagoon and canal side; Pensacola Beach itself has nothing detached in your band. Condos are excluded on purpose, you asked for houses. RENTAL NUMBERS APPEAR ONLY WHERE THE LISTING ITSELF STATES THEM, and two now do: 4660 Casablanca and 5621 Galvez. Everything else is blank because nothing was published, not because nobody looked."
+                      "note":  "RE-READ LIVE THIS MORNING, AUG 3. The Dauphin Island and Gulf Shores source pages both answered us and every house we could see is holding at the same price: 901 Lockenbie, 1127 Chaumont and 1003 Monberaut on the island, and 17330 State Highway 180, 10499 State Highway 180, 429 Creekview and 413 Windmill Ridge in Gulf Shores. TWO NEW HOUSES ADDED THIS MORNING, both on Dauphin Island and both cheap: 751 Cadillac Ave at 374,900, which is now the lowest-priced 3-bedroom on this whole board, and 306 Apalache Ave at 405,000. Neither publishes square footage, so we are not quoting one. ONE HOUSE WE COULD NOT SEE THIS MORNING: 1217 Dorado Way did not appear on the Gulf Shores page it came from, and its price sits squarely inside that page\u0027s band. That is worth a question, not a conclusion, so it stays on the board and Gene will confirm it by hand today rather than us guessing whether it sold. THE ONE THAT CAME OFF LAST NIGHT STAYS OFF: 710 Alabama Ave on Dauphin Island no longer has a live listing page. THE STANDING READ: Dauphin Island owns the sub-600K detached-house market on this coast, and this morning\u0027s additions make that plainer rather than less so. Gulf Shores value sits on the lagoon and canal side; Pensacola Beach itself has nothing detached in your band. Condos are excluded on purpose, you asked for houses. RENTAL NUMBERS APPEAR ONLY WHERE THE LISTING ITSELF STATES THEM, and two do: 4660 Casablanca and 5621 Galvez. Everything else is blank because nothing was published, not because nobody looked. Nineteen houses is more than this lane is meant to carry, so tonight\u0027s sweep will trim the weakest inland fits rather than let it keep growing."
                   }
               ]
 }
