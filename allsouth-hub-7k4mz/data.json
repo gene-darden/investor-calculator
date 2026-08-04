@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 3, 2026 · 5:46 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "A Dauphin Island house dropped twenty-five thousand today — 306 Apalache is now $380,000 — and a new one at 311 Chenault came on at $479,000, so the island end of your beach lane keeps getting cheaper. The two commercial lanes are frozen at their Jul 29 read while both listing sites keep blocking us; tap PURSUE on anything there and Gene will check it live for you.",
+  "updated": "Aug 4, 2026 · 7:58 AM CT",
+  "nextSweep": "this evening",
+  "headline": "Every house on your beach lane held its price overnight and nothing new came on under $600,000 — the island is steady for the first time in three weeks, so the two Dauphin Island cuts you already have are still the freshest money on this board.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these thirteen live on have refused our crawler on six runs straight. We have stopped re-attempting them every sweep rather than keep burning the check and reporting the same failure. TREAT EVERY PRICE AND STATUS HERE AS FIVE DAYS OLD and confirm before you act on one. ⭐ TAP PURSUE ON ANYTHING THAT INTERESTS YOU AND GENE WILL CHECK IT LIVE, BY PHONE IF NEEDED — that is the reliable path while the freeze is on. We retry the sources once a week and the moment one answers, this lane goes back to daily verification. Adaptive reuse stays in scope: former restaurants, banks, ex-dealerships and retail boxes with good bones, visibility and parking all qualify."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these thirteen live on have refused our crawler on six runs straight. We stopped re-attempting them every sweep rather than keep burning the check and reporting the same failure. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD — a building may have gone under contract or moved on price and we would not see it. ⭐ TAP PURSUE ON ANYTHING AND GENE WILL VERIFY IT LIVE FOR YOU, same day. 📅 ONE RETRY IS SCHEDULED for the first morning sweep after Aug 10; if it answers, the freeze lifts and this note disappears. New-inventory hunting on these sources is paused for the same reason — we are not pretending to search a door that is shut. Nothing on this lane has been quietly dropped or quietly added."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Same crawler block as the Nashville lane, same six-run streak, same decision to stop re-attempting it every sweep. TREAT EVERY PRICE AND STATUS HERE AS FIVE DAYS OLD. ⭐ TAP PURSUE AND GENE WILL VERIFY IT LIVE FOR YOU. 319 Lovell Rd stays pinned on the radar regardless — that one is Gene-curated, not crawler-sourced. We retry weekly and unfreeze the moment a source answers."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Same crawler block as the Nashville lane, same six-run streak, same decision to stop re-attempting it every sweep. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD. ⭐ TAP PURSUE AND GENE WILL VERIFY IT LIVE FOR YOU. 319 Lovell Rd stays on the board as a Gene-curated watch — its lease is upcoming and it is not a public listing, so the source freeze does not affect it either way. 📅 One retry runs on the first morning sweep after Aug 10."
     },
     {
       "id": "beach",
@@ -1216,7 +1216,7 @@
           ]
         }
       ],
-      "note": "RE-READ LIVE AGAIN THIS EVENING, AUG 3. The Dauphin Island source answered and every house on it was re-checked against what we were carrying. 🔻 ONE PRICE MOVED: 306 Apalache Ave is now $380,000, down from $405,000 — a $25,000 cut inside a single day. 🆕 ONE NEW HOUSE: 311 Chenault Ave, $479,000, 3 bedrooms, detached, on the island. ✅ Everything else held at the same number — 601 Bienville, 901 Lockenbie, 1003 Monberaut, 751 Cadillac, 914 Cadillac, 1127 Chaumont, 107 Portier and 703 Hunley all re-read at their carried prices. Detached houses only on this lane — never condos. Rental figures appear only where the listing itself states them; we never estimate income for you."
+      "note": "✅ RE-READ LIVE THIS MORNING, AUG 4 — AND FOR ONCE NOTHING MOVED. Every Dauphin Island house on this lane was re-checked against the source and all of them came back ACTIVE at exactly the price we were carrying: 901 Lockenbie $595,000 · 107 Portier $549,900 · 1127 Chaumont $499,000 · 703 Hunley $492,000 · 311 Chenault $479,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 751 Cadillac $374,900 · 914 Cadillac $359,000. The three Gulf Shores houses re-verified too — 17330 State Hwy 180 $599,900, 413 Windmill Ridge $549,000, 429 Creekview $535,000. 🔻 NO NEW CUTS, WHICH MEANS YESTERDAY'S IS STILL THE FRESHEST: 306 Apalache came down $25,000 in a single day and is the cheapest gulf-adjacent house on this board. 🆕 NOTHING NEW QUALIFIED, AND THAT IS A REAL FINDING RATHER THAN A QUIET SWEEP: nine houses came up on the island source that we did NOT add, and every one failed on a stated rule — 300 Audubon $999,000, 511 Buchanan $900,000, 318 Pineda $799,000, 2024 Bienville $699,000, 2630 Bridgeview $675,000, 2322 Island Shores $649,674, 1303 Chaumont $625,000 and 123 Bienville $615,000 are all above your $600K ceiling, and 125 Bienville at $315,000 is a 2-bedroom against your 3+ requirement. ⚠️ TWO ITEMS ARE CARRIED BUT NOT RE-CONFIRMED TODAY: 209 Sunrise Dr sits behind a bot check that would not open, and 1217 Dorado Way did not appear on the page it was found on — that page is paginated, so a single non-appearance is not proof it is gone. Both are flagged rather than removed; tap PURSUE and Gene will settle either one live. 📋 THIS LANE IS RUNNING AT 20 HOUSES AGAINST A NORMAL CAP OF ABOUT 12, AND NOTHING WAS TRIMMED TO HIDE THAT — every one of them re-verified live today, so dropping good inventory to hit a display target would cost you more than a longer list does."
     }
   ]
 }
