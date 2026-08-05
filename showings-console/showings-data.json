@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-05 12:45 PM CT",
- "headline": "THE 195 LAKE VIEW INSPECTION IS RUNNING RIGHT NOW — ShowingTime confirmed it in writing at 7:46 this morning for noon today, and the MLS line on that same notice flipped to CONTINGENT. That is the last real contingency on your cleanest file, and nothing is owed by your side going into it. ⭐ THE OTHER LIVE THING ON THIS BOARD IS A PHONE CALL, NOT A SHOWING: 198 Rena's buyer agent left a SECOND voicemail at 10:50 asking you for a counter number and naming his own ceiling out loud — a buyer who volunteers his ceiling is negotiating with himself, and your sellers have now been silent on a live written offer for more than a day.",
+ "updated": "2026-08-05 5:37 PM CT",
+ "headline": "THE 195 LAKE VIEW INSPECTION IS DONE — it ran at noon exactly as ShowingTime confirmed at 7:46 this morning, and as of this evening nothing has come back: no report, no repair request, no call from either side. Normal at six hours, and the single thing most likely to change overnight on your cleanest file. ⭐ THE REST OF THE AFTERNOON WAS GENUINELY SILENT — not one ShowingTime event since 7:46 AM across every listing you have, verified against the full fourteen-day pull. That is a quiet board, not a broken feed. 🔥 WHICH LEAVES TOMORROW AT 11:00 AS THE ONLY THING ON YOUR CALENDAR, and three listings carrying live interest — Rena, Altamont and Comanche — that will convert on a PHONE CALL or not at all.",
  "stats": {
   "showings14d": 21,
   "feedback14d": 14,
@@ -12,7 +12,7 @@
    "date": "8/5",
    "isNew": false,
    "signal": "🔥 THE BUYER'S AGENT ASKED FOR A COUNTER — OUT LOUD, TWICE. Jay G. left a second voicemail at 10:50 this morning asking what number your sellers want back, and named his buyer's ceiling himself while doing it. ⭐ That is offer intent stated without being asked for, on a house his buyer has already walked twice. ⚠️ It is a POSITION, not a receipt — nothing is on paper — and your sellers have been silent on the live written offer for more than a day.",
-   "action": "Get a number back to him today, even a soft one. Silence on a second ask is how a buyer who is bidding against himself talks himself back down. ✅ Already on your call list — the milestone engine updated that task in place this morning rather than creating a twin, so there is exactly one chip for it."
+   "action": "Get a number back to him TODAY, even a soft one — and the seller-approval call has to come first, because you cannot quote a counter your sellers have not approved. ⚠️ Neither call has happened yet and the day is nearly gone. Silence on a second ask is how a buyer who is bidding against himself talks himself back down. ✅ Exactly one chip exists for this — the milestone engine updated the task in place rather than creating a twin."
   },
   {
    "addr": "3350 Altamont Rd E21",
@@ -37,9 +37,9 @@
   }
  ],
  "upcoming": [
-  "🔴 HAPPENING NOW — Wed 8/5 12:00 PM — 195 LAKE VIEW CIRCLE, Riverside. HOME INSPECTION, confirmed in writing by ShowingTime at 7:46 this morning; the same notice now prints the listing as CONTINGENT. ⭐ This is the last real contingency on your cleanest file: close receipted 8/31, contract-to-close packet delivered Monday, title confirmed receipt inside the hour. ✅ NOTHING IS OWED BY YOUR SIDE. Two documents landed Tuesday and neither touches your sellers' net — the dotloop addendum is an ADDRESS CORRECTION (the title file had been running \"Lake View Dr\" against a Cir property) and the client-care fee disclosed that afternoon is payable by the BUYER. Have both answers ready before either seller calls you tonight.",
-  "📅 TOMORROW — Thu 8/6 11:00 AM — 355 COMANCHE STREET, Montevallo. 🔥 THE FIRST BOOKING SINCE THE PRICE CAME DOWN, confirmed on the same notice that carried the new number. $295,000 · ACTIVE re-verified on that notice. ⭐ Chase this feedback hard — it tells you whether the cut worked.",
-  "⚠️ THAT IS THE ENTIRE FORWARD CALENDAR — one inspection running now and one showing tomorrow. Every other confirmed appointment in the fourteen-day window has already run, and nothing new was booked this morning. ⭐ WHICH MEANS THE LISTINGS CARRYING LIVE INTEREST — Rena, Altamont and Comanche — all need a PHONE CALL rather than a booking. Nothing on this board converts itself between now and Thursday morning."
+  "📅 TOMORROW — Thu 8/6 11:00 AM — 355 COMANCHE STREET, Montevallo. 🔥 THE FIRST BOOKING SINCE THE PRICE CAME DOWN, confirmed on the same notice that carried the new number. $295,000 · ACTIVE re-verified on that notice. ⭐ Chase this feedback inside the hour — it tells you whether the cut bought real traffic or one curious agent, and it is the most informative read you will get this week.",
+  "✅ RAN TODAY — Wed 8/5 12:00 PM — 195 LAKE VIEW CIRCLE, Riverside. HOME INSPECTION, confirmed in writing at 7:46 AM; the same notice prints the listing as CONTINGENT. ⏳ No report, no repair request and no call from either side as of this evening. ✅ NOTHING IS OWED BY YOUR SIDE — Tuesday's dotloop addendum is an ADDRESS CORRECTION and the client-care fee is payable by the BUYER. Have both answers ready, because a seller who hears about the inspection before you do will ask about them in the same breath.",
+  "⚠️ THAT IS THE ENTIRE FORWARD CALENDAR — one showing, tomorrow morning. Every other confirmed appointment in the fourteen-day window has already run, and nothing new was booked all day. ⭐ NOTHING ON THIS BOARD CONVERTS ITSELF BETWEEN NOW AND THURSDAY MORNING. The listings carrying live interest need a phone call, not a booking."
  ],
  "listings": [
   {
@@ -106,7 +106,7 @@
    "city": "Montevallo",
    "price": "$295,000",
    "client": "Seth B.",
-   "status": "🔥 ACTIVE — the cut is working: a new showing lands tomorrow, the first since the price moved",
+   "status": "🔥 ACTIVE $295K — the cut is working: the new showing lands tomorrow at 11:00, the only event left on the board",
    "showings14d": 3,
    "feedback": [
     {
@@ -171,7 +171,7 @@
    "city": "Springville",
    "price": "$450,000",
    "client": "Ann & Don C.",
-   "status": "🔴 ACTIVE $450K — a live written offer, and the buyer's agent asked for your counter AGAIN this morning",
+   "status": "🔴 ACTIVE $450K — a live written offer, and his ask for your counter is now a full day old",
    "showings14d": 1,
    "feedback": [
     {
@@ -195,7 +195,7 @@
    "city": "Riverside",
    "price": "$369,000",
    "client": "Chesley & Lauren C.",
-   "status": "✅ UNDER CONTRACT $369K — inspection running right now, and the MLS now reads CONTINGENT",
+   "status": "✅ UNDER CONTRACT $369K — inspection RAN at noon, nothing back yet, MLS reads CONTINGENT",
    "showings14d": 0,
    "feedback": [],
    "gaps": [

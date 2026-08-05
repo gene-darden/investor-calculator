@@ -1,7 +1,7 @@
 {
- "updated": "Aug 5, 2026 · 7:36 AM CT",
- "nextSweep": "this evening",
- "headline": "A THREE-BEDROOM HOUSE ON DAUPHIN ISLAND CAME ONTO THE BOARD THIS MORNING AT $315,000 — the lowest-priced qualifying house this lane has ever carried, and about $44,000 under the next cheapest thing on it.",
+ "updated": "Aug 5, 2026 · 5:37 PM CT",
+ "nextSweep": "tomorrow morning",
+ "headline": "A SECOND DAUPHIN ISLAND HOUSE CAME ONTO THE BOARD THIS EVENING — 412 Bienville at $534,900, 3 bed / 2 bath and 2,100 square feet, the largest qualifying house the island lane has carried. Both houses added today are on the island, and both are detached.",
  "lanes": [
   {
    "id": "nash",
@@ -882,6 +882,29 @@
      "badge": "NEW"
     },
     {
+     "id": "412-bienville",
+     "address": "412 Bienville",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 534900,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Single-family house",
+     "waterPosition": "Island interior — no water position stated on the listing",
+     "rentalHistory": null,
+     "highlights": [
+      "2,100 sq ft — the largest qualifying house on the island lane",
+      "3 bed / 2 bath detached, under $550K",
+      "Verified live on the Dauphin Island source this evening"
+     ],
+     "fitNote": "The most square footage this lane has offered on Dauphin Island, and it clears the 3-bedroom floor with room to spare. Sits between the Chaumont and Lockenbie tier on price while beating both on size. Verified ACTIVE at $534,900 on the evening pass.",
+     "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty, LLC",
+     "badge": "NEW"
+    },
+    {
      "id": "1127-chaumont-ave",
      "address": "1127 Chaumont Ave",
      "city": "Dauphin Island",
@@ -1239,7 +1262,7 @@
      ]
     }
    ],
-   "note": "✅ RE-READ LIVE THIS MORNING AND THE LANE HELD — every house we reached came back ACTIVE at exactly the price this board was already carrying. The full Dauphin Island set re-verified one by one: 901 Lockenbie $595,000 · 107 Portier $549,900 · 1127 Chaumont $499,000 · 703 Hunley $492,000 · 311 Chenault $479,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 751 Cadillac $374,900 · 914 Cadillac $359,000. On the Gulf Shores side 413 Windmill Ridge $549,000 and 221 W 6th $445,000 both re-confirmed ACTIVE at price. 🆕 ONE GENUINELY NEW HOUSE THIS MORNING: 125 Bienville Blvd at $315,000, 3 bed / 2 bath — the cheapest qualifying house this lane has ever listed. ⚠️ TWO SOURCES WOULD NOT ANSWER THIS PASS and their listings are carried at their last verified price rather than dropped: the Sunrise Dr page returned a browser check, and the Casablanca Dr page served an unrelated property, which usually means the listing URL has moved rather than the house has sold. Neither is evidence of a sale and neither was removed on that basis — both are first in line for the evening sweep. ⭐ NO OTHER NEW INVENTORY WAS ADDED, AND THAT IS A JUDGEMENT RATHER THAN AN EMPTY SEARCH: the qualifying houses that came back all sit in inland Gulf Shores subdivisions — gated golf communities, Craft Farms, Aventura, Stonegate — with no water position at all. This lane ranks gulf-front and water-view first for a reason, and padding it with inland stock would make the board longer without making it better. ⛔ NO RENTAL NUMBERS APPEAR ON ANY CARD UNLESS THE LISTING ITSELF STATES THEM — nothing here is projected by us."
+   "note": "✅ RE-READ AGAIN THIS EVENING AND THE LANE HELD — every house we reached came back ACTIVE at exactly the price this board was already carrying. 🆕 ONE GENUINELY NEW HOUSE THIS PASS: 412 Bienville, Dauphin Island, $534,900 — 3 bed / 2 bath and 2,100 square feet, the most space this lane has ever offered on the island. That makes two island houses added today. ✅ ONE OF THIS MORNING'S TWO QUESTION MARKS IS CLEARED: the 4660 Casablanca page answered properly this time and re-confirmed ACTIVE at $599,000, 4 bed — this morning's pass had been served an unrelated property, which was a page problem rather than a sale. ⚠️ THE OTHER IS STILL UNANSWERED: the 209 Sunrise Dr page returned a browser check again, so it is carried at its last verified price rather than dropped. A page that will not load is not evidence of a sale, and nothing gets removed on that basis. ⭐ NO OTHER INVENTORY WAS ADDED, AND THAT IS A JUDGEMENT RATHER THAN AN EMPTY SEARCH: the qualifying Gulf Shores houses that came back all sit in inland subdivisions — gated golf, Craft Farms, Aventura, Stonegate — with no water position at all. This lane ranks gulf-front and water-view first for a reason, and padding it with inland stock would make the board longer without making it better. ⛔ NO RENTAL NUMBERS APPEAR ON ANY CARD UNLESS THE LISTING ITSELF STATES THEM — nothing here is projected by us."
   }
  ]
 }
