@@ -1,7 +1,7 @@
 {
- "updated": "Aug 5, 2026 · 5:37 PM CT",
- "nextSweep": "tomorrow morning",
- "headline": "A SECOND DAUPHIN ISLAND HOUSE CAME ONTO THE BOARD THIS EVENING — 412 Bienville at $534,900, 3 bed / 2 bath and 2,100 square feet, the largest qualifying house the island lane has carried. Both houses added today are on the island, and both are detached.",
+ "updated": "Aug 6, 2026 · 8:05 AM CT",
+ "nextSweep": "this evening",
+ "headline": "THE ISLAND LANE HELD ON A FULL RE-READ THIS MORNING — every Dauphin Island and Gulf Shores house on this board came back ACTIVE at the price it was already carrying, with one exception worth knowing: 1217 Dorado Way in Gulf Shores now reads $555,000 on the listing page, up from the $539,900 we carried since Friday. Nothing went under contract and nothing disappeared. The Nashville and Knoxville lanes are still frozen at their Jul 29 snapshot because both commercial sites keep refusing our crawler — that unfreezes automatically after Aug 10.",
  "lanes": [
   {
    "id": "nash",
@@ -335,7 +335,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the pass and report a false failure each time. ⭐ TREAT EVERY PRICE AND STATUS ON THIS LANE AS A JULY 29 READ, NOT A LIVE ONE — anything here may have moved, sold or come off market since. ⏰ The block is scheduled for one retry on the first morning sweep after Aug 10; a single success unfreezes the lane and everything re-verifies normally. ⛔ New-inventory hunting against these two sources is paused for the same reason — it is the same door, and it is still shut. ✅ This note IS the disclosure: nothing frozen is being presented to you as fresh."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the run and report a false failure. Prices, availability and status below are a Jul 29 snapshot and should be confirmed with the listing broker before anyone acts on them. The block is automatic and time-boxed: one retry runs on the first morning sweep after Aug 10, and a single success unfreezes the lane and resumes daily verification. New-inventory hunting against these two sites is paused for the same reason — no new Nashville or Knoxville inventory has been added since Jul 29."
   },
   {
    "id": "knox",
@@ -653,7 +653,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the pass and report a false failure each time. ⭐ TREAT EVERY PRICE AND STATUS ON THIS LANE AS A JULY 29 READ, NOT A LIVE ONE — anything here may have moved, sold or come off market since. ⏰ The block is scheduled for one retry on the first morning sweep after Aug 10; a single success unfreezes the lane and everything re-verifies normally. ⛔ New-inventory hunting against these two sources is paused for the same reason — it is the same door, and it is still shut. ✅ This note IS the disclosure: nothing frozen is being presented to you as fresh."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the run and report a false failure. Prices, availability and status below are a Jul 29 snapshot and should be confirmed with the listing broker before anyone acts on them. The block is automatic and time-boxed: one retry runs on the first morning sweep after Aug 10, and a single success unfreezes the lane and resumes daily verification. New-inventory hunting against these two sites is paused for the same reason — no new Nashville or Knoxville inventory has been added since Jul 29."
   },
   {
    "id": "beach",
@@ -815,7 +815,7 @@
      "address": "1217 Dorado Way",
      "city": "Gulf Shores, AL (Fort Morgan — Colony)",
      "dealType": "sale",
-     "price": 539900,
+     "price": 555000,
      "beds": 3,
      "baths": 2,
      "propertyType": "Single-family house",
@@ -826,12 +826,12 @@
       "Colony at Fort Morgan, a rental-tolerant stretch",
       "3 bed / 2 bath"
      ],
-     "fitNote": "Gold Fortified on a 2017 build is the single biggest lever on a coastal carrying cost, and Fort Morgan is where the rental math still works under $600K. Verified live tonight at $539,900.",
+     "fitNote": "Gold Fortified on a 2017 build is the single biggest lever on a coastal carrying cost, and Fort Morgan is where the rental math still works under $600K. Verified live tonight at $539,900. ⚠️ PRICE RE-READ Aug 6: the listing page now shows $555,000. This board carried $539,900 from the Jul 31 discovery and a third source quoted $569,900 the same morning, so the number has been unstable — treat $555,000 as the current read and confirm with the listing agent before relying on it.",
      "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
      "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
      "photoUrl": null,
      "broker": "Per MLS feed",
-     "badge": "NEW"
+     "badge": null
     },
     {
      "id": "10499-state-highway-180",
@@ -1262,7 +1262,7 @@
      ]
     }
    ],
-   "note": "✅ RE-READ AGAIN THIS EVENING AND THE LANE HELD — every house we reached came back ACTIVE at exactly the price this board was already carrying. 🆕 ONE GENUINELY NEW HOUSE THIS PASS: 412 Bienville, Dauphin Island, $534,900 — 3 bed / 2 bath and 2,100 square feet, the most space this lane has ever offered on the island. That makes two island houses added today. ✅ ONE OF THIS MORNING'S TWO QUESTION MARKS IS CLEARED: the 4660 Casablanca page answered properly this time and re-confirmed ACTIVE at $599,000, 4 bed — this morning's pass had been served an unrelated property, which was a page problem rather than a sale. ⚠️ THE OTHER IS STILL UNANSWERED: the 209 Sunrise Dr page returned a browser check again, so it is carried at its last verified price rather than dropped. A page that will not load is not evidence of a sale, and nothing gets removed on that basis. ⭐ NO OTHER INVENTORY WAS ADDED, AND THAT IS A JUDGEMENT RATHER THAN AN EMPTY SEARCH: the qualifying Gulf Shores houses that came back all sit in inland subdivisions — gated golf, Craft Farms, Aventura, Stonegate — with no water position at all. This lane ranks gulf-front and water-view first for a reason, and padding it with inland stock would make the board longer without making it better. ⛔ NO RENTAL NUMBERS APPEAR ON ANY CARD UNLESS THE LISTING ITSELF STATES THEM — nothing here is projected by us."
+   "note": "✅ RE-READ THIS MORNING AND THE LANE HELD. Every house we reached came back ACTIVE. Gulf Shores re-verified at carried prices — 17330 State Highway 180 $599,900, 413 Windmill Ridge $549,000, 429 Creekview $535,000, 10499 State Highway 180 $539,000. All twelve Dauphin Island houses re-confirmed as live listings, including the three added over the weekend. Nothing went under contract, nothing was withdrawn, and no house was removed this pass. ⚠️ ONE PRICE MOVED THE WRONG WAY: 1217 Dorado Way, Gulf Shores now reads $555,000 against the $539,900 this board has carried since Jul 31 — updated, and flagged as unstable because a third source quoted a different number again this morning. 🆕 NO NEW HOUSES QUALIFIED THIS PASS. The new Gulf Shores inventory that surfaced is inland subdivision product — Craft Farms, Aventura, Callaway North, Raley Farms — with no water position and no stated rental income, so none of it was added. 📋 DISCLOSURE ON SIZE: this lane is carrying 22 houses against a guideline of about 12, because Dauphin Island inventory roughly doubled in the last six days. Nothing has been culled to hit the number — a listing dropped quietly is a listing Tyler never gets to see. If the lane should be narrowed, that is a call about which geography to focus on, not a cleanup."
   }
  ]
 }
