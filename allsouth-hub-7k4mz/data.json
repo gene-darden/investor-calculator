@@ -1,7 +1,7 @@
 {
- "updated": "Aug 6, 2026 · 8:05 AM CT",
- "nextSweep": "this evening",
- "headline": "THE ISLAND LANE HELD ON A FULL RE-READ THIS MORNING — every Dauphin Island and Gulf Shores house on this board came back ACTIVE at the price it was already carrying, with one exception worth knowing: 1217 Dorado Way in Gulf Shores now reads $555,000 on the listing page, up from the $539,900 we carried since Friday. Nothing went under contract and nothing disappeared. The Nashville and Knoxville lanes are still frozen at their Jul 29 snapshot because both commercial sites keep refusing our crawler — that unfreezes automatically after Aug 10.",
+ "updated": "Aug 6, 2026 · 5:55 PM CT",
+ "nextSweep": "tomorrow morning",
+ "headline": "THE ISLAND LANE HELD AGAIN ON THIS EVENING'S RE-READ — every Dauphin Island and Gulf Shores house on this board is still active, nothing went under contract and nothing disappeared. One number moved: 1217 Dorado Way in Gulf Shores now reads $569,900 on the MLS record, up again from the $555,000 we carried this morning and the $539,900 we carried Friday — that seller has raised twice in a week, which tells you something about how they read demand there. Nashville and Knoxville are still frozen at their Jul 29 snapshot because both commercial sites keep refusing our crawler; that unfreezes automatically after Aug 10.",
  "lanes": [
   {
    "id": "nash",
@@ -335,7 +335,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the run and report a false failure. Prices, availability and status below are a Jul 29 snapshot and should be confirmed with the listing broker before anyone acts on them. The block is automatic and time-boxed: one retry runs on the first morning sweep after Aug 10, and a single success unfreezes the lane and resumes daily verification. New-inventory hunting against these two sites is paused for the same reason — no new Nashville or Knoxville inventory has been added since Jul 29."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than quietly presenting stale data as fresh. Prices and availability below are the Jul 29 snapshot and may have moved. We retry the sources once on the first morning sweep after Aug 10; a success unfreezes this lane automatically. New-inventory hunting in this lane is paused for the same reason. If you want one of these verified sooner, say the word and we'll call the listing broker direct."
   },
   {
    "id": "knox",
@@ -653,7 +653,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting them every sweep rather than burn the run and report a false failure. Prices, availability and status below are a Jul 29 snapshot and should be confirmed with the listing broker before anyone acts on them. The block is automatic and time-boxed: one retry runs on the first morning sweep after Aug 10, and a single success unfreezes the lane and resumes daily verification. New-inventory hunting against these two sites is paused for the same reason — no new Nashville or Knoxville inventory has been added since Jul 29."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than quietly presenting stale data as fresh. Prices and availability below are the Jul 29 snapshot and may have moved. We retry the sources once on the first morning sweep after Aug 10; a success unfreezes this lane automatically. New-inventory hunting in this lane is paused for the same reason. If you want one of these verified sooner, say the word and we'll call the listing broker direct."
   },
   {
    "id": "beach",
@@ -815,7 +815,7 @@
      "address": "1217 Dorado Way",
      "city": "Gulf Shores, AL (Fort Morgan — Colony)",
      "dealType": "sale",
-     "price": 555000,
+     "price": 569900,
      "beds": 3,
      "baths": 2,
      "propertyType": "Single-family house",
@@ -1262,7 +1262,7 @@
      ]
     }
    ],
-   "note": "✅ RE-READ THIS MORNING AND THE LANE HELD. Every house we reached came back ACTIVE. Gulf Shores re-verified at carried prices — 17330 State Highway 180 $599,900, 413 Windmill Ridge $549,000, 429 Creekview $535,000, 10499 State Highway 180 $539,000. All twelve Dauphin Island houses re-confirmed as live listings, including the three added over the weekend. Nothing went under contract, nothing was withdrawn, and no house was removed this pass. ⚠️ ONE PRICE MOVED THE WRONG WAY: 1217 Dorado Way, Gulf Shores now reads $555,000 against the $539,900 this board has carried since Jul 31 — updated, and flagged as unstable because a third source quoted a different number again this morning. 🆕 NO NEW HOUSES QUALIFIED THIS PASS. The new Gulf Shores inventory that surfaced is inland subdivision product — Craft Farms, Aventura, Callaway North, Raley Farms — with no water position and no stated rental income, so none of it was added. 📋 DISCLOSURE ON SIZE: this lane is carrying 22 houses against a guideline of about 12, because Dauphin Island inventory roughly doubled in the last six days. Nothing has been culled to hit the number — a listing dropped quietly is a listing Tyler never gets to see. If the lane should be narrowed, that is a call about which geography to focus on, not a cleanup."
+   "note": "✅ RE-READ AGAIN THIS EVENING AND THE LANE HELD. Every house we reached came back ACTIVE at the price we carry — Dauphin Island re-verified across the island inventory (901 Lockenbie $595,000 · 412 Bienville $534,900 · 311 Chenault $479,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 125 Bienville $315,000 · 914 Cadillac $359,000 · 751 Cadillac $374,900), Gulf Shores re-verified at 17330 State Highway 180 $599,900 and 429 Creekview $535,000. ⚠️ ONE PRICE MOVED AND IT MOVED UP: 1217 Dorado Way now reads $569,900 against the $555,000 we carried this morning and $539,900 on Friday. Two increases in a week on the same house — we've updated the number and we're watching it rather than treating it as settled. Nothing on this lane went pending, under contract, or off-market since the morning sweep."
   }
  ]
 }
