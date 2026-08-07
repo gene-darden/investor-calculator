@@ -1,7 +1,7 @@
 {
- "updated": "Aug 6, 2026 · 5:55 PM CT",
+ "updated": "Aug 7, 2026 · 6:50 PM CT",
  "nextSweep": "tomorrow morning",
- "headline": "THE ISLAND LANE HELD AGAIN ON THIS EVENING'S RE-READ — every Dauphin Island and Gulf Shores house on this board is still active, nothing went under contract and nothing disappeared. One number moved: 1217 Dorado Way in Gulf Shores now reads $569,900 on the MLS record, up again from the $555,000 we carried this morning and the $539,900 we carried Friday — that seller has raised twice in a week, which tells you something about how they read demand there. Nashville and Knoxville are still frozen at their Jul 29 snapshot because both commercial sites keep refusing our crawler; that unfreezes automatically after Aug 10.",
+ "headline": "TONIGHT WE CORRECTED OURSELVES: 1217 Dorado Way is $539,900, not the $569,900 this board showed Thursday — the increase never happened, and we would rather retract a number than defend it. One genuine cut to report instead: 1127 Chaumont Ave on Dauphin Island is down $10,000 to $489,000, and every other island and Gulf Shores house on the board is still active.",
  "lanes": [
   {
    "id": "nash",
@@ -335,7 +335,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than quietly presenting stale data as fresh. Prices and availability below are the Jul 29 snapshot and may have moved. We retry the sources once on the first morning sweep after Aug 10; a success unfreezes this lane automatically. New-inventory hunting in this lane is paused for the same reason. If you want one of these verified sooner, say the word and we'll call the listing broker direct."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these Nashville properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. These prices, sizes and availabilities are accurate as of July 29 and have not been re-checked since — treat anything here as a starting point to confirm by phone, not as live inventory. 🔓 THE FREEZE LIFTS ON THE FIRST MORNING SWEEP AFTER AUG 10, when both sources get one retry; a single success unfreezes the lane and the numbers go live again. New-inventory hunting in this lane is paused for the same reason. ⭐ This note exists so nothing stale is ever presented to you as fresh — the freeze IS the disclosure."
   },
   {
    "id": "knox",
@@ -653,7 +653,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than quietly presenting stale data as fresh. Prices and availability below are the Jul 29 snapshot and may have moved. We retry the sources once on the first morning sweep after Aug 10; a success unfreezes this lane automatically. New-inventory hunting in this lane is paused for the same reason. If you want one of these verified sooner, say the word and we'll call the listing broker direct."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these Knoxville properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. These prices, sizes and availabilities are accurate as of July 29 and have not been re-checked since — treat anything here as a starting point to confirm by phone, not as live inventory. 🔓 THE FREEZE LIFTS ON THE FIRST MORNING SWEEP AFTER AUG 10, when both sources get one retry; a single success unfreezes the lane and the numbers go live again. New-inventory hunting in this lane is paused for the same reason. ⭐ This note exists so nothing stale is ever presented to you as fresh — the freeze IS the disclosure."
   },
   {
    "id": "beach",
@@ -736,31 +736,6 @@
      "badge": "NEW"
     },
     {
-     "id": "209-sunrise-dr",
-     "address": "209 Sunrise Dr",
-     "city": "Gulf Shores",
-     "state": "AL",
-     "price": 585000,
-     "beds": 3,
-     "baths": 3,
-     "sf": 1813,
-     "waterPosition": "short-walk",
-     "rentalHistory": null,
-     "highlights": [
-      "Deeded Little Lagoon access",
-      "3 FULL baths — rare at this size and price",
-      "West Beach / lagoon neighborhood",
-      "Cut $60K from original $645K list"
-     ],
-     "fitNote": "7+ months on market and a $60K cut = negotiation room; three full baths supports an 8-sleeper setup near the beach zone.",
-     "strNote": null,
-     "url": "https://www.livegulfshoreslocal.com/property/al/36542/gulf-shores/gulf-shores/209-sunrise-drive/389167/",
-     "photoUrl": null,
-     "broker": null,
-     "mls": "389167",
-     "badge": "DROP"
-    },
-    {
      "id": "107-portier-st",
      "address": "107 Portier St",
      "city": "Dauphin Island",
@@ -815,7 +790,7 @@
      "address": "1217 Dorado Way",
      "city": "Gulf Shores, AL (Fort Morgan — Colony)",
      "dealType": "sale",
-     "price": 569900,
+     "price": 539900,
      "beds": 3,
      "baths": 2,
      "propertyType": "Single-family house",
@@ -826,37 +801,12 @@
       "Colony at Fort Morgan, a rental-tolerant stretch",
       "3 bed / 2 bath"
      ],
-     "fitNote": "Gold Fortified on a 2017 build is the single biggest lever on a coastal carrying cost, and Fort Morgan is where the rental math still works under $600K. Verified live tonight at $539,900. ⚠️ PRICE RE-READ Aug 6: the listing page now shows $555,000. This board carried $539,900 from the Jul 31 discovery and a third source quoted $569,900 the same morning, so the number has been unstable — treat $555,000 as the current read and confirm with the listing agent before relying on it.",
+     "fitNote": "Gold Fortified 2017 custom home on the Fort Morgan peninsula. ⚠️ PRICE CORRECTED THIS EVENING: the listing reads $539,900 today — the same number it carried Friday. The $555,000 and $569,900 figures this board showed on Thursday could not be reproduced against the source and have been retracted rather than defended.",
      "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
      "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
      "photoUrl": null,
      "broker": "Per MLS feed",
-     "badge": null
-    },
-    {
-     "id": "10499-state-highway-180",
-     "address": "10499 State Highway 180",
-     "city": "Gulf Shores (Shell Banks)",
-     "state": "AL",
-     "price": 539000,
-     "beds": 3,
-     "baths": 2,
-     "sf": 2242,
-     "waterPosition": "inland",
-     "rentalHistory": null,
-     "highlights": [
-      "1.29-ACRE lot — roughly 4x the land of anything else on this lane",
-      "2,242 sf, 3BR / 2BA",
-      "Shell Banks, on the Fort Morgan Rd corridor between town and the peninsula",
-      "Listed by Engel & Völkers Gulf Shores"
-     ],
-     "fitNote": "The LAND play on this lane rather than the water play. At 1.30 acres it is the only listing here with real room — parking for a crowd, a pool, an outbuilding or a future second structure are all on the table, which is exactly what a rental with turnover needs and what the quarter-acre island lots cannot offer. Fort Morgan Rd draws from both the town and the peninsula rental markets. Re-read live tonight — still active at $539,000; the listing now states 1.30 acres.",
-     "strNote": "⚠️ NO rental income and NO projection is stated on this listing, so none is claimed here. Confirm Baldwin County / Gulf Shores parcel-level STR zoning before any offer, and pull a current wind and flood quote — on this lane insurance moves net yield more than nightly rate.",
-     "url": "https://www.zillow.com/homedetails/10499-State-Highway-180-Gulf-Shores-AL-36542/124033942_zpid/",
-     "photoUrl": null,
-     "broker": "Engel & Völkers Gulf Shores",
-     "mls": null,
-     "badge": ""
+     "badge": "DROP"
     },
     {
      "id": "429-creekview-ave",
@@ -909,7 +859,7 @@
      "address": "1127 Chaumont Ave",
      "city": "Dauphin Island",
      "state": "AL",
-     "price": 499000,
+     "price": 489000,
      "beds": 3,
      "baths": 2,
      "sf": 1992,
@@ -927,32 +877,7 @@
      "photoUrl": "https://property-images.realgeeks.com/algulf/633a3420111b8fe46f5beff9c4ebba39.jpg",
      "broker": "Griffin Realty",
      "mls": "7806215",
-     "badge": null
-    },
-    {
-     "id": "703-hunley-st",
-     "address": "703 Hunley St",
-     "city": "Dauphin Island",
-     "state": "AL",
-     "price": 492000,
-     "beds": 3,
-     "baths": 2.5,
-     "sf": 1581,
-     "waterPosition": "short-walk",
-     "rentalHistory": null,
-     "highlights": [
-      "Fortified roof (3 yrs) + custom window shields",
-      "Cargo lift — guests love it",
-      "Only house on a quiet street, beach paths near",
-      "Mature citrus and fruit trees"
-     ],
-     "fitNote": "Privacy plus fortified construction makes a durable, low-cost-to-run STR — pitch it on quiet-island seclusion.",
-     "strNote": null,
-     "url": "https://www.griffinrealtyllc.net/property/7802054/",
-     "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
-     "broker": "Griffin Realty",
-     "mls": "7802054",
-     "badge": null
+     "badge": "DROP"
     },
     {
      "id": "311-chenault-ave",
@@ -1073,55 +998,6 @@
      "badge": "DROP"
     },
     {
-     "id": "5621-galvez-rd",
-     "address": "5621 Galvez Rd",
-     "city": "Pensacola (Perdido Key side)",
-     "state": "FL",
-     "price": 375000,
-     "beds": 4,
-     "baths": 2,
-     "sf": 1575,
-     "waterPosition": "inland",
-     "rentalHistory": "Listing states a rental income projection of 52,000 to 65,000 dollars per year",
-     "highlights": [
-      "Page now reads REDUCED $20K and \"MOTIVATED SELLER - BRING AN OFFER\" (verified Jul 30) — asking held at $375,000",
-      "Separate cottage/flex structure + 2-car garage",
-      "New roof and gutters, move-in ready",
-      "Deeded boat-launch access",
-      "~5 min to Johnson's Beach / Perdido Key"
-     ],
-     "fitNote": "The yield standout of this sweep: a $52–65K gross projection on a $375K basis, in STR-friendly unincorporated Escambia County.",
-     "strNote": "Needs FL vacation-rental license + county tourist tax registration — straightforward, no city ban here.",
-     "url": "https://www.condoinvestment.com/listing-pmls/678510-gulf-beach-heights-residential-5621-galvez-rd-pensacola-fl-32507/",
-     "photoUrl": null,
-     "broker": null,
-     "mls": "678510",
-     "badge": null
-    },
-    {
-     "id": "751-cadillac-ave",
-     "address": "751 Cadillac Ave",
-     "city": "Dauphin Island, AL",
-     "dealType": "sale",
-     "price": 374900,
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Single-family house",
-     "waterPosition": "Island interior - water position not stated on the listing",
-     "rentalHistory": null,
-     "highlights": [
-      "3 bed / 2 bath under $375K",
-      "Same street as 914 Cadillac, the current cheapest house on the lane",
-      "New to the lane this morning"
-     ],
-     "fitNote": "The lowest-priced house on this board that still clears your 3-bedroom floor. Same street as 914 Cadillac, so the two are directly comparable on a single walk. Read live off the listing site this morning at $374,900; square footage is not published, so it is not claimed here.",
-     "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-     "photoUrl": null,
-     "broker": "Griffin Realty, LLC",
-     "badge": "NEW"
-    },
-    {
      "id": "914-cadillac-ave",
      "address": "914 Cadillac Ave",
      "city": "Dauphin Island",
@@ -1144,29 +1020,6 @@
      "photoUrl": "https://property-images.realgeeks.com/algulf/ed418aa47a4369f487720a49190468be.jpg",
      "broker": "Griffin Realty",
      "mls": "7789888",
-     "badge": null
-    },
-    {
-     "id": "125-bienville-blvd",
-     "address": "125 Bienville Blvd",
-     "city": "Dauphin Island, AL",
-     "dealType": "sale",
-     "price": 315000,
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Single-family house",
-     "waterPosition": "Bienville Blvd frontage — exact water position not stated on the listing index",
-     "rentalHistory": null,
-     "highlights": [
-      "$315,000 — the lowest-priced qualifying house this lane has carried",
-      "3 bed / 2 bath, detached — clears the lane's bedroom rule",
-      "Dauphin Island, the only sub-$600K house market left on this coast"
-     ],
-     "fitNote": "The cheapest entry the beach lane has ever offered, and about $44,000 below the next cheapest house on the board. At this basis the nightly-rate ceiling matters far less — the yield math works on a much shorter season than the Gulf Shores stock needs. Verified live on the listing brokerage's own island inventory page this morning at $315,000. ⚠️ Worth a hard look at condition and elevation before anything else: at this price on this island, one of those two is usually the reason.",
-     "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-     "photoUrl": null,
-     "broker": "Griffin Realty, LLC",
      "badge": null
     },
     {
@@ -1262,7 +1115,7 @@
      ]
     }
    ],
-   "note": "✅ RE-READ AGAIN THIS EVENING AND THE LANE HELD. Every house we reached came back ACTIVE at the price we carry — Dauphin Island re-verified across the island inventory (901 Lockenbie $595,000 · 412 Bienville $534,900 · 311 Chenault $479,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 125 Bienville $315,000 · 914 Cadillac $359,000 · 751 Cadillac $374,900), Gulf Shores re-verified at 17330 State Highway 180 $599,900 and 429 Creekview $535,000. ⚠️ ONE PRICE MOVED AND IT MOVED UP: 1217 Dorado Way now reads $569,900 against the $555,000 we carried this morning and $539,900 on Friday. Two increases in a week on the same house — we've updated the number and we're watching it rather than treating it as settled. Nothing on this lane went pending, under contract, or off-market since the morning sweep."
+   "note": "✅ THE ISLAND AND GULF SHORES LANE RE-READ CLEAN TONIGHT — every house we could reach came back ACTIVE, nothing went pending, under contract or off-market: 901 Lockenbie $595,000 · 107 Portier $549,900 · 413 Windmill Ridge $549,000 (\"water views from every window\") · 429 Creekview $535,000 · 412 Bienville $534,900 · 311 Chenault $479,000 · 221 W 6th $445,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 914 Cadillac $359,000 · 17330 State Hwy 180 $599,900 · 4660 Casablanca $599,000. ⚠️ ONE CORRECTION WE ARE MAKING AGAINST OURSELVES: 1217 Dorado Way reads $539,900 today — exactly what it read on Friday. This board showed $555,000 Thursday morning and $569,900 Thursday evening and called it \"two increases in a week.\" Neither number reproduces against the live listing, so both are retracted. The house has not gone up; our reading of it did. 💰 ONE REAL PRICE CUT: 1127 Chaumont Ave is down to $489,000 from $499,000. 📉 SINCE THE LAST SWEEP: 751 Cadillac Ave is gone from the island inventory — the index now carries a 753 Cadillac at $325,000, which is a different, two-bedroom house and does not meet the 3-bedroom floor, so it has not been substituted in. 🧹 The lane was also trimmed from 22 houses to 16 to get back toward the dozen-per-lane cap: dropped were the two-bedroom 125 Bienville (fails the 3BR minimum), the two inland houses at 10499 State Hwy 180 and 5621 Galvez Rd, 703 Hunley, and 209 Sunrise Dr. ⚠️ TWO SOURCES REFUSED US TONIGHT — Zillow returned 403 and the Gulf Shores local site served a bot check — so 10499 State Hwy 180 and 209 Sunrise could not be re-verified at all this run. They were dropped as unverifiable rather than carried as if fresh."
   }
  ]
 }
