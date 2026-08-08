@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-08 7:38 AM CT",
- "headline": "THE ONE 'INTERESTED: YES' ON 355 COMANCHE FINALLY HAS A NAME AND A PHONE NUMBER — Angela B. at Keller Williams Vestavia, whose only objection was the price at $299,000, a number that came down to $295,000 three days later and nobody ever told her. Her call task is on your board now. And the listing that four agents refused to price just booked TWO showings for this weekend.",
+ "updated": "2026-08-08 12:50 PM CT",
+ "headline": "🔑 THE 7/25 'YES' ON 355 COMANCHE FINALLY HAS A NAME, AND IT IS THE OFFER YOU CONFIRMED DEAD THIS MORNING — Cassie C. at RE/MAX Advantage wrote 'Writing up an offer!' on her feedback form, called $299,000 too high, and has never been told the price came down to $295,000 three days later. Second anonymous row identified on this listing today, and the warmer of the two.",
  "stats": {
   "showings14d": 14,
   "feedback14d": 12,
@@ -9,22 +9,30 @@
  "hotSignals": [
   {
    "addr": "355 Comanche St",
+   "date": "7/25",
+   "isNew": true,
+   "signal": "Cassie C. at RE/MAX Advantage answered 'interested: Yes' and wrote \"Writing up an offer!\" on her form, while calling $299,000 too high — and that is the offer confirmed dead this morning, from a buyer who was never told the price came down to $295,000.",
+   "action": "CALL HER — thank her for showing, tell her the number her client called too high is now $295,000, and ask what gets their buyer in the house. Quote $295,000 and nothing else. No email — a buyer's agent on a live listing is a call, not a message."
+  },
+  {
+   "addr": "355 Comanche St",
    "date": "8/2",
    "isNew": false,
-   "signal": "🔎 IDENTIFIED THIS MORNING AFTER SIX DAYS AS AN ANONYMOUS ROW. Angela B. · Keller Williams Realty Vestavia filed the only 'interested: YES' this listing has ever taken — priced TOO HIGH against the $299,000 list, staging 4 of 5, and one line of free text that changes how you play it: \"Saw another home that she is interested in.\" ⭐ HER SINGLE STATED OBJECTION HAS ALREADY BEEN ANSWERED — the price came down to $295,000 on 8/5 and she was never told. ⚠️ SHE ALSO NEVER NAMED A REPLACEMENT NUMBER, same as every other read on this file.",
-   "action": "Call her — the task is on your board with her full contact details. Two questions carry it: is that other house under contract yet, and what gets her buyer in this one. Quote $295,000 and nothing else; no agent has ever put a different number on paper here."
+   "signal": "Angela B. at Keller Williams Vestavia filed the listing's other 'interested: Yes', objecting only to the price at $299,000 and noting her buyer had seen another home she liked.",
+   "action": "Call her — the price objection has already been answered by the 8/5 reduction and she was never told. Six days on, the cross-shopped house is either under contract or not, and one call settles it. Quote $295,000 only."
   },
   {
    "addr": "3350 Altamont Rd E21",
    "date": "8/3",
    "isNew": false,
-   "signal": "✅ YOU CLOSED THIS ONE LAST NIGHT. Mallory W. · ARC Realty filed the board's only unqualified yes — interested YES, priced JUST RIGHT, her buyer wants to write and is short on down payment and nothing else — and you checked the call off at 11:35 PM. ⚠️ THE DECISION UNDERNEATH IT IS STILL OPEN AND STILL YOURS: you have not asked your seller for a concession number, so there is nothing to trade with yet.",
-   "action": "No new call needed — this is now a seller call, not an agent call. Same seller owns Lake Crest and Martinwood: three files, one phone call."
+   "signal": "Mallory W. at ARC Realty filed the only unqualified 'interested: Yes / priced just right' this board has ever taken.",
+   "action": "The agent call is cleared. The open item is the seller decision behind it — one call covers this seller's three files."
   }
  ],
  "upcoming": [
-  "📅 SUN 8/9 · 1:30 PM — 355 COMANCHE ST, Montevallo. ⭐ BOOKED AT 10:27 LAST NIGHT and it is the newest thing on this entire board. It also lands the day BEFORE the appointment you were already counting on.",
-  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. Booked Friday morning. ⭐ TWO WEEKEND SHOWINGS ON THE LISTING THAT FOUR AGENTS REFUSED TO PRICE — after a fortnight where a single booking was news. Treat the pair as the real tiebreaker on price-problem versus presentation-problem.",
+  "📅 SUN 8/9 · 1:30 PM — 355 COMANCHE ST, Montevallo. ⭐ Booked Friday night and still the newest thing on this board. It lands the day before the appointment you were already counting on.",
+  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. ⭐ TWO WEEKEND SHOWINGS ON A LISTING WHERE ONE BOOKING HAD BEEN NEWS — and now with the competing offer confirmed dead and the price post unblocked, the weekend is the real test of price-problem versus presentation-problem.",
+  "📅 THU 8/20 · 3:00 PM — 5167 LAKE CREST CIR closing at the law firm. ⚠️ On the calendar and agreed in writing across three channels, with no executed extension behind it.",
   "⭐ ALSO WORTH KNOWING: a teammate's buyer asked to see 355 Comanche and is working on pre-approval. Not booked in the system, so it will not appear here until it is."
  ],
  "listings": [
@@ -33,7 +41,7 @@
    "city": "Montevallo",
    "price": "$295,000",
    "client": "Seth B.",
-   "status": "🔥 ACTIVE — the quietest listing on the board just booked two showings in two days, and its one YES now has a name",
+   "status": "🔥 ACTIVE $295K — the dead offer now has a name, the competing offer is confirmed dead, and two showings are booked this weekend",
    "showings14d": 2,
    "feedback": [
     {
@@ -56,20 +64,20 @@
     },
     {
      "date": "7/25",
-     "agent": "— · brokerage not named on the form",
+     "agent": "Cassie C. · RE/MAX Advantage",
      "tone": "warm",
-     "note": "Interested: YES, priced TOO HIGH, at $299,000. The second of the three 'too high' calls that produced the price cut — and, like the others, it never named a replacement number."
+     "note": "🔑 IDENTIFIED THIS RUN AFTER FOURTEEN DAYS AS AN ANONYMOUS ROW — and it is the origin of the offer. Interested: YES. Priced right: TOO HIGH, filed while the list was still $299,000. Replacement price: she left it blank. Main thing: \"Writing up an offer!\" ⭐ THAT OFFER IS THE ONE CONFIRMED DEAD AT 8:18 THIS MORNING — which means her buyer wrote once, objected to a number that has since come down $4,000, and was never told. ⚠️ Fourteen days is long enough for that buyer to be under contract elsewhere; this is a re-open, not a live offer."
     }
    ],
    "gaps": [],
-   "note": "⛔ THE PRICE-QUOTE RULE IS UNCHANGED AND IT MATTERS MORE NOW THAT YOU ARE CALLING AN AGENT: quote $295,000 and nothing else. Across four written reads and one agent preview, not one agent has ever put a different number on paper — every 'what price' field is empty. There is no market-supported replacement price to quote, so quoting one would be inventing it. ⭐ WHAT THE PATTERN SAYS: three reads called it too high at $299,000; since the cut to $295,000, the two reads that followed stopped saying it. ⭐ AND THE STAGING SCORES DISAGREE WITH EACH OTHER — 4 of 5 from Angela B., 3 of 5 from Ashton J. That is a listing without a clear defect, which usually means traffic is the fix. ✅ TRAFFIC ARRIVED: two showings this weekend, Sunday and Monday."
+   "note": "🆕 THE PRICE POST IS UNBLOCKED. The marketing engine had been holding the 'price improved to $295,000' announcement since Wednesday, waiting on one answer: is the 7/25 offer dead? You answered at 8:18 this morning — dead. ⭐ AND THIS RUN FOUND WHERE THAT OFFER CAME FROM: the 7/25 feedback, anonymous on this board for two weeks, was Cassie C. at RE/MAX Advantage writing \"Writing up an offer!\" ⛔ QUOTE $295,000 AND NOTHING ELSE on both agent calls — across five written reads and one preview, not one agent has ever put a different number on paper. ⭐ Two showings booked this weekend on a listing where one booking had been news."
   },
   {
    "addr": "1709 Fieldstone Cir",
    "city": "Helena",
    "price": "$380,000",
    "client": "Dennis & Leigh H.",
-   "status": "🔥 ONE TERM FROM CONTRACT — the close-date answer is now roughly 22 hours overdue",
+   "status": "🎉 UNDER CONTRACT — the buyers returned the initialed contract at 9:05 this morning",
    "showings14d": 4,
    "feedback": [
     {
@@ -104,16 +112,16 @@
     }
    ],
    "gaps": [
-    "Two of the four tours in the window never produced a written read — but this listing has since produced an offer, so chasing them is no longer the point."
+    "Two of the four tours in the window never produced a written read — moot now, the listing is under contract."
    ],
-   "note": "🔥 THE SHOWING BOARD'S JOB ON THIS FILE IS DONE — it converted. Fourteen days, four tours, five written reads, one offer, one counter, one acceptance-but-for-a-date. ⭐ THE ONE THING THIS BOARD CAN STILL TELL YOU: the date is a SELLER decision, not yours. You asked for Oct 30 deliberately because the sellers' new build lands inside that window, so the sequence is seller first, then Robert. Either date closes inside 2026 and counts against the 45."
+   "note": "🎉 THE SHOWING WORK ON THIS LISTING IS DONE AND IT CONVERTED. Four tours in the window produced an offer, a counter, and as of 9:05 this morning an initialed contract; the milestone engine confirmed UNDER CONTRACT at 11:05. ⭐ THE FEEDBACK LANE EARNED PART OF THAT — the buyer's agent filed three separate reads on this file, which is how his side stayed engaged through a counter. ⚠️ The two unanswered tours are now moot and are recorded as such rather than chased. ⭐ Worth noting for the pipeline: this one ad is still the best lead source on the board, and four buyers off it are on today's call list with nothing left to show them here."
   },
   {
    "addr": "3350 Altamont Rd E21",
    "city": "Birmingham",
    "price": "$164,000",
    "client": "Sulman M.",
-   "status": "🔥 ACTIVE — a live buyer still wants to write, and Friday evening's showing has not filed a read yet",
+   "status": "🔥 ACTIVE $164K — a live buyer still wants to write, and Friday evening's read is now overdue",
    "showings14d": 3,
    "feedback": [
     {
@@ -124,10 +132,10 @@
     }
    ],
    "gaps": [
-    "Sat 8/1 10:20 AM — no written read, seven days on. This one is now unlikely to arrive.",
-    "Fri 8/7 6:00 PM — ran Friday evening, read not yet due. This is the one to watch today."
+    "Sat 8/1 10:20 AM — no written read, seven days on. Unlikely to arrive now.",
+    "Fri 8/7 6:00 PM — ran Friday evening, and the read is now overdue. This is today's one to watch."
    ],
-   "note": "🔥 STILL THE CLOSEST THING TO A SECOND DEAL ON THE BOARD. ⚠️ THE BLOCKER IS A DECISION, NOT A TASK, AND CLOSING THE CALL DID NOT MOVE IT: authorize a concession and trade a later close for a signed contract, or hold at list and let her buyer wait on a bonus that may or may not arrive. ⚠️ HONEST NOTE — you still have not asked the seller for a number, and a decision with nothing behind it is theatre. Same seller as 5167 Lake Crest and 821 Martinwood: three files, one phone call. ⏰ This file has also read AGREEMENT EXPIRING since 7/22 with no date ever pulled from the notice — seventeen days of an unread clock."
+   "note": "⚠️ THE ONE TO WATCH TODAY. A showing ran Friday at 6:00 PM and no written read has filed — that is now the freshest unanswered tour on the board, and it is on the listing with the only unqualified 'priced just right' this board has ever taken. ⭐ You cleared the agent call on that yes late Friday night. ⚠️ CLOSING THE CALL DID NOT MOVE THE BLOCKER, because the blocker is a seller decision, not a conversation — and the same seller owns two other files on this board, so it is one phone call for three."
   },
   {
    "addr": "2368 Ridge Trail",
@@ -182,22 +190,22 @@
    "city": "Riverside",
    "price": "$369,000 list · $351,000 contract",
    "client": "Chesley & Lauren C.",
-   "status": "✅ UNDER CONTRACT — appraisal ran Friday at 9:00, no result yet",
+   "status": "✅ UNDER CONTRACT — appraisal ran Friday 9:00 AM and no value has come back in 27 hours",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "✅ THE MILESTONES ARE MOVING ON SCHEDULE: inspection Wed 8/5 at noon, appraisal Fri 8/7 at 9:00 AM. No appraisal result yet — normal on day two. ⭐ The one showing booked inside this window was cancelled before it ran, which is exactly right for a property under contract. ⚠️ THE OPEN PAPER IS THE $1,500 REPAIR ADDENDUM, shared on dotloop Friday 6:35 PM and unanswered — the counter to your $1,200-in-lieu, with the seller handling HVAC. The gap between the two positions is $300. ⭐ Contract price is $351,000, not the $369,000 list — every repair dollar comes off that number."
+   "note": "⚠️ The appraisal is the number this whole file turns on and nothing has reported anywhere. Still inside normal on day two, but it is the thing to watch. Separately the repair addendum has sat unanswered on dotloop since Friday 6:35 PM."
   },
   {
    "addr": "5167 Lake Crest Cir",
    "city": "Hoover",
    "price": "$899,000",
    "client": "Sulman M.",
-   "status": "✅ UNDER CONTRACT — diligence complete, closing Thursday Aug 20",
+   "status": "✅ UNDER CONTRACT — closing Thu Aug 20, and the extension addendum was opened this morning without being signed",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "✅ EVERY DILIGENCE APPOINTMENT ON THIS FILE HAS RUN AND CLEARED: inspection Mon 7/27, appraisal Wed 7/29 (complete and clean), septic Tue 8/4. Nothing is outstanding on the showing side. ⚠️ The one open item is paperwork, not property: the Aug 20 closing date is agreed by all five parties in writing and still has no executed amendment behind it."
+   "note": "⚠️ At 10:48 this morning the other side OPENED the extension addendum and did not sign it. Everyone agrees the date in writing across three channels and nothing is executed — that is the entire remaining item on this file."
   },
   {
    "addr": "2127 Hwy 93",
