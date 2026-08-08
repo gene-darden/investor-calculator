@@ -1,7 +1,7 @@
 {
- "updated": "Aug 7, 2026 · 6:50 PM CT",
- "nextSweep": "tomorrow morning",
- "headline": "TONIGHT WE CORRECTED OURSELVES: 1217 Dorado Way is $539,900, not the $569,900 this board showed Thursday — the increase never happened, and we would rather retract a number than defend it. One genuine cut to report instead: 1127 Chaumont Ave on Dauphin Island is down $10,000 to $489,000, and every other island and Gulf Shores house on the board is still active.",
+ "updated": "Aug 8, 2026 · 7:52 AM CT",
+ "nextSweep": "this evening",
+ "headline": "EVERY BEACH HOUSE ON THIS BOARD WAS RE-READ THIS MORNING AND ALL FIFTEEN CAME BACK ACTIVE — nothing went pending, nothing sold out from under us. One number moved: 914 Cadillac on Dauphin Island came down to $354,000, a duplex-style house with two fully separate living spaces, each with its own entrance and kitchen — the rare STR floor plan you can rent twice.",
  "lanes": [
   {
    "id": "nash",
@@ -335,7 +335,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these Nashville properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. These prices, sizes and availabilities are accurate as of July 29 and have not been re-checked since — treat anything here as a starting point to confirm by phone, not as live inventory. 🔓 THE FREEZE LIFTS ON THE FIRST MORNING SWEEP AFTER AUG 10, when both sources get one retry; a single success unfreezes the lane and the numbers go live again. New-inventory hunting in this lane is paused for the same reason. ⭐ This note exists so nothing stale is ever presented to you as fresh — the freeze IS the disclosure."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. The prices and availability below are accurate as of July 29 and have not been re-confirmed since — treat anything here as worth a call to the listing broker before you plan around it. We retry the sources on the first morning sweep after August 10; the moment either one answers, this lane re-verifies in full and this notice comes off. Nothing new is being added to this lane while it is frozen, for the same reason."
   },
   {
    "id": "knox",
@@ -653,7 +653,7 @@
      ]
     }
    ],
-   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these Knoxville properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. These prices, sizes and availabilities are accurate as of July 29 and have not been re-checked since — treat anything here as a starting point to confirm by phone, not as live inventory. 🔓 THE FREEZE LIFTS ON THE FIRST MORNING SWEEP AFTER AUG 10, when both sources get one retry; a single success unfreezes the lane and the numbers go live again. New-inventory hunting in this lane is paused for the same reason. ⭐ This note exists so nothing stale is ever presented to you as fresh — the freeze IS the disclosure."
+   "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. The two listing sites these properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep on the same wall. The prices and availability below are accurate as of July 29 and have not been re-confirmed since — treat anything here as worth a call to the listing broker before you plan around it. We retry the sources on the first morning sweep after August 10; the moment either one answers, this lane re-verifies in full and this notice comes off. Nothing new is being added to this lane while it is frozen, for the same reason."
   },
   {
    "id": "beach",
@@ -807,6 +807,31 @@
      "photoUrl": null,
      "broker": "Per MLS feed",
      "badge": "DROP"
+    },
+    {
+     "id": "10499-state-highway-180",
+     "address": "10499 State Highway 180",
+     "city": "Gulf Shores, AL (Shell Banks)",
+     "dealType": "sale",
+     "price": 539000,
+     "leaseRate": null,
+     "sf": 2242,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Shell Banks — Fort Morgan road corridor, between the Gulf and Bon Secour Bay",
+     "rentalHistory": null,
+     "highlights": [
+      "3 bed / 2 bath · 2,242 sf",
+      "Shell Banks, on the Fort Morgan peninsula road",
+      "Largest square footage under $550K on this lane"
+     ],
+     "fitNote": "↩️ BACK ON THE BOARD, AND HONESTLY SO. This house was pulled a week ago — not because it sold, but because the site we were checking it on started blocking us and we will not show you a number we cannot stand behind. Re-verified this morning on a source that answers: still active, still $539,000. It is the most square footage on this lane under $550K.",
+     "strNote": "No rental figures are published for this house, so none are shown. Fort Morgan peninsula rents well in season; anything beyond that would be us guessing.",
+     "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": null
     },
     {
      "id": "429-creekview-ave",
@@ -1002,25 +1027,24 @@
      "address": "914 Cadillac Ave",
      "city": "Dauphin Island",
      "state": "AL",
-     "price": 359000,
+     "price": 354000,
      "beds": 4,
      "baths": 3,
      "sf": 2310,
      "waterPosition": "short-walk",
      "rentalHistory": "Listing markets the separate living quarters as a rental opportunity",
      "highlights": [
-      "True dual-unit: two kitchens, separate entrances",
-      "Rent both units, or live-in-one/rent-one",
-      "Walk to Lighthouse Bakery and town core",
-      "2021 HVAC, fenced yard, two storage rooms"
+      "Two FULL separate living spaces — independent up and down units",
+      "Each unit has its own entrance and its own kitchen",
+      "4 bed / 3 bath · 2,310 sf"
      ],
-     "fitNote": "Cheapest door-count play on the board — two rental units under one roof at $359K.",
+     "fitNote": "⬇️ CUT $359,000 → $354,000 this week. The floor plan is the story: two genuinely separate units under one roof, each with its own entrance and kitchen. That is two rental listings from one purchase, or live-in-one-rent-the-other. Cheapest house on this lane.",
      "strNote": "We'd confirm the town STR license covers both units and check minimum-stay overlay rules for the parcel.",
      "url": "https://www.griffinrealtyllc.net/property/7789888/",
      "photoUrl": "https://property-images.realgeeks.com/algulf/ed418aa47a4369f487720a49190468be.jpg",
      "broker": "Griffin Realty",
      "mls": "7789888",
-     "badge": null
+     "badge": "DROP"
     },
     {
      "id": "302-audubon-pl",
@@ -1115,7 +1139,7 @@
      ]
     }
    ],
-   "note": "✅ THE ISLAND AND GULF SHORES LANE RE-READ CLEAN TONIGHT — every house we could reach came back ACTIVE, nothing went pending, under contract or off-market: 901 Lockenbie $595,000 · 107 Portier $549,900 · 413 Windmill Ridge $549,000 (\"water views from every window\") · 429 Creekview $535,000 · 412 Bienville $534,900 · 311 Chenault $479,000 · 221 W 6th $445,000 · 601 Bienville $399,000 · 1003 Monberaut $384,000 · 306 Apalache $380,000 · 914 Cadillac $359,000 · 17330 State Hwy 180 $599,900 · 4660 Casablanca $599,000. ⚠️ ONE CORRECTION WE ARE MAKING AGAINST OURSELVES: 1217 Dorado Way reads $539,900 today — exactly what it read on Friday. This board showed $555,000 Thursday morning and $569,900 Thursday evening and called it \"two increases in a week.\" Neither number reproduces against the live listing, so both are retracted. The house has not gone up; our reading of it did. 💰 ONE REAL PRICE CUT: 1127 Chaumont Ave is down to $489,000 from $499,000. 📉 SINCE THE LAST SWEEP: 751 Cadillac Ave is gone from the island inventory — the index now carries a 753 Cadillac at $325,000, which is a different, two-bedroom house and does not meet the 3-bedroom floor, so it has not been substituted in. 🧹 The lane was also trimmed from 22 houses to 16 to get back toward the dozen-per-lane cap: dropped were the two-bedroom 125 Bienville (fails the 3BR minimum), the two inland houses at 10499 State Hwy 180 and 5621 Galvez Rd, 703 Hunley, and 209 Sunrise Dr. ⚠️ TWO SOURCES REFUSED US TONIGHT — Zillow returned 403 and the Gulf Shores local site served a bot check — so 10499 State Hwy 180 and 209 Sunrise could not be re-verified at all this run. They were dropped as unverifiable rather than carried as if fresh."
+   "note": "✅ FULL RE-READ THIS MORNING AND THE LANE IS CLEAN. Every house here with a live listing page was checked again today — fifteen of them — and all fifteen came back ACTIVE. Nothing went pending, nothing went under contract, nothing sold. ⬇️ ONE PRICE MOVED: 914 Cadillac Ave on Dauphin Island came down from $359,000 to $354,000. ↩️ AND ONE HOUSE CAME BACK: 10499 State Highway 180 was pulled a week ago only because the site we were checking had started blocking us — it re-verified live this morning at $539,000 on a source that answers. ⭐ HOW THIS LANE IS RANKED: gulf-front and water-view first, detached houses only — never condos — 3+ bedrooms, at or under $600K, from Pensacola across to Dauphin Island. ⛔ RENTAL INCOME IS ONLY EVER SHOWN WHEN THE LISTING ITSELF STATES IT. Where you see no income figure, it is because none is published — we do not estimate them."
   }
  ]
 }

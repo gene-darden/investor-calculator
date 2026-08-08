@@ -1,30 +1,31 @@
 {
- "updated": "2026-08-07 6:50 PM CT",
- "headline": "THE 355 COMANCHE VERDICT LANDED AT 3:13 THIS AFTERNOON AND IT IS A NO — but the part that matters is what the agent DIDN'T write: for the fourth read running, both price fields were left completely blank, which means nobody is telling you the number is wrong anymore, they are just not saying anything.",
+ "updated": "2026-08-08 7:38 AM CT",
+ "headline": "THE ONE 'INTERESTED: YES' ON 355 COMANCHE FINALLY HAS A NAME AND A PHONE NUMBER — Angela B. at Keller Williams Vestavia, whose only objection was the price at $299,000, a number that came down to $295,000 three days later and nobody ever told her. Her call task is on your board now. And the listing that four agents refused to price just booked TWO showings for this weekend.",
  "stats": {
-  "showings14d": 16,
+  "showings14d": 14,
   "feedback14d": 12,
   "gaps": 5
  },
  "hotSignals": [
   {
-   "addr": "3350 Altamont Rd E21",
-   "date": "8/3",
-   "isNew": false,
-   "signal": "STILL THE ONLY UNQUALIFIED YES ON THE BOARD, AND IT IS NOW SIX DAYS OLD. Mallory W. · ARC Realty filed the only 'interested: YES' with 'priced: JUST RIGHT' anywhere in the fourteen-day window — her buyer wants to write and is short on down payment, nothing else. She then texted you directly on Thursday afternoon asking the age of the HVAC because she could not find it on MLS, which is a buyer's agent doing diligence homework, not a courtesy note. ⭐ A showing also ran on this unit at 6:00 this evening, so a second read may land tomorrow.",
-   "action": "Call her — she is a p1 on your board and the phone is the only door open, since agent outreach is suspended by your own August 4 ruling. Answer the HVAC question in the same call, and ask your seller for a concession number before it, so you have something to trade."
-  },
-  {
    "addr": "355 Comanche St",
    "date": "8/2",
    "isNew": false,
-   "signal": "The other standing 'interested: YES' on the board — filed at $299,000 with 'priced: TOO HIGH' attached. That buyer's objection was answered five days ago when the price came down to $295,000, and nothing has gone back to the agent to say so.",
-   "action": "One line to that agent: the price moved to $295,000 on the exact objection they raised. It is the cheapest re-open available on this listing."
+   "signal": "🔎 IDENTIFIED THIS MORNING AFTER SIX DAYS AS AN ANONYMOUS ROW. Angela B. · Keller Williams Realty Vestavia filed the only 'interested: YES' this listing has ever taken — priced TOO HIGH against the $299,000 list, staging 4 of 5, and one line of free text that changes how you play it: \"Saw another home that she is interested in.\" ⭐ HER SINGLE STATED OBJECTION HAS ALREADY BEEN ANSWERED — the price came down to $295,000 on 8/5 and she was never told. ⚠️ SHE ALSO NEVER NAMED A REPLACEMENT NUMBER, same as every other read on this file.",
+   "action": "Call her — the task is on your board with her full contact details. Two questions carry it: is that other house under contract yet, and what gets her buyer in this one. Quote $295,000 and nothing else; no agent has ever put a different number on paper here."
+  },
+  {
+   "addr": "3350 Altamont Rd E21",
+   "date": "8/3",
+   "isNew": false,
+   "signal": "✅ YOU CLOSED THIS ONE LAST NIGHT. Mallory W. · ARC Realty filed the board's only unqualified yes — interested YES, priced JUST RIGHT, her buyer wants to write and is short on down payment and nothing else — and you checked the call off at 11:35 PM. ⚠️ THE DECISION UNDERNEATH IT IS STILL OPEN AND STILL YOURS: you have not asked your seller for a concession number, so there is nothing to trade with yet.",
+   "action": "No new call needed — this is now a seller call, not an agent call. Same seller owns Lake Crest and Martinwood: three files, one phone call."
   }
  ],
  "upcoming": [
-  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. Booked at 9:23 this morning, and it is the only confirmed appointment on your entire forward calendar. ⭐ It also arrives after four consecutive written reads that refused to name a price, so treat it as the tiebreaker on whether this listing has a price problem or a presentation problem.",
-  "⭐ ALSO WORTH KNOWING: a teammate's buyer asked to see 355 Comanche as well and is working on pre-approval — that one is not booked in the system yet, so it will not appear here until it is."
+  "📅 SUN 8/9 · 1:30 PM — 355 COMANCHE ST, Montevallo. ⭐ BOOKED AT 10:27 LAST NIGHT and it is the newest thing on this entire board. It also lands the day BEFORE the appointment you were already counting on.",
+  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. Booked Friday morning. ⭐ TWO WEEKEND SHOWINGS ON THE LISTING THAT FOUR AGENTS REFUSED TO PRICE — after a fortnight where a single booking was news. Treat the pair as the real tiebreaker on price-problem versus presentation-problem.",
+  "⭐ ALSO WORTH KNOWING: a teammate's buyer asked to see 355 Comanche and is working on pre-approval. Not booked in the system, so it will not appear here until it is."
  ],
  "listings": [
   {
@@ -32,20 +33,20 @@
    "city": "Montevallo",
    "price": "$295,000",
    "client": "Seth B.",
-   "status": "🔴 ACTIVE — four written reads, four blank price fields, and a fifth showing booked for Monday",
-   "showings14d": 3,
+   "status": "🔥 ACTIVE — the quietest listing on the board just booked two showings in two days, and its one YES now has a name",
+   "showings14d": 2,
    "feedback": [
     {
      "date": "8/7",
      "agent": "Ashton J. · ARC Realty 280",
      "tone": "cold",
-     "note": "🔴 THE READ YOU WAITED ALL WEEK FOR, filed 3:13 PM today off Thursday's 11:00 AM tour — the first fresh booking since the price cut. Interested: NO. Staging scored 3 of 5. ⛔ AND THE DECISIVE PART IS THE BLANKS: 'is it priced right' — blank. 'price change recommendation' — blank. 'what price' — blank. 'what was the main thing' — blank. An agent who thinks a house is overpriced usually says so; this one declined to say anything at all."
+     "note": "🔴 THE READ YOU WAITED ALL WEEK FOR, filed 3:13 PM Friday off Thursday's 11:00 AM tour — the first fresh booking since the price cut. Interested: NO. Staging 3 of 5. ⛔ THE DECISIVE PART IS THE BLANKS: 'is it priced right' — blank. 'price change recommendation' — blank. 'what price' — blank. 'main thing' — blank. An agent who thinks a house is overpriced usually says so; this one declined to say anything at all."
     },
     {
      "date": "8/2",
-     "agent": "— · brokerage not named on the form",
+     "agent": "Angela B. · Keller Williams Vestavia",
      "tone": "hot",
-     "note": "Interested: YES, priced TOO HIGH — filed while the list price was still $299,000. ⭐ THAT OBJECTION HAS SINCE BEEN ANSWERED by the cut to $295,000, and the agent was never told."
+     "note": "🔎 THE ANONYMOUS ROW, NAMED THIS MORNING. Interested: YES. Priced TOO HIGH against the $299,000 list. Staging 4 of 5 — the best staging score this listing has ever taken, and it undercuts the theory that presentation is the whole problem. ⭐ HER FREE TEXT IS THE PART THAT MATTERS: \"Saw another home that she is interested in.\" That is a cross-shopping buyer, not a rejection — and her price objection was answered three days later by the cut to $295,000, which she was never told about. ⚠️ Like every other agent on this file, she left 'what price' blank."
     },
     {
      "date": "8/2",
@@ -61,27 +62,27 @@
     }
    ],
    "gaps": [],
-   "note": "⛔ THE PRICE-QUOTE RULE ON THIS FILE IS UNCHANGED AND IT MATTERS: quote $295,000 and nothing else. Across four written reads and one agent preview, not a single agent has ever put a different number on paper — every 'what price' field is empty. There is no market-supported replacement price to quote, so quoting one would be inventing it. ⭐ WHAT THE PATTERN ACTUALLY SUGGESTS: three reads called the number too high at $299,000; since the cut to $295,000, the two reads that followed stopped saying it. That points away from price and toward photos, staging and story — and the staging 3 today is the only concrete score anyone has left you. ✅ Monday 1:40 PM is the tiebreaker."
+   "note": "⛔ THE PRICE-QUOTE RULE IS UNCHANGED AND IT MATTERS MORE NOW THAT YOU ARE CALLING AN AGENT: quote $295,000 and nothing else. Across four written reads and one agent preview, not one agent has ever put a different number on paper — every 'what price' field is empty. There is no market-supported replacement price to quote, so quoting one would be inventing it. ⭐ WHAT THE PATTERN SAYS: three reads called it too high at $299,000; since the cut to $295,000, the two reads that followed stopped saying it. ⭐ AND THE STAGING SCORES DISAGREE WITH EACH OTHER — 4 of 5 from Angela B., 3 of 5 from Ashton J. That is a listing without a clear defect, which usually means traffic is the fix. ✅ TRAFFIC ARRIVED: two showings this weekend, Sunday and Monday."
   },
   {
    "addr": "1709 Fieldstone Cir",
    "city": "Helena",
    "price": "$380,000",
    "client": "Dennis & Leigh H.",
-   "status": "🔥 ONE TERM FROM CONTRACT — buyers accepted everything but the closing date at 9:05 AM today",
+   "status": "🔥 ONE TERM FROM CONTRACT — the close-date answer is now roughly 22 hours overdue",
    "showings14d": 4,
    "feedback": [
     {
      "date": "8/7",
      "agent": "Robert B. · RealtyCore",
      "tone": "hot",
-     "note": "🔥 NOT A FEEDBACK FORM — A DEAL. At 9:05 this morning he wrote that the buyers agree to ALL of the counter's new terms with one exception: they want to close on or before Oct 23 rather than Oct 30, because they have four kids and moving right before Halloween will not work. ⭐ Price agreed. Concession agreed. Co-op agreed. Appliances agreed. ⚠️ THE ANSWER HAS BEEN OWED SINCE 9:05 AM — about nine and a half hours — and nothing in email or the text relay answers it. Stated as ABSENCE, not failure: a phone call leaves no trace here."
+     "note": "🔥 NOT A FEEDBACK FORM — A DEAL. At 9:05 Friday morning he wrote that the buyers agree to ALL of the counter's new terms with one exception: they want to close on or before Oct 23 rather than Oct 30, because they have four kids and moving the week of Halloween will not work. ⭐ Price agreed. Concession agreed. Co-op agreed. Appliances agreed. ⚠️ HE THEN CHASED IT HIMSELF at 2:51 PM — \"any update on the closing date ask?\" ⏰ AS OF THIS MORNING THE ANSWER IS ABOUT 22 HOURS OVERDUE and no outbound to him appears in mail or the text relay. Stated as ABSENCE, not failure: a phone call leaves no trace here."
     },
     {
      "date": "8/6",
      "agent": "Robert B. · RealtyCore",
      "tone": "hot",
-     "note": "🔥 WROTE THE OFFER. Contract, pre-approval letter and a personal letter from the buyers, submitted 3:15 PM, followed by his own text eleven minutes later. Same agent whose side called Monday night asking whether he was bidding against anyone — the question that comes before a contract."
+     "note": "🔥 WROTE THE OFFER. Contract, pre-approval letter and a personal letter from the buyers, submitted 3:15 PM, followed by his own text eleven minutes later."
     },
     {
      "date": "8/5",
@@ -93,7 +94,7 @@
      "date": "8/4",
      "agent": "Cannon F. · Keller Williams",
      "tone": "warm",
-     "note": "Answered your direct email inside the hour: his buyer is passing, there were \"many aspects of the house that she loved but was just hoping for a bit of a 'larger' feel.\" A near miss on SHAPE, not price. You forwarded it to the sellers and they thanked you."
+     "note": "Answered your direct email inside the hour: his buyer is passing, there were \"many aspects of the house that she loved but was just hoping for a bit of a 'larger' feel.\" A near miss on SHAPE, not price."
     },
     {
      "date": "8/3",
@@ -103,17 +104,38 @@
     }
    ],
    "gaps": [
-    "Two of the four tours in the window never produced a written read at all — but this listing has since produced an offer, so chasing them is no longer the point."
+    "Two of the four tours in the window never produced a written read — but this listing has since produced an offer, so chasing them is no longer the point."
    ],
-   "note": "🔥 THE SHOWING BOARD'S JOB ON THIS FILE IS DONE — it converted. Fourteen days, four tours, five written reads, one offer, one counter, and one acceptance-but-for-a-date. ⭐ THE ONE THING THIS BOARD CAN STILL TELL YOU: the date is a SELLER decision, not yours. You asked for Oct 30 on purpose because the sellers' new build lands inside that window, so the sequence is seller first, then Robert. Either date closes inside 2026."
+   "note": "🔥 THE SHOWING BOARD'S JOB ON THIS FILE IS DONE — it converted. Fourteen days, four tours, five written reads, one offer, one counter, one acceptance-but-for-a-date. ⭐ THE ONE THING THIS BOARD CAN STILL TELL YOU: the date is a SELLER decision, not yours. You asked for Oct 30 deliberately because the sellers' new build lands inside that window, so the sequence is seller first, then Robert. Either date closes inside 2026 and counts against the 45."
+  },
+  {
+   "addr": "3350 Altamont Rd E21",
+   "city": "Birmingham",
+   "price": "$164,000",
+   "client": "Sulman M.",
+   "status": "🔥 ACTIVE — a live buyer still wants to write, and Friday evening's showing has not filed a read yet",
+   "showings14d": 3,
+   "feedback": [
+    {
+     "date": "8/3",
+     "agent": "Mallory W. · ARC Realty",
+     "tone": "hot",
+     "note": "🔥 THE ONLY UNQUALIFIED YES THIS BOARD HAS TAKEN: interested YES, priced JUST RIGHT. Her buyer wants to write and is short on down payment, nothing else. She followed it with a direct text asking the HVAC age because MLS does not carry it. ✅ YOU CLOSED THE CALL TASK AT 11:35 PM FRIDAY — five days after it landed."
+    }
+   ],
+   "gaps": [
+    "Sat 8/1 10:20 AM — no written read, seven days on. This one is now unlikely to arrive.",
+    "Fri 8/7 6:00 PM — ran Friday evening, read not yet due. This is the one to watch today."
+   ],
+   "note": "🔥 STILL THE CLOSEST THING TO A SECOND DEAL ON THE BOARD. ⚠️ THE BLOCKER IS A DECISION, NOT A TASK, AND CLOSING THE CALL DID NOT MOVE IT: authorize a concession and trade a later close for a signed contract, or hold at list and let her buyer wait on a bonus that may or may not arrive. ⚠️ HONEST NOTE — you still have not asked the seller for a number, and a decision with nothing behind it is theatre. Same seller as 5167 Lake Crest and 821 Martinwood: three files, one phone call. ⏰ This file has also read AGREEMENT EXPIRING since 7/22 with no date ever pulled from the notice — seventeen days of an unread clock."
   },
   {
    "addr": "2368 Ridge Trail",
    "city": "Birmingham",
    "price": "$559,000",
    "client": "Shea H. (Opendoor)",
-   "status": "⚠️ ACTIVE — three tours, three written reads, and the newest one says too high",
-   "showings14d": 3,
+   "status": "⚠️ ACTIVE — the newest read since the contract died says too high",
+   "showings14d": 2,
    "feedback": [
     {
      "date": "8/4",
@@ -131,39 +153,18 @@
      "date": "7/25",
      "agent": "— · brokerage not named on the form",
      "tone": "cold",
-     "note": "Interested NO, priced TOO HIGH."
+     "note": "Interested NO, priced TOO HIGH. ⚠️ This read ages out of the window tomorrow."
     }
    ],
    "gaps": [],
-   "note": "⚠️ THE SHIFT IS REAL AND RECENT: two reads said JUST RIGHT before the contract, the first read after it says TOO HIGH. 🔴 THE HARDER QUESTION SITS UNDERNEATH: there is no bond on the EIFS here, and on synthetic stucco a buyer's inspector finds that independently — a plausible part of why a contract already died once. ⭐ THE STAGING SCORE IS FIXABLE TODAY AND COSTS NOTHING. Fix that before anyone touches price."
-  },
-  {
-   "addr": "3350 Altamont Rd E21",
-   "city": "Birmingham",
-   "price": "$164,000",
-   "client": "Sulman M.",
-   "status": "🔥 ACTIVE — a live buyer wants to write, and another showing ran at 6:00 tonight",
-   "showings14d": 3,
-   "feedback": [
-    {
-     "date": "8/3",
-     "agent": "Mallory W. · ARC Realty",
-     "tone": "hot",
-     "note": "🔥 THE ONLY UNQUALIFIED YES ON THE WHOLE BOARD: interested YES, priced JUST RIGHT. Her buyer wants to write and is short on down payment, nothing else. She followed it with a direct text Thursday asking the HVAC age because MLS does not carry it."
-    }
-   ],
-   "gaps": [
-    "Sat 8/1 10:20 AM — no written read, six days on.",
-    "Fri 8/7 6:00 PM — ran this evening, read not due yet."
-   ],
-   "note": "🔥 THIS IS THE CLOSEST THING TO A SECOND DEAL ON THE BOARD, AND IT HAS BEEN WAITING SIX DAYS. ⚠️ THE BLOCKER IS A DECISION, NOT A TASK: authorize a concession and trade a later close for a signed contract, or hold at list and let her buyer wait on a bonus that may or may not arrive. ⚠️ HONEST NOTE — you have still not asked the seller for a number, and a decision with nothing behind it is theatre. Same seller as 5167 Lake Crest and 821 Martinwood: three files, one phone call. ⏰ This file has also read AGREEMENT EXPIRING since 7/22 with no date ever pulled from the notice."
+   "note": "⚠️ THE SHIFT IS REAL AND RECENT: two reads said JUST RIGHT before the contract, the first read after it says TOO HIGH. 🔴 THE HARDER QUESTION SITS UNDERNEATH: there is no bond on the EIFS here, and on synthetic stucco a buyer's inspector finds that independently — a plausible part of why a contract already died once. ⭐ THE STAGING SCORE IS FIXABLE TODAY AND COSTS NOTHING. Fix that before anyone touches price. ⏰ No new tour booked since 8/4 — four days quiet."
   },
   {
    "addr": "198 Rena Dr",
    "city": "Springville",
    "price": "$450,000",
    "client": "Ann & Don C.",
-   "status": "🔴 ACTIVE — a live counter conversation, and the listing agreement expires in seven days",
+   "status": "🔴 ACTIVE — the listing agreement expires in SIX days and the counter ask is five days old",
    "showings14d": 1,
    "feedback": [
     {
@@ -174,18 +175,18 @@
     }
    ],
    "gaps": [],
-   "note": "⏰ THE DEADLINE IS THE STORY, NOT THE SHOWING TRAFFIC. Your listing agreement expires 2026-08-14 — seven days — while the counter under discussion proposes an Aug 31 contingency deadline, seventeen days past your authority to represent these sellers. ⚠️ THE SEQUENCE: you cannot quote a counter your sellers have not approved, so the seller call comes first — and it is the same call that gets the agreement extended."
+   "note": "⏰ THE DEADLINE IS THE STORY, NOT THE SHOWING TRAFFIC — AND IT TIGHTENED OVERNIGHT. Your listing agreement expires 2026-08-14 — SIX DAYS — while the counter under discussion proposes an Aug 31 contingency deadline, seventeen days past your authority to represent these sellers. ⚠️ THE SEQUENCE: you cannot quote a counter your sellers have not approved, so the seller call comes first — and it is the same call that gets the agreement extended. ⭐ It is block 7 on today's letter at 1:00 PM."
   },
   {
    "addr": "195 Lake View Cir",
    "city": "Riverside",
    "price": "$369,000 list · $351,000 contract",
    "client": "Chesley & Lauren C.",
-   "status": "✅ UNDER CONTRACT — inspection done Wednesday, appraisal ran this morning at 9:00",
+   "status": "✅ UNDER CONTRACT — appraisal ran Friday at 9:00, no result yet",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "✅ THE MILESTONES ARE MOVING ON SCHEDULE: inspection Wed 8/5 at noon, appraisal Fri 8/7 at 9:00 AM. No appraisal result yet — normal on day one. ⭐ The one showing booked inside this window was cancelled before it ran, which is exactly right for a property under contract. ⚠️ Two pieces of paper are still open on this file: the address-correction addendum has sat unsigned on dotloop for four days, and the buyers' home-sale contingency has never been receipted. ⭐ Contract price is $351,000, not the $369,000 list — every repair dollar comes off that number."
+   "note": "✅ THE MILESTONES ARE MOVING ON SCHEDULE: inspection Wed 8/5 at noon, appraisal Fri 8/7 at 9:00 AM. No appraisal result yet — normal on day two. ⭐ The one showing booked inside this window was cancelled before it ran, which is exactly right for a property under contract. ⚠️ THE OPEN PAPER IS THE $1,500 REPAIR ADDENDUM, shared on dotloop Friday 6:35 PM and unanswered — the counter to your $1,200-in-lieu, with the seller handling HVAC. The gap between the two positions is $300. ⭐ Contract price is $351,000, not the $369,000 list — every repair dollar comes off that number."
   },
   {
    "addr": "5167 Lake Crest Cir",
@@ -196,27 +197,27 @@
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "✅ EVERY DILIGENCE APPOINTMENT ON THIS FILE HAS RUN AND CLEARED: inspection Mon 7/27, appraisal Wed 7/29 (complete and clean), septic Tue 8/4. Nothing is outstanding on the showing side. ⚠️ The one open item is paperwork, not property: the Aug 20 closing date is agreed by all five parties in writing and has no executed amendment behind it."
+   "note": "✅ EVERY DILIGENCE APPOINTMENT ON THIS FILE HAS RUN AND CLEARED: inspection Mon 7/27, appraisal Wed 7/29 (complete and clean), septic Tue 8/4. Nothing is outstanding on the showing side. ⚠️ The one open item is paperwork, not property: the Aug 20 closing date is agreed by all five parties in writing and still has no executed amendment behind it."
   },
   {
    "addr": "2127 Hwy 93",
    "city": "Helena",
    "price": "$1,150,000",
    "client": "Paul & Neely F.",
-   "status": "⚠️ ACTIVE — one tour in the window, and it never produced a read",
+   "status": "⚠️ ACTIVE — one tour in fourteen days, and it never produced a read",
    "showings14d": 1,
    "feedback": [],
    "gaps": [
-    "Wed 7/29 12:30 PM — nine days on with no written read. This is the oldest unanswered tour on the board."
+    "Wed 7/29 12:30 PM — ten days on with no written read. This is the oldest unanswered tour on the board, and it is now almost certainly never coming."
    ],
-   "note": "⚠️ YOUR MOST EXPENSIVE LISTING HAS HAD EXACTLY ONE BOOKED TOUR IN FOURTEEN DAYS AND NO WRITTEN FEEDBACK AT ALL. ⭐ Sunday's open house is a week back and exists only in your head — five minutes of dictation makes it usable, another week and it is gone. ⭐ The one written objection this file has ever taken was about the land, not the price; the parcel runs 40 acres."
+   "note": "⚠️ YOUR MOST EXPENSIVE LISTING HAS HAD EXACTLY ONE BOOKED TOUR IN FOURTEEN DAYS AND NO WRITTEN FEEDBACK AT ALL. ⭐ Sunday's open house is now eight days back and exists only in your head — five minutes of dictation makes it usable, another week and it is gone. ✅ MARKETING FINALLY MOVES TODAY: the photo block that held this listing was a false alarm — all ten photos are live — and a carousel ships this evening. ⭐ The one written objection this file has ever taken was about the land, not the price; the parcel runs 40 acres."
   },
   {
    "addr": "23223 Front Beach Rd B3-407",
    "city": "Panama City Beach, FL",
    "price": "$364,000",
    "client": "Jeff B.",
-   "status": "🔴 ACTIVE — the price was validated nine days ago and the seller still has not been told",
+   "status": "🔴 ACTIVE — the price was validated ten days ago and the seller still has not been told",
    "showings14d": 1,
    "feedback": [
     {
@@ -227,25 +228,25 @@
     }
    ],
    "gaps": [],
-   "note": "🔴 DAY NINE OF A SELLER NOT HEARING GOOD NEWS. A validated price with no buyer is a marketing conversation — and you cannot have that conversation with someone who does not know the price was validated."
+   "note": "🔴 DAY TEN OF A SELLER NOT HEARING GOOD NEWS, and this read ages out of the fourteen-day window in four days — at which point the only positive datapoint this listing has ever produced disappears off the board. A validated price with no buyer is a marketing conversation, and you cannot have that conversation with someone who does not know the price was validated."
   },
   {
    "addr": "821 Martinwood Rd",
    "city": "Birmingham",
    "price": "$189,000",
    "client": "Sulman M.",
-   "status": "🔴 ACTIVE — zero showings, and as of today zero feedback history",
+   "status": "🔴 ACTIVE — twenty-seven days without a showing, and no feedback history at all",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "🔴 TWENTY-SIX DAYS WITHOUT A SHOWING, and as of today the single written read this file ever had — the one that said the price was too high — has fallen outside the fourteen-day window. This listing now has no feedback history at all. ⚠️ SEPARATELY AND MORE URGENTLY: a price cut was approved just over two weeks ago with no receipt anywhere that it took effect in the MLS. Two public prices is a bigger risk than a slow sale, and it is two minutes to check."
+   "note": "🔴 TWENTY-SEVEN DAYS WITHOUT A SHOWING, and the single written read this file ever had — the one that said the price was too high — has now fallen outside the window. This listing has no feedback history left. ⚠️ SEPARATELY AND MORE URGENTLY: a price cut was approved just over two weeks ago with no receipt anywhere that it took effect in the MLS. Two public prices is a bigger risk than a slow sale, and it is two minutes to check. ⭐ Same seller as Altamont and Lake Crest — one phone call covers all three."
   }
  ],
  "oweFeedback": [
   {
    "addr": "683 Flag Cir · Hoover",
    "price": "$384,999",
-   "when": "🔴 ASKED THREE TIMES — Thu 7/30, Fri 7/31, Sat 8/1 — from the Keller Williams Realty Hoover listing side after your 7/30 tour, and you have since CLOSED on the property AND BEEN PAID. ⭐ THIS IS THE MOST OVERDUE ITEM ON THE BOARD in relationship terms, and getting paid sharpened it. Before the closing it read as an oversight; after completing a deal together and collecting on it, it reads as a shrug at the agent across the table. Thirty seconds, and the same message carries the two answers you actually want back from them."
+   "when": "🔴 ASKED THREE TIMES — Thu 7/30, Fri 7/31, Sat 8/1 — from the Keller Williams Realty Hoover listing side after your 7/30 tour, and you have since CLOSED on the property AND BEEN PAID. ⭐ STILL THE MOST OVERDUE ITEM ON THE BOARD in relationship terms, and getting paid sharpened it. Before the closing it read as an oversight; after completing a deal together and collecting on it, it reads as a shrug at the agent across the table. ⚠️ Their last request is now a week old and the listing has gone EXPIRED in their system — the window where feedback is still useful to them is closing. Thirty seconds, and the same message carries the two answers you actually want back."
   }
  ]
 }
