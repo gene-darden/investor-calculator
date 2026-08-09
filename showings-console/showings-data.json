@@ -1,12 +1,19 @@
 {
- "updated": "2026-08-09 12:45 PM CT",
- "headline": "⏰ THE 1:30 AT 355 COMANCHE IS 45 MINUTES OUT — and the call that has to happen BEFORE it is to Cassie C., who wrote an offer on this house at the old price and still does not know the number came down. 🔍 Behind it, the Fieldstone inspection is locked for Thursday 11:15 with the combo already given out, and nineteen hours on neither the sellers nor the buyer's agent has been told in writing.",
+ "updated": "2026-08-09 5:45 PM CT",
+ "headline": "🔥 THE LISTING WITH NO FEEDBACK HISTORY JUST PRODUCED THE STRONGEST READ ON THE BOARD — 821 Martinwood was shown twice this weekend by the same agent, and her Saturday buyer came back \"VERY interested.\" ✅ THE SAME TWO EMAILS ALSO SETTLE THE SEVENTEEN-DAY-OLD PRICE QUESTION: the MLS is serving $184,000, so the approved cut did take effect and the $189,000 this board has been carrying is the stale number, not the live one.",
  "stats": {
-  "showings14d": 14,
-  "feedback14d": 10,
-  "gaps": 6
+  "showings14d": 17,
+  "feedback14d": 12,
+  "gaps": 7
  },
  "hotSignals": [
+  {
+   "addr": "821 Martinwood Rd",
+   "date": "8/8",
+   "isNew": true,
+   "signal": "Wanda W. at Millennium Homes answered \"interested: VERY\" off Saturday's 12:50 PM showing — the first feedback this listing has produced in the whole window, and the only unqualified interest on the board that is less than a day old. ⚠️ She filed a second form ninety seconds later on a DIFFERENT buyer from Sunday's 3:00 PM showing that reads \"not interested\" — two buyers, two answers, same agent. ⛔ Every other field on both forms is blank: no price opinion, no rating, no comments. She has told us someone wants it and nothing about why.",
+   "action": "Call her Monday morning — she is the only person who can say what her Saturday buyer liked and what is holding them. Lead with thanks for showing it twice, then the ask: \"what can we do to get your client in this home — my seller is motivated, what are their needs?\" Levers you may offer are closing-cost help, timing and possession flexibility, and home-specific items. ⛔ Never name a price concession or a replacement price. p1 on your Sales/ISA board with her full contact details, and the alert email carries them too."
+  },
   {
    "addr": "355 Comanche St",
    "date": "7/25",
@@ -37,10 +44,10 @@
   }
  ],
  "upcoming": [
-  "🔴 TODAY · SUN 8/9 · 1:30 PM — 355 COMANCHE ST, Montevallo. ⏰ 45 MINUTES OUT AND THE ONLY TIMED EVENT ON YOUR BOARD. This is what turns the Cassie C. call from a today-call into a right-now call: she should know the price moved before this buyer walks it, not after.",
-  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. ⭐ TWO APPOINTMENTS BACK TO BACK ON A LISTING WHERE ONE BOOKING HAD BEEN NEWS — with the competing offer confirmed dead and the price post now out, this pair is the real test of price-problem versus presentation-problem.",
-  "🔍 THU 8/13 · 11:15 AM — 1709 FIELDSTONE CIR inspection. ✅ CONFIRMED, not proposed: the inspector texted you directly Saturday evening and you set the time and gave him the lockbox combo. ⚠️ Nineteen hours later the sellers still have not been told, and the buyer's agent still has no written yes.",
-  "📅 THU 8/20 · 3:00 PM — 5167 LAKE CREST CIR closing at the law firm. ✅ The extension addendum behind it was signed Saturday morning. 🆕 CAUGHT AT MIDDAY: your brokerage's system still carries this as funding Friday 8/14 — a stale-date nag, verified wrong. Three clicks Monday before someone plans around the wrong week.",
+  "📅 MON 8/10 · 1:40 PM — 355 COMANCHE ST, Montevallo. ⏰ THE NEXT TIMED EVENT ON YOUR BOARD, and the Cassie C. call is now unambiguously a BEFORE-IT call. Yesterday's 1:30 came and went with no written read yet, so tomorrow's appointment is the second half of a two-showing test on whether this is a price problem or a presentation problem — and both of this file's 'interested: YES' agents still have not been told the number moved.",
+  "🔍 THU 8/13 · 11:15 AM — 1709 FIELDSTONE CIR inspection. ✅ CONFIRMED, not proposed: the inspector texted you directly Saturday evening, you set the time and gave him the lockbox combo (1311). 🔴 Now more than 48 hours on, a sweep of both your aliases still finds nothing outbound to the sellers telling them a stranger has their code Thursday. That is the oldest untouched item on this board and it is a client-facing one.",
+  "📅 THU 8/20 · 3:00 PM — 5167 LAKE CREST CIR closing at the law firm. ✅ The extension addendum behind it was signed Saturday morning. ⚠️ Your brokerage's system still carries this as funding Friday 8/14 — verified wrong twice today, most recently by the milestone engine at 1:02 PM, which rejected the stale date rather than escalating it. Three clicks Monday.",
+  "🚫 CANCELLED SUNDAY · 198 RENA DR 4:30 PM — requested, confirmed and cancelled inside 100 minutes this afternoon. ⭐ The cancellation was ILLNESS, not the house — worth knowing, because this is the file whose listing agreement expires Friday and every data point on it is about to be read as evidence.",
   "⭐ ALSO WORTH KNOWING: a teammate's buyer asked to see 355 Comanche and is working on pre-approval. Not booked in the system, so it will not appear here until it is."
  ],
  "listings": [
@@ -49,8 +56,8 @@
    "city": "Montevallo",
    "price": "$295,000",
    "client": "Seth B.",
-   "status": "🔥 ACTIVE $295K — the 1:30 showing is 45 minutes out, and another lands tomorrow at 1:40",
-   "showings14d": 2,
+   "status": "🔥 ACTIVE $295K — yesterday's 1:30 held with no read yet, and the next one lands Monday 1:40",
+   "showings14d": 3,
    "feedback": [
     {
      "date": "8/7",
@@ -71,8 +78,10 @@
      "note": "A second read the same day off the Sunday 1:15 PM tour: interested NO, every price field blank."
     }
    ],
-   "gaps": [],
-   "note": "🔥 TODAY IS THE TEST AND IT STARTS AT 1:30. Two appointments back to back on a listing where a single booking had been news, and they are the first traffic since the competing offer was confirmed dead Saturday morning. ⭐ BOTH 'INTERESTED: YES' ROWS ON THIS FILE HAVE NAMES: Cassie C. at RE/MAX Advantage wrote the 7/25 offer, Angela B. at Keller Williams Vestavia filed the 8/2 read. Each objected only to the old number. Neither was ever told it came down. ⏰ THE CASSIE CALL IS A MORNING CALL BECAUSE OF THE 1:30 — she is the one agent already on record wanting this house, and she should hear the new number before today's buyer walks it, not after. ⚠️ CASSIE'S READ HAS AGED OUT OF THE FOURTEEN-DAY WINDOW and no longer appears in the list above; the call task remains live and the signal is carried in Hot Signals deliberately, so it does not vanish just because the form got old. ⛔ QUOTE $295,000 AND NOTHING ELSE on both agent calls — across five written reads and one preview, not one agent has ever put a different number on paper. ⚠️ Worth knowing before you call: the price-improvement post went live on Facebook late Saturday night without passing approval. The content is accurate; the approval guard is what failed."
+   "gaps": [
+    "🕐 SUN 8/9 · 1:30 PM — held this afternoon, no feedback filed yet. Less than five hours old, so it is a watch rather than a nag; but it is the first traffic since the competing offer was confirmed dead, which makes it the read you most want."
+   ],
+   "note": "🔥 THE TEST IS HALF RUN. Yesterday's 1:30 went ahead and Monday's 1:40 is still on the books — two appointments back to back on a listing where a single booking had been news, and the first traffic since the competing offer was confirmed dead Saturday morning. ⏳ No written read has come off the 1:30 yet. ⭐ BOTH 'INTERESTED: YES' ROWS ON THIS FILE HAVE NAMES: Cassie C. at RE/MAX Advantage wrote the 7/25 offer, Angela B. at Keller Williams Vestavia filed the 8/2 read. Each objected only to the old number. 🔴 NEITHER HAS EVER BEEN TOLD IT CAME DOWN — and that is now two showings' worth of missed timing rather than one. Both calls are Monday-morning calls, before the 1:40."
   },
   {
    "addr": "1709 Fieldstone Cir",
@@ -176,7 +185,7 @@
    "city": "Springville",
    "price": "$450,000",
    "client": "Ann & Don C.",
-   "status": "🔴 ACTIVE — the listing agreement expires FRIDAY and the counter ask is now six days old",
+   "status": "🔴 ACTIVE — the listing agreement expires FRIDAY, and Sunday's showing cancelled 100 minutes after it booked",
    "showings14d": 1,
    "feedback": [
     {
@@ -187,7 +196,7 @@
     }
    ],
    "gaps": [],
-   "note": "⏰ THE DEADLINE IS THE STORY, NOT THE SHOWING TRAFFIC. Your listing agreement expires Friday 8/14 — five days — while the counter under discussion proposes a contingency deadline more than two weeks past your authority to represent these sellers. ⏰ DAY FIVE UNRULED, and a seven-day sweep found zero traffic on this file in any lane: no email, no text, no voicemail since the buyer's agent's second voicemail on 8/5. ⚠️ THE SEQUENCE: you cannot quote a counter your sellers have not approved, so the seller call comes first — and it is the same call that gets the agreement extended. Eighty-three days on market with one offer is the context that call needs."
+   "note": "⏰ THE DEADLINE IS STILL THE STORY. Your listing agreement expires Friday 8/14 — five days — while the counter under discussion proposes a contingency deadline more than two weeks past your authority to represent these sellers. ⏰ DAY FIVE UNRULED. 🆕 SUNDAY'S NEAR-MISS: a 4:30 PM showing was requested at 12:50, confirmed at 1:23 and cancelled at 2:30 — ⭐ for ILLNESS, not the house, which the ISA sweep confirmed and closed out at 2:37. Do not let that read as market rejection when the agreement conversation happens; it is not evidence of anything about the property. ⚠️ THE SEQUENCE IS UNCHANGED: you cannot quote a counter your sellers have not approved, so the seller call comes first — and it is the same call that gets the agreement extended. Eighty-three days on market with one offer is the context that call needs."
   },
   {
    "addr": "195 Lake View Cir",
@@ -245,13 +254,26 @@
   {
    "addr": "821 Martinwood Rd",
    "city": "Birmingham",
-   "price": "$189,000",
+   "price": "$184,000",
    "client": "Sulman M.",
-   "status": "🔴 ACTIVE — twenty-eight days without a showing, and no feedback history at all",
-   "showings14d": 0,
-   "feedback": [],
+   "status": "🔥 ACTIVE $184K — two showings this weekend, a \"VERY interested\" buyer, and the price question finally answered",
+   "showings14d": 2,
+   "feedback": [
+    {
+     "date": "8/8",
+     "agent": "Wanda W. · Millennium Homes LLC",
+     "tone": "hot",
+     "note": "🔥 INTERESTED: **VERY** — off Saturday's 12:50–1:20 PM showing, filed 4:35 PM Sunday. ⛔ EVERY OTHER FIELD IS BLANK: no price opinion, no rating, no comments, no recommendation. That is not a lukewarm answer dressed up — it is the strongest of the four interest options on the ShowingTime form, with zero elaboration. ⭐ It is also the first written read this listing has produced in the entire fourteen-day window; the file had no feedback history at all as of this morning."
+    },
+    {
+     "date": "8/9",
+     "agent": "Wanda W. · Millennium Homes LLC",
+     "tone": "cold",
+     "note": "Interested: not interested — off Sunday's 3:00–3:15 PM showing, filed 4:33 PM, ninety seconds before the one above. ⭐ SAME AGENT, DIFFERENT BUYER. She showed the house to two separate clients in two days and batch-filed both forms Sunday evening, so this is a second buyer passing rather than the Saturday buyer changing their mind. Every price field blank here too."
+    }
+   ],
    "gaps": [],
-   "note": "🔴 TWENTY-EIGHT DAYS WITHOUT A SHOWING, and the single written read this file ever had — the one that said the price was too high — has fallen outside the window. This listing has no feedback history left. ⚠️ SEPARATELY AND MORE URGENTLY: a price cut was approved seventeen days ago with no receipt anywhere that it took effect in the MLS. Two public prices is a bigger risk than a slow sale, and it is two minutes to check. ⭐ Same seller as Altamont and Lake Crest — one phone call covers all three."
+   "note": "🔥 THIS FILE TURNED OVER COMPLETELY IN ONE AFTERNOON. As of this morning it read \"twenty-eight days without a showing and no feedback history at all.\" Two feedback emails at 4:33 and 4:35 PM replaced that with two weekend showings and the board's newest solid hit. ✅ THE SEVENTEEN-DAY PRICE QUESTION IS ANSWERED, AND THE ANSWER IS GOOD: both ShowingTime emails serve **$184,000 | ACTIVE | MLS 21455674**, straight off the MLS feed. The approved cut DID take effect. The two-public-prices risk this card has carried since late July is retired — what is left is that this board and the fleet console were both carrying $189,000, which is now corrected here. ☎️ THE MOVE IS ONE CALL to Wanda W. Monday morning. ⭐ Same seller as Altamont and Lake Crest — one phone call still covers all three, and now it has good news in it."
   }
  ],
  "oweFeedback": [
