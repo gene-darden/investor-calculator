@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-09 5:45 PM CT",
+ "updated": "2026-08-09 8:15 PM CT",
  "headline": "🔥 A LISTING THAT HAD PRODUCED NOTHING FOR A MONTH JUST HANDED YOU THE BEST SIGNAL ON THE BOARD — 821 Martinwood was shown twice this weekend and the agent's Saturday buyer came back \"VERY interested,\" and the same two emails prove the price cut you approved seventeen days ago DID take effect. ⚡ DO: call the Fieldstone sellers — an inspector has their door code Thursday and it is now two days unsaid. ⚠️ WATCH: the 198 Rena listing agreement dies Friday, day five unruled.",
  "heartbeat": {
   "status": "alert",
   "notes": [
-   "🔑 SEVEN DAYS DOWN, NINETEEN COMMITS DEEP, STILL ONE COMMAND. Both boards rebuilt and committed again tonight and neither will ship — the GitHub CLI has been signed out since the migration and this is the SIXTEENTH consecutive blocked publish. What your phone shows is still Tuesday morning, including the 821 Martinwood signal below. `gh auth login`, once, in Terminal, and the whole queue goes out on the next pass.",
+   "✅ FIXED TONIGHT — THE PUBLISH LANE IS OPEN FOR THE FIRST TIME IN SEVEN DAYS. The GitHub CLI was signed in at 8:11 PM and all NINETEEN stranded commits shipped; this board is the first thing your phone has shown since Tuesday morning. ⭐ THE CAUSE, CONFIRMED: your GitHub token lived in Windows Credential Manager, which is encrypted per-user and Windows-only — it was never a file, so the Mac migration could not carry it. The Keychain, gh, ~/.git-credentials and ~/.ssh were all empty, so git fell back to prompting for a username and a scheduled run has no terminal to answer with. That is why it failed sixteen times identically instead of intermittently. Verified fixed for unattended runs — a non-interactive credential lookup now returns a live token.",
    "🔴 THE CEO SWEEP LANDED AT 5:15 AND FOUND FOUR ROUTINES THAT DIED SILENTLY. Its new silent-run check compares what the scheduler says ran against what actually wrote a heartbeat — and the nightly Deep Dive, your highest-earning routine, STARTED and produced nothing on three consecutive nights (8/6, 8/7, 8/8). The old check could not tell that apart from a quiet night, which is why three of them passed unflagged. Money Machine, the trading cockpit and the Saturday spot are the other three.",
    "✅ EVERYTHING ELSE RAN A CORRECTLY QUIET SUNDAY. The ISA sweep returned true zeros on every instrument all day under your no-touch rule and still caught four net-new leads for Monday's 7 AM queue; the milestone engine scanned twenty-nine listings across four passes and fired nothing; the Delta's afternoon pass went out silent because none of its five material triggers cleared. Quiet by rule, not quiet by failure."
   ]
@@ -208,9 +208,9 @@
   "sweepCadence": "✅ CADENCE HELD ALL WEEKEND AND SUNDAY RAN CORRECTLY QUIET — the sweep fired on a clean half-hourly incremental from 6 AM to 5 PM and returned true zeros on every instrument, which is exactly what a Sunday should look like. Under your own no-touch rule nothing went out today; the queue is being built for Monday 7 AM. 🛑 THE SEND GATES ARE DOING WHAT YOU WROTE: cold and never-contacted leads auto-send, everyone else drafts, clients and agents get no email at all — tonight's 821 Martinwood signal went out as a CALL TASK and a private alert to you, not as mail to the buyer's agent. ⚖️ THREE QUESTIONS REPEAT EVERY RUN UNTIL YOU RULE THEM: your physical business address for cold-email footers — which has already cost one hot never-contacted Panama City seller a sent email and is now four days unanswered — whether the fleet may DRAFT a note to a co-op agent when you explicitly ask for one, which you have asked six times and been answered with a call script six times, and whether the sequence lane that follows an existing lead should stage instead of send. All three are one comment each."
  },
  "builds": [
-  "🔑 Run `gh auth login` — 19 stranded commits, 16th blocked run, every phone board frozen since Tuesday (p1)",
   "⚖️ Rule the co-op-agent draft lane a/b/c — you have asked six times and got a call script six times (p1)",
-  "🗂️ Restore the Marketing Machine config files — day 6, graphics + spotlight produce nothing every morning (p1)"
+  "🗂️ Restore the Marketing Machine config files — day 6, graphics + spotlight produce nothing every morning (p1)",
+  "🔴 Fix WARM-15 staging — it invented anniversary dates on 5 of 5 rows, 10 of 15 held rather than sent (p1)"
  ],
  "controls": {
   "do": "Call the Fieldstone sellers — inspector comes Thursday",
