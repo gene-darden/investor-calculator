@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 10, 2026 · 6:25 PM CT",
+  "updated": "Aug 12, 2026 · 7:15 PM CT",
   "nextSweep": "tomorrow morning",
-  "headline": "DAUPHIN ISLAND WAS RE-READ LIVE TONIGHT AND NINE OF TEN CAME BACK ACTIVE AT EXACTLY THE SAME PRICE — but two things moved and both are worth a minute. 306 Apalache has DISAPPEARED from the source index entirely and has been pulled from the board; confirm it with the listing broker before you write it off. And 302 Audubon — the one you flagged yourself — finally shows a number: $999,000, which is well over this lane's ceiling and is why it has been sitting here without a price. One genuinely new house joins the lane: 230 Chenault, 3 bed / 3 bath at $390,000. ⚠️ The Gulf Shores and Orange Beach sources would not open for us tonight, so seven houses could not be re-read — they are flagged in the lane note rather than presented as confirmed.",
+  "headline": "Straight with you — this board did not get a fresh read tonight: the island listing source has moved to a new domain that is refusing connections, so every price here is exactly as it stood on Aug 4 and is labelled that way rather than dressed up as current. Tap PURSUE on anything and Gene will verify it live for you the same day.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN, DAY 8. The two listing sites these properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep failing the same way. One retry is scheduled for tomorrow morning, the first run past the seven-day mark. Until it succeeds, treat prices, availability and status on this lane as of July 29 and confirm with the listing broker before acting on any of them."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these thirteen live on have refused our crawler on six runs straight. We stopped re-attempting them every sweep rather than keep burning the check and reporting the same failure. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD — a building may have gone under contract or moved on price and we would not see it. ⭐ TAP PURSUE ON ANYTHING AND GENE WILL VERIFY IT LIVE FOR YOU, same day. 📅 ONE RETRY IS SCHEDULED for the first morning sweep after Aug 10; if it answers, the freeze lifts and this note disappears. New-inventory hunting on these sources is paused for the same reason — we are not pretending to search a door that is shut. Nothing on this lane has been quietly dropped or quietly added."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN, DAY 8. The two listing sites these properties live on have refused our crawler on six consecutive runs, so we stopped re-attempting rather than burn every sweep failing the same way. One retry is scheduled for tomorrow morning, the first run past the seven-day mark. Until it succeeds, treat prices, availability and status on this lane as of July 29 and confirm with the listing broker before acting on any of them."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Same crawler block as the Nashville lane, same six-run streak, same decision to stop re-attempting it every sweep. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD. ⭐ TAP PURSUE AND GENE WILL VERIFY IT LIVE FOR YOU. 319 Lovell Rd stays on the board as a Gene-curated watch — its lease is upcoming and it is not a public listing, so the source freeze does not affect it either way. 📅 One retry runs on the first morning sweep after Aug 10."
     },
     {
       "id": "beach",
@@ -736,6 +736,31 @@
           "badge": "NEW"
         },
         {
+          "id": "209-sunrise-dr",
+          "address": "209 Sunrise Dr",
+          "city": "Gulf Shores",
+          "state": "AL",
+          "price": 585000,
+          "beds": 3,
+          "baths": 3,
+          "sf": 1813,
+          "waterPosition": "short-walk",
+          "rentalHistory": null,
+          "highlights": [
+            "Deeded Little Lagoon access",
+            "3 FULL baths — rare at this size and price",
+            "West Beach / lagoon neighborhood",
+            "Cut $60K from original $645K list"
+          ],
+          "fitNote": "7+ months on market and a $60K cut = negotiation room; three full baths supports an 8-sleeper setup near the beach zone.",
+          "strNote": null,
+          "url": "https://www.livegulfshoreslocal.com/property/al/36542/gulf-shores/gulf-shores/209-sunrise-drive/389167/",
+          "photoUrl": null,
+          "broker": null,
+          "mls": "389167",
+          "badge": "DROP"
+        },
+        {
           "id": "107-portier-st",
           "address": "107 Portier St",
           "city": "Dauphin Island",
@@ -801,37 +826,37 @@
             "Colony at Fort Morgan, a rental-tolerant stretch",
             "3 bed / 2 bath"
           ],
-          "fitNote": "Gold Fortified 2017 custom home on the Fort Morgan peninsula. ⚠️ PRICE CORRECTED THIS EVENING: the listing reads $539,900 today — the same number it carried Friday. The $555,000 and $569,900 figures this board showed on Thursday could not be reproduced against the source and have been retracted rather than defended.",
+          "fitNote": "Gold Fortified on a 2017 build is the single biggest lever on a coastal carrying cost, and Fort Morgan is where the rental math still works under $600K. Verified live tonight at $539,900.",
           "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
           "photoUrl": null,
           "broker": "Per MLS feed",
-          "badge": "DROP"
+          "badge": "NEW"
         },
         {
           "id": "10499-state-highway-180",
           "address": "10499 State Highway 180",
-          "city": "Gulf Shores, AL (Shell Banks)",
-          "dealType": "sale",
+          "city": "Gulf Shores (Shell Banks)",
+          "state": "AL",
           "price": 539000,
-          "leaseRate": null,
-          "sf": 2242,
           "beds": 3,
           "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Shell Banks — Fort Morgan road corridor, between the Gulf and Bon Secour Bay",
+          "sf": 2242,
+          "waterPosition": "inland",
           "rentalHistory": null,
           "highlights": [
-            "3 bed / 2 bath · 2,242 sf",
-            "Shell Banks, on the Fort Morgan peninsula road",
-            "Largest square footage under $550K on this lane"
+            "1.29-ACRE lot — roughly 4x the land of anything else on this lane",
+            "2,242 sf, 3BR / 2BA",
+            "Shell Banks, on the Fort Morgan Rd corridor between town and the peninsula",
+            "Listed by Engel & Völkers Gulf Shores"
           ],
-          "fitNote": "↩️ BACK ON THE BOARD, AND HONESTLY SO. This house was pulled a week ago — not because it sold, but because the site we were checking it on started blocking us and we will not show you a number we cannot stand behind. Re-verified this morning on a source that answers: still active, still $539,000. It is the most square footage on this lane under $550K.",
-          "strNote": "No rental figures are published for this house, so none are shown. Fort Morgan peninsula rents well in season; anything beyond that would be us guessing.",
-          "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
+          "fitNote": "The LAND play on this lane rather than the water play. At 1.30 acres it is the only listing here with real room — parking for a crowd, a pool, an outbuilding or a future second structure are all on the table, which is exactly what a rental with turnover needs and what the quarter-acre island lots cannot offer. Fort Morgan Rd draws from both the town and the peninsula rental markets. Re-read live tonight — still active at $539,000; the listing now states 1.30 acres.",
+          "strNote": "⚠️ NO rental income and NO projection is stated on this listing, so none is claimed here. Confirm Baldwin County / Gulf Shores parcel-level STR zoning before any offer, and pull a current wind and flood quote — on this lane insurance moves net yield more than nightly rate.",
+          "url": "https://www.zillow.com/homedetails/10499-State-Highway-180-Gulf-Shores-AL-36542/124033942_zpid/",
           "photoUrl": null,
-          "broker": null,
-          "badge": null
+          "broker": "Engel & Völkers Gulf Shores",
+          "mls": null,
+          "badge": ""
         },
         {
           "id": "429-creekview-ave",
@@ -857,34 +882,11 @@
           "badge": "NEW"
         },
         {
-          "id": "412-bienville",
-          "address": "412 Bienville",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 534900,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family house",
-          "waterPosition": "Island interior — no water position stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "2,100 sq ft — the largest qualifying house on the island lane",
-            "3 bed / 2 bath detached, under $550K",
-            "Verified live on the Dauphin Island source this evening"
-          ],
-          "fitNote": "The most square footage this lane has offered on Dauphin Island, and it clears the 3-bedroom floor with room to spare. Sits between the Chaumont and Lockenbie tier on price while beating both on size. Verified ACTIVE at $534,900 on the evening pass.",
-          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": "NEW"
-        },
-        {
           "id": "1127-chaumont-ave",
           "address": "1127 Chaumont Ave",
           "city": "Dauphin Island",
           "state": "AL",
-          "price": 489000,
+          "price": 499000,
           "beds": 3,
           "baths": 2,
           "sf": 1992,
@@ -902,7 +904,32 @@
           "photoUrl": "https://property-images.realgeeks.com/algulf/633a3420111b8fe46f5beff9c4ebba39.jpg",
           "broker": "Griffin Realty",
           "mls": "7806215",
-          "badge": "DROP"
+          "badge": null
+        },
+        {
+          "id": "703-hunley-st",
+          "address": "703 Hunley St",
+          "city": "Dauphin Island",
+          "state": "AL",
+          "price": 492000,
+          "beds": 3,
+          "baths": 2.5,
+          "sf": 1581,
+          "waterPosition": "short-walk",
+          "rentalHistory": null,
+          "highlights": [
+            "Fortified roof (3 yrs) + custom window shields",
+            "Cargo lift — guests love it",
+            "Only house on a quiet street, beach paths near",
+            "Mature citrus and fruit trees"
+          ],
+          "fitNote": "Privacy plus fortified construction makes a durable, low-cost-to-run STR — pitch it on quiet-island seclusion.",
+          "strNote": null,
+          "url": "https://www.griffinrealtyllc.net/property/7802054/",
+          "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
+          "broker": "Griffin Realty",
+          "mls": "7802054",
+          "badge": null
         },
         {
           "id": "311-chenault-ave",
@@ -1000,35 +1027,108 @@
           "badge": "NEW"
         },
         {
+          "id": "306-apalache-ave",
+          "address": "306 Apalache Ave",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 380000,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Single-family house",
+          "waterPosition": "Island interior - water position not stated on the listing",
+          "rentalHistory": null,
+          "highlights": [
+            "3 bed / 2 bath just above $400K on Dauphin Island",
+            "New to the lane this morning",
+            "Sits between 1003 Monberaut and the 490s on price"
+          ],
+          "fitNote": "Cut $25,000 today, from $405,000 to $380,000, on a live re-read of the island source this evening. Three bedrooms, detached, and now one of the three cheapest houses on the whole beach lane. A same-day cut of that size on an island house usually means the seller is engaged rather than testing.",
+          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty, LLC",
+          "badge": "DROP"
+        },
+        {
+          "id": "5621-galvez-rd",
+          "address": "5621 Galvez Rd",
+          "city": "Pensacola (Perdido Key side)",
+          "state": "FL",
+          "price": 375000,
+          "beds": 4,
+          "baths": 2,
+          "sf": 1575,
+          "waterPosition": "inland",
+          "rentalHistory": "Listing states a rental income projection of 52,000 to 65,000 dollars per year",
+          "highlights": [
+            "Page now reads REDUCED $20K and \"MOTIVATED SELLER - BRING AN OFFER\" (verified Jul 30) — asking held at $375,000",
+            "Separate cottage/flex structure + 2-car garage",
+            "New roof and gutters, move-in ready",
+            "Deeded boat-launch access",
+            "~5 min to Johnson's Beach / Perdido Key"
+          ],
+          "fitNote": "The yield standout of this sweep: a $52–65K gross projection on a $375K basis, in STR-friendly unincorporated Escambia County.",
+          "strNote": "Needs FL vacation-rental license + county tourist tax registration — straightforward, no city ban here.",
+          "url": "https://www.condoinvestment.com/listing-pmls/678510-gulf-beach-heights-residential-5621-galvez-rd-pensacola-fl-32507/",
+          "photoUrl": null,
+          "broker": null,
+          "mls": "678510",
+          "badge": null
+        },
+        {
+          "id": "751-cadillac-ave",
+          "address": "751 Cadillac Ave",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 374900,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Single-family house",
+          "waterPosition": "Island interior - water position not stated on the listing",
+          "rentalHistory": null,
+          "highlights": [
+            "3 bed / 2 bath under $375K",
+            "Same street as 914 Cadillac, the current cheapest house on the lane",
+            "New to the lane this morning"
+          ],
+          "fitNote": "The lowest-priced house on this board that still clears your 3-bedroom floor. Same street as 914 Cadillac, so the two are directly comparable on a single walk. Read live off the listing site this morning at $374,900; square footage is not published, so it is not claimed here.",
+          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty, LLC",
+          "badge": "NEW"
+        },
+        {
           "id": "914-cadillac-ave",
           "address": "914 Cadillac Ave",
           "city": "Dauphin Island",
           "state": "AL",
-          "price": 354000,
+          "price": 359000,
           "beds": 4,
           "baths": 3,
           "sf": 2310,
           "waterPosition": "short-walk",
           "rentalHistory": "Listing markets the separate living quarters as a rental opportunity",
           "highlights": [
-            "Two FULL separate living spaces — independent up and down units",
-            "Each unit has its own entrance and its own kitchen",
-            "4 bed / 3 bath · 2,310 sf"
+            "True dual-unit: two kitchens, separate entrances",
+            "Rent both units, or live-in-one/rent-one",
+            "Walk to Lighthouse Bakery and town core",
+            "2021 HVAC, fenced yard, two storage rooms"
           ],
-          "fitNote": "⬇️ CUT $359,000 → $354,000 this week. The floor plan is the story: two genuinely separate units under one roof, each with its own entrance and kitchen. That is two rental listings from one purchase, or live-in-one-rent-the-other. Cheapest house on this lane.",
+          "fitNote": "Cheapest door-count play on the board — two rental units under one roof at $359K.",
           "strNote": "We'd confirm the town STR license covers both units and check minimum-stay overlay rules for the parcel.",
           "url": "https://www.griffinrealtyllc.net/property/7789888/",
           "photoUrl": "https://property-images.realgeeks.com/algulf/ed418aa47a4369f487720a49190468be.jpg",
           "broker": "Griffin Realty",
           "mls": "7789888",
-          "badge": "DROP"
+          "badge": null
         },
         {
           "id": "302-audubon-pl",
           "address": "302 Audubon Pl",
           "city": "Dauphin Island",
           "state": "AL",
-          "price": 999000,
+          "price": null,
           "beds": 4,
           "baths": 3,
           "sf": 1656,
@@ -1039,36 +1139,12 @@
             "Was listed $649K, now showing OFF MARKET",
             "4BR/3BA, 1,656 sf raised construction"
           ],
-          "fitNote": "⭐ YOUR OWN PICK, AND IT IS STILL ACTIVE — but tonight's read finally attached a number to it: $999,000. That is well above this lane's $600K ceiling, so it stays on the board as a watch rather than a fit, and it is the reason this card has never carried a price.",
+          "fitNote": "Gene is running this down with the listing side — if it's withdrawn rather than under contract, there may be an off-market opening.",
           "strNote": null,
           "url": null,
           "photoUrl": null,
           "broker": null,
           "badge": "RADAR"
-        },
-        {
-          "id": "230-chenault",
-          "address": "230 Chenault",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 390000,
-          "sf": null,
-          "beds": 3,
-          "baths": 3,
-          "propertyType": "Single-family detached",
-          "waterPosition": "Island interior — verify water position with the listing broker",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bed / 3 bath detached house on Dauphin Island",
-            "$390,000 — comfortably inside the lane's $600K ceiling",
-            "Three full baths at this price point is unusual for the island and matters for rental headcount"
-          ],
-          "fitNote": "🆕 THE ONLY NEW HOUSE FOUND TONIGHT, AND IT FITS THE LANE ON EVERY STATED CRITERION: detached, Dauphin Island, three bedrooms, three baths, well under the ceiling. ⭐ The three full baths are the interesting part — for a rental, bath count drives how many people can comfortably share the house, and most island listings at this price carry two.",
-          "strNote": "⚠️ NO RENTAL FIGURES ARE SHOWN HERE BECAUSE THE LISTING DID NOT STATE ANY. Nothing has been estimated or inferred — if income matters to the decision, it is a question for the listing broker.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": "NEW"
         }
       ],
       "intel": [
@@ -1140,7 +1216,7 @@
           ]
         }
       ],
-      "note": "✅ DAUPHIN ISLAND WAS RE-READ LIVE TONIGHT AND THE LANE HELD: nine of ten came back ACTIVE at exactly the price shown, with no cuts and nothing pending. 🔻 SINCE LAST SWEEP: 306 Apalache Ave has been REMOVED — it no longer appears on the source index at all. That is a disappearance, not a confirmed sale, and one index reading is thin evidence: confirm it with the listing broker before treating it as gone. 🆕 ADDED: 230 Chenault, 3 bed / 3 bath, $390,000. ⭐ PRICE FILLED IN: 302 Audubon Pl reads $999,000 — above this lane's ceiling, kept as a watch because you asked for it. ⚠️ SEVEN HOUSES COULD NOT BE RE-READ TONIGHT: the Gulf Shores and Orange Beach sources would not open for us — a different failure from the commercial lanes' refusals, and the first time either has failed. Those seven are shown at their last confirmed price from Aug 9 and are NOT re-verified: 17330 State Hwy 180, 413 Windmill Ridge, 1217 Dorado Way, 10499 State Hwy 180, 429 Creekview Ave, 221 W 6th Ave and 4660 Casablanca Dr."
+      "note": "⚠️ NOT RE-VERIFIED TONIGHT, AND YOU SHOULD KNOW EXACTLY WHY. The Dauphin Island listing source we have used all summer has MOVED TO A NEW DOMAIN, and the new host is refusing connections outright — the old listings page now returns a 404 and the site root redirects to an address that will not answer at all. The Gulf Shores source changed its structure the same way and its homes page 404s too. That is a relocation, not a temporary block, so retrying the old addresses would fail forever. 📅 EVERY PRICE AND STATUS ON THIS LANE IS THEREFORE EXACTLY AS IT STOOD ON AUG 4 — eight days old. A house here may have gone under contract, come down in price, or sold, and we would not see it. We are telling you that plainly rather than quietly presenting stale numbers as fresh, which is the same rule the commercial lanes have run under since Aug 3. ⭐ TAP PURSUE ON ANYTHING AND GENE WILL VERIFY IT LIVE FOR YOU, SAME DAY — that path is unaffected and is the fastest way to get a current answer on any single house. 🔧 THE FIX IS A NEW SOURCE URL, not a retry, and it is queued as the next build on this board. ✅ WHAT THE AUG 4 READ ESTABLISHED, FOR CONTEXT: all thirteen Dauphin Island houses and all three Gulf Shores houses re-verified ACTIVE at the prices shown, nothing had moved, and the freshest cut on the board was 306 Apalache at $380,000 — down $25,000 in a single day and still the cheapest gulf-adjacent house here. 🆕 Nine houses were examined and rejected that day on stated rules — eight above your $600K ceiling and one a 2-bedroom against your 3+ requirement — so nothing was quietly dropped or quietly added. 📋 This lane runs at 20 houses against a normal cap of about 12, and nothing was trimmed to hide that: dropping good inventory to hit a display target would cost you more than a longer list does."
     }
   ]
 }
