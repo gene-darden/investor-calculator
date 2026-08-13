@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 12, 2026 · 7:15 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Straight with you — this board did not get a fresh read tonight: the island listing source has moved to a new domain that is refusing connections, so every price here is exactly as it stood on Aug 4 and is labelled that way rather than dressed up as current. Tap PURSUE on anything and Gene will verify it live for you the same day.",
+  "updated": "Aug 13, 2026 · 8:05 AM CT",
+  "nextSweep": "this evening",
+  "headline": "Straight with you again this morning: no new inventory went on this board, and that is a source problem rather than a market one — both commercial listing sites hit their scheduled retry today and refused us for the seventh run straight, and the island feed has moved to a host that will not answer at all. Every price here carries the date it was last actually verified. Tap PURSUE on anything and Gene will check it live for you the same day.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these thirteen live on have refused our crawler on six runs straight. We stopped re-attempting them every sweep rather than keep burning the check and reporting the same failure. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD — a building may have gone under contract or moved on price and we would not see it. ⭐ TAP PURSUE ON ANYTHING AND GENE WILL VERIFY IT LIVE FOR YOU, same day. 📅 ONE RETRY IS SCHEDULED for the first morning sweep after Aug 10; if it answers, the freeze lifts and this note disappears. New-inventory hunting on these sources is paused for the same reason — we are not pretending to search a door that is shut. Nothing on this lane has been quietly dropped or quietly added."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Both listing sites these thirteen live on hit their scheduled 7-day retry THIS MORNING and refused us again — seven consecutive runs now. We re-test on a timer rather than every sweep, so the check is honest without burning the board's time. TREAT EVERY PRICE AND STATUS HERE AS TWO WEEKS OLD: a building may have gone under contract or moved on price and we would not know. ⭐ TAP PURSUE ON ANY OF THESE AND GENE WILL VERIFY IT LIVE THE SAME DAY — that is the reliable path while the feeds are shut, and it is faster than it sounds. Next automatic re-test: the morning of Aug 20."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Same crawler block as the Nashville lane, same six-run streak, same decision to stop re-attempting it every sweep. TREAT EVERY PRICE AND STATUS HERE AS SIX DAYS OLD. ⭐ TAP PURSUE AND GENE WILL VERIFY IT LIVE FOR YOU. 319 Lovell Rd stays on the board as a Gene-curated watch — its lease is upcoming and it is not a public listing, so the source freeze does not affect it either way. 📅 One retry runs on the first morning sweep after Aug 10."
+      "note": "⚠️ COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN. Same crawler block as the Nashville lane, same seventh consecutive refusal on this morning's scheduled retry. TREAT EVERY PRICE AND STATUS HERE AS TWO WEEKS OLD. ⭐ TAP PURSUE AND GENE WILL VERIFY IT LIVE FOR YOU. 319 Lovell Rd stays on the board as a Gene-curated watch — its lease is upcoming and it is not a public listing, so it is unaffected by the freeze. Next automatic re-test: the morning of Aug 20."
     },
     {
       "id": "beach",
@@ -1216,7 +1216,7 @@
           ]
         }
       ],
-      "note": "⚠️ NOT RE-VERIFIED TONIGHT, AND YOU SHOULD KNOW EXACTLY WHY. The Dauphin Island listing source we have used all summer has MOVED TO A NEW DOMAIN, and the new host is refusing connections outright — the old listings page now returns a 404 and the site root redirects to an address that will not answer at all. The Gulf Shores source changed its structure the same way and its homes page 404s too. That is a relocation, not a temporary block, so retrying the old addresses would fail forever. 📅 EVERY PRICE AND STATUS ON THIS LANE IS THEREFORE EXACTLY AS IT STOOD ON AUG 4 — eight days old. A house here may have gone under contract, come down in price, or sold, and we would not see it. We are telling you that plainly rather than quietly presenting stale numbers as fresh, which is the same rule the commercial lanes have run under since Aug 3. ⭐ TAP PURSUE ON ANYTHING AND GENE WILL VERIFY IT LIVE FOR YOU, SAME DAY — that path is unaffected and is the fastest way to get a current answer on any single house. 🔧 THE FIX IS A NEW SOURCE URL, not a retry, and it is queued as the next build on this board. ✅ WHAT THE AUG 4 READ ESTABLISHED, FOR CONTEXT: all thirteen Dauphin Island houses and all three Gulf Shores houses re-verified ACTIVE at the prices shown, nothing had moved, and the freshest cut on the board was 306 Apalache at $380,000 — down $25,000 in a single day and still the cheapest gulf-adjacent house here. 🆕 Nine houses were examined and rejected that day on stated rules — eight above your $600K ceiling and one a 2-bedroom against your 3+ requirement — so nothing was quietly dropped or quietly added. 📋 This lane runs at 20 houses against a normal cap of about 12, and nothing was trimmed to hide that: dropping good inventory to hit a display target would cost you more than a longer list does."
+      "note": "⚠️ NOT RE-VERIFIED SINCE AUG 4, AND THIS ONE IS WORSE THAN A BLOCK. The Dauphin Island source we used all summer has MOVED TO A NEW DOMAIN and the new host refuses connections outright — the old listings page 404s and the site root redirects somewhere that will not answer. The Gulf Shores source changed its structure the same way and its homes page 404s too. A retry will never fix either; they need replacing. We went looking for a replacement this morning and came up empty: the two most promising substitutes both refused us on first contact. So every price on this lane is exactly as it stood on Aug 4 and is labelled that way rather than dressed up as current. ⭐ On the beach lane especially, PURSUE is the fast path — Gene has MLS access on both sides of the state line and can confirm price and status on any of these within the hour."
     }
   ]
 }
