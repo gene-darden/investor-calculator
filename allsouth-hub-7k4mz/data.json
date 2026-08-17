@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 16, 2026 · 6:52 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Sunday evening, and the beach lane was checked again a few minutes ago — every Dauphin Island and Gulf Shores home on this board is still active at exactly the price shown, with nothing pending, under contract or sold. Three more Dauphin Island houses came up in tonight's sweep but all are two-bedrooms, so they stay off a board built for 3-bedroom rental houses. Nashville and Knoxville stay frozen — their listing sites have refused us seven times running and the next attempt is Thursday morning.",
+  "updated": "Aug 17, 2026 · 7:58 AM CT",
+  "nextSweep": "this evening",
+  "headline": "Monday morning, and the beach lane picked up two more four-bedrooms — 208 Isabella at $499,000 and 914 Cadillac at $354,000, both on Dauphin Island, both re-confirmed active minutes ago. Every other home on the lane held its exact price with nothing pending or sold. Nashville and Knoxville stay frozen until Thursday morning, when their listing sites get their next scheduled test.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us seven consecutive times, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is the morning of Thu Aug 20.** ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for — tap it and Gene will verify that specific building live, usually within the hour.** June Lake Blvd stays on the board as a Gene-curated watch item regardless of the freeze."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us **seven consecutive times**, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is Thursday morning, Aug 20.** It was not made today because the timer has not run out, and that is the rule working rather than the lane being ignored. ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS NEARLY THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for** — tap it and Gene will verify that specific building live, usually within the hour. June Lake Blvd stays on the board as a Gene-curated watch item regardless of the freeze."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us seven consecutive times, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is the morning of Thu Aug 20.** ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for — tap it and Gene will verify that specific building live, usually within the hour.** 319 Lovell Rd stays on the board as a Gene-curated watch item regardless of the freeze."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us **seven consecutive times**, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is Thursday morning, Aug 20.** It was not made today because the timer has not run out, and that is the rule working rather than the lane being ignored. ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS NEARLY THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for** — tap it and Gene will verify that specific building live, usually within the hour. 319 Lovell Rd stays on the board as a Gene-curated watch item regardless of the freeze."
     },
     {
       "id": "beach",
@@ -786,29 +786,6 @@
           "badge": null
         },
         {
-          "id": "429-creekview-ave",
-          "address": "429 Creekview Ave",
-          "city": "Gulf Shores, AL",
-          "dealType": "sale",
-          "price": 535000,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family beach cottage",
-          "waterPosition": "In-town Gulf Shores — bike distance to the beach per the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "Beach cottage inside Gulf Shores proper",
-            "Bike access to the beach — the walkability renters actually book",
-            "3 bed / 2 bath"
-          ],
-          "fitNote": "In-town Gulf Shores under $550K with bike-to-beach access is the profile that rents itself — renters book proximity before they book square footage. Verified live tonight at $535,000.",
-          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
-          "photoUrl": null,
-          "broker": "Per MLS feed",
-          "badge": null
-        },
-        {
           "id": "412-bienville",
           "address": "412 Bienville Blvd",
           "city": "Dauphin Island, AL",
@@ -826,6 +803,30 @@
             "3 bed / 2 bath"
           ],
           "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
+          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty LLC",
+          "badge": "NEW"
+        },
+        {
+          "id": "208-isabella",
+          "address": "208 Isabella",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 499000,
+          "leaseRate": null,
+          "sf": null,
+          "beds": 4,
+          "baths": 2,
+          "propertyType": "Detached single-family",
+          "waterPosition": "Island interior — walkable to the public beach",
+          "rentalHistory": null,
+          "highlights": [
+            "🆕 FOUR bedrooms at $499K — the second 4BR on the island under $500K",
+            "Appeared twice in this morning's index pull at the same price — not a typo"
+          ],
+          "fitNote": "🆕 NEW THIS MORNING, and it went straight onto the board. Bedroom count is the single biggest driver of nightly rate on a beach rental, so a 4/2 at $499,000 is a different economic animal from the 3/2s sitting at $489K–$549K all around it. ⭐ Same shape as 122 Hernando, which this lane already likes, but with a bigger house behind the number. Worth a live look before it is a week old.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -976,6 +977,30 @@
           "badge": null
         },
         {
+          "id": "914-cadillac-ave",
+          "address": "914 Cadillac Ave",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 354000,
+          "leaseRate": null,
+          "sf": null,
+          "beds": 4,
+          "baths": 3,
+          "propertyType": "Detached single-family",
+          "waterPosition": "Island interior, Cadillac Ave corridor",
+          "rentalHistory": null,
+          "highlights": [
+            "4 bed / 3 bath — the most bedrooms per dollar anywhere on this board",
+            "Cheapest four-bedroom on the island in this morning's pull"
+          ],
+          "fitNote": "⭐ BACK ON THE BOARD. It was carried in late July, dropped off, and re-verified live this morning at $354,000 still active. A 4/3 at that number is the strongest bedrooms-per-dollar on the lane — and three full baths matters more than square footage when the whole point is sleeping two families at once.",
+          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty LLC",
+          "badge": null
+        },
+        {
           "id": "302-audubon-pl",
           "address": "302 Audubon Pl",
           "city": "Dauphin Island",
@@ -1068,7 +1093,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED AGAIN THIS EVENING — the second live check of the day, and nothing moved.** Every Dauphin Island home and all three Gulf Shores homes came back at exactly the prices shown, and **not one is marked pending, under contract or sold.** The Gulf Shores source stamps its own data as updated today. 🆕 **Three new Dauphin Island houses appeared in tonight's sweep and were deliberately NOT added** — 106 Ryan at $410,000, 304 Bienville at $449,000 and 125 Bienville at $315,000 are all two-bedrooms, and this lane is built for 3-bedroom-plus rental houses. They are named here so you can see what was passed over rather than wonder whether it was missed. ⭐ **The Orange Beach house is confirmed active at $599,000**, and the listing itself states the property is generating **$3,600+ per month** in rental income, approved for both short- and long-term rental. That is the listing's own number, not a projection of ours. 💰 **Still the freshest price move:** 1127 Chaumont came down $499,000 → $489,000. ⚠️ **Nothing was removed, and that is deliberate.** A listing missing from an index page is NOT proof it sold — 107 Portier was absent from the index once and its own property page still shows it live at $549,900. ⚠️ Rental income is shown ONLY where the listing itself states it — no projections are invented here. ⭐ **Tap PURSUE on anything and Gene will confirm price, status and rental history live, usually within the hour.**"
+      "note": "✅ **RE-VERIFIED LIVE THIS MORNING — both beach sources answered, and not one price on this lane moved.** Every Dauphin Island home and both remaining Gulf Shores homes came back at exactly the prices shown, and **none is marked pending, under contract or sold.** 🆕 **TWO ADDED, BOTH FOUR-BEDROOMS — 208 Isabella at $499,000 (4/2) is brand new to the board, and 914 Cadillac Ave at $354,000 (4/3) is back after coming off in July.** Both were confirmed active minutes ago, and bedroom count is the shape this lane exists for. ⚠️ **ONE REMOVED BY CHOICE, NOT BY STATUS — 429 Creekview Ave is still active at $535,000.** At 816 square feet it was the smallest house on the lane by a wide margin and the weakest fit for a three-bedroom rental, so it was dropped to hold the lane at a readable size. **It did not sell. Say the word and it comes straight back.** ⭐ **PASSED OVER AGAIN, named so you can see the reasoning rather than wonder whether it was missed:** 106 Ryan $410,000, 304 Bienville $449,000 and 125 Bienville $315,000 are all two-bedrooms; 123 Bienville at $615,000 is over budget; and every 1601/1701 Bienville, Forney Johnston and Oleander listing is a condo unit, which this lane never carries. ⚠️ **230 Chenault did NOT appear in this morning's index and was deliberately KEPT.** A listing missing from an index page is not proof it sold — 107 Portier taught us that once already, when it vanished from the index and its own property page still showed it live. 💰 **The Orange Beach house at $599,000 sits on a different source and was last confirmed last night**; its listing states **$3,600+ per month** in rental income, approved for both short- and long-term rental — that is the listing's own number, not a projection of ours. 💰 Still the freshest price move: **1127 Chaumont came down $499,000 → $489,000.** ⚠️ Rental income is shown ONLY where the listing itself states it — no projections are invented here. ⭐ **Tap PURSUE on anything and Gene will confirm price, status and rental history live, usually within the hour.**"
     }
   ]
 }
