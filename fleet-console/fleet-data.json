@@ -1,24 +1,29 @@
 {
-  "updated": "2026-08-19 12:55 PM CT",
-  "headline": "MIDDAY MOVED THE CLOSING, NOT THE CALL LIST — the closing attorney wrote sixteen minutes ago that the buyer's figures changed on a file that funds in twenty-seven hours and still has no clear-to-close after six verifications, while the only live buyer on 2368 Ridge Trail named his gap and asked you to represent him. · DO: text Manda L. — are we clear to close? · WATCH: attorney says buyer's numbers changed, 27 hours out (8/19).",
+  "updated": "2026-08-19 5:45 PM CT",
+  "headline": "THE LAUNCH YOU PROMISED FINALLY HAPPENED AND THE CLOSING YOU NEED STILL HASN'T — 225 Willow Point went live at 2:06 PM and the paid ad was running inside thirty minutes, while 5167 Lake Crest funds in twenty-one hours with a seventh straight verification finding no clear-to-close and the attorney's only word all week being that the buyer's figures changed. · DO: text Manda L. — are we clear to close at 3:00? · WATCH: attorney says buyer's numbers changed, 21 hours out (8/19).",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🚨 THE BOOKS ARE NOW DAY SEVEN, AND FOUR SEPARATE RULINGS ARE STACKED BEHIND ONE SIGN-IN. The weekly bookkeeper stopped at its gate without doing anything because the accounting software is not signed in; the money desk has called that same software unusable eight runs running. Four decisions — a deposit list, a booking approval, a reclassification and a subscription dispute — are all blocked on the same wall and will sit until 8/24 unless it clears. ⭐ Still the one thing on this board that only you can unblock, and still one click.",
-      "⚠️ THE SELLER-IMPORT LANE IS STILL DOWN AND HAS NOT BEEN RE-ATTEMPTED SINCE YESTERDAY. The property-data source failed across three cold attempts on the last deep sweep and imported zero of twenty queued seller rows; two geographies were never switched at all. The rest of that lane works — this is one dead source, not a dead lane — but it is now consecutive days and it is the single biggest hole in new seller supply.",
-      "✅ THE FLEET ITSELF IS CLEAN AT MIDDAY AND ONE QUEUE ACTUALLY DRAINED. Every scheduled routine has fired on time with no dark window, the automation platform is alive with no burst, and the text relay is healthy. ⭐ THE GOOD NUMBER: the draft folder went from thirty-five this morning to seventeen with nothing aging — you sent the warm check-in batch by hand around mid-morning and two people replied inside ninety minutes of each other. That is the selection finding proving itself again in real time."
+      "🚨 THE BOOKS ARE NOW DAY EIGHT AND FOUR RULINGS ARE STILL STACKED BEHIND ONE SIGN-IN. The weekly bookkeeper stopped at its gate without doing anything because the accounting software is not signed in, and the money desk has now called that same software unusable eight runs running. A deposit list, a booking approval, a reclassification and a subscription dispute all wait on the same wall, and the bookkeeper does not run again until 8/24. ⭐ Still the one thing on this board that only you can unblock, and still one click.",
+      "🔍 THE SELLER-IMPORT DIAGNOSIS CHANGED THIS AFTERNOON, AND IT IS BETTER NEWS THAN THREE DAYS OF RED SUGGESTED. The 5:20 PM sweep got the property-data source to sign in successfully — so the lane is NOT dead and NOT blocked. It imported zero of twenty for a third day because the account is out of pull budget, not because the door is shut. That is a different problem with a different fix, and it is worth knowing before anyone spends more time on the wrong one.",
+      "✅ THE FLEET IS CLEAN AND THE WORK QUEUE ACTUALLY DRAINED TODAY. Every scheduled routine fired on time with no dark window, the automation platform is alive with no burst, and the text relay is healthy. ⭐ THE TWO GOOD NUMBERS: the call list went from fifty-nine at midday to forty-six tonight, and the draft folder went from thirty-five this morning to six with nothing aging. You worked this list by hand today and it shows on both counts."
     ]
   },
   "callBlock": [
     {
       "who": "Manda L. — tomorrow's closing",
       "heat": "hot",
-      "why": "🔴 DAY THREE, TWENTY-SEVEN HOURS OUT, AND THE FILE MOVED THE WRONG WAY SIXTEEN MINUTES AGO. The closing attorney wrote at 12:39 PM on the preliminary-policy thread that the buyer's figures changed — a short note, no detail, on the largest closing of the month. ⚠️ A sixth independent verification this morning again found NO clear-to-close on any lane, and the relay that carried thirty-nine texts today and records your outgoing ones contains no message from you to her at all. ✅ VERIFIED AND STILL GOOD: preliminary title policy delivered, appraisal clean, repair addendum executed, septic long done, and the 3:00 PM Thursday date cross-checked from three sources. ⚠️ The city inspector's sign-off still sits on closing morning. ⛔ Two texts settle the entire board — one asking her outright whether you are clear for 3:00, one asking what changed on the buyer's side."
+      "why": "🔴 DAY THREE, TWENTY-ONE HOURS OUT, AND THE ONLY MOVEMENT ALL WEEK WENT THE WRONG WAY. A SEVENTH independent verification this evening again found NO clear-to-close on any lane, and the relay that carried your outgoing texts all afternoon still contains no message from you to her. ⚠️ The closing attorney's single note today — at 12:39 PM, on the preliminary-policy thread — was that the buyer's figures changed. No detail, no follow-up since. ✅ VERIFIED AND STILL GOOD: preliminary title policy delivered, appraisal clean, repair addendum executed, septic long done, 3:00 PM Thursday cross-checked from three sources. ⚠️ The city inspector's sign-off still sits on closing morning. ⛔ Two texts settle the whole board — are we clear for 3:00, and what changed on the buyer's side."
+    },
+    {
+      "who": "Robert B. — buyer's agent, 1709 Fieldstone",
+      "heat": "hot",
+      "why": "🆕 THE NEWEST THING ON THE BOARD AND HE IS WAITING ON YOU RIGHT NOW. At 4:14 PM he texted “let me know when you have a second” — eight minutes after emailing that he would speak with his buyers about the inspection response. ⭐ THAT SEQUENCE IS THE WHOLE SIGNAL: he wrote, then immediately asked for the phone. The repair addendum and roof report went to his side at 1:21 PM today, so he is calling with an answer or with a counter, and either one is worth twenty minutes of your evening. ⛔ This is the only listing on the board where a live counterparty has explicitly asked you to pick up."
     },
     {
       "who": "Adin D. — 2368 Ridge Trail buyer",
       "heat": "hot",
-      "why": "🔥 THE NEWEST AND LIVEST THING ON THIS BOARD, AND IT ARRIVED WHILE YOU WERE MID-CONVERSATION WITH HIM. At 12:11 PM he texted that he is a defined distance below the ask, told you to save his number as an investor, and wrote “Happy to have you represent me” — a buyer asking for representation, unprompted. ⚠️ YOUR 11:37 AM REPLY POINTED HIM AT THE HOUSE BUT NEVER ANSWERED HIS ACTUAL QUESTION, which was whether there is room. ⭐ He is the only live buyer signal with a person attached anywhere on this listing, on the one address where two independent reads have already said the number is too high. ⛔ One call does both jobs: answer the room question and take the buyer-side relationship."
+      "why": "🔥 STILL THE LIVEST BUYER SIGNAL YOU HAVE, AND HIS TWO QUESTIONS ARE STILL UNANSWERED SIX HOURS LATER. At lunchtime he named his gap under the ask, told you to save his number as a standing investor, and wrote “Happy to have you represent me.” ⚠️ You answered him mid-afternoon about the house, but the two things he actually asked — is there room, and will you represent me — have not been addressed. ⭐ He is the only live buyer with a name attached anywhere on this listing, on the one address where two independent agent reads have already called the number too high. ⛔ One call does both jobs."
     },
     {
       "who": "Amy G. of Ethos International — 355 Comanche",
@@ -26,97 +31,92 @@
       "why": "🔥 DAY SIX AND UNCHANGED SINCE THIS MORNING. She filed Saturday night off that afternoon's tour: interested — YES, her buyers have just started looking, really like the property, and have put it at the top of their list. ⭐ She is the same agent who phoned from inside the house mid-showing, so this is a returned call, not a cold approach. 🔴 THE HALF NEVER ANSWERED: she reported the basement lights would not come on — and buyers who have just started looking are touring other houses this week with a dark basement as their last memory of yours. ⛔ Call rather than write: the co-op mail lane is a deliberate hold, now day thirteen unruled, and the machine has not written to her by design."
     },
     {
-      "who": "Thomas D. — White Tail Run lots",
+      "who": "Rick C. — land buyer",
       "heat": "hot",
-      "why": "🔥 HE ANSWERED “YES” IN WRITING AND ASKED FOR THE LOT LAYOUT AND THE PER-ACRE NUMBER — a specific, answerable request, now unanswered for four days. ⛔ This is not prospecting; it is a delivery you already agreed to make. The land listing is the hardest thing on the board to move and he is one of the few people actively pulling on it."
+      "why": "🆕 HE REPLIED AT 5:00 PM WITH THE BIGGEST NUMBER ANYONE PUT IN WRITING TODAY. He described roughly twenty-five acres with water inside the interstate circle and wrote that it “could be $1m.” ⭐ THE BACKGROUND MATTERS: in January he told you “third quarter” — it is third quarter, he has been back on your site more than twenty times, and yesterday he moved his search off the Gulf Coast and into your home market. ⚠️ A reply draft is staged and unsent. This one has been warming for seven months and just named a price range on its own."
     },
     {
-      "who": "Bill R. — 4871 Hwy 39, Chelsea",
+      "who": "Thomas D. — White Tail Run lots",
       "heat": "hot",
-      "why": "⏰ NINE DAYS OVERDUE AND STILL THE CLOSEST THING ON THIS LIST TO A SIGNATURE RATHER THAN A CONVERSATION — he is sitting at the listing-agreement stage and opened his market report the morning this task was written. ⭐ The pace gap on this board is a listing-count problem, and this is a listing already most of the way there."
+      "why": "🔥 HE ANSWERED “YES” IN WRITING AND ASKED FOR THE LOT LAYOUT AND THE PER-ACRE NUMBER — a specific, answerable request, now unanswered for four days. ⛔ This is not prospecting; it is a delivery you already agreed to make. ⭐ The land listing is the highest lead-producing thing you own, and he is the buyer who raised his hand on it fastest."
+    },
+    {
+      "who": "James P. — 764 Miller Cir, Indian Springs",
+      "heat": "hot",
+      "why": "💰 HE TOLD YOUR OWN SITE YOUR ESTIMATE ON HIS HOUSE IS TOO LOW — and his is the largest of the three homeowners who did that this week. ⭐ THIS IS THE BEST-SHAPED SELLER LEAD PATTERN ON THE BOARD: a homeowner who disagrees with your valuation UPWARD has already decided his house is worth talking about, and he told you so unprompted. ⚠️ Two days old and still unworked."
     },
     {
       "who": "Lawrence C. — 710 Lay Lake Ln",
       "heat": "hot",
-      "why": "🔴 NEW THIS MORNING AND IT IS HIS THIRD TIME SAYING THE SAME THING: your automated estimate on his own house is too low. ⚠️ THE PART THAT MAKES IT A CALL RATHER THAN A REPLY — five emails have gone to him and none has ever been answered, so mail is the proven dead channel here. A homeowner who argues UP with a valuation three separate times is a homeowner testing whether anyone is listening."
-    },
-    {
-      "who": "Phyllis T. — home-value lead",
-      "heat": "hot",
-      "why": "🔴 YOUR OWN CRM HAS BEEN ASKING YOU TO FOLLOW UP ON THIS ONE SINCE DECEMBER. Six days on this list, eight months on that one. ⭐ Nothing about her got worse — she is simply the oldest unpaid promise on the seller side, and a home-value hand-raise that old is either dead or a listing nobody else has called."
-    },
-    {
-      "who": "Victor S. — back on your site",
-      "heat": "hot",
-      "why": "⭐ SELLER AND BUYER BOTH ON FILE, WHICH IS THE MOST VALUABLE SHAPE A LEAD COMES IN. He returned to your site and has been viewing in the mid-$500Ks while living somewhere considerably cheaper — that gap is the entire conversation. Six days waiting, and nothing about him has moved since."
+      "why": "💰 THIRD TIME HE HAS TOLD YOU THE ESTIMATE IS TOO LOW, AND THE CHANNEL IS THE POINT. Five emails have gone to him and produced zero replies — the mailbox is the dead lane here, not the interest. ⛔ Same upward-disagreement pattern as above, but with a proven answer: stop writing and dial him."
     }
   ],
   "listings": [
     {
       "addr": "5167 Lake Crest Cir",
       "client": "Sulman M.",
-      "status": "⏰ Under contract $899K — funds tomorrow 3:00 PM, no clear-to-close after six checks, and the buyer's figures just changed",
-      "note": "🔴 THE ONE MATERIAL CHANGE OF THE MIDDAY. At 12:39 PM the closing attorney replied on the preliminary-policy thread with a single line — the buyer's money changed a little. No amount, no explanation, twenty-seven hours before funding. ⚠️ A sixth independent verification this morning again found NO clear-to-close anywhere: not from the lender, not from the closing attorney, not in your own sent mail, and the last lender word on timing is still August 3. ✅ VERIFIED AND STILL GOOD: preliminary title policy delivered, appraisal complete and clean in the lender's own words, repair addendum fully executed, septic run 8/4, commission document issued, and the 3:00 PM Thursday date cross-checked five separate times from three sources. ⚠️ STILL THE WRONG-WAY ITEM: the city inspector's sign-off sits ON closing morning, and the receipt that says so opens on a different property and never names this one — the match rests on circumstantial legs, which is exactly why the question gets asked rather than assumed. ⚠️ One clerical near-miss worth knowing: a closing letter for THIS address went to a DIFFERENT seller at 10:10 AM — caught and pulled to the trash, but it is the second time these two files have crossed wires this week. ⛔ The old 8/14 date is retired. ⚠️ For cash planning: this FUNDS after this week, not during it."
+      "status": "⏰ Under contract — funds tomorrow 3:00 PM, no clear-to-close after SEVEN checks, and the buyer's figures changed",
+      "note": "🔴 NOTHING NEW ARRIVED THIS AFTERNOON, AND ON THIS FILE THAT IS THE BAD OUTCOME. The attorney's 12:39 PM line that the buyer's figures changed is still the newest word on the deal, and no clear-to-close has appeared on any lane in a seventh search. ✅ What IS done: preliminary title policy delivered, appraisal clean, repairs executed, septic complete, and the 3:00 PM Thursday time cross-checked three ways. ⚠️ The city inspector's sign-off is scheduled for closing morning, which leaves no slack if anything is short. ⛔ The two texts in your call block are the whole remaining job."
     },
     {
-      "addr": "2368 Ridge Trail",
-      "client": "Opendoor — institutional seller",
-      "status": "🔥 Active $550K — a live buyer named his gap at lunchtime and asked you to represent him",
-      "note": "🔥 THIS ADDRESS WENT FROM COLDEST READ TO HOTTEST CONVERSATION IN ONE MORNING. At 12:11 PM the buyer texted you directly that he is a defined distance under the ask, asked you to save him as an investor, and offered you the representation. ⚠️ YOUR REPLY AT 11:37 AM POINTED HIM AT THE HOUSE AND NEVER ANSWERED WHETHER THERE IS ROOM — that is the open question, and it is the only one he asked. 📉 THE CONTEXT MAKES IT MATTER MORE, NOT LESS: yesterday evening's feedback from Saturday's 4:00 PM tour came back interested — NO, priced — TOO HIGH, with the price-recommendation, staging and comment fields all left blank. That is the second independent too-high read, and the ask already came down from $559,000. ⭐ So the pricing signal and the buyer signal now point the same direction, and the buyer is the one who put a number on it. ⚠️ Three tours in ten days and two of the three never filed anything at all."
+      "addr": "225 Willow Point Cir",
+      "client": "Sondra & Darrell S.",
+      "status": "✅ ACTIVE $185K — went live at 2:06 PM today, and the ad was running within thirty minutes",
+      "note": "🎉 THE RED ITEM THAT SAT ON THIS BOARD FOR A DAY IS CLOSED. The launch you promised on Tuesday afternoon happened at 2:06 PM Wednesday: three bed, two and a half bath, fourteen hundred square feet, end-unit townhome, seventeen professional photos and a floor plan, live on MLS. ⭐ The marketing did not lag the listing for once — the paid social ad went live thirty minutes behind it and runs through 8/26. ✅ The sellers already have the share email. ⚠️ TWO SMALL GAPS: the yard sign does not go up until tomorrow, and a fuller seller note is drafted but still unsent."
+    },
+    {
+      "addr": "1709 Fieldstone Cir",
+      "client": "Kim H.",
+      "status": "🔥 Under contract — inspection response delivered today, the other side asked to talk, closes 10/23",
+      "note": "🔥 THIS WENT FROM THE QUIETEST FILE ON THE BOARD TO THE MOST ACTIVE ONE IN FOUR HOURS. The signed inspection addendum and the roof report went to the buyer's side at 1:21 PM. By 4:06 PM their agent wrote that he would speak with his buyers, and eight minutes later he texted asking you to call. ⭐ That is a counterparty moving, not stalling. ⚠️ Longest runway on the board at 10/23 — but the next move is a phone call tonight or tomorrow, not a wait."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
-      "status": "🔥 Active $295K — top of a buyer's list, the call is day six, and an owner-financing question arrived overnight",
-      "note": "⭐ THE PRICING QUESTION HERE IS SETTLED AND SHOULD NOT BE REOPENED. Every read that ever said TOO HIGH was filed while the ask was $299,000; the cut went live 8/5. Since then: one JUST RIGHT with a five-of-five staging score, one stairs complaint, one interested-No with both price fields blank, and a YES with both price fields blank and a top-of-list comment. Five consecutive reads and not one argued the number — a $4,000 experiment that worked. 🔴 THE LIVE ITEM IS STILL THE BASEMENT LIGHTS, belonging to the hottest agent on the file, unanswered since Saturday and now day six. 🏦 NEW SINCE THIS MORNING: an investor is asking whether your seller would consider owner financing at fifteen to twenty percent down — that is a seller decision, not an agent decision, and nothing has been said back to him. 🔴 Two agents who filed TOO HIGH at the OLD price still do not know it moved; both chips have been overdue since 8/8, now twelve days. ⭐ Four tours in fourteen days makes this the only listing in the book still producing showing signal."
+      "status": "🔥 Active $295K — top of a buyer's list, the call is day six, and the seller answered the owner-financing question",
+      "note": "⭐ THE PRICING QUESTION HERE IS SETTLED AND SHOULD NOT BE REOPENED — every agent read has either called it just right or declined to argue it. 🆕 THE OWNER-FINANCING FEELER RESOLVED IN TWENTY-ONE MINUTES: your seller will carry paper, but wants thirty to forty percent down against the buyer's fifteen to twenty. That is a real gap with a real conversation in it, and your counter is drafted and unsent. 🔴 THE UNFIXED THING IS STILL PHYSICAL: an agent reported the basement lights would not come on, and nobody has confirmed they work."
     },
     {
-      "addr": "821 Martinwood Rd",
-      "client": "Team listing",
-      "status": "🔥 Active $184K — a “VERY interested” buyer, now ten days unworked",
-      "note": "🔥 THE STRONGEST SINGLE WORD ANY AGENT HAS FILED ON THIS BOARD IS STILL SITTING HERE UNANSWERED. Three feedback forms arrived inside seventy minutes on 8/9; the middle one answered the interest question with the single word “Very” and rated the experience at the top. The two either side of it were passes. ⚠️ Ten days later there is no recorded reply to any of the three. ⭐ At this price point a very-interested buyer is a two-week close, not a six-week one — this is the cheapest contract available anywhere on the board and it is aging for no reason at all. ⚠️ It also falls outside the seven-day outreach window by rule, which means the machine will not write this agent for you. This one is yours."
+      "addr": "2368 Ridge Trail",
+      "client": "Opendoor — institutional seller",
+      "status": "🔥 Active $550K — three agent reads call it too high, and the only live buyer named his gap",
+      "note": "🔥 THE ONE ADDRESS WHERE THE MARKET AND A NAMED BUYER NOW AGREE. Last night's feedback made it the third read to say the price is too high; at lunchtime the buyer himself named a gap well under the ask and asked you to represent him. ⭐ An institutional seller is the most number-driven counterparty you will ever carry — three independent agent reads and a live buyer's stated number are exactly the evidence that moves one. ⛔ The call in your block is worth more than another price debate."
     },
     {
       "addr": "3350 Altamont Rd E21",
       "client": "Ayman M.",
-      "status": "✅ Under contract $162K — repairs agreed, financing gate shut this morning, deed question open",
-      "note": "✅ TWO OF THREE GATES ARE NOW BEHIND IT. The seller signed the inspection-contingency-removal addendum yesterday and every repair item is agreed; this morning the lender asked for the HOA contact at 10:08 and your coordinator confirmed it sent at 11:49 — one hour forty-one minutes, nothing owed. 🔴 THE OPEN ITEM IS NOT ABOUT THE PROPERTY — the other side raised a doubt that a prior deed may never have been recorded, which is a title defect rather than a milestone, and it surfaced four minutes before the addendum was signed. Close is set for 9/14, so there is genuine room to solve it — but title problems get expensive precisely when they are left to the last fortnight."
+      "status": "✅ Under contract $162K — repairs agreed, financing gate shut this morning, closes 9/14",
+      "note": "✅ TWO OF THREE GATES ARE BEHIND IT AND THE THIRD MOVED TODAY. The inspection contingency is removed and the lender's homeowners-association question — the one that could have stalled financing — was asked at 10:08 AM and answered by 11:49 AM. ⚠️ The remaining open item is paperwork rather than condition: initials promised on one paragraph over a week ago and still not delivered. Not urgent, but it is the kind of thing that is only cheap to fix early."
     },
     {
       "addr": "195 Lake View Cir",
       "client": "Amy R.",
       "status": "✅ Contingent — inspection and appraisal both cleared, closes 8/28",
-      "note": "✅ BOTH GATES ARE BEHIND IT. The inspection ran 8/5 and the appraisal 8/7, and the close date holds at 8/28 on the milestone engine's own read. ⭐ Nine days out with nothing outstanding on the file — which makes the only open item a human one: the seller has been waiting on a call, and this is the week to make it, before tomorrow's closing and the next contract both land on top of it."
+      "note": "✅ BOTH GATES ARE BEHIND IT and the close date holds at 8/28. Nothing owed this week. ⭐ Worth noting for a different reason: this is the single closing in the last thirty days that traces back to a fleet touch at all — every other one is unattributed."
     },
     {
-      "addr": "1709 Fieldstone Cir",
-      "client": "Kim H.",
-      "status": "🎉 Under contract — repair response sent, closes 10/23",
-      "note": "🎉 The longest runway on the board and nothing owed this week. The repair response is delivered and the file is quiet in the good way. ⭐ One note that belongs to the marketing lane rather than the deal lane: the proof-post built off this listing is still queued and unpublished alongside two others — three finished pieces of evidence about how you actually sell, none of them in front of anyone."
+      "addr": "821 Martinwood Rd",
+      "client": "Team listing",
+      "status": "🔥 Active $184K — a “VERY interested” buyer, now ten days unworked",
+      "note": "🔥 THE STRONGEST SINGLE WORD ANY AGENT HAS FILED ON THIS BOARD IS STILL SITTING HERE UNANSWERED. Three forms came in within seventy minutes on 8/9 — two passes and one agent who answered the interest question with the single word “Very.” ⚠️ Ten days later nobody has called her. ⭐ It is a team listing rather than yours, which is exactly why it keeps sliding — and why one call would be unusual enough to matter."
     },
     {
-      "addr": "225 Willow Point Cir",
-      "client": "Sondra & Darrell S.",
-      "status": "🔴 Coming soon — the launch you promised yesterday still has not happened, and now the two sides disagree",
-      "note": "🔴 THIS GOT MORE COMPLICATED RATHER THAN LESS. At 2:19 PM yesterday she wrote that the pictures are ready; at 2:40 PM you replied “Let's launch! Will get it on the market today.” It did not go live — the tracker still reads coming-soon this midday, a full day later. ⚠️ AND THE COMPLICATION IS INTERNAL: your coordinator's 2:27 PM note that same afternoon said the seller was not sure about activating before their financing — written thirteen minutes BEFORE you told her let's launch. Neither of you has answered the other in writing since. ⭐ So the fix is a two-minute conversation, not a listing entry: find out which of those two things the seller actually wants, then either launch it or tell her why you are holding."
+      "addr": "2127 Hwy 93",
+      "client": "Seller identity unverified",
+      "status": "⚠️ Active $1.15M — biggest listing in the book, zero showings ever booked",
+      "note": "⚠️ NO TOUR HAS EVER BEEN BOOKED ON THE MOST EXPENSIVE THING YOU HAVE, and nothing changed today. 🔍 The comparable work already done says the ceiling for a big house on small acreage in this ZIP is well under the ask, and every sale above this number in three years carried seventeen to twenty acres. ⛔ This needs a pricing conversation with the seller, not more marketing."
+    },
+    {
+      "addr": "Deer Ridge Lakes — 19 lots",
+      "client": "Burnham",
+      "status": "🔥 Active — highest lead yield in the portfolio, and the septic answer is now day eight",
+      "note": "🔥 THIS LISTING PRODUCES MORE LEADS THAN ANYTHING ELSE YOU OWN — four of the overdue calls in your list today came off it. 🔴 AND IT HAS AN UNANSWERED TECHNICAL QUESTION AT ITS CENTER: the septic/perc question has gone eight days without a reply, and it is the first thing a serious lot buyer asks. ⛔ Every day it stays unanswered, the leads this listing generates arrive into a conversation you cannot finish."
     },
     {
       "addr": "833 Madison Ln",
       "client": "Newly tracked — seeded 8/18",
       "status": "📅 Coming soon — pre-market, goes live 8/30",
-      "note": "⭐ NEWLY VISIBLE RATHER THAN NEWLY SIGNED, AND THE DIFFERENCE IS THE POINT. This listing had its own mail folder but had never been entered as a tracked address, so for an unknown stretch it existed everywhere except the system that watches for milestones. It was seeded 8/18 and the roster went from thirty to thirty-one. ⚠️ The lesson is the useful part: a listing can be completely real and completely invisible to this board at the same time."
-    },
-    {
-      "addr": "2127 Hwy 93",
-      "client": "Seller identity unverified",
-      "status": "⚠️ Active $1.15M — biggest listing in the book, zero showing activity ever",
-      "note": "⚠️ NO TOUR HAS EVER BEEN BOOKED ON THE MOST EXPENSIVE THING YOU HAVE, and nothing changed on that today. It did get marketing attention yesterday morning — a 5:00 PM social placement with the photograph order rebuilt to lead on the pool and theatre rather than the front elevation, and one line corrected before publication because it could have read as waterfront when the water in the picture is the pool. ⚠️ Two cautions carried forward rather than smoothed: the seller identity on this file is still unverified on this board, and the comparable work done on 8/11 found only three sales at or above this number in the zip code in three years, every one of them on seventeen to twenty acres. The number is a strategy, not a market read."
-    },
-    {
-      "addr": "Deer Ridge Lakes — 19 lots",
-      "client": "Burnham",
-      "status": "🔥 Active — highest lead yield in the portfolio, and the septic answer is now day seven",
-      "note": "🔥 THIS LISTING PRODUCES MORE LEADS THAN ANYTHING ELSE YOU OWN — several of today's overdue urgent calls came off its advertisement, including one man who asked in writing for the lot layout and the per-acre number. 🔴 AND THE SAME UNANSWERED QUESTION IS BLOCKING ALL OF THEM: the percolation-test answer is day seven, with a reply already written and staged, and your operations manager answered it in full last Friday. ⭐ The answer exists. It has simply never been sent — and every new lead this advertisement produces walks into the same silence."
+      "note": "⭐ NEWLY VISIBLE RATHER THAN NEWLY SIGNED. Nothing is owed on it yet, and nothing is booked because it is not on the market. ⚠️ The useful lesson from Willow Point applies here: the gap that hurts is between “photos ready” and “live,” so the date to protect is 8/30 itself."
     }
   ],
   "pipeline": {
@@ -124,31 +124,31 @@
     "goal": 45,
     "teamGoal": 90,
     "paceProjection": 35,
-    "note": "🟡 22 OF 45 AT DAY 231 — A PACE OF ABOUT 35 A YEAR, WHICH IS ON THE LINE RATHER THAN THROUGH IT. Nothing broke to cause this; a run of closing-free days did it, and that is the honest mechanism. ⚠️ THE ONE-DEAL DISAGREEMENT IS PRINTED RATHER THAN SMOOTHED: this board and the money desk count 22 on the strength of a closing receipt, while the finance desk counts 21. The entire spread is a single file whose agent-of-record is contested — one conversation settles it, and until it happens every pace figure on every surface inherits the ambiguity. ⏰ THE WINDOW IS SHORTER THAN THE CALENDAR: at sixty to seventy-five days from contract to close, anything closing in 2026 has to be under contract by roughly October 31. That is ten weeks, not twenty. ⭐ THE THESIS WITH RECEIPTS BEHIND IT IS UNCHANGED — the listings you already have are the cheapest contracts available to you: two of the eight actives named in a forecast two weeks ago converted inside nine days with no new lead generation at all. And today that thesis has three live examples — a “VERY interested” buyer ten days unworked at $184K, an agent whose buyers put a house at the top of their list six days ago, and a buyer who named his own gap at lunchtime and asked to be represented. ⭐ THE SELECTION FINDING PROVED ITSELF AGAIN THIS MORNING: you sent the fifteen warm check-ins by hand and two people replied within ninety minutes of each other — against thirty-six machine-armed equity triggers over six weeks that produced one conversation. Same database, different selection rule. You ruled Monday evening to re-rank that engine on motion rather than equity size, effective next Tuesday. 📊 Economics settled and not to be re-litigated: average sale price about $534K, average GCI per closing about $13.2K, brokerage takes half. The team sits at 35 of 90 and tracking about 56."
+    "note": "🟡 22 OF 45 AT DAY 231 — A PACE OF ABOUT 35 A YEAR, ON THE LINE RATHER THAN THROUGH IT. Nothing broke to cause this; a run of closing-free days did it, and that is the honest mechanism. ⚠️ THE ONE-DEAL DISAGREEMENT IS PRINTED RATHER THAN SMOOTHED: this board and the money desk count 22 on the strength of a closing receipt, while the finance desk counts 21. The entire spread is a single file whose agent-of-record is contested — one conversation settles it, and until it happens every pace figure on every surface inherits the ambiguity. ⏰ THE WINDOW IS SHORTER THAN THE CALENDAR: at sixty to seventy-five days from contract to close, anything closing in 2026 has to be under contract by roughly October 31. That is ten weeks, not twenty. ⭐ THE THESIS WITH RECEIPTS IS UNCHANGED — the listings you already own generate more real conversations than any prospecting lane, and today proved it twice: the land listing produced four of your overdue calls and a buyer on your own listing asked you to represent him. 🔍 Figures last confirmed against the weekly forecast of 8/12; no newer forecast has been issued."
   },
   "money": {
     "status": "alert",
-    "note": "🔴 THE 5:32 AM ALERT STANDS AND NOTHING SINCE MIDNIGHT HAS CHANGED IT. The fortnight of bills ahead is a large multiple of what is actually in the account, the balance is bank-stamped rather than estimated, and yesterday's two withdrawals both cleared AFTER the previous morning's reading — so any figure carried over from yesterday is materially too high. ✅ GENUINELY GOOD: no new returned-item notice has arrived, which ends a two-day run of them. ⚠️ BUT THE RISK IS THE RETRY, NOT THE BOUNCE — the earlier notices said the biller may re-present up to two more times, so whatever came back is still owed and will fail again at a lower balance unless something changes first. ✅ ONE MYSTERY CLOSED: the larger of yesterday's two withdrawals was identified to the dollar and the minute as a commercial-listings subscription. The smaller one is still unidentified after a two-day sweep. 🔴 THE STRUCTURAL PROBLEM IS UNCHANGED AND IT HAS NOW COMPOUNDED: eight consecutive runs have called the accounting software unusable, the books and the bank disagree by a wide margin with the bank as the authority, and FOUR separate money rulings — a deposit list, a booking approval, a reclassification and a subscription dispute — are all now day seven and all blocked behind the same single sign-in. ⚠️ THE PLANNING ERROR AVAILABLE THIS WEEK: the largest closing on the board funds AFTER this week, not during it, and the closing attorney has just said the buyer's figures changed — treating tomorrow as this week's cash was already risky and is now worse. ⚠️ Also unchanged: the hardship request on the government loan came back denied, and a separate records request on that same loan was rejected on an address technicality. ⚠️ Figures, balances and account details are deliberately withheld — this page is public."
+    "note": "🔴 A MONEY ALERT DID FIRE IN THE LAST TWENTY-FOUR HOURS — the money desk sent one at 5:32 AM against a bank-stamped balance, and it flagged a vendor charge posted the previous morning as the single largest avoidable item on it. 🔍 THE IRONY WORTH NAMING: that charge was for one of the two commercial listing sources that has refused this fleet seven consecutive times and remains frozen. 🆕 ONE GENUINE PIECE OF GOOD NEWS THIS AFTERNOON: at 3:32 PM the government lender ACCEPTED the re-amortization request — the hardship route was denied earlier, but this one landed. It is now document-gated rather than decision-gated, which is a much better place to be. 🔴 THE STRUCTURAL PROBLEM IS UNCHANGED AND NOW DAY EIGHT: the accounting software has been called unusable eight runs running, the books and the bank disagree with the bank as the authority, and four separate money rulings are all blocked behind one sign-in until 8/24. ⚠️ THE PLANNING ERROR STILL AVAILABLE: the largest closing on the board funds tomorrow but settles AFTER this week, and the attorney has said the buyer's figures changed — treating it as this week's cash was risky and is now worse. ⚠️ Figures, balances and account details are deliberately withheld — this page is public."
   },
   "isa": {
-    "openCallTasks": 59,
-    "decayPolicy": "⚠️ FIFTY-NINE OPEN ROWS — UP NINE SINCE THIS MORNING, AND THAT IS THE HONEST DIRECTION OF TRAVEL. The overnight drop to fifty came from real work; the climb back came from the machine writing faster than the list is worked. 🔴 NINETEEN OF THE FIFTY-NINE ARE FLAGGED URGENT AND EVERY SINGLE ONE IS ALREADY OVERDUE, the oldest by nine days — and only eight fit on this board, so eleven urgent rows are live and not shown here. That is a capacity problem, not a triage problem. ⚠️ THE USEFUL DISTINCTION IS NOT AGE, IT IS DIRECTION: roughly nine of these rows are people actively waiting on YOU — a returned call, an answered question, a promise you made in writing. The rest are prospects to chase. The waiting-on-you rows cost relationships; the others cost opportunities, and only the first kind gets worse by being ignored. ⭐ THE FRESHEST ROWS ARE STILL THE BEST ONES AND THEY ARE STILL SELLERS: homeowners disputing your own estimate on their own houses UPWARD, one of them near $1.9M and one of them for the third time. ⚠️ And roughly a third of the list is still contactless address-only records queued for re-pull — the build that would turn them into named, callable people has now been the top queued build for eleven days.",
-    "sweepCadence": "every 30 min while the fleet is up — unbroken since midnight, ten passes today with no gap longer than thirty-five minutes. ⭐ THE PATTERN WORTH SEEING IN TODAY'S PASSES: three separate replies were caught within nine minutes of arriving — all three to check-in notes YOU sent by hand this morning, one of them forty-one minutes after your send and another seventy-three. The machine is not generating these conversations; it is catching them fast once you start them. ✅ THE OWNERSHIP GUARD THAT FAILED ON MONDAY IS HOLDING: the test that wrongly proved a lead was yours has been retracted fleet-wide and has since caught several leads that would have been mis-worked under the old rule. 🔍 ONE REAL DEFECT FOUND AND NAMED THIS MORNING: the tool the sweep uses to read mail threads returns the OLDEST messages in a conversation rather than the newest, which hid a lead from five consecutive passes for fourteen hours before it was found and correctly left alone as a teammate's. ⚠️ The thing worth watching remains speed rather than accuracy: the instant-response lane only runs while the desktop app is open."
+    "openCallTasks": 46,
+    "decayPolicy": "✅ FORTY-SIX OPEN ROWS — DOWN THIRTEEN SINCE MIDDAY, AND THAT IS THE BEST DIRECTION THIS NUMBER HAS MOVED ALL WEEK. It ran fifty-nine at lunchtime; you worked it down by hand through the afternoon. ⚠️ SEVENTEEN ARE FLAGGED URGENT AND ALL SEVENTEEN ARE OVERDUE, the oldest by nine days — only eight fit on this board, so nine urgent rows are live and not shown here. ⭐ THE USEFUL DISTINCTION IS NOT AGE, IT IS DIRECTION: roughly a third of these are people actively waiting on YOU — a returned call, an answered question, a promise you made in writing. Those cost relationships. The rest are prospects to chase, and they only cost opportunities. 🔥 THE FRESHEST ROWS ARE THE BEST ONES AND THEY ARE STILL SELLERS: three homeowners this week disputed your own estimate on their own houses UPWARD, one of them near $1.9M and one of them for the third time. A homeowner who argues your number upward has already decided his house is worth discussing. ⚠️ And roughly a third of the list is still contactless address-only records queued for re-pull — the build that would turn them into named, callable people has now been the top queued build for eleven days.",
+    "sweepCadence": "every 30 min while the fleet is up — unbroken since midnight, sixteen passes today with no gap longer than eighty minutes. ⭐ THE PATTERN WORTH SEEING: five separate replies were caught within minutes of arriving today, and every one of them answered a note YOU sent by hand. The machine is not generating these conversations; it is catching them fast once you start them. 🆕 TODAY'S BEST SINGLE NUMBER: a brand-new seller lead went from arrival to a personal response in TWELVE MINUTES this afternoon. ✅ THE OWNERSHIP GUARD THAT FAILED ON MONDAY IS HOLDING — it correctly caught two more leads today that belong to a teammate and left them untouched, including one that your own ad had routed the wrong way. 🔍 TWO REAL DEFECTS FOUND AND NAMED TODAY: the tool the sweep uses to read mail threads returns the OLDEST messages rather than the newest, which hid a lead for fourteen hours; and one late-afternoon pass called a lane dry with a live lead inside its own window. Both are logged rather than papered over. ⚠️ The thing to watch remains speed rather than accuracy: the instant-response lane only runs while the desktop app is open."
   },
   "builds": [
-    "⚡ RULE ON THE PRE-CLOSE SUCCESSOR GUARD — day three unruled; last night's own measurement says none of the seven successors created the night before survived twenty-four hours (p2)",
+    "⚡ RULE ON THE PRE-CLOSE SUCCESSOR GUARD — day three unruled; the fleet's own measurement says none of the seven successors it created survived twenty-four hours (p2)",
     "💎 RULE THE EQUITY ENGINE — 36 triggers armed in six weeks produced one conversation; four options are on the chip and (a) re-rank on motion is the recommended one (p2)",
     "📊 Feed the outcome scoreboard from the ISA activity ledger — fourth week queued; the ledger logged 317 rows in a week and the scoreboard saw 23 of them (p2)"
   ],
   "controls": {
     "do": "Text Manda L. — are we clear to close?",
     "decide": "Pre-close successor guard — build it?",
-    "watch": "Attorney: buyer's figures changed, 27h out (8/19)",
-    "draftsWaiting": 17
+    "watch": "Attorney: buyer's figures changed, 21h out (8/19)",
+    "draftsWaiting": 6
   },
   "scoreboard": {
-    "touches30d": 82,
-    "replies30d": 29,
+    "touches30d": 84,
+    "replies30d": 30,
     "appts30d": 5,
     "contracts30d": 8,
     "closed30d": 5,
