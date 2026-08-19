@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 18, 2026 · 8:10 AM CT",
+  "updated": "Aug 19, 2026 · 7:55 AM CT",
   "nextSweep": "this evening",
-  "headline": "Every Island home on your board was re-checked this morning and not one price moved — the beach lane is fully current. Nashville and Knoxville stay frozen two more days: the source retry comes due Thursday morning.",
+  "headline": "Two new Gulf Shores houses landed on the beach lane this morning — 1469 W Lagoon at $589,900 comes FULLY FURNISHED, which is the only turnkey rental on your board — and every one of the fourteen homes already on it re-verified live at exactly the same price. Nashville and Knoxville stay frozen one more day: the source retry comes due tomorrow morning.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us **seven consecutive times**, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is Thursday morning, Aug 20, two days out.** This morning's sweep did not attempt them, because the timer has not run out. That is the rule working rather than the lane being ignored. ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for** — tap it and Gene will verify that specific building live, usually within the hour. June Lake Blvd stays on the board as a Gene-curated watch item regardless of the freeze."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these homes live on have now refused us **seven consecutive times**, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below is exactly as it read on July 29 and should be treated as a shortlist to re-confirm before any showing, not as live inventory. ⭐ **THE RETRY COMES DUE TOMORROW MORNING (Thu 8/20)** — the first morning sweep past the seven-day mark will try both sources again; a single success unfreezes the lane and clears the counter. ⛔ New-inventory hunting on this lane is paused under the same block, so an empty result here means blocked, not searched-and-found-nothing."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both listing sites these live on have refused us **seven consecutive times**, most recently on the scheduled Aug 13 retry. We re-test on a 7-day timer rather than every sweep, so the check stays honest without burning the board's time — **the next attempt is Thursday morning, Aug 20, two days out.** This morning's sweep did not attempt them, because the timer has not run out. That is the rule working rather than the lane being ignored. ⛔ **TREAT EVERY PRICE AND STATUS IN THIS LANE AS THREE WEEKS OLD.** Some of these have almost certainly moved. ⭐ **That is exactly what the PURSUE button is for** — tap it and Gene will verify that specific building live, usually within the hour. 319 Lovell Rd stays on the board as a Gene-curated watch item regardless of the freeze."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these homes live on have now refused us **seven consecutive times**, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below is exactly as it read on July 29 and should be treated as a shortlist to re-confirm before any showing, not as live inventory. ⭐ **THE RETRY COMES DUE TOMORROW MORNING (Thu 8/20)** — the first morning sweep past the seven-day mark will try both sources again; a single success unfreezes the lane and clears the counter. ⛔ New-inventory hunting on this lane is paused under the same block, so an empty result here means blocked, not searched-and-found-nothing."
     },
     {
       "id": "beach",
@@ -713,6 +713,31 @@
           "badge": "INCOME"
         },
         {
+          "id": "1425-w-lagoon-ave",
+          "address": "1425 W Lagoon Avenue",
+          "city": "Gulf Shores (Carl T Martin / Old Gulf Shores)",
+          "dealType": "",
+          "price": 599000,
+          "leaseRate": "",
+          "sf": 1157,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Detached single-family — raised beach house",
+          "waterPosition": "W Lagoon Ave, Old Gulf Shores — listing describes beach proximity; water frontage or view is NOT stated",
+          "rentalHistory": "",
+          "highlights": [
+            "Classic raised beach house in Old Gulf Shores — elevated construction, which matters for insurance on the coast",
+            "3BR / 2BA, 1,157 sf",
+            "Detached house, not a condo — meets the hard rule on this lane"
+          ],
+          "fitNote": "🆕 NEW THIS MORNING. It clears every hard gate — detached, 3BR, under the ceiling, in the corridor — and the raised-beach-house build is the right shape for the coast. ⚠️ Ranked below its neighbour at 1469: it is $9,100 dearer for 361 fewer square feet and one fewer bathroom, and it is not furnished. Carried because Old Gulf Shores is a genuinely different rental audience, not because the numbers beat the other one.",
+          "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required. No rental income figure is stated, so none is projected.",
+          "url": "https://www.condoinvestment.com/listing/396635-carl-t-martin-residential-1425-w-lagoon-avenue-gulf-shores-al-36542/",
+          "photoUrl": "",
+          "broker": "",
+          "badge": "NEW"
+        },
+        {
           "id": "901-lockenbie-pl",
           "address": "901 Lockenbie Pl",
           "city": "Dauphin Island, AL",
@@ -734,6 +759,32 @@
           "photoUrl": null,
           "broker": "Griffin Realty, LLC",
           "badge": null
+        },
+        {
+          "id": "1469-w-lagoon-ave",
+          "address": "1469 W Lagoon Avenue",
+          "city": "Gulf Shores (Lagoon Estates)",
+          "dealType": "",
+          "price": 589900,
+          "leaseRate": "",
+          "sf": 1518,
+          "beds": 3,
+          "baths": 3,
+          "propertyType": "Detached single-family",
+          "waterPosition": "W Lagoon Ave / Lagoon Estates — listing states 0.2 miles (a 4-minute walk) from the beach; lagoon or gulf FRONTAGE is NOT stated",
+          "rentalHistory": "",
+          "highlights": [
+            "FULLY FURNISHED per the listing — the only turnkey house on this lane",
+            "3BR / 3BA, 1,518 sf — three full baths on three bedrooms, which is what lets two families share a rental",
+            "0.2 miles (4-minute walk) to the beach, per the listing",
+            "Detached house, not a condo — meets the hard rule on this lane"
+          ],
+          "fitNote": "🆕 NEW THIS MORNING and the strongest new find in a week. Fully furnished is the differentiator: on a short-term rental it removes the single biggest hidden cost between closing and first booking, and nothing else on this lane states it. Three full baths on a three-bedroom is the other unusual thing at this price. ⚠️ Be precise about the water: the street is named for the lagoon and the listing claims a four-minute beach walk, but it does NOT state waterfront or a water view, so none is claimed here.",
+          "strNote": "⚠️ STR eligibility NOT stated on the listing — Gulf Shores rules vary by parcel; verify before any offer. No rental income figure is stated, so none is projected.",
+          "url": "https://www.condoinvestment.com/listing/395868-lagoon-estates-residential-1469-w-lagoon-avenue-gulf-shores-al-36542/",
+          "photoUrl": "",
+          "broker": "",
+          "badge": "NEW"
         },
         {
           "id": "107-portier-st",
@@ -1093,7 +1144,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED THIS MORNING — EVERY LISTING ON THIS LANE CAME BACK LIVE AT EXACTLY THE PRICE SHOWN, AND NOTHING IS MARKED PENDING, UNDER CONTRACT OR SOLD.** All eleven Dauphin Island homes returned from the source index intact; both Gulf Shores houses re-confirmed (17330 State Highway 180 at $599,900 and 413 Windmill Ridge at $549,000); and the Orange Beach house at $599,000 was re-opened directly on its own listing page and is still active. ⚠️ **NOTHING NEW CLEARED THE BOX TODAY, and here is the reasoning rather than a silent omission:** the only fresh Island inventory in range is two-bedroom — 106 Ryan $410,000, 753 Cadillac $325,000, 125 Bienville $315,000 — which fails the 3-bedroom rule; and everything else on the Island sits above the $600K ceiling: 123 Bienville $615,000, 1303 Chaumont $625,000, 103 Quebec $885,000, 511 Buchanan $900,000, 917 Delchamps $999,730, 2320 Island Shores $799,900, 318 Pineda $799,000, 2206 Cadillac $1.15M and 2642 Bienville $1.7M. 💰 The Orange Beach house states **$3,600+ per month in rental income** and approval for both short- and long-term rental — that is the listing's own number, not a projection of ours. 💰 Still the freshest price move on the lane: **1127 Chaumont came down $499,000 → $489,000.** ⚠️ Rental income is shown ONLY where the listing itself states it — no projections are invented here. ⭐ **Tap PURSUE on anything and Gene will confirm price, status and rental history live, usually within the hour.**"
+      "note": "✅ **RE-VERIFIED THIS MORNING — ALL FOURTEEN PRICED LISTINGS CAME BACK LIVE AT EXACTLY THE PRICE SHOWN, AND NOT ONE IS MARKED PENDING, UNDER CONTRACT OR SOLD.** All eleven Dauphin Island homes returned intact from the source index, the three carried on their own property pages (107 Portier $549,900 · 703 Hunley $492,000 · 1127 Chaumont $489,000) were each re-opened directly, both Gulf Shores houses re-confirmed, and the Orange Beach house re-checked on its own listing page and still active. **No price moved in either direction and nothing was removed.** 🆕 **TWO NEW HOUSES CLEARED THE BOX THIS MORNING**, both on W Lagoon Avenue in Gulf Shores: **1469 W Lagoon at $589,900** — 3BR/3BA, 1,518 sf, **fully furnished**, a four-minute walk to the beach per the listing — and **1425 W Lagoon at $599,000**, a 3BR/2BA raised beach house in Old Gulf Shores. The furnished one is the better buy of the pair on every measure that matters to a rental. ⚠️ **BE PRECISE ABOUT THE WATER ON BOTH:** the street is named for the lagoon, but neither listing states waterfront or a water view, so this board claims neither. ⚠️ Neither states rental income either, so no income figure is shown. 💰 The only stated income on this lane remains the Orange Beach house at **$3,600+ per month with approval for both short- and long-term rental** — that is the listing's own number, not a projection of ours. ⚠️ **NOTHING NEW ON DAUPHIN ISLAND, and here is the reasoning rather than a silent omission:** the only fresh Island inventory in range is two-bedroom (106 Ryan $410,000 · 753 Cadillac $325,000 · 125 Bienville $315,000), which fails the three-bedroom rule, and everything else on the Island sits above the $600K ceiling. ⭐ The lane now runs slightly over its usual dozen because every single item on it was verified live today — nothing was dropped to make room, because nothing on it is dead."
     }
   ]
 }
