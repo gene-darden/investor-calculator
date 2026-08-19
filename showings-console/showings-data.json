@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-19 7:50 AM CT",
-  "headline": "⏰ NOT ONE FUTURE SHOWING IS BOOKED ON ANY LISTING, NOTHING NEW HAS BEEN SCHEDULED IN NINETY-ONE HOURS, AND THE ONLY THING THAT ARRIVED OVERNIGHT WAS A SECOND “too high” ON 2368 RIDGE TRAIL — which makes today's most valuable half-hour the two calls nobody is chasing: the “VERY interested” buyer at 821 Martinwood, ten days unanswered, and Amy G. at 355 Comanche, whose buyers put the house at the top of their list six days ago and who is still waiting to hear why the basement lights would not come on.",
+  "updated": "2026-08-19 12:55 PM CT",
+  "headline": "🔥 THE SHOWING FEED BROUGHT NOTHING NEW ALL MORNING — still not one future tour booked anywhere and nothing scheduled since Saturday afternoon, a fourth full day — BUT THE BEST BUYER SIGNAL OF THE WEEK ARRIVED BY TEXT INSTEAD: at 12:11 PM the buyer on 2368 Ridge Trail named his gap under the ask and asked you to represent him, on the one listing two agents have already called too high. That call, Amy G. at 355 Comanche on day six with her basement-lights question still unanswered, and the “VERY interested” buyer ten days cold at 821 Martinwood are the whole afternoon.",
   "stats": {
     "showings14d": 13,
     "feedback14d": 9,
     "gaps": 5
   },
   "hotSignals": [
+    {
+      "addr": "2368 Ridge Trail",
+      "date": "8/19",
+      "isNew": true,
+      "signal": "🔥 NOT A SHOWINGTIME FORM — THE BUYER HIMSELF, BY TEXT, AT 12:11 PM. Adin D. wrote that he is a defined distance below the ask, told you to save his number as an investor, and added “Happy to have you represent me!” That is a named price gap plus an unprompted representation ask from the only live buyer with a person attached anywhere on this listing — and it lands on the one address where two independent agent reads have already come back TOO HIGH.",
+      "action": "☎️ CALL HIM, DO NOT TEXT BACK. Your 11:37 AM reply pointed him at the house and never answered the only question he asked, which was whether there is room — so the thread is open with the substance missing. Two jobs in one call: give him a real answer on room (the seller here is institutional, so the answer is a process, not a feeling), and take the buyer-side relationship he just offered you. ✅ Already on your list as an urgent chip and already flagged in the 12:15 digest — recorded here to prevent a duplicate alert email, none sent."
+    },
     {
       "addr": "355 Comanche St",
       "date": "8/15",
@@ -30,10 +37,10 @@
     }
   ],
   "upcoming": [
-    "⏰ THU 8/20, 3:00 PM — 5167 LAKE CREST CIR closes at the closing attorney's office. Not a ShowingTime event, but it is the nearest hard date on the board and the largest number closing this month. ⚠️ Still no clear-to-close on any lane after a fourth independent search, and the city inspector's sign-off is now scheduled onto closing morning itself.",
-    "📅 SAT 8/30 — 833 MADISON LN goes live. Newly tracked as of last night; nothing is booked on it yet because it is not on the market yet.",
-    "📤 OVERDUE RATHER THAN UPCOMING — 225 WILLOW POINT was promised a same-day launch at 2:40 PM yesterday and did not go live. The photographs are ready and the agreement is executed; until the entry is made there is nothing for ShowingTime to book.",
-    "📭 NO SHOWINGS BOOKED ANYWHERE, AND NOTHING NEW HAS BEEN SCHEDULED SINCE SATURDAY AFTERNOON — ninety-one hours. There is not one future showing, walk-through, inspection or appraisal confirmed on any listing. ⭐ Read it honestly: a silent feed in mid-August across seven actives is a marketing problem rather than a bad-luck week, and the only listing still producing any signal at all is the $295K one."
+    "⏰ THU 8/20, 3:00 PM — 5167 LAKE CREST CIR closes at the closing attorney's office. Not a ShowingTime event, but it is the nearest hard date on the board and the largest number closing this month. 🔴 CHANGED AT MIDDAY: the closing attorney wrote at 12:39 PM that the buyer's figures changed — one line, no detail, twenty-seven hours out — and a sixth independent search this morning still found no clear-to-close on any lane. The city inspector's sign-off also still sits on closing morning itself.",
+    "📅 SAT 8/30 — 833 MADISON LN goes live. Nothing is booked on it because it is not on the market yet.",
+    "📤 OVERDUE RATHER THAN UPCOMING — 225 WILLOW POINT was promised a same-day launch at 2:40 PM on 8/18 and still has not gone live a full day later. ⚠️ And the reason may not be the listing entry: your coordinator's note thirteen minutes EARLIER that afternoon said the seller was unsure about activating before their financing. Two people gave two different answers thirteen minutes apart and neither has answered the other since. Until that is settled there is nothing for ShowingTime to book.",
+    "📭 NO SHOWINGS BOOKED ANYWHERE, AND NOTHING NEW HAS BEEN SCHEDULED SINCE SATURDAY AFTERNOON — a fourth full day. There is not one future showing, walk-through, inspection or appraisal confirmed on any listing, and the whole morning added zero events to this feed. ⭐ Read it honestly: a silent feed in mid-August across seven actives is a supply problem at the top, not a bad week — and it is exactly why the one buyer who DID reach out today, on a channel this board does not even watch, is the most valuable thing on the page."
   ],
   "listings": [
     {
@@ -72,14 +79,14 @@
       "gaps": [
         "Mon 8/10 1:40 PM tour — nothing filed, nine days"
       ],
-      "note": "⭐ THE PRICING QUESTION IS SETTLED AND SHOULD NOT BE REOPENED WITH THIS SELLER. Every read that ever said TOO HIGH was filed while the ask was $299,000; the cut went live 8/5. Five consecutive reads since and not one argued the number — a $4,000 experiment that worked. 🔴 THE LIVE ITEM IS THE BASEMENT LIGHTS, raised by the hottest agent on the file and unanswered since Saturday. 🔴 Two agents who filed TOO HIGH at the OLD price still do not know it moved — both chips overdue since 8/8, now eleven days."
+      "note": "⭐ THE PRICING QUESTION IS SETTLED AND SHOULD NOT BE REOPENED WITH THIS SELLER. Every read that ever said TOO HIGH was filed while the ask was $299,000; the cut went live 8/5. Five consecutive reads since and not one argued the number — a $4,000 experiment that worked. 🔴 THE LIVE ITEM IS THE BASEMENT LIGHTS, raised by the hottest agent on the file and unanswered since Saturday. 🔴 Two agents who filed TOO HIGH at the OLD price still do not know it moved — both chips overdue since 8/8, now eleven days. 🏦 NEW SINCE THIS MORNING, AND IT IS A SELLER DECISION RATHER THAN AN AGENT ONE: an investor is asking whether your seller would consider owner financing at fifteen to twenty percent down. Nothing has been said back to him. It does not change the pricing read above — it is a different door on the same house."
     },
     {
       "addr": "2368 Ridge Trail",
       "city": "Birmingham",
       "price": "$550,000",
       "client": "Opendoor — institutional seller",
-      "status": "📉 ACTIVE — three tours in ten days, and the one read that came back says the number is still too high",
+      "status": "🔥 ACTIVE — two agent reads say too high, and at lunchtime the buyer himself named the gap and asked for representation",
       "showings14d": 3,
       "feedback": [
         {
@@ -93,7 +100,7 @@
         "Mon 8/10 2:00 PM tour — nothing filed, nine days",
         "Sat 8/15 11:10 AM tour — nothing filed, four days"
       ],
-      "note": "⚠️ THIS IS THE SECOND INDEPENDENT TOO-HIGH READ ON THIS ADDRESS, AND THE ASK HAS ALREADY COME DOWN FROM $559,000. ⭐ But read the shape rather than the one form: three tours in ten days and two of the three filed nothing at all. A blank price-recommendation is a softer signal than a real counter — the more useful number here is that two thirds of the people who walked it never said why they passed. 📇 The seller side on this file is an institutional owner, so feedback routes to a portfolio mailbox rather than a person."
+      "note": "🔥 THIS ADDRESS FLIPPED FROM COLDEST READ TO HOTTEST CONVERSATION IN ONE MORNING, AND IT HAPPENED OFF THIS BOARD. Yesterday at 9:55 PM the agent from Saturday's 4:00 PM tour filed interested — NO, priced — TOO HIGH, leaving the price-recommendation, staging and comment fields completely blank; a blank recommendation means he would not name a number he WOULD pay, which is softer than a counter but still the second independent too-high read here. ⭐ THEN AT 12:11 PM TODAY THE BUYER TEXTED DIRECTLY — a defined distance under the ask, save me as an investor, happy to have you represent me. That is the number the feedback forms would not give you, volunteered by the person who would actually pay it. ⚠️ The ask already came down from $559,000. ⚠️ And the quieter problem is unchanged: three tours in ten days, two of which never filed anything at all."
     },
     {
       "addr": "821 Martinwood Rd",
@@ -185,7 +192,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔴 At 2:19 PM yesterday she wrote that the pictures are ready; at 2:40 PM the reply was “Let's launch! Will get it on the market today.” Three independent checks say it did not go live. ⭐ Nothing can be booked on a listing that is not on the market — this is the cheapest repair available today."
+      "note": "🔴 At 2:19 PM yesterday she wrote that the pictures are ready; at 2:40 PM the reply was “Let's launch! Will get it on the market today.” Three independent checks say it did not go live. ⭐ Nothing can be booked on a listing that is not on the market — this is the cheapest repair available today. ⚠️ MIDDAY UPDATE: still not live a full day later, and the hold may be the seller's rather than yours — your coordinator wrote at 2:27 PM on 8/18 that Sondra was unsure about activating before their financing, thirteen minutes BEFORE you told her let's launch. Settle which it is before entering anything."
     },
     {
       "addr": "833 Madison Ln",
@@ -261,12 +268,12 @@
     {
       "addr": "3421 Hwy 109 · Columbiana",
       "price": "$2,350,000",
-      "when": "🔴 THREE ASKS AND TWENTY-NINE DAYS OF SILENCE — 7/21, 7/22 and 7/23 from the RealtySouth Inverness listing side after the 7/21 1:00 PM tour. ⭐ THIS IS THE ONE THAT COSTS SOMETHING REAL, and the cost is not the courtesy — it is that the honest written answer IS the counter on the largest number on the board, roughly $36K of GCI. The listing side has asked repeatedly to be moved forward; a seller who reverse-offers a buyer is a seller who wants a deal. Twenty minutes of writing moves it. ⚠️ The appraisal figure the buyer cited as far under ask is single-sourced from him — do not quote it to the other side as an appraised value."
+      "when": "🔴 THREE ASKS AND THIRTY DAYS OF SILENCE — 7/21, 7/22 and 7/23 from the RealtySouth Inverness listing side after your 7/21 1:00 PM tour. ⚠️ These requests are now outside the fourteen-day pull window, so they are carried forward from prior runs rather than re-verified this run. ⭐ THIS IS THE ONE THAT COSTS SOMETHING REAL, and the cost is not the courtesy — it is that the agent on the most expensive house you have toured this year has watched you ignore three requests, and you will want something from that office eventually. One paragraph closes it."
     },
     {
       "addr": "683 Flag Cir · Hoover",
       "price": "$384,999",
-      "when": "⏰ TWO FEEDBACK REQUESTS, 7/31 and 8/1, from the Keller Williams Hoover listing side. The listing went from CONTINGENT to EXPIRED between the two notices, so the ask is stale — but a one-line courtesy reply costs nothing, and this is a Lake Crest-subdivision agent you may well meet at a closing table tomorrow."
+      "when": "⏰ TWO FEEDBACK REQUESTS, 7/31 and 8/1, from the Keller Williams Hoover listing side. The listing went from CONTINGENT to EXPIRED between the two notices, so the ask itself is stale — but a one-line courtesy reply costs nothing and an expired listing in Hoover is a seller conversation nobody is currently having. ⚠️ Also outside the fourteen-day window now and carried forward, not re-verified."
     }
   ]
 }
