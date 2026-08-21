@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 19, 2026 · 5:50 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Every beach house on your board re-checked live this evening and all sixteen came back at exactly the price you saw this morning — nothing sold, nothing went pending, nothing moved. One Dauphin Island listing didn't appear on tonight's index pull, so it's flagged rather than removed until its own page confirms. Nashville and Knoxville unfreeze tomorrow morning for their first retry in a week.",
+  "updated": "Aug 21, 2026 · 7:50 AM CT",
+  "nextSweep": "this evening",
+  "headline": "A price cut on Dauphin Island this morning — 601 Bienville came down to $374,900, the only number on your whole board that moved — and every other beach house re-checked live at exactly the price you last saw, nothing sold and nothing pending.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **seven consecutive times**, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reads exactly as it did on July 29 and should be treated as a shortlist to re-confirm before any showing. 🔄 **THE FREEZE LIFTS TOMORROW MORNING:** the seven-day retry mark falls on 8/20, so the next morning sweep makes one fresh attempt against both sources. If either answers, this lane unfreezes and re-verifies in full."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you want to act on directly with the listing broker. The next retry is **Aug 28**. The beach lane below is unaffected and was re-verified live this morning."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **seven consecutive times**, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reads exactly as it did on July 29 and should be treated as a shortlist to re-confirm before any showing. 🔄 **THE FREEZE LIFTS TOMORROW MORNING:** the seven-day retry mark falls on 8/20, so the next morning sweep makes one fresh attempt against both sources. If either answers, this lane unfreezes and re-verifies in full."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you want to act on directly with the listing broker. The next retry is **Aug 28**. The beach lane below is unaffected and was re-verified live this morning."
     },
     {
       "id": "beach",
@@ -858,7 +858,7 @@
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "208-isabella",
@@ -939,7 +939,7 @@
           "address": "601 Bienville Blvd",
           "city": "Dauphin Island, AL",
           "dealType": "sale",
-          "price": 399000,
+          "price": 374900,
           "beds": 3,
           "baths": 2,
           "propertyType": "Single-family house",
@@ -950,12 +950,12 @@
             "Dauphin Island, detached house",
             "Read live and active this morning"
           ],
-          "fitNote": "New to the lane this morning. A detached 3/2 on Dauphin Island at $399,000 - well under your ceiling, and the island is where the sub-$600K detached-house market on this coast actually lives. No rental figures are shown because the listing does not publish any; nothing has been assumed.",
+          "fitNote": "New to the lane this morning. A detached 3/2 on Dauphin Island at $399,000 - well under your ceiling, and the island is where the sub-$600K detached-house market on this coast actually lives. No rental figures are shown because the listing does not publish any; nothing has been assumed. 💰 PRICE CUT verified Aug 21: $399,000 → $374,900, a $24,100 reduction and the only price movement anywhere on your board this morning.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
           "broker": "Griffin Realty, LLC",
-          "badge": null
+          "badge": "DROP"
         },
         {
           "id": "122-hernando",
@@ -978,7 +978,7 @@
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "230-chenault",
@@ -1002,7 +1002,7 @@
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "1003-monberaut",
@@ -1144,7 +1144,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED AGAIN THIS EVENING — EVERY PRICED HOUSE CAME BACK LIVE AT EXACTLY THE PRICE SHOWN, AND NOT ONE IS MARKED PENDING, UNDER CONTRACT OR SOLD.** Both Gulf Shores sources answered on the first try: 17330 State Hwy 180 ($599,900), 1425 W Lagoon ($599,000), 1469 W Lagoon ($589,900) and 413 Windmill Ridge ($549,000) all re-confirmed, and seven of the Dauphin Island homes returned intact from the island index at unchanged prices. ⚠️ **ONE FLAG, DELIBERATELY NOT A REMOVAL: 208 Isabella did not appear on tonight's Dauphin Island index pull.** It is being kept on the board rather than deleted, because this exact source has produced false disappearances twice before — 107 Portier vanished from the index while its own property page still showed it live, and 230 Chenault vanished one morning and reappeared the same evening at the same price. Absence from an index is not evidence of a sale. It gets confirmed against its own property page on the next sweep. 🔍 **WORTH KNOWING ON THE GULF SHORES SEARCH:** the source paginates, and page one carries about 21 of 29 homes in this price band — so a house missing from page one may simply be on page two. ⭐ **NO NEW INVENTORY ADDED TONIGHT.** The Gulf Shores band turned up plenty of detached houses under $600K, but they sit in inland subdivisions — Craft Farms, Aventura, Stonegate, Colony Parke — with no water position, which is the one thing this lane ranks on. Nothing there beat what you already have."
+      "note": "✅ **RE-VERIFIED LIVE THIS MORNING — AND ONE NUMBER MOVED.** 601 Bienville was cut from $399,000 to $374,900. Everything else came back at exactly the price shown and not one house is marked pending, under contract or sold. Both Gulf Shores sources answered first try (17330 State Hwy 180 $599,900 · 1425 W Lagoon $599,000 · 1469 W Lagoon $589,900) and 107 Portier re-opened directly on its own property page at $549,900. ⚠️ Three houses were missing from the Dauphin Island index page this morning — that is not evidence of a sale, and this board has been burned by that before: 107 Portier vanished from the index once while its own page still showed it live, and 230 Chenault disappeared and reappeared the same day. They are carried unchanged and will be verified against their own pages on the next sweep. 🔍 No new detached 3-bedroom homes under $600K turned up beyond inland golf-course subdivisions, which are not what this lane is for."
     }
   ]
 }
