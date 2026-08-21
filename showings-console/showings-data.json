@@ -1,48 +1,56 @@
 {
-  "updated": "2026-08-21 1:15 PM CT",
-  "headline": "🆕 A SHOWING FOR SUNDAY AT 12:30 WAS CONFIRMED BY YOUR SELLER BY TEXT AT MIDDAY — 225 Willow Point, three addresses on the tour — AND IT IS NOT BOOKED ANYWHERE. ⚠️ That is the whole risk: a showing agreed by text that never reaches the scheduler is the one that gets missed, and it would be this listing's first tour since it went live Wednesday. ⭐ Otherwise the feed has been silent since Thursday lunchtime — no new tour, no new form in twenty hours — so the four open reads on this board are all still yours to answer, led by the buyer's agent at 1709 Fieldstone who owes you an answer on the roof report TODAY.",
+  "updated": "2026-08-21 6:30 PM CT",
+  "headline": "🔥 TWO THINGS LANDED AFTER LUNCH THAT WERE NOT ON THIS BOARD AT NOON — 225 WILLOW POINT TOOK THE FIRST SHOWING OF ITS LIFE AT 4:30 THIS AFTERNOON, AND THERE IS AN OFFER IN HAND ON 198 RENA DR WITH YOUR NAME ALREADY ON A PROMISE TO CALL THE SELLER. ⭐ THE RENA ONE IS THE URGENT HALF: at 3:50 PM your closing coordinator emailed the seller a net sheet and told him “Gene will give you a call to discuss in just a few” — that promise is now two and a half hours old and the seller is holding a PDF nobody has walked him through. ✅ AND ONE ALARM FROM THIS AFTERNOON IS NOW DISPROVEN: the theory that ShowingTime stopped routing to you is wrong — the Willow Point confirmation landed in your own inbox at 3:25 PM. Only the REQUEST notice never came.",
   "stats": {
-    "showings14d": 14,
-    "feedback14d": 10,
-    "gaps": 5
+    "showings14d": 15,
+    "feedback14d": 9,
+    "gaps": 6
   },
   "hotSignals": [
     {
-      "addr": "1709 Fieldstone Cir",
-      "date": "8/19",
-      "isNew": false,
-      "signal": "🔥 THE BUYER'S AGENT ASKED YOU TO PICK UP AND NOBODY HAS — and this morning your own seller receipted it. Robert B. texted “let me know when you have a second” at 4:14 PM Wednesday, eight minutes after writing that he would speak with his buyers about the signed inspection addendum and roof report. ⭐ AT 11:25 TODAY YOUR SELLER ASKED WHETHER THE BUYERS HAD SAID ANYTHING — which independently confirms the answer is still owed, and that it is owed TODAY.",
-      "action": "Call Robert B. today and collect the answer on the roof report — the call is two days overdue and your seller asked about it herself this morning. While you have him, settle the open appraisal status with the lender."
+      "addr": "198 Rena Dr",
+      "date": "8/21",
+      "isNew": true,
+      "signal": "🔥 AN OFFER, NOT A FORM — and your name is already on a promise. At 3:50 PM your closing coordinator emailed the seller an estimated net sheet on a live offer and wrote “Gene will give you a call to discuss in just a few”; nine minutes later she texted that the buyers can move the close to 9/21 and the preapproval was on its way. She had already tried the seller by phone and gotten voicemail.",
+      "action": "Call the seller tonight and walk him through the net sheet line by line — and say the contingency out loud: these buyers must close their own house on 9/21 first. Do not let a PDF he has not been walked through be the first version of this offer he forms an opinion about."
+    },
+    {
+      "addr": "225 Willow Point Cir",
+      "date": "8/21",
+      "isNew": true,
+      "signal": "🆕 THE FIRST SHOWING OF THIS LISTING'S LIFE WAS HELD AT 4:30 THIS AFTERNOON, DAY THREE ON MARKET — and it was 21 seconds from being rescheduled. The buyer's agent texted at 2:55 PM asking whether the 4:30 was still on “or do I need to reschedule for tomorrow” with nobody answering; the confirmation came through at 3:25 PM.",
+      "action": "Call the buyer's agent tomorrow morning for a read while the walk-through is fresh — there is no feedback form on this address yet and a first tour on a three-day-old listing is the most honest price signal you will get all week. Then call the sellers with it; the seller note is drafted and unsent in your Gmail."
     },
     {
       "addr": "355 Comanche St",
       "date": "8/15",
       "isNew": false,
-      "signal": "🔥 STILL THE BEST BUYER READ ON THE BOARD AND NOW ON DAY SIX. Amy G. of Ethos International filed interested — YES and wrote that her buyers have just started looking, really like the property, and have put it at the TOP of their list. ⭐ SHE LEFT “PRICED RIGHT” BLANK — the fifth consecutive read since the cut to decline the price question entirely. 🔴 AND SHE REPORTED THE BASEMENT LIGHTS WOULD NOT COME ON, which nobody has confirmed either way.",
-      "action": "Call her, don't write. Answer the basement lights first — buyers who have just started looking are touring other homes this week with a dark basement as their last memory of yours. Then ask the question her blank price field invites: what would it take."
+      "signal": "🔥 STILL THE BEST BUYER READ ON THE BOARD AND NOW ON DAY SIX. Amy G. of Ethos International filed interested — YES and wrote that her buyers have just started looking, really like the property, and it is at the TOP of their list. She also phoned from inside the house mid-showing, so this is a returned call, not a cold one. She left “priced right” blank and reported the basement lights would not come on.",
+      "action": "Call her — do not write. Two questions: what would it take, and what is behind the blank price answer. Then answer the basement lights, which is the only complaint on this file nobody has addressed and is probably a breaker, not a repair bill."
     },
     {
       "addr": "2368 Ridge Trail",
       "date": "8/19",
       "isNew": false,
-      "signal": "🔥 NOT A SHOWINGTIME FORM — THE BUYER HIMSELF, BY TEXT. Adin D. named his gap under the ask, told you to save his number as a standing investor, and added “Happy to have you represent me.” Two days on, both of his questions — is there room, and will you represent me — are still unanswered.",
-      "action": "One call does both jobs. And his number is now the best-supported figure on this house: Thursday's form made it four independent reads calling the price too high."
+      "signal": "🔥 NOT A SHOWINGTIME FORM — THE BUYER HIMSELF, BY TEXT. Adin D. named his gap under the ask, told you to save his number as a standing investor buyer, and wrote “Happy to have you represent me.” A fourth independent agent read landed Thursday evening calling the price too high, with staging scored 1 of 5 and a pre-inspection named as the cheaper fix.",
+      "action": "Call Adin, then take the four-read stack to the institutional seller — the ask is not a debate anymore, and the agent handed you a lever that is not a price cut."
     },
     {
       "addr": "821 Martinwood Rd",
       "date": "8/9",
       "isNew": false,
-      "signal": "🔥 THE STRONGEST SINGLE WORD ANY AGENT HAS FILED ON THIS BOARD, AND IT IS TWELVE DAYS OLD. Wanda W. of Millennium Homes answered the interest question with the single word “Very” and left every other field blank. Two other agents toured the same weekend and both passed on SIZE, not price — verified three ways.",
-      "action": "Call her. It is a team listing rather than yours, which is exactly why it keeps sliding — and exactly why one call would be unusual enough to matter. Do not read the two passes as a price signal; the objection is square footage."
+      "signal": "🔥 THE STRONGEST SINGLE WORD ANY AGENT HAS FILED ON THIS BOARD, AND IT IS NOW TWELVE DAYS OLD. Wanda W. of Millennium Homes answered the interest question with “Very” — not yes, very — on a weekend when two other agents in the same 24 hours filed not interested.",
+      "action": "Call her. Twelve days of silence on a “very” is the cheapest loss on this whole board, and she is the only one of the three who wanted it."
     }
   ],
   "upcoming": [
-    "🆕 SUN 8/23 12:30 PM — 225 WILLOW POINT CIR. ⚠️ CONFIRMED BY YOUR SELLER BY TEXT AT MIDDAY TODAY AND NOT BOOKED ANYWHERE — no ShowingTime request, no confirmation in the feed, and the board had it recorded the other way two hours earlier. ⭐ IT WOULD BE THIS LISTING'S FIRST TOUR since it went live Wednesday, and the agent is taking three addresses in one run. ⛔ Get it into the scheduler; a text-only showing is the one that gets missed.",
-    "📭 NOTHING ELSE IS BOOKED ANYWHERE ON THE SHOWING CALENDAR — not one other confirmed future showing, walk-through, inspection or appraisal in the feed. The last tour of any kind was Thursday lunchtime at 2368 Ridge Trail, and that one has already filed its form. ⚠️ Six active listings are carrying no forward date at all.",
-    "⏰ THU 8/28 — 195 LAKE VIEW CIR closes, and that date MOVED UP this morning. 🔴 The engine caught at 11:05 that the brokerage's commission disbursement authorisation had been read as a lender clear-to-close — it is not one — and that the 8/31 date this board carried is superseded by title's 8/28. ⭐ SEVEN DAYS, NOT TEN. Three items are open — survey, home warranty and septic — and the title side has not replied in-thread since 8/20. Septic has lead time, which is what turns a paperwork list into a date risk.",
-    "📅 SAT 8/30 — 833 MADISON LN goes live. Nothing is booked because it is not on the market yet. ⭐ The Willow Point lesson applies: the gap that costs you is between “photos ready” and “live,” so 8/30 is the date to protect.",
-    "📆 MON 9/14 — 3350 ALTAMONT RD E21 closes. All three gates are essentially behind it; the only quiet item is the inspection paperwork sitting with your seller since 8/17, now five days.",
-    "📆 FRI 10/23 — 1709 FIELDSTONE CIR closes. Longest runway on the board, which makes this the cheapest week to settle the open appraisal question rather than the most expensive one."
+    "✅ TODAY 4:30 PM — 225 WILLOW POINT CIR: HELD. The first tour this listing has ever taken, day three on market. ⭐ No feedback form yet, which is normal two hours out — but this address has never once sent a REQUESTED notice, only CONFIRMED, so do not wait on the scheduler to tell you how it went. Call the agent.",
+    "📅 SUN 8/23 12:30 PM — 225 WILLOW POINT CIR (second tour). ⚠️ YOUR SELLER CONFIRMED THIS ONE BY TEXT AT MIDDAY FRIDAY AND IT IS STILL NOT IN THE SCHEDULER — no request, no confirmation. Today proved the address CAN reach you, which makes the Sunday gap a booking that was never entered rather than a routing fault. Verify it before Sunday or it evaporates the same way the 4:30 nearly did.",
+    "⏰ THU 8/28 — 195 LAKE VIEW CIR closes, a week sooner than this board said on Wednesday. 🔴 Three items are still open in a thread nobody answered: survey, home warranty, and the septic/sewer inspection. ⭐ SEPTIC HAS LEAD TIME — a problem found on 8/27 does not close on 8/28. This is the one date on the board where waiting is expensive.",
+    "📅 SAT 8/30 — 833 MADISON LN goes live. Nothing is booked because it is not on the market yet. ⭐ TODAY IS THE ARGUMENT FOR PRE-BOOKING IT: Willow Point sat three days with paid ads running before anyone toured it, and its first showing almost got rescheduled for want of one reply.",
+    "📆 MON 9/14 — 3350 ALTAMONT RD E21 closes. All three gates are behind it; the only quiet item is the inspection paperwork sitting with your seller since 8/17, now five days.",
+    "📆 FRI 10/23 — 1709 FIELDSTONE CIR closes. Longest runway on the board. The roof report and inspection addendum went out Thursday 1:21 PM and were acknowledged at 4:06 PM — the buyer's answer is the next thing owed, expected into the weekend.",
+    "📭 NOTHING ELSE IS BOOKED ANYWHERE ON THE SHOWING CALENDAR — not one other confirmed future tour, walk-through, inspection or appraisal in the feed. ⚠️ Eleven of your twelve tracked listings have zero forward activity scheduled, including the $1,150,000 listing that has never had a tour booked at all."
   ],
   "listings": [
     {
@@ -77,7 +85,7 @@
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "🔥 ACTIVE — four tours in nine days, and the one YES is now day six",
+      "status": "🔥 ACTIVE — four tours in nine days, and the one YES is now day six with no call placed",
       "showings14d": 4,
       "feedback": [
         {
@@ -162,26 +170,28 @@
       "addr": "198 Rena Dr",
       "city": "Springville",
       "price": "$450,000",
-      "client": "Prior seller",
-      "status": "🛑 EXPIRED 8/17 — off the board, sign and lockbox retrieved",
+      "client": "Don & Ann C.",
+      "status": "🔥 OFFER IN HAND — net sheet with the seller since 3:50 PM, and the promised call has not happened",
       "showings14d": 2,
       "feedback": [],
       "gaps": [
         "Tue 8/11 2:15 PM showing — no feedback ever returned",
-        "Fri 8/14 10:30 AM showing — no feedback ever returned, and this one was a SECOND showing by the same agent"
+        "Fri 8/14 10:30 AM showing — no form ever returned, and this repeat visit is very likely the buyer now making the offer"
       ],
-      "note": "🔍 KEPT ON THE BOARD FOR ONE REASON: the last tour this listing ever took was a repeat visit by the same buyer's agent, the morning the listing agreement expired — and no read ever came back on it. That is an open question about a live buyer on a house that is no longer listed. Everything else here is closed."
+      "note": "🚨 THIS CARD SAID “EXPIRED, OFF THE BOARD” AT LUNCHTIME AND THAT READ IS NOW SUPERSEDED. At 3:50 PM your closing coordinator emailed the seller an estimated net sheet on a live offer and wrote, verbatim, “Gene will give you a call to discuss in just a few.” Nine minutes later she texted you that the buyers can move the closing to 9/21 — the date they close on their own house — and that the preapproval was inbound. ⚠️ SHE HAD ALREADY TRIED THE SELLER BY PHONE AND GOT VOICEMAIL, so the only warm channel left on this deal is yours. ⭐ THE HONEST READ ON THE OFFER ITSELF: a buyer who must sell first is a contingency, not a closing — which makes the call about walking him through the sheet AND naming that risk out loud, not just delivering good news. 🔍 IT ALSO ANSWERS THE QUESTION THIS CARD HAS CARRIED FOR A WEEK: the repeat showing on 8/14, the morning the agreement expired, was a real buyer. No feedback form ever came back — an offer did."
     },
     {
       "addr": "225 Willow Point Cir",
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "✅ ACTIVE — first tour confirmed for Sunday 12:30, and it is not booked anywhere",
-      "showings14d": 0,
+      "status": "🔥 ACTIVE — first showing of its life held today at 4:30 PM, day 3 on market",
+      "showings14d": 1,
       "feedback": [],
-      "gaps": [],
-      "note": "🆕 A SUNDAY 12:30 SHOWING WAS CONFIRMED BY YOUR SELLER BY TEXT AT MIDDAY TODAY — the agent is taking three addresses in one run. ⚠️ IT IS NOT IN THE SCHEDULER: no request and no confirmation exists in the ShowingTime feed, and the board carried it the other way as recently as 11 AM. ⭐ THIS WOULD BE THE LISTING'S FIRST TOUR since it went live Wednesday 2:06 PM. ⚠️ Separately, four paid-ad leads off this address are still unworked on day three, and two of the first three were renters — a targeting problem, not a lead-quality one."
+      "gaps": [
+        "Fri 8/21 4:30 PM showing — held about two hours ago, no feedback yet (normal at this age; the clock starts now)"
+      ],
+      "note": "🆕 IT HAPPENED, AND IT NEARLY DID NOT. At 2:55 PM the buyer's agent texted asking whether the 4:30 was on — “or do I need to reschedule for tomorrow” — with no answer from anyone. The machine caught that text about ten minutes old, raised it with 85 minutes of runway, and the ShowingTime confirmation came through at 3:25 PM, twenty-one seconds after the alarm went out. ⭐ THE SHOWING WAS HELD. This listing went live Wednesday 2:06 PM and took its first tour on day three. ✅ THE ROUTING SCARE IS CLOSED: this afternoon's read that ShowingTime had stopped mailing you on this address was wrong — the CONFIRMED notice arrived at your own inbox. 🔍 WHAT IS GENUINELY MISSING IS THE REQUEST NOTICE: every other listing on this board sends REQUESTED and then CONFIRMED; this address has only ever sent CONFIRMED. ⚠️ Separately, the paid-ad lane on this address is producing — a fourth ad buyer registered on the site four minutes after clicking the ad this afternoon — and the first three are still unworked on day three."
     },
     {
       "addr": "5167 Lake Crest Cir",

@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 21, 2026 · 7:50 AM CT",
-  "nextSweep": "this evening",
-  "headline": "A price cut on Dauphin Island this morning — 601 Bienville came down to $374,900, the only number on your whole board that moved — and every other beach house re-checked live at exactly the price you last saw, nothing sold and nothing pending.",
+  "updated": "Aug 21, 2026 · 6:45 PM CT",
+  "nextSweep": "tomorrow morning",
+  "headline": "Two Dauphin Island houses that went missing from the listing index this morning are back on it tonight at exactly the prices you last saw — 208 Isabella at $499,000 and 107 Portier at $549,900 — so nothing sold, and the only number that has moved all day is still 601 Bienville, cut to $374,900.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you want to act on directly with the listing broker. The next retry is **Aug 28**. The beach lane below is unaffected and was re-verified live this morning."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you are serious about directly with the listing broker. **Next retry: the morning of Aug 28.** No new inventory was hunted this evening for the same reason — the block applies to searching as well as to re-checking."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you want to act on directly with the listing broker. The next retry is **Aug 28**. The beach lane below is unaffected and was re-verified live this morning."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you are serious about directly with the listing broker. **Next retry: the morning of Aug 28.** No new inventory was hunted this evening for the same reason — the block applies to searching as well as to re-checking."
     },
     {
       "id": "beach",
@@ -1144,7 +1144,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED LIVE THIS MORNING — AND ONE NUMBER MOVED.** 601 Bienville was cut from $399,000 to $374,900. Everything else came back at exactly the price shown and not one house is marked pending, under contract or sold. Both Gulf Shores sources answered first try (17330 State Hwy 180 $599,900 · 1425 W Lagoon $599,000 · 1469 W Lagoon $589,900) and 107 Portier re-opened directly on its own property page at $549,900. ⚠️ Three houses were missing from the Dauphin Island index page this morning — that is not evidence of a sale, and this board has been burned by that before: 107 Portier vanished from the index once while its own page still showed it live, and 230 Chenault disappeared and reappeared the same day. They are carried unchanged and will be verified against their own pages on the next sweep. 🔍 No new detached 3-bedroom homes under $600K turned up beyond inland golf-course subdivisions, which are not what this lane is for."
+      "note": "✅ **RE-VERIFIED LIVE AGAIN THIS EVENING — AND THE MORNING'S TWO QUESTION MARKS BOTH CAME BACK CLEAN.** 208 Isabella ($499,000) and 107 Portier ($549,900) were absent from the Dauphin Island index at 7:40 this morning and are both back on it tonight at unchanged prices. That is now the third time this index has dropped a live listing and re-shown it within a day, which is exactly why absence is never treated here as a sale. 📉 **601 Bienville is still the only number that has moved** — cut from $399,000 to $374,900. 🔍 **One id is still open: 914 Cadillac Ave ($354,000) has now been off the index two checks running.** It is carried unchanged rather than removed, and if it is absent again tomorrow morning it comes off the board. Everything else re-checked at exactly the price shown, and not one house is marked pending, under contract or sold."
     }
   ]
 }
