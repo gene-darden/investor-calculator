@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 21, 2026 · 6:45 PM CT",
+  "updated": "Aug 22, 2026 · 5:42 PM CT",
   "nextSweep": "tomorrow morning",
-  "headline": "Two Dauphin Island houses that went missing from the listing index this morning are back on it tonight at exactly the prices you last saw — 208 Isabella at $499,000 and 107 Portier at $549,900 — so nothing sold, and the only number that has moved all day is still 601 Bienville, cut to $374,900.",
+  "headline": "The Dauphin Island index came back clean tonight — nine of the ten houses carried there re-confirmed at exactly the prices you last saw, 601 Bienville holding its cut to $374,900 — and 914 Cadillac has now been absent three checks running, so it comes off the board rather than sitting here pretending to be for sale.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you are serious about directly with the listing broker. **Next retry: the morning of Aug 28.** No new inventory was hunted this evening for the same reason — the block applies to searching as well as to re-checking."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is not re-checked on every sweep — that would burn time and tell you nothing. **No attempt was made tonight:** the next eligible retry is the morning of **Fri Aug 28**, one week after the last one failed. Everything below reflects the last successful pull on **Jul 29** — treat prices, availability and status as three-and-a-half weeks old and confirm anything before you act on it. ⭐ The one lane that is genuinely live is the beach lane, and it was re-verified tonight."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, including a fresh retry this morning, so by standing rule this lane is not re-checked every run — that would burn time and tell you nothing. Everything below reflects the last successful pull on **Jul 29**; treat prices and availability as of that date and confirm anything you are serious about directly with the listing broker. **Next retry: the morning of Aug 28.** No new inventory was hunted this evening for the same reason — the block applies to searching as well as to re-checking."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is not re-checked on every sweep — that would burn time and tell you nothing. **No attempt was made tonight:** the next eligible retry is the morning of **Fri Aug 28**, one week after the last one failed. Everything below reflects the last successful pull on **Jul 29** — treat prices, availability and status as three-and-a-half weeks old and confirm anything before you act on it. ⭐ The one lane that is genuinely live is the beach lane, and it was re-verified tonight."
     },
     {
       "id": "beach",
@@ -1028,30 +1028,6 @@
           "badge": null
         },
         {
-          "id": "914-cadillac-ave",
-          "address": "914 Cadillac Ave",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 354000,
-          "leaseRate": null,
-          "sf": null,
-          "beds": 4,
-          "baths": 3,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Island interior, Cadillac Ave corridor",
-          "rentalHistory": null,
-          "highlights": [
-            "4 bed / 3 bath — the most bedrooms per dollar anywhere on this board",
-            "Cheapest four-bedroom on the island in this morning's pull"
-          ],
-          "fitNote": "⭐ BACK ON THE BOARD. It was carried in late July, dropped off, and re-verified live this morning at $354,000 still active. A 4/3 at that number is the strongest bedrooms-per-dollar on the lane — and three full baths matters more than square footage when the whole point is sleeping two families at once.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": null
-        },
-        {
           "id": "302-audubon-pl",
           "address": "302 Audubon Pl",
           "city": "Dauphin Island",
@@ -1144,7 +1120,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED LIVE AGAIN THIS EVENING — AND THE MORNING'S TWO QUESTION MARKS BOTH CAME BACK CLEAN.** 208 Isabella ($499,000) and 107 Portier ($549,900) were absent from the Dauphin Island index at 7:40 this morning and are both back on it tonight at unchanged prices. That is now the third time this index has dropped a live listing and re-shown it within a day, which is exactly why absence is never treated here as a sale. 📉 **601 Bienville is still the only number that has moved** — cut from $399,000 to $374,900. 🔍 **One id is still open: 914 Cadillac Ave ($354,000) has now been off the index two checks running.** It is carried unchanged rather than removed, and if it is absent again tomorrow morning it comes off the board. Everything else re-checked at exactly the price shown, and not one house is marked pending, under contract or sold."
+      "note": "✅ **RE-VERIFIED LIVE TONIGHT — AND THE BOARD GOT ONE HOUSE SHORTER ON PURPOSE.** Nine of the ten Dauphin Island houses carried here came back on the index at unchanged prices: 208 Isabella $499,000, 107 Portier $549,900, 412 Bienville $534,900, 703 Hunley $492,000, 1127 Chaumont $489,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000 and 601 Bienville holding its cut at $374,900. 🗑️ **Since last sweep: 914 Cadillac Ave ($354,000) is removed** — absent from the index three checks running, which is the threshold this lane set for itself rather than a guess. ❓ **Two question marks, both carried rather than cut:** 901 Lockenbie Pl ($595,000) is off the index for the first time, and 413 Windmill Ridge Rd ($549,000) is off page one of the Gulf Shores feed for a second check — that feed paginates at ~21 of 28, so absence there is not a removal. ⚠️ This index has now dropped a live listing and re-shown it inside a day three separate times, so **absence is not evidence of a sale** and one missing check is never enough to delete a house. ✅ 4660 Casablanca Dr re-verified directly at the source: still ACTIVE, $599,000, 4 bedrooms. 🔍 No new detached 3BR+ inventory under $600K appeared tonight — the only fresh Dauphin Island house in range, 106 Ryan Ct at $410,000, is a 2-bed 980 sq ft cottage and fails the bedroom floor."
     }
   ]
 }

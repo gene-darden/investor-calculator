@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-22 12:38 PM CT",
-  "headline": "🔥 225 WILLOW POINT HAS TAKEN THREE TOURS IN TWENTY-ONE HOURS AFTER TAKING NONE IN ITS FIRST THREE DAYS — 9:00 AM and noon today, from two different brokerages, plus yesterday's 4:30. ⚠️ ZERO FEEDBACK FORMS HAVE COME BACK ON ANY OF THE THREE, and this address has never once sent a REQUESTED notice — only CONFIRMED — so the scheduler is not going to tell you how they went. ⭐ CALL BOTH OF TODAY'S AGENTS THIS AFTERNOON: a market that finds a house all at once is telling you something about the price, and the two people who can say what it is walked through it a few hours ago.",
+  "updated": "2026-08-22 5:42 PM CT",
+  "headline": "⏳ TWO AGENTS WALKED 225 WILLOW POINT TODAY AND NEITHER HAS BEEN CALLED — 9:00 AM and noon, two different brokerages, and it is now half past five. ⭐ NO FORM IS COMING ON THAT ADDRESS, EVER: three CONFIRMED notices and zero REQUESTED notices across its entire life means there is no feedback loop attached to it, so the phone is the only instrument you have and the day is nearly spent. 🆕 QUIETLY, 2368 RIDGE TRAIL TOOK A FIFTH TOUR AT 3:00 THIS AFTERNOON from an agent who has never shown it — one day after the fourth independent read called the price too high. That address DOES return forms, so watch for a fifth read tonight.",
   "stats": {
-    "showings14d": 16,
+    "showings14d": 17,
     "feedback14d": 9,
-    "gaps": 8
+    "gaps": 9
   },
   "hotSignals": [
     {
       "addr": "225 Willow Point Cir",
       "date": "8/22",
-      "isNew": true,
+      "isNew": false,
       "signal": "🔥 THREE TOURS IN TWENTY-ONE HOURS ON A FOUR-DAY-OLD LISTING THAT HAD NEVER BEEN SHOWN. Lindsey H. of Epique walked it 9:00–9:30 this morning; Anna C. of A Squared Properties walked it 12:00–12:30, booked only four hours ahead; a third agent booked 4:00 PM and cancelled ten minutes later. Two different brokerages inside one morning, on top of yesterday's first-ever 4:30.",
-      "action": "Call Lindsey H. and Anna C. this afternoon, before the day gets away — no feedback form exists on this address and none is coming, because it has never sent a REQUESTED notice in its life. Ask each the same two questions: how did it show against what else they are seeing, and is the number right. Then call the Stricklands with both answers — the seller update draft in your Gmail was written when there was one showing and is now two behind."
+      "action": "🔴 THIS IS NOW A TONIGHT CALL, NOT AN AFTERNOON ONE — Lindsey H.'s tour ended about eight and a half hours ago and Anna C.'s about five. ⭐ No feedback form exists on this address and none is coming, because it has never sent a REQUESTED notice in its life. Ask each the same two questions: how did it show against what else they are seeing, and is the number right. Then call the Stricklands with both answers — the seller update sitting in your Drafts was written when there was one showing and is now two behind."
     },
     {
       "addr": "198 Rena Dr",
       "date": "8/22",
-      "isNew": true,
+      "isNew": false,
       "signal": "⚖️ THE COUNTER IS LIVE AND THE PAPER IS THEIRS TO SEND. Your seller approved the $443,000 counter at 9:01 this morning — “we are good to go with your recommendation” — you answered at 9:17, and it went to the buyer's agent at 10:00 with the furniture carve-out, acknowledged at 10:01. The buyer's last number was $434,000.",
-      "action": "Chase the paperwork, not the price: the written counter coming back and the preapproval, which is now about a day late. And keep saying the real risk out loud to your seller — these buyers must close their own house first, which makes this a contingency rather than a closing."
+      "action": "🆕 THE ANSWER MOVED THIS AFTERNOON AND IT IS NOT A NO: your seller replied to the recommendation with “mom wants to sleep on it,” so the decision lands Sunday. ⭐ That makes tonight a paperwork chase, not a price call — the written counter coming back and the preapproval, which is now about a day late. ⚠️ And keep saying the real risk out loud: these buyers must close their own house first, which makes this a contingency rather than a closing."
     },
     {
       "addr": "355 Comanche St",
@@ -33,7 +33,7 @@
       "date": "8/19",
       "isNew": false,
       "signal": "🔥 NOT A SHOWINGTIME FORM — THE BUYER HIMSELF, BY TEXT. Adin D. named his gap under the ask, told you to save his number as a standing investor buyer, and wrote “Happy to have you represent me.” A fourth independent agent read landed Thursday calling the price too high, with staging scored 1 of 5 and a pre-inspection named as the cheaper fix.",
-      "action": "Call Adin, then take the four-read stack to the institutional seller — the ask is not a debate anymore, and the agent handed you a lever that is not a price cut."
+      "action": "🆕 NEW REASON TO DIAL HIM TONIGHT: the house took a fifth tour at 3:00 this afternoon from an agent who has never shown it. ⭐ Call Adin, then take the four-read stack plus a same-day tour to the institutional seller — the ask is not a debate anymore, and the last agent handed you a lever that is not a price cut."
     },
     {
       "addr": "821 Martinwood Rd",
@@ -44,14 +44,15 @@
     }
   ],
   "upcoming": [
-    "✅ TODAY 9:00 AM — 225 WILLOW POINT CIR: HELD. Lindsey H. of Epique, booked last night. No feedback form, and none is coming from this address.",
-    "✅ TODAY 12:00 PM — 225 WILLOW POINT CIR: HELD, and it was booked only four hours beforehand. Anna C. of A Squared Properties. ⭐ THIS IS THE FRESHEST READ AVAILABLE ANYWHERE ON THE BOARD — it finished about an hour ago.",
+    "✅ TODAY 9:00 AM — 225 WILLOW POINT CIR: HELD, roughly eight and a half hours ago. Lindsey H. of Epique, booked last night. No feedback form, and none is coming from this address.",
+    "✅ TODAY 12:00 PM — 225 WILLOW POINT CIR: HELD, roughly five hours ago, and it was booked only four hours beforehand. Anna C. of A Squared Properties. ⚠️ Both of today's reads are still uncalled.",
+    "🆕 ✅ TODAY 3:00 PM — 2368 RIDGE TRAIL: HELD, about two and a half hours ago, and it is the freshest event on the board. A first-time agent on this listing — the fifth showing in thirteen days and the first since Thursday's read. ⭐ UNLIKE WILLOW POINT, THIS ADDRESS RETURNS FORMS: two of the last four showings produced written feedback, so a fifth read may land tonight or tomorrow morning.",
     "❌ TODAY 4:00 PM — 225 WILLOW POINT CIR: CANCELLED. Booked at 7:39 this morning and killed at 7:49, ten minutes later, before you would ever have seen it. ⚠️ Worth one question to the seller: was anyone home, or did something at the house turn it away?",
-    "📭 NOTHING IS BOOKED ANYWHERE ON THE FORWARD CALENDAR — not one confirmed future tour, walk-through, inspection or appraisal in the feed. ⚠️ The Sunday 12:30 your seller mentioned by text on Friday never appeared in the scheduler; today's two Saturday bookings arrived instead. Eleven of your twelve tracked listings have zero forward activity scheduled, including the $1,150,000 listing that has never had a tour booked at all.",
-    "⏰ FRI 8/28 4:00 PM — 195 LAKE VIEW CIR closes, at the title firm's Moody office; they put that date in writing, so the 8/31 the brokerage system still prints is the stale one. 🔴 Three items are open in a thread nobody answered: survey, home warranty, septic/sewer inspection. ⭐ SEPTIC HAS LEAD TIME — a problem found on the 27th does not close on the 28th. Six days, two of them a weekend.",
+    "📭 NOTHING IS BOOKED ANYWHERE ON THE FORWARD CALENDAR — not one confirmed future tour, walk-through, inspection or appraisal in the feed. ⚠️ The Sunday 12:30 your seller mentioned by text on Friday still has not appeared in the scheduler; today's three bookings arrived instead. Eleven of your twelve tracked listings have zero forward activity scheduled, including the $1,150,000 listing that has never had a tour booked at all.",
+    "⏰ FRI 8/28 4:00 PM — 195 LAKE VIEW CIR closes, at the title firm's Moody office; they put that date in writing, so the 8/31 the brokerage system still prints is the stale one. 🔴 Three items are open in a thread nobody answered: survey, home warranty, septic/sewer inspection. ⭐ SEPTIC HAS LEAD TIME — a problem found on the 27th does not close on the 28th. Six days, and tomorrow is one of the two that are a weekend.",
     "📅 SAT 8/30 — 833 MADISON LN goes live. Nothing is booked because it is not on the market yet. ⭐ TODAY IS THE ARGUMENT FOR PRE-BOOKING IT: Willow Point sat three days with paid ads running and no tours, then took three in twenty-one hours once the market found it.",
     "📆 MON 9/14 — 3350 ALTAMONT RD E21 closes. All three gates are behind it; the quiet items are paperwork — inspection requests sitting with your seller since 8/17, and a title firm that still cannot find your seller's name in title.",
-    "📆 FRI 10/23 — 1709 FIELDSTONE CIR closes. Longest runway on the board. The roof report and inspection addendum were acknowledged Thursday afternoon; the buyers' answer is the next thing owed and was expected into this weekend."
+    "📆 FRI 10/23 — 1709 FIELDSTONE CIR closes. Longest runway on the board. More escrow and addendum traffic landed today, but all of it is movement on the inspection step rather than past it; the buyers' answer is still the next thing owed."
   ],
   "listings": [
     {
@@ -59,7 +60,7 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔥 ACTIVE — three tours in 21 hours after none in its first three days",
+      "status": "⏳ ACTIVE — three tours held, zero feedback, zero calls back",
       "showings14d": 3,
       "feedback": [],
       "gaps": [
@@ -67,7 +68,7 @@
         "Sat 8/22 9:00 AM showing — held this morning, no feedback returned",
         "Sat 8/22 12:00 PM showing — held about an hour ago, no feedback returned"
       ],
-      "note": "🆕 THE STORY OF THE WEEKEND. This listing went live Wednesday and sat three days with paid ads running and not one tour. Then: yesterday 4:30 PM (which nearly got rescheduled for want of one reply), today 9:00 AM with Lindsey H. of Epique, today noon with Anna C. of A Squared Properties — booked only four hours ahead. A fourth agent booked 4:00 PM at 7:39 this morning and cancelled at 7:49. ⚠️ THREE HELD TOURS, ZERO FEEDBACK FORMS, AND NONE ARE COMING: every other listing on this board sends REQUESTED and then CONFIRMED; this address has only ever sent CONFIRMED, so there is no feedback loop attached to it at all. ⭐ THAT MAKES THE PHONE THE ONLY INSTRUMENT YOU HAVE HERE, and two of the three agents walked the house within the last four hours. 🔍 The paid-ad lane on this address is also producing — four ad buyers so far, none of them called."
+      "note": "⏳ THE STORY OF THE WEEKEND, STILL UNFINISHED AT SUPPERTIME. This listing went live Wednesday and sat three days with paid ads running and not one tour. Then: yesterday 4:30 PM (which nearly got rescheduled for want of one reply), today 9:00 AM with Lindsey H. of Epique, today noon with Anna C. of A Squared Properties — booked only four hours ahead. A fourth agent booked 4:00 PM at 7:39 this morning and cancelled at 7:49. ⚠️ THREE HELD TOURS, ZERO FEEDBACK FORMS, AND NONE ARE COMING: every other listing on this board sends REQUESTED and then CONFIRMED; this address has only ever sent CONFIRMED, so there is no feedback loop attached to it at all. 🔴 THAT MAKES THE PHONE THE ONLY INSTRUMENT — and eight and a half hours have now passed since the first of today's two tours. 🔍 The paid-ad lane on this address is also producing: four ad buyers so far, none of them called either."
     },
     {
       "addr": "198 Rena Dr",
@@ -88,8 +89,8 @@
       "city": "Birmingham",
       "price": "$550,000",
       "client": "Opendoor — institutional seller",
-      "status": "🔥 ACTIVE — four straight reads calling it too high",
-      "showings14d": 4,
+      "status": "🆕 ACTIVE — fifth tour today, four straight “too high” reads behind it",
+      "showings14d": 5,
       "feedback": [
         {
           "date": "8/20",
@@ -105,10 +106,11 @@
         }
       ],
       "gaps": [
+        "🆕 Sat 8/22 3:00 PM showing — held about two and a half hours ago, no feedback yet (and on this address it often does come)",
         "Sat 8/15 11:10 AM showing — no feedback returned, a week out",
         "Sat 8/15 4:00 PM showing — no feedback returned, a week out"
       ],
-      "note": "⭐ THE EVIDENCE STACK IS UNUSUALLY STRONG FOR A PRICE CONVERSATION: four independent agent reads saying too high, a named live buyer who stated his own number in writing, and the worst staging score on the board. An institutional seller is the most number-driven counterparty you will ever carry — this is exactly the file that moves one. 🔍 Two open reads from a week ago would make it six. ⚠️ No new activity since Thursday."
+      "note": "🆕 THE FRESHEST EVENT ON THE BOARD LANDED HERE AT 3:00 THIS AFTERNOON — a first-time agent on this listing, the fifth showing in thirteen days and the first since Thursday's read. ⭐ WORTH WAITING ON, UNLIKE WILLOW POINT: this address actually returns forms — two of the last four showings produced written feedback — so a fifth read is a real possibility tonight or tomorrow morning. ⭐ THE EVIDENCE STACK IS ALREADY UNUSUALLY STRONG FOR A PRICE CONVERSATION: four independent reads saying too high, a named live buyer who stated his own number in writing, and the worst staging score on the board. An institutional seller is the most number-driven counterparty you will ever carry — this is exactly the file that moves one, and a same-day tour is the detail that makes the call land."
     },
     {
       "addr": "355 Comanche St",
