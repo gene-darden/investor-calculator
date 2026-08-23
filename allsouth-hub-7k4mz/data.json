@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 22, 2026 · 5:42 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "The Dauphin Island index came back clean tonight — nine of the ten houses carried there re-confirmed at exactly the prices you last saw, 601 Bienville holding its cut to $374,900 — and 914 Cadillac has now been absent three checks running, so it comes off the board rather than sitting here pretending to be for sale.",
+  "updated": "Aug 23, 2026 · 8:04 AM CT",
+  "nextSweep": "this evening",
+  "headline": "901 Lockenbie is back — the Dauphin Island house that vanished from the index on Friday reappeared this morning at the same $595,000, which settles it: that feed drops and re-shows live listings, and one absence never meant sold. All ten island houses and three Gulf Shores homes re-verified live at unchanged prices.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is not re-checked on every sweep — that would burn time and tell you nothing. **No attempt was made tonight:** the next eligible retry is the morning of **Fri Aug 28**, one week after the last one failed. Everything below reflects the last successful pull on **Jul 29** — treat prices, availability and status as three-and-a-half weeks old and confirm anything before you act on it. ⭐ The one lane that is genuinely live is the beach lane, and it was re-verified tonight."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-attempted every run. Prices, availability and status below are as of **July 29** and are not being represented as current. **No attempt was made this morning** — the rule permits one retry on the first morning run past each 7-day mark, and the last attempt was Aug 21, so the **next eligible retry is the morning of Aug 28.** New-inventory hunting against these sources is paused for the same reason. 🔍 The beach lane below is unaffected and was re-verified live this morning."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is not re-checked on every sweep — that would burn time and tell you nothing. **No attempt was made tonight:** the next eligible retry is the morning of **Fri Aug 28**, one week after the last one failed. Everything below reflects the last successful pull on **Jul 29** — treat prices, availability and status as three-and-a-half weeks old and confirm anything before you act on it. ⭐ The one lane that is genuinely live is the beach lane, and it was re-verified tonight."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-attempted every run. Prices, availability and status below are as of **July 29** and are not being represented as current. **No attempt was made this morning** — the rule permits one retry on the first morning run past each 7-day mark, and the last attempt was Aug 21, so the **next eligible retry is the morning of Aug 28.** New-inventory hunting against these sources is paused for the same reason. 🔍 The beach lane below is unaffected and was re-verified live this morning."
     },
     {
       "id": "beach",
@@ -809,31 +809,6 @@
           "photoUrl": "https://property-images.realgeeks.com/algulf/bd2ab912e926f5a51176c22a951bd1e1.jpg",
           "broker": "Griffin Realty",
           "mls": "7791898",
-          "badge": null
-        },
-        {
-          "id": "413-windmill-ridge-rd",
-          "address": "413 Windmill Ridge Rd",
-          "city": "Gulf Shores",
-          "state": "AL",
-          "price": 549000,
-          "beds": 3,
-          "baths": 2,
-          "sf": 1372,
-          "waterPosition": "water-view",
-          "rentalHistory": null,
-          "highlights": [
-            "Water views from every window — Little Lagoon",
-            "Beach access within a quarter mile",
-            "Full reno: quartz kitchen, new electrical/plumbing",
-            "0.32-ac wooded lot, never hurricane-damaged"
-          ],
-          "fitNote": "Lagoon view plus a quarter-mile beach walk in the West Beach corridor — prime STR positioning under $550K.",
-          "strNote": "This stretch generally falls inside Gulf Shores' permitted STR district — we verify the parcel before any offer.",
-          "url": "https://www.condoinvestment.com/listing/393671-not-applicable-residential-413-windmill-ridge-road-gulf-shores-al-36542/",
-          "photoUrl": null,
-          "broker": null,
-          "mls": "393671",
           "badge": null
         },
         {
@@ -1120,7 +1095,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED LIVE TONIGHT — AND THE BOARD GOT ONE HOUSE SHORTER ON PURPOSE.** Nine of the ten Dauphin Island houses carried here came back on the index at unchanged prices: 208 Isabella $499,000, 107 Portier $549,900, 412 Bienville $534,900, 703 Hunley $492,000, 1127 Chaumont $489,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000 and 601 Bienville holding its cut at $374,900. 🗑️ **Since last sweep: 914 Cadillac Ave ($354,000) is removed** — absent from the index three checks running, which is the threshold this lane set for itself rather than a guess. ❓ **Two question marks, both carried rather than cut:** 901 Lockenbie Pl ($595,000) is off the index for the first time, and 413 Windmill Ridge Rd ($549,000) is off page one of the Gulf Shores feed for a second check — that feed paginates at ~21 of 28, so absence there is not a removal. ⚠️ This index has now dropped a live listing and re-shown it inside a day three separate times, so **absence is not evidence of a sale** and one missing check is never enough to delete a house. ✅ 4660 Casablanca Dr re-verified directly at the source: still ACTIVE, $599,000, 4 bedrooms. 🔍 No new detached 3BR+ inventory under $600K appeared tonight — the only fresh Dauphin Island house in range, 106 Ryan Ct at $410,000, is a 2-bed 980 sq ft cottage and fails the bedroom floor."
+      "note": "✅ **RE-VERIFIED LIVE THIS MORNING, AND ONE OPEN QUESTION CLOSED IN THE GOOD DIRECTION.** All **ten** Dauphin Island houses came back on the index at exactly the prices carried here — 208 Isabella $499,000 · 107 Portier $549,900 · 412 Bienville $534,900 · 703 Hunley $492,000 · 1127 Chaumont $489,000 · 122 Hernando $399,000 · 230 Chenault $390,000 · 1003 Monberaut $384,000 · 601 Bienville $374,900 — **and 901 Lockenbie Pl is back at $595,000** after vanishing from that index on Friday. That is now the fourth time this feed has dropped and re-shown a live listing inside a day or two, so a single absence here is confirmed to mean nothing. ⭐ Gulf Shores: 17330 State Hwy 180 $599,900, 1425 W Lagoon $599,000 and 1469 W Lagoon $589,900 all re-confirmed unchanged. 🗑️ **Since last sweep: 413 Windmill Ridge Rd removed** — absent from its source for a third consecutive check, the same threshold that retired 914 Cadillac Ave. 🔍 New Gulf Shores inventory was screened this morning and none of it was added: what is coming on under $600,000 is inland golf-course-subdivision stock (Rocky Road Loop, Royal Troon, Saint Andrews, Hogan, Colony Parke), which is a weak fit for a lane that ranks water position first. Nothing water-adjacent, detached and 3+ bedrooms came on under the cap. ⚖️ Rental figures appear on a card only where the listing itself states them — none are estimated here."
     }
   ]
 }
