@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-24 10:20 AM CT",
-  "headline": "✅ YESTERDAY'S ALARM IS OFF THE BOARD AND IT ENDED WELL: all three houses on the 12:30 buyer tour were HELD, and all three listing offices asked you for feedback inside ninety minutes of each other — which is the receipt that the tour happened, and three replies you now owe. 🔴 THE UNPAID BILL IS STILL WILLOW POINT: the two agents who walked it Saturday morning are now roughly forty-eight hours uncalled, and no feedback form is coming on that address, ever. 🔍 Nothing new landed on your own listings since Saturday afternoon — Ridge Trail's fifth tour is two days old with no read back.",
+  "updated": "2026-08-24 10:40 AM CT",
+  "headline": "🎉 **225 WILLOW POINT JUST RETURNED THE FIRST FEEDBACK OF ITS LIFE — AND THE PRICE SURVIVED THE DIRECT QUESTION.** Anna C. of A Squared answered at 9:47 this morning, twenty minutes after your email: her buyers “really liked it,” every concern they raised is cosmetic, and when asked point-blank how $185,000 read against what else they have seen, she did not argue the number at all. ⭐ SHE ALSO CORRECTED THE RECORD: she was COVERING for Lindsey H., so Saturday's 9:00 and noon were ONE buyer party, not two brokerages. 🎯 She left you three answerable questions about the house — answer them today and you are talking to a buyer who liked it and never flinched at the price.",
   "stats": {
     "showings14d": 12,
-    "feedback14d": 6,
-    "gaps": 7
+    "feedback14d": 7,
+    "gaps": 5
   },
   "hotSignals": [
     {
       "addr": "225 Willow Point Cir",
-      "date": "8/22",
-      "isNew": false,
-      "signal": "🔥 THREE TOURS IN TWENTY-ONE HOURS ON A LISTING THAT HAD NEVER BEEN SHOWN. Lindsey H. of Epique walked it 9:00–9:30 Saturday morning; Anna C. of A Squared Properties walked it 12:00–12:30, booked only four hours ahead; a third agent booked 4:00 PM and cancelled ten minutes later. Two different brokerages inside one morning, on top of Friday's first-ever 4:30.",
-      "action": "🔴 A SECOND OVERNIGHT HAS PASSED AND NEITHER AGENT HAS BEEN CALLED — roughly forty-eight hours now, up from twenty-three yesterday. ⭐ No feedback form exists on this address and none is coming, because it has never sent a REQUESTED notice in its life; the phone is the entire loop here. 🎯 Ask each the same two questions: how did it show against what else they are seeing, and is the number right. 🔍 You now have new leverage for that call — their sellers' own buy side toured three houses yesterday, so both halves of this family's move turn on the same conversation."
+      "date": "8/24",
+      "isNew": true,
+      "signal": "🎉 FIRST-EVER FEEDBACK ON THIS LISTING, AND THE PRICE WENT UNCHALLENGED. Anna C. of A Squared Properties replied at 9:47 AM, twenty minutes after your email: her buyers “really liked it,” the house “showed very well,” and every concern she raised is cosmetic by her own description. ⭐ You asked point-blank how $185,000 read against what else they have seen — and she did not take up the number at all. 🔍 She also disclosed she was COVERING for Lindsey H., so Saturday's two showings were one buyer party.",
+      "action": "🎯 ANSWER HER THREE QUESTIONS TODAY — that is the whole move, and two of the three need your sellers first: is the living-room ceiling crack a settled Sheetrock joint, is crown molding going back in or being cut in with paint, and is the patched laundry-room ceiling an intentional access panel for the bathroom above. ⭐ A buyer who liked the house, never argued the price, and named three fixable cosmetic worries is one clear answer away from a second look. ⚠️ Do NOT let a machine answer this one — she is already in a live thread with you and replied to you personally in twenty minutes."
     },
     {
       "addr": "198 Rena Dr",
@@ -52,15 +52,20 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔥 ACTIVE — three tours held, zero feedback, ~48h uncalled",
+      "status": "🔥 ACTIVE — first-ever feedback in, price unchallenged",
       "showings14d": 3,
-      "feedback": [],
-      "gaps": [
-        "Fri 8/21 4:30 PM — first-ever showing, no form, no call",
-        "Sat 8/22 9:00 AM — Lindsey H. (Epique), ~48h uncalled",
-        "Sat 8/22 12:00 PM — Anna C. (A Squared Properties), ~46h uncalled"
+      "feedback": [
+        {
+          "date": "8/24",
+          "agent": "Anna C. · A Squared Properties",
+          "tone": "warm",
+          "note": "🎉 THE FIRST FEEDBACK THIS ADDRESS HAS EVER PRODUCED, and it came by email twenty minutes after you asked — not through the showing system, which has never sent a request here in the listing's life. ⭐ THE HEADLINE IS WHAT SHE DIDN'T SAY: you asked directly how $185,000 read against everything else her buyers have been through, and she did not argue the number at all. On this board a price question asked and not answered is the strongest form of agreement you get in writing. 🔍 HER WORDS ON THE HOUSE: the buyers “really liked it,” it “showed very well,” and “you can tell they definitely put in the work” — an unprompted compliment to your sellers' prep. ⚠️ THREE CONCERNS, ALL COSMETIC BY HER OWN READ: a crack in the living-room ceiling she thinks is a settled Sheetrock joint; whether crown molding is going back in the living room or being cut in with paint; and a patched ceiling opening in the laundry room she assumes is a deliberate access panel for the bathroom above. 🎯 Two of those are questions only your sellers can answer, and both answers are almost certainly reassuring."
+        }
       ],
-      "note": "🔴 A SECOND OVERNIGHT PASSED AND NEITHER SATURDAY AGENT HAS BEEN CALLED. Lindsey H. of Epique at 9:00 and Anna C. of A Squared Properties at noon, two different brokerages, both now roughly forty-eight hours cold. ⚠️ NO FORM IS COMING AND NONE EVER HAS — this address has never once sent a REQUESTED notice, so the phone is the entire feedback loop and it is unused. ⭐ THE LEVERAGE CHANGED YESTERDAY IN YOUR FAVOUR: these sellers' own buy side toured three houses Sunday afternoon as financed buyers, so their move is now one conversation with two halves."
+      "gaps": [
+        "Fri 8/21 4:30 PM — Molly (first-ever tour): you emailed her 9:27a today, no reply yet"
+      ],
+      "note": "🎉 THE SILENCE BROKE THIS MORNING AND IT BROKE WELL. Yesterday this card said no feedback would ever come from this address — true of the showing system, which has never once sent a request here, and now beside the point: a plain email at 9:27 produced a full written read at 9:47. ⭐ THE PRICE WAS ASKED ABOUT DIRECTLY AND NOT ARGUED. 🔍 **AND THE TOUR COUNT NEEDS CORRECTING:** Anna C. was COVERING for Lindsey H., who could not make it — so Saturday's 9:00 AM and 12:00 PM were the same buyers, one party, not two brokerages as this board reported for two days. Distinct buyer parties through this house: two, not three. ⚠️ Friday's agent has been asked and has not answered yet. 🎯 The live action is three cosmetic questions — the ceiling crack, the crown molding and the laundry access panel — two of which only your sellers can answer."
     },
     {
       "addr": "198 Rena Dr",
