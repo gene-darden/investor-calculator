@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-24 12:58 PM CT",
-  "headline": "🔥 **225 WILLOW POINT TOOK A SECOND “INTERESTED” THIS MORNING — AND THE ANSWER SHE NEEDS IS ALREADY WRITTEN.** Molly G. of Keller Williams Hoover, the agent who took the very first showing this listing ever had, texted at 10:27: her buyers are interested, they really liked it, and she asked what happened with the living-room ceiling and the unpatched closet. ⭐ YOUR SELLERS ANSWERED BOTH ITEMS IN WRITING WITHIN THE HOUR — both are resolved-and-explained, not defects — and that answer went to Anna C. at 11:31 and stopped there. 🎯 Two interested parties on one house in one morning, neither arguing $185,000. Call Molly, read her the sellers' words, and ask what gets her buyers back this week.",
+  "updated": "2026-08-24 5:52 PM CT",
+  "headline": "🔥 **A FOURTH TOUR BOOKS ON 225 WILLOW POINT TONIGHT AT 6:45 — AND THE AGENT HAS NEVER SEEN THE HOUSE.** Angela W. of ARC Realty 280 booked at 1:31 this afternoon for 6:45–7:15 PM: a third separate brokerage, her first showing here, and the fourth booking this listing has taken since Friday. ⭐ SHE IS WALKING IN COLD INTO A HOUSE THAT PRODUCED TWO “INTERESTED” VERDICTS THIS MORNING and has not had its $185,000 argued once. 🎯 The sellers already told you they will take showings any hour, the ad spend is renewed, and Darrell is cutting in the living-room trim himself. ⚠️ The only loose end is unchanged since noon: the sellers' written answer on the ceiling and the closet reached one of the two interested agents, not both.",
   "stats": {
-    "showings14d": 12,
+    "showings14d": 13,
     "feedback14d": 8,
-    "gaps": 4
+    "gaps": 5
   },
   "hotSignals": [
     {
       "addr": "225 Willow Point Cir",
       "date": "8/24",
-      "isNew": true,
+      "isNew": false,
       "signal": "🔥 A SECOND INTERESTED PARTY IN ONE MORNING, AND SHE CAME BACK ON HER OWN. Molly G. of Keller Williams Hoover — the agent who took the FIRST showing this listing ever had, Friday 8/21 at 4:30 — texted Gene's phone unprompted at 10:27 AM: her buyers are interested, they “actually really liked it,” and the only things holding them back are the living-room ceiling that looked like old water damage and the closet that was never patched. ⭐ SHE ASKED THE IDENTICAL TWO ITEMS Anna C. raised at 9:47, which means two independent buyer parties walked out of this house worried about the same two cosmetic things — and nothing else.",
       "action": "📞 CALL HER, DO NOT EMAIL — she chose the phone twice now. ⭐ THE WHOLE ANSWER IS ALREADY WRITTEN AND APPROVED BY YOUR SELLERS: the closet is the only access to the shower plumbing, new fittings were sweated in about a year ago, and the sheetrock was deliberately left open as an access hatch; the living-room ceiling was a toilet-line leak from the hallway guest bath that was repaired, with no ongoing leak. 🎯 BOTH ARE RESOLVED-AND-EXPLAINED, NOT DEFECTS — that is the strongest possible answer to hand a buyer who already likes the house. ⚠️ That answer went to Anna C. at 11:31 and never reached Molly; she has now been waiting on it for over two hours. Then ask the only question that matters: what would it take to get your buyers back for a second look this week."
     },
@@ -44,9 +44,9 @@
     }
   ],
   "upcoming": [
-    "📭 NOTHING IS BOOKED AHEAD ON THIS FEED — zero future confirmed showings, walk-throughs, appraisals or inspections across every listing, and no new ShowingTime event of any kind has arrived since Sunday evening. ⭐ THAT IS NOT THE SAME AS NOTHING HAPPENING: the two live buyer conversations on 225 Willow Point today both arrived OFF this feed entirely — one by email reply, one by text to Gene's phone. 🔍 On this listing the phone and the inbox have now outperformed the showing system three separate times, which is worth remembering before treating a quiet feed as a quiet market.",
-    "🎯 THE NEXT REAL EVENT IS A SECOND SHOWING THAT NOBODY HAS ASKED FOR YET. Two interested parties on 225 Willow Point are one clear answer away from coming back — and the answer is already written and approved by the sellers. That booking is a phone call, not a wait.",
-    "📅 THE ONLY HARD DATE ON THE HORIZON IS 195 LAKE VIEW, FRIDAY 8/28 AT 4:00 PM — with three closer's items still unanswered since 8/20 and septic the one carrying real lead time."
+    "🔥 **TODAY · MON 8/24, 6:45–7:15 PM — 225 WILLOW POINT CIR, ALABASTER.** Angela W. of ARC Realty 280, confirmed at 1:31 this afternoon. ⭐ THIS IS THE FIRST FUTURE EVENT THIS FEED HAS CARRIED IN DAYS, and it is the fourth booking on this address since Friday — from the third separate brokerage to tour it. 🔍 Her showing count on this listing is 1: she has never been inside. 🎯 That matters for what you do next — she has no prior impression to correct, so the two cosmetic items that worried both of this morning's buyer parties will hit her fresh unless the sellers' explanation is on the counter or in her hand before she walks in.",
+    "📅 **FRI 8/28, 4:00 PM — 195 LAKE VIEW CIR CLOSES** at the title firm's Moody office. ⚠️ Not a showing, but it is the only other hard date on the horizon, and three items the closer put in writing on 8/20 — survey, home warranty, septic-and-sewer inspection — are still unanswered four days later. ⭐ SEPTIC IS THE ONE WITH LEAD TIME.",
+    "📭 NOTHING ELSE IS BOOKED AHEAD ON ANY LISTING — no walk-throughs, appraisals or inspections scheduled beyond tonight. 🔍 WORTH REMEMBERING BEFORE READING A QUIET FEED AS A QUIET MARKET: both of this morning's interested buyers arrived entirely OFF this system — one by email reply, one by text to your phone. On this listing the phone and the inbox have now outperformed the showing system three separate times."
   ],
   "listings": [
     {
@@ -54,8 +54,8 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔥 ACTIVE — TWO interested parties in one morning, price unchallenged",
-      "showings14d": 3,
+      "status": "🔥 ACTIVE — FOURTH tour tonight 6:45 PM, price still unchallenged",
+      "showings14d": 4,
       "feedback": [
         {
           "date": "8/24",
@@ -71,23 +71,23 @@
         }
       ],
       "gaps": [
-        "Fri 8/21 4:30 PM — Molly (first-ever tour): you emailed her 9:27a today, no reply yet"
+        "Sat 8/22 9:00 AM — held, no feedback returned and no request ever issued on this address"
       ],
-      "note": "🎉 THE FEEDBACK DROUGHT ON THIS ADDRESS BROKE TWICE IN ONE MORNING. For two days this board said no form was ever coming — true of the form, false of asking. A plain email at 9:27 produced Anna C.'s full written read at 9:47, and an hour later Molly G. texted the same verdict unprompted. ⭐ TWO INDEPENDENT BUYER PARTIES, SAME TWO COSMETIC WORRIES, NEITHER ONE ARGUING $185,000. 🎯 Your sellers answered both items in writing inside the hour — the closet is deliberate plumbing access with new fittings, the ceiling was a repaired toilet-line leak with no ongoing problem — but that answer reached only one of the two agents. 🔥 Their own buy side toured three houses Sunday as financed buyers; both halves of this family move together."
+      "note": "🔥 DAY SIX AND STILL ACCELERATING. Four bookings since Friday, three separate brokerages, and tonight's 6:45 belongs to an agent who has never been inside. 🎉 THE FEEDBACK DROUGHT BROKE TWICE THIS MORNING and both verdicts were the same: buyers really liked it, concerns purely cosmetic, price not argued. ⭐ YOUR SELLERS ARE OUTWORKING THE PROBLEM FASTER THAN THE MARKET IS RAISING IT — they answered both buyer concerns in writing inside an hour, confirmed at 1:30 they will take showings any time weekdays or weekends, told you to renew the Facebook spend, and Darrell is cutting in the living-room trim himself rather than arguing about it. 🔍 THE FLOOD-INSURANCE QUESTION ALSO HAS A REAL ANSWER NOW: roughly $1,800 a year off their own escrow statement — enough to satisfy a buyer's first question, with the declarations page to follow. ⚠️ THE ONE GAP IS UNCHANGED SINCE NOON: the sellers' written explanation of the ceiling and the closet went to one of the two interested agents and never reached the other."
     },
     {
       "addr": "198 Rena Dr",
       "city": "Springville",
       "price": "$450,000",
       "client": "Don & Ann C.",
-      "status": "🎉 AGREED SUN 8/23 — contract opened 8:06a, unsigned",
+      "status": "⚠️ AGREED SUN 8/23 — contract out for ink since 8:06a, nothing back",
       "showings14d": 2,
       "feedback": [],
       "gaps": [
         "Tue 8/11 2:15 PM — no form (moot: the deal agreed 8/23)",
         "Fri 8/14 10:30 AM — no form (moot: the deal agreed 8/23)"
       ],
-      "note": "✅ THE SHOWINGS STOPPED MATTERING SUNDAY EVENING. Seller and buyers agreed on price and concessions with both sides at two and a half, and the closing office opened the contract for signature at 8:06 this morning. ⚠️ IT IS STILL UNSIGNED, and it all happened while the fleet was dark, so no routine recorded any of it until this morning. 🔍 Two showings inside the window, no feedback form from either — which no longer costs anything here."
+      "note": "✅ THE SHOWINGS ON THIS ADDRESS STOPPED MATTERING SUNDAY EVENING — terms agreed at $439,000 with $7,000 in concessions, two and a half per side. 🔴 BUT THE SIGNATURE PACKET HAS BEEN OUT SINCE 8:06 THIS MORNING AND NOTHING HAS COME BACK IN NINE HOURS, through a full business day. ⭐ A handshake on Sunday with an unsigned document on Monday night is the most fragile state a deal ever occupies. 🔍 Both tours on this board went unanswered by their agents, which no longer costs anything here — the buyer who converted came back on his own."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -199,11 +199,11 @@
       "city": "Hoover",
       "price": "—",
       "client": "Sulman M.",
-      "status": "⏰ CLOSED AT THE TABLE — administratively frozen, day 4",
+      "status": "🏁 CLOSED AND FUNDED — 2:24 PM today",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔴 NOTHING IN THIS FEED WILL FIX IT AND THE SHOWING SIDE IS DONE. Four days past closing the brokerage file reads EXPIRED, commission document sent, proof of payment still REQUIRED. ⭐ The settlement statement from the closing attorney's office is very likely the whole fix — one document, two calls."
+      "note": "🎉 IT FUNDED. Four days of “expired, proof of payment required” ended at 2:24 this afternoon with the brokerage's own payday notice, backed by your own confirmation that the money landed. ⭐ THIS ADDRESS IS NOW HISTORY ON THIS BOARD — no showings, no feedback owed, nothing outstanding. It is carried here only because it was the deal every board today was built around."
     },
     {
       "addr": "195 Lake View Cir",
@@ -221,11 +221,11 @@
       "city": "Helena",
       "price": "—",
       "client": "Kim H.",
-      "status": "✅ UNDER CONTRACT — roof loop CLOSED today, closes 10/23",
+      "status": "✅ UNDER CONTRACT — roof addendum SIGNED 4:47p, closes 10/23",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 CLOSED ITSELF SINCE THIS MORNING'S RUN. Your coordinator answered the buyer's agent at 9:32 — sellers are confirming the listed items sit inside the normal scope of a replacement — and he came back at 10:50 with “all good, thank you.” ⭐ The roof scope is settled, any licensed roofer is acceptable, and the answer this board called a stranded draft was in fact delivered by a human on time. ⚠️ The old unsent draft to that agent is now moot — do not send it on top of a conversation that already ended well."
+      "note": "🎉 FULLY CLOSED TONIGHT. The buyer's agent said “all good” at 10:50 this morning and your seller signed the roof addendum at 4:47 this afternoon — scope agreed, any licensed roofer acceptable, seller ink on the paper, all in one day. 🔍 Only the second signature and the escrow holdback sizing remain. ⚠️ The old unsent draft to that agent is moot — do not send it on top of a conversation that ended well."
     },
     {
       "addr": "2127 Hwy 93",
@@ -265,17 +265,17 @@
     {
       "addr": "120 King Arthur Pl · Alabaster",
       "price": "$250,000",
-      "when": "🆕 REQUESTED SUN 8/23 1:00 PM by Keller Williams Metro South, roughly twenty-one hours ago. ⭐ THIS IS THE ONE TO ANSWER FIRST — it was the first house on the tour and the office asked within half an hour of the showing ending. 🔍 Your buyers are pre-approved as of 8/19 and walked three houses in one afternoon; a same-day reply from a financed buyer's agent is how you get the listing side to take a call from you later."
+      "when": "🔴 **ASKED TWICE NOW — AND THE SECOND ASK CAME TODAY AT 1:00 PM.** Keller Williams Metro South requested this Sunday 8/23 at 1:00 PM and requested it again this afternoon, a full day later. ⭐ A SECOND REQUEST IS THE LISTING SIDE TELLING YOU THEY NOTICED. 🔍 Your buyers are pre-approved as of 8/19 and walked three houses in one afternoon; this was the first house on the tour. A reply tonight still reads as prompt — tomorrow it reads as chased."
     },
     {
       "addr": "116 Palm Dr · Alabaster",
       "price": "$249,900",
-      "when": "🆕 REQUESTED SUN 8/23 1:30 PM by Keller Williams Realty Hoover, roughly twenty-one hours ago. ⚠️ Worth remembering when you write it: this house was OCCUPIED at the time of the showing, which shapes both what your buyers saw and what the seller will hear back."
+      "when": "⚠️ REQUESTED SUN 8/23 1:30 PM by Keller Williams Realty Hoover — and unlike the other two on the tour, this office has NOT asked a second time. 🔍 Worth remembering when you write it: the house was OCCUPIED at the time of the showing, which shapes both what your buyers saw and what the seller will hear back. ⭐ One honest paragraph closes it."
     },
     {
       "addr": "106 King Valley St · Pelham",
       "price": "$236,500",
-      "when": "🆕 REQUESTED SUN 8/23 2:30 PM by Keller Williams Metro South, roughly twenty hours ago — the last house on the tour and the last request in. ⭐ It is also the cheapest of the three by more than $13,000, which makes it the one where a candid reply is most likely to open a negotiation rather than close one."
+      "when": "🔴 **ALSO ASKED TWICE — the second request landed at 2:31 this afternoon.** Keller Williams Metro South requested Sunday 8/23 at 2:30 PM and again today. ⭐ It is the cheapest of the three houses by more than $13,000, which makes it the one where a candid reply is most likely to open a negotiation rather than close one. 🔍 Two of the three houses on Sunday's tour have now asked you twice; that is a pattern the offices involved will remember."
     },
     {
       "addr": "3421 Hwy 109 · Columbiana",
