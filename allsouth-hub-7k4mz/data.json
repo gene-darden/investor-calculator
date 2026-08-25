@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 24, 2026 · 5:55 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Every beach house on the board re-checked live this evening and not one price moved all day — ten on Dauphin Island, three in Gulf Shores, and the Orange Beach income house all still active at exactly what they were carried at this morning. The Nashville and Knoxville commercial lanes stay frozen on blocked sources until Friday.",
+  "updated": "Aug 25, 2026 · 7:55 AM CT",
+  "nextSweep": "this evening",
+  "headline": "The Orange Beach income house went under contract overnight — 4660 Casablanca, the only property on this board that came with a stated $3,600 a month in rental income, flipped to PENDING and is off the list. Everything else on the beach lane re-checked live this morning and held: ten Dauphin Island houses and three in Gulf Shores, every one still active at exactly the price carried here. The Nashville and Knoxville commercial lanes stay frozen until Friday.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-checked: prices and availability below are last known good as of Jul 29 and may have moved. No attempt was made this evening — the rule allows one retry per source on the first MORNING run past each 7-day mark, and the **next eligible attempt is the morning of Fri Aug 28.** New-inventory hunting against these sources is paused on the same rule. Everything in the beach lane below IS current — those sources answer normally."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-checked on every sweep. Treat every price, rate and availability below as a JULY 29 SNAPSHOT and confirm with the listing broker before you act on any of it. **Next scheduled retry: Friday morning, Aug 28** — the first morning sweep past the seven-day mark. Nothing here has been removed or added since the freeze; new-inventory hunts against these sources are paused for the same reason."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-checked: prices and availability below are last known good as of Jul 29 and may have moved. No attempt was made this evening — the rule allows one retry per source on the first MORNING run past each 7-day mark, and the **next eligible attempt is the morning of Fri Aug 28.** New-inventory hunting against these sources is paused on the same rule. Everything in the beach lane below IS current — those sources answer normally."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **eight consecutive times**, so by standing rule this lane is frozen rather than re-checked on every sweep. Treat every price, rate and availability below as a JULY 29 SNAPSHOT and confirm with the listing broker before you act on any of it. **Next scheduled retry: Friday morning, Aug 28** — the first morning sweep past the seven-day mark. Nothing here has been removed or added since the freeze; new-inventory hunts against these sources are paused for the same reason."
     },
     {
       "id": "beach",
@@ -687,32 +687,6 @@
           "badge": null
         },
         {
-          "id": "4660-casablanca-dr",
-          "address": "4660 Casablanca Dr",
-          "city": "Orange Beach",
-          "state": "AL",
-          "price": 599000,
-          "beds": 4,
-          "baths": 3,
-          "sf": 2576,
-          "waterPosition": "water-view",
-          "rentalHistory": "Listing states: \"Currently generating $3,600+ per month in rental income\"; approved for both short-term and long-term rental",
-          "highlights": [
-            "Only property on this lane with rental income stated ON the listing — $3,600+/mo, verified Jul 30",
-            "Bay views + community pool over the bay",
-            "2021 build, private primary balcony",
-            "Golf-cart ride to The Wharf / Margaritaville",
-            "Explicit STR approval — rare in Orange Beach"
-          ],
-          "fitNote": "✅ Re-verified live Aug 16: still ACTIVE at $599,000. Orange Beach tightly zones STRs, so documented approval is the whole ballgame — this is the best regulated-market entry on the board.",
-          "strNote": "Verify the STR license transfers with the sale before offering.",
-          "url": "https://www.coldwellbankerhomes.com/al/orange-beach/4660-casablanca-dr/pid_70606872/",
-          "photoUrl": null,
-          "broker": "Coldwell Banker",
-          "mls": "394907",
-          "badge": "INCOME"
-        },
-        {
           "id": "1425-w-lagoon-ave",
           "address": "1425 W Lagoon Avenue",
           "city": "Gulf Shores (Carl T Martin / Old Gulf Shores)",
@@ -735,7 +709,7 @@
           "url": "https://www.condoinvestment.com/listing/396635-carl-t-martin-residential-1425-w-lagoon-avenue-gulf-shores-al-36542/",
           "photoUrl": "",
           "broker": "",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "901-lockenbie-pl",
@@ -784,7 +758,7 @@
           "url": "https://www.condoinvestment.com/listing/395868-lagoon-estates-residential-1469-w-lagoon-avenue-gulf-shores-al-36542/",
           "photoUrl": "",
           "broker": "",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "107-portier-st",
@@ -857,7 +831,7 @@
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
-          "badge": "NEW"
+          "badge": null
         },
         {
           "id": "703-hunley-st",
@@ -1095,7 +1069,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-VERIFIED LIVE THIS EVENING — THIRTEEN OF THIRTEEN ON THE INDEXES, NOT ONE PRICE MOVED SINCE THIS MORNING.** All ten Dauphin Island houses came back active at exactly the prices carried here — 901 Lockenbie $595,000 · 107 Portier $549,900 · 412 Bienville $534,900 · 208 Isabella $499,000 · 703 Hunley $492,000 · 1127 Chaumont $489,000 · 122 Hernando $399,000 · 230 Chenault $390,000 · 1003 Monberaut $384,000 · 601 Bienville $374,900 — with no pending or under-contract flag on any of them. All three Gulf Shores houses also held: 17330 State Hwy 180 $599,900 (stated water view of Little Lagoon), 1425 W Lagoon $599,000, 1469 W Lagoon $589,900. 4660 Casablanca in Orange Beach was confirmed at $599,000 on its own listing page this morning and is carried forward unchanged. 🔍 **NOTHING NEW QUALIFIED TONIGHT.** Everything fresh on the Gulf Shores index screened out as inland or golf-course — no stated water position — and the only new Dauphin Island house, 303 Conde Ave at $630,655, is over the $600K cap. ⚠️ One candidate is deliberately held for a morning look rather than added on a guess: **16 Marsh Point, Gulf Shores, $539,900, 3 bed / 3 bath.** The name suggests water; the index snippet does not state it, and this lane's own rule is that marketing copy is not a water position. It goes on the board only if the listing itself says so."
+      "note": "✅ **RE-VERIFIED LIVE THIS MORNING — THIRTEEN OF THIRTEEN STILL ACTIVE, NOT ONE PRICE MOVED.** All ten Dauphin Island houses came back on the island index at exactly the prices carried here (901 Lockenbie $595,000 · 107 Portier $549,900 · 412 Bienville $534,900 · 208 Isabella $499,000 · 703 Hunley $492,000 · 1127 Chaumont $489,000 · 122 Hernando $399,000 · 230 Chenault $390,000 · 1003 Monberaut $384,000 · 601 Bienville $374,900), and all three Gulf Shores homes re-confirmed (17330 State Hwy 180 $599,900 · 1425 W Lagoon $599,000 · 1469 W Lagoon $589,900).\n\n**SINCE LAST SWEEP: 4660 Casablanca Dr, Orange Beach went PENDING and has been removed.** It was the only house on this lane with rental income stated in the listing itself — $3,600+ a month, approved for both short and long term — which is exactly why it did not last. Worth noting for the next one that looks like it.\n\n**RE-REJECTED THIS MORNING, so you know they were looked at and passed on:** 16 Marsh Point ($539,900, 3BR/3BA) reads as a golf-course-community home, not a water position — same standard that keeps 796 Wedgewood off this board. Also passed again: 2617 Bienville Ave, 4559 Coral Cir, 614 Saint Andrews, 4229 Grove St and 462 Shepard St — all inland Gulf Shores subdivision houses that meet the price and bedroom test but have no water and no stated rental history. **No rental numbers appear on this board unless the listing itself states them.**"
     }
   ]
 }
