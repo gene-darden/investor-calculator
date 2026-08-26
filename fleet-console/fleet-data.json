@@ -1,86 +1,86 @@
 {
-  "updated": "2026-08-26 7:45 AM CT",
-  "headline": "\u23f0 THE OFFER IS EIGHTEEN HOURS OLD AND THE AGENT WHO SENT IT STILL HAS NOT HEARD BACK FROM YOU \u2014 and the reply is written, sitting in your drafts folder since 5:54 this morning. She asked in writing to be told the packet was received; nothing readable in any channel says it was. \u2b50 THE SAME ONE SITTING FIXES FOUR LOOPS AT ONCE: open the PDF and read the actual price, send Molly G. her receipt, correct the flood figure inside that same message, and tell your sellers they have an offer. \ud83d\udd34 THE FLOOD NUMBER IS THE PART THAT GETS WORSE WITH AGE \u2014 the figure you gave the co-op agent is roughly half what your own sellers put in writing on 8/23 and you confirmed back to them on 8/24, on an FHA file where flood is escrowed and underwritten. \ud83c\udfaf One live decision behind it: a second buyer is genuinely interested and nobody has told her an offer exists. \u00b7 DO: answer Molly G. and correct the flood number \u00b7 DECIDE: tell Angela W. an offer is in hand, or work Molly clean \u00b7 WATCH: the flood quote is contradicted by two of your own receipts.",
+  "updated": "2026-08-26 12:45 PM CT",
+  "headline": "\ud83e\uddf9 THE DRAFTS FOLDER WENT FROM 78 TO 7 THIS MORNING \u2014 AND THE TWO THAT MATTERED MOST DID NOT GO OUT, THEY WENT AWAY. The seller notice on the house holding a signed offer and the reply to the 22-acre seller are both gone from Drafts and were never sent; three independent scans agree. \u2b50 THE ONE STILL SITTING THERE IS THE ONE THE WHOLE BOARD HANGS ON \u2014 the offering agent's receipt, written at 5:54 this morning and unsent seventeen hours after she asked for it in writing. \ud83d\udd34 AND IT IS NOT SAFE TO SEND AS WRITTEN: it acknowledges the packet but never corrects the flood figure, which is the one number on this file that gets worse with age. \ud83c\udf89 The morning was not wasted \u2014 roughly thirty sphere emails went out by hand and two came back inside fifteen minutes. \u00b7 DO: add the flood correction to the Molly draft, then send it \u00b7 DECIDE: tell Angela W. an offer is in hand \u00b7 WATCH: your sellers still have nothing in writing, day 2.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "\u2705 NO ROUTINE WAS BLOCKED OVERNIGHT AND THERE WAS NO DARK WINDOW. Roughly twenty runs since last evening \u2014 nine ISA sweeps, the nightly deep dive, the delta, the milestone engine, the money pulse, the trading cockpit, the database lane, the marketing machine, the listing amplifier, the letter and the team block \u2014 and every single one logged in. \ud83d\udd0d THE GAP BETWEEN THE LAST HEARTBEAT AND THIS MORNING'S FIRST RUN WAS ESSENTIALLY ZERO.",
-      "\u26a0\ufe0f ONE REAL PARTIAL IS STILL OPEN AND IT IS NOT A FLEET PROBLEM \u2014 IT IS A LOGIN. The publishing connector's authorization has been invalidated, so nothing could be staged to the social queue this morning. \u2b50 THE WORK ITSELF WAS NOT LOST: twelve finished placements and all six graphics were written, rendered and visually inspected, and they are sitting ready to paste. \ud83c\udf89 Anything already scheduled still publishes on its own \u2014 only new staging is stopped.",
-      "\ud83d\udd0d THE MARKETING LANE ALSO CAUGHT ITSELF BEING WRONG AND SAID SO, WHICH IS THE BEHAVIOUR YOU WANT. It reported six graphics as failed at the thirty-minute mark, then retracted eleven minutes later when the script finished clean \u2014 it had called slow a failure. \u2b50 THE SAME LESSON LANDED THREE SEPARATE TIMES SINCE YESTERDAY: a pending clock probe is pending, not dead. Each lane derived the time from two agreeing independent instruments instead of guessing."
+      "\u2705 THIRTY-TWO RUNS SO FAR TODAY AND NOT ONE BLOCKED LINE \u2014 the fourth consecutive clean day with no dark window. Fourteen ISA sweeps, the letter, the deep dive, both delta passes, the milestone engine twice, the money pulse, the trading cockpit, the database lane, the opportunity board, the deep sweep, the market-report lane and the team block all logged in on time.",
+      "\u26a0\ufe0f THE ONE REAL PARTIAL IS A LOGIN, NOT A FLEET FAULT, AND IT IS NOW ON ITS SECOND DAY. The publishing connector's authorization is still invalidated, so nothing new can be staged to the social queue \u2014 the finished placements and graphics exist and are sitting ready to paste. \u2b50 Anything already scheduled still publishes on its own; only new staging is stopped.",
+      "\ud83d\udd0d THE SECOND PARTIAL IS A ROUTINE REFUSING TO GUESS, WHICH IS THE BEHAVIOUR YOU WANT. The amplifier's clock probe was still pending when its window closed, so it derived Central from two agreeing instruments and said so rather than asserting a time it had not read. \u2b50 Same lane also held the paid-contact source dark by your own standing rule instead of spending on it unasked."
     ]
   },
   "callBlock": [
     {
-      "who": "Molly G. \u2014 the offering agent, still unanswered",
+      "who": "Molly G. \u2014 the offering agent, hour seventeen",
       "heat": "hot",
-      "why": "\ud83d\udce5 SHE SENT THE PACKET AT 2:20:39 YESTERDAY AND ASKED, IN WRITING, TO BE TOLD IT WAS RECEIVED. Eighteen hours later nothing in any readable channel says she has been. \u2b50 THE REPLY IS ALREADY WRITTEN \u2014 it has been sitting in your drafts folder since 5:54 this morning; the only distance left is the send button, and this one deserves a voice ahead of it. \ud83d\udd34 THE HARDER HALF RIDES ALONG: you quoted her a flood figure that is roughly half what your own sellers gave you in writing. Correct it in the same breath, before an underwriter finds it for you. \ud83c\udfaf The offered price is STILL not known to this board \u2014 it lives inside the PDF and no lane here can open an attachment. Open it yourself before you talk numbers with anyone."
+      "why": "\ud83d\udce5 SHE ASKED IN WRITING TO BE TOLD THE PACKET ARRIVED AND SHE IS STILL WAITING. \u2b50 THE REPLY EXISTS \u2014 written 5:54 this morning, still sitting in Drafts at midday while seventy-one of its neighbours were cleared out around it. \ud83d\udd34 DO NOT SEND IT AS WRITTEN: it was read in full this run and it acknowledges the packet without correcting the flood figure you quoted her, which is roughly half what your own sellers put in writing. Add that line first \u2014 one message, both jobs. \ud83c\udfaf The offered price is STILL not known to this board: it lives inside the PDF and no lane here can open an attachment. Open it yourself before you talk numbers with anyone."
     },
     {
-      "who": "Sondra & Darrell S. \u2014 your sellers, who still do not know",
+      "who": "Sondra & Darrell S. \u2014 your sellers, still told nothing",
       "heat": "hot",
-      "why": "\ud83d\udd34 AN OFFER ON THEIR HOUSE HAS NOW BEEN IN YOUR INBOX FOR EIGHTEEN HOURS AND THE ONLY THING WRITTEN TO THEM IS STILL AN UNSENT DRAFT \u2014 staged 5:08 yesterday evening and unchanged since. \u2b50 A SELLER SHOULD NEVER LEARN ABOUT AN OFFER FROM ANYONE BUT THEIR OWN AGENT, and these two have earned the call by every measure: they answered every question in writing, they gave you the flood figure on 8/23, and they told you to renew the ad. \u26a0\ufe0f THEY ALSO HOLD THE DOCUMENT THAT SETTLES THIS MORNING'S CONTRADICTION \u2014 the declarations page. Ask for it on the same call."
+      "why": "\ud83d\udd34 THIS IS THE FINDING OF THE MORNING AND IT IS WORSE THAN YESTERDAY'S. Their notice was drafted last evening; today it is gone from Drafts and it never appeared in Sent. It was discarded in the clear-out, not delivered. \u2b50 THE LAST THING YOU ACTUALLY SENT THEM WAS MONDAY LUNCHTIME, ABOUT FLOOD INSURANCE \u2014 nothing since an offer landed on their house. Day two. \u26a0\ufe0f A SELLER SHOULD NEVER LEARN ABOUT AN OFFER FROM ANYONE BUT THEIR OWN AGENT, and these two have earned better: they answered every question in writing, gave you the flood figure themselves, and told you to renew the ad. \ud83d\udcde They also hold the declarations page that settles the contradiction \u2014 ask on the same call."
     },
     {
       "who": "Angela W. \u2014 the second live party, and today's decision",
       "heat": "hot",
-      "why": "\u2b50 SHE CAME BACK ON HER OWN AT 5:51 YESTERDAY MORNING WITHOUT BEING CHASED \u2014 an adorable townhouse, in her words \u2014 and her buyer is forwarding the listing to a husband who works out of town. \ud83c\udfaf THAT WAS CLUTTER TWO DAYS AGO AND IT IS LEVERAGE TODAY. The offer in hand is FHA with a pre-approval written to exactly list price, which means zero headroom if the appraisal lands short. \ud83d\udd0d THE ASYMMETRY DECIDES IT: you can work the first offer clean after asking her, but you cannot un-ask on Friday. \u26a0\ufe0f Gate it on one thing \u2014 open the PDF first, because every line of this reasoning assumes a number nobody here has actually read."
+      "why": "\u2b50 SHE CAME BACK ON HER OWN YESTERDAY MORNING WITHOUT BEING CHASED \u2014 an adorable townhouse, in her words \u2014 and her buyer is forwarding the listing to a husband who works out of town. \ud83c\udfaf THAT WAS CLUTTER ON SUNDAY AND IT IS LEVERAGE TODAY. The offer in hand is FHA with a pre-approval written to exactly list price, which means zero headroom if the appraisal lands short. \ud83d\udd0d THE ASYMMETRY DECIDES IT: you can work the first offer clean after asking her, but you cannot un-ask on Friday. \u26a0\ufe0f Gate it on one thing \u2014 open the PDF first, because every line of this reasoning assumes a number nobody here has actually read."
     },
     {
-      "who": "Larry G. \u2014 his own window closed four days ago",
+      "who": "Brad B. \u2014 he answered in thirteen minutes",
       "heat": "hot",
-      "why": "\ud83d\udea8 HE SET THE CLOCK HIMSELF AND NOBODY WATCHED IT. On 8/12 he told you he would let you know, that he could not be reached for ten days, and that he would be in Iowa. \u2b50 THAT WINDOW CLOSED 8/22 \u2014 four days ago \u2014 AND NO TASK ON HIM EXISTED UNTIL 6:00 THIS MORNING, when the database lane found the correspondence and built one. \ud83d\udd0d A PERSON WHO TELLS YOU WHEN TO CALL BACK HAS ALREADY AGREED TO THE CALL. This is the cheapest hot row on the board."
-    },
-    {
-      "who": "Thomas D. \u2014 he said yes and then waited eleven days",
-      "heat": "hot",
-      "why": "\u2b50 HE REPLIED \u201cYES\u201d AT 8:44 IN THE MORNING AND ASKED FOR THE LOT LAYOUT AND THE PER-ACRE NUMBER \u2014 about as close to a buying question as a land lead ever gets. \ud83d\udd0d THE PLAT WENT OUT 8/15 WITH A DIRECT QUESTION ATTACHED \u2014 are you looking to build a few homes \u2014 and eleven days later there is still no answer. \u26a0\ufe0f He has your email but not your voice, and the perc answer your teammate already found is still the gate holding this entire lane."
-    },
-    {
-      "who": "Tom W. \u2014 the highest-scoring contact you own",
-      "heat": "hot",
-      "why": "\ud83c\udfaf HE RANKS FIRST OUT OF THE ENTIRE HALF-MILLION-ROW BACKBONE and his task has now sat un-worked for seven days. \u2b50 STATUS READS HOT AND HE WAS BACK ON YOUR SITE ON 8/14; your 8/19 note to him has never been answered. \ud83d\udd0d WHEN THE MACHINE'S OWN SCORING PUTS SOMEBODY AT THE TOP OF THE LIST AND THE LIST DOES NOT GET WORKED, the scoring is not the problem."
-    },
-    {
-      "who": "Daniel B. \u2014 he answered everything and is still waiting",
-      "heat": "hot",
-      "why": "\ud83d\udd34 HE CLEARED EVERY GATE ON THE 22-ACRE TRACT AND HAS NOW WAITED ROUGHLY 45 HOURS. Two-inch water meter in, septic in, power to the home at no cost, HOA settled, covenants attached \u2014 all of it in a single reply. \u26a0\ufe0f ONLY THE PERC TEST AND THE HEALTH-DEPARTMENT PERMIT ARE STILL MISSING, and those are documents to chase, not decisions to make. \ud83d\udcdd Your reply has been written and unsent since 10:54 yesterday morning. \u2b50 You already ruled the list price yourself \u2014 and your coordinator's own task on this address is now two days overdue because she is standing by for your list date."
+      "why": "\ud83c\udf89 THE FRESHEST THING ON THIS BOARD AND IT COST YOU ONE SENTENCE. You wrote him a plain check-in this morning; he came back inside thirteen minutes with his number, his kids' news, and a standing Friday tee time. \u2b50 THAT IS NOT A LEAD, IT IS A FRIENDSHIP RESUMING \u2014 and it is the clearest possible receipt that this morning's sphere wave was worth the hour. \ud83d\udd0d A reply is drafted and it is one of only seven things left in that folder. Answer it while it is still today."
     },
     {
       "who": "Scott B. \u2014 he asked to talk this week",
       "heat": "hot",
-      "why": "\u2b50 HE ANSWERED YOUR CHECK-IN HIMSELF AND ASKED TO TALK THIS WEEK. Nothing to qualify, no objection to unwind, no pitch to make \u2014 a person who has already said yes to the call. \ud83d\udd0d OF EVERY ROW ON THIS BOARD HE IS THE ONE WHERE THE ENTIRE REMAINING WORK IS DIALING. \u26a0\ufe0f It is Wednesday morning and the week he named is more than half gone."
+      "why": "\u2b50 HE ANSWERED YOUR CHECK-IN HIMSELF AND ASKED TO TALK THIS WEEK. Nothing to qualify, no objection to unwind, no pitch to make \u2014 a person who has already said yes to the call. \ud83d\udd0d OF EVERY ROW ON THIS BOARD HE IS THE ONE WHERE THE ENTIRE REMAINING WORK IS DIALING. \u26a0\ufe0f It is Wednesday afternoon and the week he named is now more than half gone."
+    },
+    {
+      "who": "Daniel B. \u2014 his reply was discarded too",
+      "heat": "hot",
+      "why": "\ud83d\udd34 SAME FAILURE MODE AS YOUR SELLERS, DIFFERENT DEAL. His reply was written and staged yesterday morning; today it is not in Drafts and not in Sent. His last word to you is still his Monday evening message. \u2b50 HE CLEARED EVERY GATE ON THE 22-ACRE TRACT IN ONE PASS \u2014 two-inch water meter in, septic in, power to the home at no cost, HOA settled, covenants attached. \u26a0\ufe0f ONLY THE PERC TEST AND THE HEALTH-DEPARTMENT PERMIT ARE MISSING, and those are documents to chase, not decisions to make. \ud83d\udcde He also told you by text he would call back and never did \u2014 which makes the phone, not the inbox, the honest instrument here. Your coordinator is standing by for a list date she cannot get until you answer."
+    },
+    {
+      "who": "Amy G. \u2014 the one unqualified YES, now day eleven",
+      "heat": "hot",
+      "why": "\ud83d\udd25 THE STRONGEST BUYER READ 355 COMANCHE HAS EVER PRODUCED IS AGING OUT IN PLAIN SIGHT. She filed it herself \u2014 interested YES, her buyers just started looking, they really like it, and it sits at the TOP of their list \u2014 and she phoned from inside the house mid-showing, so a call back is returned, not cold. \u2b50 SHE LEFT PRICED RIGHT BLANK: the objection is unasked, not absent, and only a person can ask it. \u26a0\ufe0f Well past the window where machine outreach is appropriate \u2014 this is a human call or it is nothing."
+    },
+    {
+      "who": "Jeffrey W. \u2014 new on the board this morning",
+      "heat": "hot",
+      "why": "\ud83c\udfaf A HELENA LISTING NEAR THE TOP OF THAT MARKET CANCELLED LAST WEEK, and your market report has been landing on that same house the entire time. \u2b50 A CANCELLED LISTING IS THE SHORTEST DISTANCE BETWEEN A STRANGER AND A SIGNED AGREEMENT \u2014 he has already decided to sell, and he has already learned that the last plan did not work. \ud83d\udd0d The database lane built this row at 8:39 this morning; it has never been worked, and cancels get called by somebody within the week."
     }
   ],
   "listings": [
     {
       "addr": "225 Willow Point Cir",
       "client": "Sondra & Darrell S.",
-      "status": "\ud83d\udce5 OFFER RECEIVED \u2014 buyer-signed FHA packet, hour 18",
-      "note": "\ud83d\udce5 FOUR LOOPS ARE OPEN ON ONE ADDRESS AND ALL FOUR CLOSE IN ONE SITTING. The buyer-signed packet \u2014 purchase agreement, personal-property addendum, FHA addendum and a lender pre-approval written to list \u2014 landed at 2:20:39 yesterday. \ud83c\udfaf THE OFFERED PRICE IS STILL UNREAD BY ANY ROUTINE AND WAS NOT GUESSED: it is inside the PDF, and nothing in this fleet can open an attachment. The pre-approval figure is the buyer's ceiling, not their number. \ud83d\udd34 OWED AND UNPAID: the offering agent's written acknowledgment, the flood correction, and your sellers' notice \u2014 their email has been drafted and unsent since 5:08 last evening. \u2b50 SEVEN DAYS, FOUR TOURS, THREE BROKERAGES, AND NOT ONE AGENT EVER ARGUED THE PRICE. \ud83d\udcc5 The ad that found every one of those buyers dies TODAY and your sellers already said renew it."
-    },
-    {
-      "addr": "198 Rena Dr",
-      "client": "Don & Ann C.",
-      "status": "\u2705 UNDER CONTRACT \u2014 $439,000, escrow open, closer working it",
-      "note": "\ud83c\udf89 SIGNATURE TO OPEN ESCROW IN ONE MORNING and the client letter went out the same evening. Contract-to-close details reached the title office at 11:34 and the closer answered in six minutes. \u2b50 THE ONE NUMBER THIS FILE SETTLED IS BIGGER THAN THIS FILE: its own paperwork states the listing-side rate in writing, and it does NOT match what the last closing actually paid. That is now receipted both ways \u2014 the rate is per-contract, and every forward forecast built on a single assumed rate is wrong somewhere. \u26a0\ufe0f STILL UNSIGHTED: the executed signature page. \ud83d\udd0d And the coordinator has asked for this as the SECOND of two back-to-back closings \u2014 a scheduling risk you can move in August and cannot move in closing week."
+      "status": "\ud83d\udce5 OFFER RECEIVED \u2014 buyer-signed FHA packet, hour 22",
+      "note": "\ud83d\udd34 THE OPEN LOOPS DID NOT SHRINK OVERNIGHT \u2014 ONE OF THEM GOT WORSE. The seller notice that was drafted last evening is now gone from Drafts and was never sent, so your sellers still have nothing in writing on day two. \ud83d\udce5 THE PACKET ITSELF IS UNCHANGED: purchase agreement with the buyer's signature, personal-property addendum, FHA addendum, and a pre-approval written to list. \ud83c\udfaf THE OFFERED PRICE IS STILL UNREAD BY ANY ROUTINE AND WAS NOT GUESSED \u2014 it lives inside the PDF, and the pre-approval figure is the buyer's ceiling, not their number. \u26a0\ufe0f STILL OWED: the agent's written receipt (drafted, unsent, and missing the flood correction) and the sellers' notice (gone). \u2b50 SEVEN DAYS, FOUR TOURS, THREE BROKERAGES, AND NOT ONE AGENT EVER ARGUED THE PRICE. \ud83d\udcc5 The ad that found every one of those buyers dies TODAY and your sellers already said renew it."
     },
     {
       "addr": "195 Lake View Cir",
       "client": "Amy R.",
-      "status": "\u2705 CONTINGENT \u2014 closes Fri 8/28 4 PM, title items all cleared",
-      "note": "\ud83c\udf89 ALL FOUR OPEN TITLE ITEMS RESOLVED THEMSELVES YESTERDAY AFTERNOON WITHOUT YOU OR YOUR COORDINATOR TOUCHING THEM \u2014 warranty confirmed, survey waived by the buyer side, septic requested, and funds settled on check rather than wire. \u2b50 THIS BOARD CARRIED THAT AS A RED FOR FIVE DAYS AND IT IS NOW KILLED WITH RECEIPTS. \ud83d\udd0d THE ONE THING STILL UNREAD IS THE COMMISSION RATE ON THIS FILE, and after what the last two closings showed, an assumed rate is not a known rate \u2014 the swing between the two is most of the month. \ud83c\udfa3 The fake title company that emailed wire instructions on this file has not gone anywhere: confirm every wire by voice on a number you already had."
+      "status": "\u2705 CONTINGENT \u2014 closing this week, final settlement statement in hand",
+      "note": "\ud83c\udf89 THE DOCUMENT THAT SETTLES AUGUST LANDED AT 11:09 THIS MORNING. The final settlement statement from the closing firm holds the actual listing-side rate on this file \u2014 and after two closings that paid two completely different rates, an assumed rate is not a known rate. \u2b50 OPEN THAT ONE ATTACHMENT AND THE MONTH STOPS BEING AN ESTIMATE. \ud83d\udd34 A SECOND, SMALLER PROBLEM SURFACED WITH IT: your brokerage's system says this closes Monday and everyone else says Friday. The brokerage record is the one that pays you, and two of its checklist items still read Required. \ud83c\udfa3 The fake title company that emailed wire instructions on this file has not gone anywhere: confirm every wire by voice on a number you already had."
+    },
+    {
+      "addr": "198 Rena Dr",
+      "client": "Don & Ann C.",
+      "status": "\u2705 UNDER CONTRACT \u2014 escrow open, closer working it",
+      "note": "\ud83c\udf89 SIGNATURE TO OPEN ESCROW IN ONE MORNING and the client letter went out the same evening. \u2b50 THE ONE NUMBER THIS FILE SETTLED IS BIGGER THAN THIS FILE: its own paperwork states the listing-side rate in writing, and it does NOT match what the last closing actually paid. That is now receipted both ways \u2014 the rate is per-contract, and every forward forecast built on a single assumed rate is wrong somewhere. \u26a0\ufe0f STILL UNSIGHTED: the executed signature page. \ud83d\udd0d And the coordinator has asked for this as the SECOND of two back-to-back closings \u2014 a scheduling risk you can move in August and cannot move in closing week."
     },
     {
       "addr": "372 Chelsea Farms Ln",
       "client": "Daniel B.",
       "status": "\ud83d\udcc5 COMING SOON \u2014 22.63 acres, price already ruled",
-      "note": "\ud83d\udd34 THE SELLER HAS DONE HIS HALF AND HAS NOW WAITED ROUGHLY 45 HOURS ON YOURS. Water meter, septic, power at no cost, HOA and covenants \u2014 all answered in one reply. \u26a0\ufe0f ONLY THE PERC TEST AND THE HEALTH-DEPARTMENT PERMIT ARE MISSING, and those are documents to chase, not decisions to make. \ud83d\udcdd YOUR REPLY HAS BEEN WRITTEN AND UNSENT SINCE 10:54 YESTERDAY MORNING. \u2b50 Your coordinator's coming-soon task on this address is two days overdue and explicitly on standby for your list date \u2014 she cannot finish it until you send."
+      "note": "\ud83d\udd34 THE REPLY THAT WAS WRITTEN FOR HIM YESTERDAY IS GONE \u2014 not in Drafts, not in Sent. The last word on this deal is still HIS, from Monday evening, and he has now waited roughly two full days. \u2b50 HE HAS DONE HIS HALF COMPLETELY: water meter, septic, power at no cost, HOA and covenants, all answered in a single reply. \u26a0\ufe0f ONLY THE PERC TEST AND THE HEALTH-DEPARTMENT PERMIT ARE MISSING, and those are documents to chase, not decisions to make. \ud83d\udcde He told you by text he would call back and never did, which makes the phone the honest instrument. \ud83d\udd0d Your coordinator's coming-soon task on this address is now three days overdue and explicitly on standby for your list date."
     },
     {
       "addr": "1709 Fieldstone Cir",
       "client": "Kim H.",
       "status": "\u2705 UNDER CONTRACT \u2014 roof addendum fully signed, closes 10/23",
-      "note": "\ud83c\udf89 BOTH SELLERS HAVE SIGNED and the file has now held steady at inspection through six consecutive engine runs with nothing new to catch. Scope agreed, any licensed roofer acceptable, and the buyer's agent said all good before either signature landed \u2014 the whole loop opened and closed inside one business day. \ud83d\udd0d ONLY THE ESCROW HOLDBACK SIZING REMAINS LIVE, and that is a number to agree rather than a condition to fix. \u26a0\ufe0f The old unsent draft to that agent is moot \u2014 do not send it on top of a conversation that already ended well."
+      "note": "\ud83c\udf89 BOTH SELLERS HAVE SIGNED and the file has now held steady at inspection through seven consecutive engine runs with nothing new to catch. Scope agreed, any licensed roofer acceptable, and the buyer's agent said all good before either signature landed \u2014 the whole loop opened and closed inside one business day. \ud83d\udd0d ONLY THE ESCROW HOLDBACK SIZING REMAINS LIVE, and that is a number to agree rather than a condition to fix. \u26a0\ufe0f The old unsent draft to that agent is moot \u2014 do not send it on top of a conversation that already ended well."
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -92,74 +92,74 @@
       "addr": "2368 Ridge Trail",
       "client": "Opendoor \u2014 institutional seller",
       "status": "\u26a0\ufe0f ACTIVE \u2014 Saturday's read now four days outstanding",
-      "note": "\ud83d\udd0d SATURDAY'S 3:00 PM READ IS NOW FOUR DAYS OUTSTANDING and the odds fall by the day \u2014 this address returns forms about half the time. \u26a0\ufe0f FOUR INDEPENDENT AGENTS HAVE NOW SAID THE SAME THING, and the most recent added the worst staging score on this board plus a lever that is not a price cut: a pre-inspection, because unknowns are exactly what one removes. \ud83c\udfaf ONE NAMED LIVE BUYER HAS PUT A SPECIFIC NUMBER UNDER THE ASK IN WRITING and offered you the representation \u2014 he is still the freshest thing on this address and he is still uncalled. \u2b50 The weekly report to the asset manager is drafted and waiting on your send."
+      "note": "\ud83d\udd0d SATURDAY'S 3:00 PM READ IS STILL OUTSTANDING and the odds fall by the day \u2014 this address returns forms about half the time. \u26a0\ufe0f FOUR INDEPENDENT AGENTS HAVE NOW SAID THE SAME THING, and the most recent added the worst staging score on this board plus a lever that is not a price cut: a pre-inspection, because unknowns are exactly what one removes. \ud83c\udfaf ONE NAMED LIVE BUYER HAS PUT A SPECIFIC NUMBER UNDER THE ASK IN WRITING and offered you the representation \u2014 he is still the freshest thing on this address and he is still uncalled. \u2b50 The weekly report to the asset manager is drafted and waiting on your send."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
-      "status": "\ud83d\udd25 ACTIVE \u2014 the one YES is now day twelve",
-      "note": "\ud83d\udd25 THE STRONGEST BUYER READ THIS LISTING HAS EVER PRODUCED IS AGING OUT IN PLAIN SIGHT. She filed it herself \u2014 interested YES, her buyers just started looking, they really like it, and it sits at the TOP of their list \u2014 and she phoned from inside the house mid-showing, so a call back is returned, not cold. \u2b50 SHE LEFT PRICED RIGHT BLANK: the objection is unasked, not absent, and only a person can ask it. \u26a0\ufe0f Twelve days is well past the window where machine outreach is appropriate \u2014 this is a human call or it is nothing. \ud83d\udd34 The basement lights she reported still have no answer, and your seller is the only person who knows why."
+      "status": "\ud83d\udd25 ACTIVE \u2014 the one YES is now day eleven",
+      "note": "\ud83d\udd25 THE STRONGEST BUYER READ THIS LISTING HAS EVER PRODUCED IS AGING OUT IN PLAIN SIGHT. She filed it herself \u2014 interested YES, her buyers just started looking, they really like it, and it sits at the TOP of their list \u2014 and she phoned from inside the house mid-showing, so a call back is returned, not cold. \u2b50 SHE LEFT PRICED RIGHT BLANK: the objection is unasked, not absent, and only a person can ask it. \u26a0\ufe0f Eleven days is well past the window where machine outreach is appropriate \u2014 this is a human call or it is nothing. \ud83d\udd34 The basement lights she reported still have no answer, and your seller is the only person who knows why."
     },
     {
       "addr": "821 Martinwood Rd",
       "client": "Team listing",
-      "status": "\ud83d\udd25 ACTIVE \u2014 price cut live, corrected post still unstaged",
-      "note": "\u26a0\ufe0f THE PRICE CHANGED AND THE INTERNET STILL HAS NOT, third day running \u2014 and today the reason changed: it is no longer a rule holding the post back, it is a broken login on the publishing connector. \ud83d\udd0d THE OBJECTION ON THIS HOUSE IS SQUARE FOOTAGE, NOT THE NUMBER, on both passes it took \u2014 so another cut buys nothing. Its showings have aged out of the two-week window entirely."
+      "status": "\ud83d\udd25 ACTIVE \u2014 price cut live, and you worked it by hand today",
+      "note": "\ud83c\udf89 THE MACHINE COULD NOT POST IT, SO YOU MAILED IT \u2014 two neighbour notes on the new number went out under your own name this morning while the publishing connector stayed locked out. \u26a0\ufe0f THE INTERNET STILL DOES NOT KNOW THE PRICE CHANGED, fourth day running, and the reason is still a broken login rather than a rule. \ud83d\udd0d THE OBJECTION ON THIS HOUSE IS SQUARE FOOTAGE, NOT THE NUMBER, on both passes it took \u2014 so another cut buys nothing. Its showings have aged out of the two-week window entirely."
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
-      "status": "\u26a0\ufe0f ACTIVE \u2014 day 159",
-      "note": "\ud83d\udd34 FIVE MONTHS, AND A CLIENT WHO STILL OPENS THE CONVERSATION HIMSELF. He texted with a couple of questions Saturday morning and has now waited five full days. \u2b50 A MAN WHO HAS WATCHED FIVE MONTHS PASS AND STILL REACHES OUT FIRST IS NOT ANGRY YET \u2014 that is the window, and it closes by the hour rather than the week. \ud83d\udd0d Three separate buyer emails went out on this unit yesterday evening; the straight-conversation email to the client himself is drafted and still waiting on your send."
+      "status": "\u26a0\ufe0f ACTIVE \u2014 day 160",
+      "note": "\ud83d\udd34 FIVE MONTHS, AND A CLIENT WHO STILL OPENS THE CONVERSATION HIMSELF. He texted with a couple of questions Saturday morning and has now waited six full days. \u2b50 A MAN WHO HAS WATCHED FIVE MONTHS PASS AND STILL REACHES OUT FIRST IS NOT ANGRY YET \u2014 that is the window, and it closes by the hour rather than the week. \ud83d\udd0d Buyer-side emails went out on this unit again this morning; the straight-conversation email to the client himself is still the one nobody has sent."
     },
     {
       "addr": "2127 Hwy 93",
       "client": "Seller identity unverified",
       "status": "\u26a0\ufe0f ACTIVE \u2014 day 34, never toured",
-      "note": "\ud83d\udd34 THE MOST EXPENSIVE LISTING IN THE BOOK AND NOT ONE TOUR HAS EVER BEEN BOOKED ON IT. \u2b50 THIS WEEK SHARPENED THE POINT RATHER THAN SOFTENING IT: a $185,000 listing took four tours and a signed offer in seven days off the same marketing machine that has never produced a single booking here. \ud83d\udd0d The comp work says the big-house ceiling in that zip is roughly $950K unless acreage carries it \u2014 which makes the silence a pricing answer, not a marketing one. \u26a0\ufe0f The amplifier's external lane on this address stays dark by your own rule until you authorize the paid contact source. \ud83d\udcde A handoff call is also still owed to the agent who passed it to you."
+      "note": "\ud83c\udf89 SOMETHING FINALLY WENT OUT ON IT. Five person-to-person notes on this listing left your own hand this morning \u2014 no ad, no portal, just people who might know the buyer. One of the five bounced: that address is dead, not busy. \ud83d\udd34 STILL NOT ONE TOUR HAS EVER BEEN BOOKED HERE. \u2b50 THIS WEEK SHARPENED THE POINT RATHER THAN SOFTENING IT: a modest Alabaster listing took four tours and a signed offer in seven days off the same machine that has never produced a single booking on the most expensive home in the book. \ud83d\udd0d The comp work says the big-house ceiling in that zip is well under the ask unless acreage carries it \u2014 which makes the silence a pricing answer, not a marketing one. \ud83d\udcde A handoff call is still owed to the agent who passed it to you."
     },
     {
       "addr": "Deer Ridge Lakes \u2014 19 lots",
-      "client": "Burnham",
+      "client": "Daniel B.",
       "status": "\ud83d\udd25 ACTIVE \u2014 highest lead yield you own",
-      "note": "No lockbox tours, but more inbound than any house on this list. \u26a0\ufe0f THE SAME TWO ANSWERS ARE STILL SITTING ON A BOARD INSTEAD OF IN AN EAR: the builder off the yard sign is now eleven days without a callback, and the furthest-along buyer is on day seventeen waiting for a perc answer your teammate found on Friday. \ud83d\udd34 TWO NAMES WERE CLOSED OUT BY THE DECAY RULE AND NEITHER WAS EVER CALLED \u2014 that is the cost of the perc gate, measured in people. \ud83d\udd0d Two builder emails went out on the package yesterday evening; the seller is demonstrably responsive on his other tract, which makes this silence look like an ask nobody made."
+      "note": "\ud83c\udf89 THE ELEVEN-DAY SILENCE ON THE FURTHEST-ALONG BUYER GOT BROKEN THIS MORNING \u2014 you wrote him yourself and asked the direct question rather than sending another plat. \u26a0\ufe0f THE PERC ANSWER IS STILL THE GATE, and it is still sitting on a board instead of in an ear: your teammate found it on Friday and no buyer has been told. \ud83d\udd34 TWO NAMES WERE CLOSED OUT BY THE DECAY RULE AND NEITHER WAS EVER CALLED \u2014 that is the cost of the gate, measured in people. \ud83d\udd0d The builder off the yard sign is now twelve days without a callback."
     },
     {
       "addr": "833 Madison Ln",
       "client": "Newly tracked",
       "status": "\ud83d\udcc5 COMING SOON \u2014 live 8/30",
-      "note": "\u2b50 THIS WEEK IS THE STRONGEST ARGUMENT YET FOR PRE-BOOKING IT. Willow Point ran paid ads for three days before anyone toured it, then took four bookings and a buyer-signed offer in seven days once the market found it. \ud83d\udd0d THE GAP THAT COSTS MONEY IS BETWEEN PHOTOS READY AND BOOKED \u2014 four days wide on this one, live 8/30, and entirely inside your control."
+      "note": "\u2b50 THIS WEEK IS THE STRONGEST ARGUMENT YET FOR PRE-BOOKING IT. Willow Point ran paid ads for three days before anyone toured it, then took four bookings and a buyer-signed offer in seven days once the market found it. \ud83d\udd0d THE GAP THAT COSTS MONEY IS BETWEEN PHOTOS READY AND BOOKED \u2014 four days wide on this one, live 8/30, and entirely inside your control. \u26a0\ufe0f With the publishing connector still locked out, whatever gets pre-booked here gets pre-booked by hand."
     }
   ],
   "pipeline": {
     "closedYTD": 23,
     "goal": 45,
     "teamGoal": 90,
-    "paceProjection": "\u2b50 23 CLOSED AND BANKED ON DAY 238, WHICH ANNUALISES TO ROUGHLY 35 AGAINST A GOAL OF 45 \u2014 the pace line is still under water and this week improved the odds rather than the count. \ud83c\udfaf THE 24th AND 25th ARE BOTH MOVING: 198 Rena opened escrow at $439,000 with a close date in September, and 225 Willow Point is holding a buyer-signed FHA offer. Behind those sit 195 Lake View this Friday and 3350 Altamont on 9/14, with 1709 Fieldstone on 10/23 outside the window. \ud83d\udd34 THE FINDING THAT MATTERS MOST IS NOW SETTLED AND IT IS WORSE THAN A GUESS \u2014 IT IS A FACT: the listing-side rate is PER-CONTRACT, receipted both ways. One recent closing paid a rate far below the model; the newest contract's own paperwork states a much higher one in writing. Both are real. Every forward number that assumes one blended rate is wrong somewhere, and Friday's closing rate is still unread. Re-cut the model before you forecast off it again. Team pace sits at 35 against 90, with listings taken at 36 of 54."
+    "paceProjection": "\u2b50 23 CLOSED AND BANKED ON DAY 238, WHICH ANNUALISES TO ROUGHLY 35 AGAINST A GOAL OF 45 \u2014 the pace line is still under water and this week improved the odds rather than the count. \ud83c\udfaf THE 24th AND 25th ARE BOTH MOVING: 198 Rena has escrow open with a September date, and 225 Willow Point is holding a buyer-signed FHA offer. Behind those sit 195 Lake View this week and 3350 Altamont on 9/14, with 1709 Fieldstone on 10/23 outside the window. \ud83d\udd34 THE FINDING THAT MATTERS MOST IS SETTLED AND IT IS A FACT, NOT A GUESS: the listing-side rate is PER-CONTRACT, receipted both ways. One recent closing paid a rate far below the model; the newest contract's own paperwork states a much higher one in writing. Both are real. \ud83c\udf89 AND THE INSTRUMENT THAT ENDS THE ARGUMENT ARRIVED AT 11:09 THIS MORNING \u2014 the final settlement statement on this week's closing carries the actual rate on that file. Open it, then re-cut the model before you forecast off it again. Team pace sits at 35 against 90, with listings taken at 36 of 54."
   },
   "money": {
     "status": "alert",
-    "note": "\ud83c\udf89 THE BIGGEST RED ON THIS BOARD FOR THREE STRAIGHT MORNINGS WAS WRONG AND HAS BEEN RETRACTED WITH A RECEIPT: the debt draft everyone expected to bounce actually cleared late last night and the account was verified afterward. \u2b50 THE ROOT CAUSE IS WORTH MORE THAN THE RELIEF \u2014 a four-day-old balance stamp was being treated as current on an account whose deposits are never alerted, which is exactly how a stale number becomes three days of false alarm. \ud83d\udd34 ONE GENUINELY NEW ITEM REPLACES IT: an insurance premium auto-drafts this Friday, the policy notice does not state which account it pulls from, and the most likely account does not hold enough to cover it. That is a two-minute transfer today, not a problem on Friday. \u26a0\ufe0f A separate returned charge from earlier this week can still be re-presented twice more, so treat it as a live queue rather than a closed event. \ud83d\udcda The books drift guard has now tripped twelve runs running, so no summary figure from the accounting system is quotable until one bank rule is fixed \u2014 though last night was the first clean night in a week on the second trigger. \u26a0\ufe0f Balances, amounts and account details are deliberately withheld \u2014 this page is public."
+    "note": "\ud83c\udf89 THE BIGGEST RED ON THIS BOARD FOR THREE STRAIGHT MORNINGS WAS WRONG AND IS NOW RETRACTED WITH A RECEIPT: the debt draft everyone expected to bounce actually cleared and the account was verified afterward. \u2b50 THE ROOT CAUSE IS WORTH MORE THAN THE RELIEF \u2014 a four-day-old balance stamp was being treated as current on an account whose deposits are never alerted, which is exactly how a stale number becomes three days of false alarm. \ud83d\udd34 ONE GENUINELY LIVE ITEM REPLACES IT: an insurance premium auto-drafts this Friday, the policy notice does not state which account it pulls from, and the most likely account may not hold enough to cover it. That is a two-minute transfer today, not a problem on Friday. \u26a0\ufe0f A separate returned charge from earlier this week can still be re-presented twice more, so treat it as a live queue rather than a closed event. \ud83d\udcda The books drift guard has now tripped twelve runs running, so no summary figure from the accounting system is quotable until one bank rule is fixed. \ud83c\udf89 The one clean read: the settlement statement that landed at 11:09 this morning turns this week's closing from an estimate into a number. \u26a0\ufe0f Balances, amounts and account details are deliberately withheld \u2014 this page is public."
   },
   "isa": {
-    "openCallTasks": 87,
-    "decayPolicy": "\ud83d\udd0d 87 ROWS OPEN IN THE CALL LANE THIS MORNING, UP FROM 77 LAST EVENING \u2014 and that climb is throughput meeting supply, not failure: the database lane built ten fresh rows at 6:00 and the letter carried nine forward while closing ten with a written reason on each. \ud83c\udfaf THE USEFUL DISTINCTION WAS NEVER AGE, IT IS DIRECTION. Roughly a third of these are people actively waiting on YOU \u2014 a returned call, an answered question, a promise in your own words with a timestamp on it. Those cost relationships. The rest are prospects to chase, and they only cost opportunities. \ud83c\udf89 THE STRONGEST ARGUMENT FOR WORKING THE LIST WAS MADE THIS MONTH: the listing you won came off a row that had been overdue eighteen days. \ud83d\udd34 The contactless problem is still structural and still unruled \u2014 address-only records arriving with no name, no email and no phone. That one needs a decision from you, not another investigation.",
-    "sweepCadence": "every 30 minutes while the fleet is up \u2014 and this is now a third consecutive clean day with no dark window at all. \u2705 Roughly twenty runs since last evening and every one logged. \ud83d\udd0d THE LEAD LANE VERIFIED ITSELF DRY FOUR INDEPENDENT WAYS ON EVERY SWEEP, which is the discipline that came out of last week's failure: an alert alone never proved the machine was running. \ud83d\udee1\ufe0f THE BEST CATCH OF THE NIGHT WAS SOMETHING THAT DIDN'T HAPPEN \u2014 a queued batch of twenty-one machine emails carried a default that would have fired them automatically at 7:00 this morning without you ever ruling on it. The sweep found it nineteen minutes ahead and re-gated the whole batch. \u26a0\ufe0f 51 machine-staged emails are sitting in your drafts folder and none of them go anywhere until you press send \u2014 you sent eighteen of yesterday's by hand, which is the system working as designed."
+    "openCallTasks": 93,
+    "decayPolicy": "\ud83d\udd0d 93 ROWS OPEN IN THE CALL LANE AT MIDDAY, UP FROM 87 THIS MORNING \u2014 and that climb is supply meeting throughput, not failure: six new rows were built between 8:33 and 10:17, one of them off a reply that came back in thirteen minutes. \ud83c\udfaf THE USEFUL DISTINCTION WAS NEVER AGE, IT IS DIRECTION. Roughly a third of these are people actively waiting on YOU \u2014 a returned call, an answered question, a promise in your own words with a timestamp on it. Those cost relationships. The rest are prospects to chase, and they only cost opportunities. \ud83c\udf89 THE STRONGEST ARGUMENT FOR WORKING THE LIST WAS MADE THIS MONTH: the listing you won came off a row that had been overdue eighteen days. \ud83d\udd34 The contactless problem is still structural and still unruled \u2014 address-only records arriving with no name, no email and no phone. That one needs a decision from you, not another investigation.",
+    "sweepCadence": "every 30 minutes while the fleet is up \u2014 thirty-two runs today and a fourth consecutive clean day with no dark window. \u2705 THE LEAD LANE VERIFIED ITSELF DRY FOUR INDEPENDENT WAYS ON EVERY SWEEP, which is the discipline that came out of last week's failure: an alert alone never proved the machine was running. \ud83c\udf89 THE MORNING'S REAL WORK WAS HUMAN, NOT MACHINE \u2014 roughly thirty sphere and listing emails went out under your own name between 9:45 and 10:00, and two people wrote back inside fifteen minutes. \ud83d\udd34 THE COST SHOWED UP IN THE SAME HOUR: the drafts folder fell from 78 to 7, and at least two of the ones that vanished were owed replies that never reached anybody \u2014 your Willow Point sellers and your 22-acre seller. \u26a0\ufe0f Two of the outbound addresses hard-bounced; those are dead channels, not busy ones, and the phone is the only way into either."
   },
   "builds": [
-    "\ud83d\udd34 Propagate the Chrome browser guard to every Chrome-dependent routine \u2014 overdue, unblocks the listing crawl",
+    "\ud83d\udd34 Propagate the Chrome browser guard to every Chrome-dependent routine \u2014 now a day overdue, unblocks the listing crawl",
     "\ud83c\udf19 The 7 PM ISA briefing went dark with no heartbeat \u2014 check whether the slot is still registered",
     "\ud83d\udd27 Gate the listing amplifier on deal state \u2014 it advertised a house 51 minutes after the offer landed"
   ],
   "controls": {
-    "do": "Answer Molly G. \u2014 offer receipt plus flood correction",
+    "do": "Add the flood line to Molly's draft, send it",
     "decide": "Tell Angela W. an offer is in hand?",
-    "watch": "Flood figure to co-op agent off 2\u00d7 (8/23, 8/24)",
-    "draftsWaiting": 51
+    "watch": "Sellers' notice discarded, never sent \u2014 day 2",
+    "draftsWaiting": 7
   },
   "scoreboard": {
-    "touches30d": 150,
-    "replies30d": 53,
+    "touches30d": 153,
+    "replies30d": 56,
     "appts30d": 7,
     "contracts30d": 6,
     "closed30d": 4,
