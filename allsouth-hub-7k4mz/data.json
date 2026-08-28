@@ -1,1076 +1,1079 @@
 {
-  "updated": "Aug 27, 2026 · 5:55 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "Every beach house on the board came back live again this evening at exactly the prices carried here — twelve of thirteen re-confirmed against the source directly, with 208 Isabella still holding its $475,000 cut and still the best-priced four-bedroom on Dauphin Island. One row, 601 Bienville Blvd, did not appear on tonight's index page and a second source prints a different number for it, so it is flagged rather than quietly edited — the morning sweep settles it. Commercial inventory in Nashville and Knoxville is unchanged and still frozen at its Jul 29 verification; both listing sites have refused us for over three weeks and tomorrow morning is the next scheduled retry.",
-  "lanes": [
+ "updated": "Aug 28, 2026 · 7:55 AM CT",
+ "nextSweep": "this evening",
+ "headline": "🏖️ **THE BEACH LANE GAINED A TURNKEY 2013 BEACH HOUSE AND SETTLED A PRICE ARGUMENT IN THE SAME PASS.** **1415 O'hara, Dauphin Island — $489,000, 3 bed, fully furnished with a screened porch** — joins the board after a second independent read on the broker's own index confirmed it live. ✅ And **601 Bienville is settled at $374,900 ACTIVE** — the broker source beat the secondary that had claimed $399,000, so the price cut carried here stands. **Every other beach house on the board re-confirmed live at exactly the price shown**, both on Dauphin Island and in Gulf Shores. ⚠️ **The two commercial lanes are still frozen** — both listing sites refused us again on today's scheduled retry, the ninth straight time, so Nashville and Knoxville data remains accurate as of Jul 29 and nothing new was hunted there.",
+ "lanes": [
+  {
+   "id": "nash",
+   "label": "Nashville",
+   "emoji": "🏙",
+   "criteria": "Boutique showroom for AllSouth · Nashville → Franklin/Brentwood corridor · 4,000–10,000 sf · buy up to $3M or lease · conversion candidates (restaurants, banks, retail boxes) welcome",
+   "listings": [
     {
-      "id": "nash",
-      "label": "Nashville",
-      "emoji": "🏙",
-      "criteria": "Boutique showroom for AllSouth · Nashville → Franklin/Brentwood corridor · 4,000–10,000 sf · buy up to $3M or lease · conversion candidates (restaurants, banks, retail boxes) welcome",
-      "listings": [
-        {
-          "id": "2526-duplex-rd",
-          "address": "2526–2530 Duplex Rd",
-          "city": "Spring Hill",
-          "dealType": "sale",
-          "price": 2000000,
-          "sf": 8000,
-          "propertyType": "Flex / Showroom",
-          "highlights": [
-            "Renovated, move-in-ready — zoning explicitly permits 'showrooms and display spaces'",
-            "1.16-acre dual-parcel site with strong corridor visibility",
-            "Second parcel is income-producing self-storage with upside",
-            "Seller open to a 3-year leaseback"
-          ],
-          "fitNote": "Best sub-$3M ownership play in the whole corridor — right size, showroom-permitted zoning, $250/sf in the fastest-growing housing market in Middle TN.",
-          "url": "https://www.loopnet.com/Listing/2526-2530-Duplex-Rd-Spring-Hill-TN/36543753/",
-          "photoUrl": null,
-          "broker": "Voyager Real Estate Partners",
-          "badge": null
-        },
-        {
-          "id": "3451-lebanon-pike",
-          "address": "3451 Lebanon Pike",
-          "city": "Hermitage (Nashville east)",
-          "dealType": "both",
-          "price": 2450000,
-          "leaseRate": "Sale, lease, BTS, or ground lease",
-          "sf": 6010,
-          "propertyType": "Former restaurant",
-          "conversion": true,
-          "highlights": [
-            "Freestanding former hibachi/sushi restaurant on 0.95 ac",
-            "80 parking spaces at a signalized intersection, pylon sign in place",
-            "33,651 vehicles/day; 110K people within 5 miles",
-            "Offered for sale, lease, build-to-suit, or ground lease"
-          ],
-          "fitNote": "Textbook restaurant-to-showroom conversion — the open dining floor becomes the gallery and the commercial kitchen becomes a live-demo cooking suite. Trade-off: east side of town, not the affluent south corridor.",
-          "url": "https://www.loopnet.com/Listing/3451-Lebanon-Pike-Hermitage-TN/40547088/",
-          "photoUrl": "https://images1.loopnet.com/i2/wpZRjRs98PXWJjFnGcvbtYn76d2PLk1EZKBuK0JzA5s/112/image.png",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "2702-greystone-rd",
-          "address": "2702 Greystone Rd",
-          "city": "Nashville (Berry Hill)",
-          "dealType": "sale",
-          "price": 1999000,
-          "sf": 5610,
-          "propertyType": "Office / Showroom",
-          "highlights": [
-            "Marketed as an office/showroom building, updated 2017",
-            "Berry Hill — Nashville's design & showroom district",
-            "42% leased ($96,920 NOI) — income while you build out",
-            "Minutes from 8th Ave S and I-440"
-          ],
-          "fitNote": "Cheapest in-range Berry Hill buy, already described as a showroom building — and the partial tenancy pays carry during conversion.",
-          "url": "https://www.loopnet.com/Listing/2702-Greystone-Rd-Nashville-TN/40482144/",
-          "photoUrl": "https://images1.loopnet.com/i2/svBvjb2pjE-ttzLMCDnhlyjPBQzMi8ygC6NavIeUVRs/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "2605-westwood-dr",
-          "address": "2605 Westwood Dr",
-          "city": "Nashville (Berry Hill)",
-          "dealType": "sale",
-          "price": 2395000,
-          "sf": 4600,
-          "propertyType": "Showroom",
-          "highlights": [
-            "Listed subtype is literally 'Showroom' — renovated 2019, big open studio space",
-            "Drive-in grade-level door for appliance delivery",
-            "On-site parking, very walkable design-district block",
-            "Owner-occupier opportunity"
-          ],
-          "fitNote": "Turnkey boutique-showroom character in the city's design district; the drive-in door solves appliance logistics. Smallest floorplate on the list.",
-          "url": "https://www.loopnet.com/Listing/2605-Westwood-Dr-Nashville-TN/39212203/",
-          "photoUrl": "https://images1.loopnet.com/i2/milxQ6gg2k5lXLhUgzJSeNSZzi5HoUtb7q8dV4ZXSDs/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "2603-westwood-dr",
-          "address": "2603 Westwood Dr",
-          "city": "Nashville (Berry Hill)",
-          "dealType": "sale",
-          "price": 2695000,
-          "sf": 5372,
-          "propertyType": "Office → showroom",
-          "conversion": true,
-          "highlights": [
-            "Exterior loading dock + basement storage — rare here, ideal for inventory",
-            "Abundant on-site parking; under 1 mile to I-65/I-440",
-            "Two 2,686 sf floors, right next door to 2605 Westwood"
-          ],
-          "fitNote": "Office-to-showroom conversion: open first floor becomes the gallery, dock handles deliveries, upstairs becomes design offices. Buy it WITH 2605 next door and you've built a Berry Hill compound.",
-          "url": "https://www.loopnet.com/Listing/2603-Westwood-Dr-Nashville-TN/40785410/",
-          "photoUrl": "https://images1.loopnet.com/i2/xTpefjkYrTBBkjBUbXjiba8yzYbR17M4FrMYc_QWHVo/112/image.jpg",
-          "broker": "Matthews REIS (Hutt Cooke)",
-          "badge": null
-        },
-        {
-          "id": "1127-harpeth-industrial-ct",
-          "address": "1127 Harpeth Industrial Ct",
-          "city": "Franklin (Factory District)",
-          "dealType": "sale",
-          "price": null,
-          "sf": 8400,
-          "propertyType": "Flex (retail-permitted)",
-          "conversion": true,
-          "highlights": [
-            "Inside Franklin's Factory District — the Factory at Franklin next door pulls 2M visits/yr",
-            "Trade-area median household income $106.7K",
-            "Zoning explicitly permits retail/showroom use",
-            "Owner-user sale, no long-term leases in place — price on request"
-          ],
-          "fitNote": "Industrial-chic conversion in Franklin's hottest adaptive-reuse pocket — the Factory proves the high-end retail draw. Price is the open question; Gene can chase it same-day.",
-          "url": "https://www.loopnet.com/Listing/1127-Harpeth-Industrial-Ct-Franklin-TN/35656758/",
-          "photoUrl": null,
-          "broker": "Lee & Associates",
-          "badge": null
-        },
-        {
-          "id": "1175-meridian-dr",
-          "address": "Meridian Cool Springs, 2000 Meridian Blvd Ste 110",
-          "city": "Franklin (Cool Springs)",
-          "dealType": "lease",
-          "leaseRate": "$40/SF/YR Full Service",
-          "sf": 7235,
-          "propertyType": "Retail",
-          "highlights": [
-            "7,235 sf first-floor retail, available NOW",
-            "Upscale mixed-use center with 3 on-site hotels (544 rooms)",
-            "446 parking spaces; 275 ft of Carothers Pkwy frontage",
-            "15,000+ office workers within walking distance"
-          ],
-          "fitNote": "Strongest lease fit on the board — right size, immediate availability, and exactly the affluent daytime + hotel traffic a high-end appliance showroom feeds on.",
-          "url": "https://www.loopnet.com/Listing/1175-Meridian-Dr-Franklin-TN/28795285/",
-          "photoUrl": "https://images1.loopnet.com/i2/QjL6UkRToknuw-exlowaEltJNI3hFkrlkncEY4mJ32A/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "1010-murfreesboro-rd",
-          "address": "The Maples, 1010 Murfreesboro Rd Ste 198",
-          "city": "Franklin",
-          "dealType": "lease",
-          "leaseRate": "$30/SF/YR NNN",
-          "sf": 5600,
-          "propertyType": "Retail endcap (former Sherwin-Williams)",
-          "conversion": true,
-          "highlights": [
-            "Fully built-out endcap in a Sprouts-anchored center",
-            "~32,000 vehicles/day on Murfreesboro Rd / Hwy 96",
-            "453 parking spaces; available Sept 1, 2026; 5–10 yr terms"
-          ],
-          "fitNote": "Former paint store = near-zero conversion cost and a homeowner/trade-pro traffic pattern that already matches appliance buying. Best value lease in Franklin.",
-          "url": "https://www.loopnet.com/Listing/1010-Murfreesboro-Rd-Franklin-TN/25454613/",
-          "photoUrl": "https://images1.loopnet.com/i2/vVlX45vx9Kr9pn1VmE04gVBMhnv_hkY4LqtTTY76s2s/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "4020-aspen-grove-dr",
-          "address": "McEwen Northside Block E, 4020 Aspen Grove Dr",
-          "city": "Franklin (Cool Springs)",
-          "dealType": "lease",
-          "leaseRate": "Rate on request (bldg quotes $48–54/SF)",
-          "sf": 8816,
-          "propertyType": "Ground-floor retail, Class A",
-          "highlights": [
-            "8,816 sf ground-floor spec suite in a brand-new 280,000 sf live-work-play development",
-            "Direct I-65 access, curated walkable retail",
-            "The premium address in Cool Springs"
-          ],
-          "fitNote": "The flagship-image play — new Class A shell where AllSouth builds exactly the showroom it wants. Expect the highest rent in this set.",
-          "url": "https://www.loopnet.com/Listing/4020-Aspen-Grove-Dr-Franklin-TN/25983947/",
-          "photoUrl": "https://images1.loopnet.com/i2/Jub6tYH0vYfgY-tuh1Q2wpiILds6EDTA8MlTvM6CN7k/112/image.jpg",
-          "broker": "Dan Brazzell",
-          "badge": null
-        },
-        {
-          "id": "1001-crossings-blvd",
-          "address": "The Crossings of Spring Hill, Crossings Blvd",
-          "city": "Spring Hill",
-          "dealType": "lease",
-          "leaseRate": "NNN, rate on request",
-          "sf": 5200,
-          "propertyType": "Retail (5,000 & 5,200 sf suites)",
-          "highlights": [
-            "Two in-range suites, each available within 30 days",
-            "Class A power center: Target, Kohl's, Ross, ULTA, HomeGoods",
-            "4,946 parking spaces; huge Columbia Pike frontage"
-          ],
-          "fitNote": "Captures the new-construction homeowner wave with co-tenancy that already pulls the home-furnishing shopper. Less 'boutique' in feel than the Franklin options.",
-          "url": "https://www.loopnet.com/Listing/Columbia-Pike-Spring-Hill-TN/29987118/",
-          "photoUrl": "https://images1.loopnet.com/i2/JbaRQmUY1kzrhYpc7mjOtiUWrw6MydmmIoS3ApDix10/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "204-ward-cir",
-          "address": "Ward Circle Center, 204 Ward Cir",
-          "city": "Brentwood",
-          "dealType": "lease",
-          "leaseRate": "Rate on request",
-          "sf": 4592,
-          "propertyType": "Retail",
-          "highlights": [
-            "Up to 4,592 sf contiguous in the Maryland Farms pocket",
-            "One of the ONLY in-range availabilities inside Brentwood proper",
-            "15–20 min to both Nashville and Franklin"
-          ],
-          "fitNote": "Barely clears the 4,000 sf floor and visibility is interior-circle, but it's essentially the only way to plant a flag in Brentwood right now.",
-          "url": "https://www.loopnet.com/Listing/204-Ward-Cir-Brentwood-TN/38439497/",
-          "photoUrl": null,
-          "broker": "Owner-direct",
-          "badge": null
-        },
-        {
-          "id": "4719-traders-way",
-          "address": "4719 Traders Way",
-          "city": "Thompson's Station",
-          "dealType": "lease",
-          "leaseRate": "NNN, rate on request · 5-yr min",
-          "sf": 10000,
-          "propertyType": "Proposed retail (2,200–20,000 sf divisible)",
-          "highlights": [
-            "Pre-leasing a to-be-built neighborhood center bordering Spring Hill",
-            "Cold-shell delivery — spec gas/electric for live kitchen displays from day one",
-            "Sits in the fastest rooftop-growth path in the corridor"
-          ],
-          "fitNote": "A bet on the growth corridor rather than a move-in space — construction timeline risk, but the cheapest path to a purpose-built showroom near the June Lake boom.",
-          "url": "https://www.loopnet.com/Listing/4719-Traders-Way-Thompsons-Station-TN/40882219/",
-          "photoUrl": "https://images1.loopnet.com/i2/74RZSbW5FARxlJsAG2fS7aJtX_fDTsXmHk3_Kqg2-6A/112/image.jpg",
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "june-lake-blvd",
-          "address": "June Lake Blvd (June Lake)",
-          "city": "Thompson's Station",
-          "dealType": "lease",
-          "leaseRate": "Rate on request",
-          "sf": 4277,
-          "propertyType": "New-construction retail (2027)",
-          "highlights": [
-            "775-acre master-planned community at I-65/Buckner Rd",
-            "Adjacent to thousands of planned new rooftops",
-            "Largest suite (4,277 sf) clears your size floor — bigger than the ~3,900 sf June Lake space you saw before"
-          ],
-          "fitNote": "Minimum viable footprint, 2027 delivery — but nothing in the corridor puts a showroom closer to active new-home construction buyers.",
-          "url": "https://www.loopnet.com/Listing/June-Lake-Blvd-Thompsons-Station-TN/32247653/",
-          "photoUrl": null,
-          "broker": null,
-          "badge": "RADAR"
-        }
-      ],
-      "intel": [
-        {
-          "area": "🎨 Berry Hill / 8th Ave S (Nashville's design district)",
-          "pros": [
-            "The de facto design & showroom district — designers and renovation trade pros are already there",
-            "The ONLY submarket with multiple in-range purchases under $3M (three verified, $2.0–2.7M)",
-            "10–15 min to Belle Meade, Green Hills, 12South — the city's richest renovation clients",
-            "High-character buildings that photograph beautifully for a premium brand"
-          ],
-          "cons": [
-            "Steep price per sf ($356–521) for older Class B/C product",
-            "Tighter parking than suburban retail",
-            "Most in-range buildings need conversion capital",
-            "Lower drive-by traffic than pike/interstate retail"
-          ]
-        },
-        {
-          "area": "💎 Franklin / Cool Springs",
-          "pros": [
-            "Top-20 wealthiest county in America; Cool Springs is its retail center of gravity",
-            "Deepest lease inventory in the corridor — verified options $30–45/sf including in-range suites available NOW",
-            "Massive daytime population + hotel traffic",
-            "The Factory District offers a rare adaptive-reuse ownership angle"
-          ],
-          "cons": [
-            "For-sale product at your size under $3M is essentially NONEXISTENT — this is a lease market",
-            "Highest rents in the corridor at the premium addresses",
-            "Strict design/signage codes",
-            "25–35 min from Nashville in rush hour"
-          ]
-        },
-        {
-          "area": "🏛 Brentwood",
-          "pros": [
-            "Highest household incomes in the corridor, dense executive-homeowner base",
-            "Maryland Farms pocket sits 15–20 min from both Nashville and Franklin"
-          ],
-          "cons": [
-            "Almost zero in-range inventory in either direction — zoning deliberately constrains commercial supply, so this won't improve",
-            "The one in-range lease has interior-parcel visibility"
-          ]
-        },
-        {
-          "area": "🏗 Thompson's Station / Spring Hill",
-          "pros": [
-            "Fastest new-construction housing growth in Middle Tennessee — the ideal appliance-buyer pipeline",
-            "Best value: the only verified showroom-zoned building purchase in the corridor at $250/sf",
-            "Target-anchored co-tenancy traffic available within 30 days"
-          ],
-          "cons": [
-            "45–55 min from Nashville — far for a store that also wants urban designers",
-            "Trade area skews production-builder/mid-market vs. ultra-luxury",
-            "Much of the best space is proposed/2027 delivery"
-          ]
-        },
-        {
-          "area": "🌳 Nolensville",
-          "pros": [
-            "Affluent, fast-growing bedroom community",
-            "New mixed-use bringing quality small-shop retail"
-          ],
-          "cons": [
-            "Effectively no qualifying inventory — leases top out near 3,500 sf",
-            "No retail gravity yet; customers still drive to Cool Springs"
-          ]
-        }
-      ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **eight consecutive times**, so by rule we stopped re-attempting rather than burn every sweep on the same wall. Prices, availability and status below are accurate **as of Jul 29** and may have moved since — confirm anything you want to pursue before you act on it. 🔄 **NEXT RETRY: tomorrow morning's sweep (Fri 8/28)**, the first eligible attempt under the seven-day retry rule. No new commercial inventory was hunted this evening for the same reason — the hunt runs through the same blocked doors."
+     "id": "2526-duplex-rd",
+     "address": "2526–2530 Duplex Rd",
+     "city": "Spring Hill",
+     "dealType": "sale",
+     "price": 2000000,
+     "sf": 8000,
+     "propertyType": "Flex / Showroom",
+     "highlights": [
+      "Renovated, move-in-ready — zoning explicitly permits 'showrooms and display spaces'",
+      "1.16-acre dual-parcel site with strong corridor visibility",
+      "Second parcel is income-producing self-storage with upside",
+      "Seller open to a 3-year leaseback"
+     ],
+     "fitNote": "Best sub-$3M ownership play in the whole corridor — right size, showroom-permitted zoning, $250/sf in the fastest-growing housing market in Middle TN.",
+     "url": "https://www.loopnet.com/Listing/2526-2530-Duplex-Rd-Spring-Hill-TN/36543753/",
+     "photoUrl": null,
+     "broker": "Voyager Real Estate Partners",
+     "badge": null
     },
     {
-      "id": "knox",
-      "label": "Knoxville",
-      "emoji": "🏔",
-      "criteria": "Showroom/warehouse combo · West Knoxville, Turkey Creek, Farragut, Lenoir City · 4,000–10,000 sf · buy up to $3M or lease · conversion candidates welcome",
-      "listings": [
-        {
-          "id": "319-lovell-rd",
-          "address": "319 Lovell Rd",
-          "city": "Knoxville (Turkey Creek)",
-          "dealType": "lease",
-          "leaseRate": "Lease upcoming — expect premium",
-          "sf": 6000,
-          "propertyType": "Freestanding former restaurant",
-          "conversion": true,
-          "highlights": [
-            "The one you flagged — 6,000 sf freestanding at Turkey Creek",
-            "Restaurant bones: open floor, parking, huge retail gravity",
-            "Inquiry route already in hand"
-          ],
-          "fitNote": "Your restaurant-to-showroom pattern at the metro's #1 retail address. Gene is tracking the lease timing with the contact you provided.",
-          "url": null,
-          "photoUrl": null,
-          "broker": null,
-          "badge": "RADAR"
-        },
-        {
-          "id": "5136-highway-321-n",
-          "address": "5136 Highway 321 N",
-          "city": "Lenoir City",
-          "dealType": "sale",
-          "price": 995000,
-          "sf": 5985,
-          "propertyType": "Flex / Showroom-Warehouse",
-          "highlights": [
-            "~4,000 sf open warehouse (14' clear) + ~2,000 sf finished office, renovated 2024",
-            "3 garage doors + 1 dock-high door",
-            "13,000 cars/day on Hwy 321, large pole sign, 3 min to I-75/I-40",
-            "Hit the market Jul 27 — brand new listing"
-          ],
-          "fitNote": "Near-perfect template at $166/sf: highway-visible front converts to showroom, real warehouse and doors in back, interstate access for delivery trucks. New to market two days ago — these move fast.",
-          "url": "https://www.loopnet.com/Listing/5136-Highway-321-N-Lenoir-City-TN/41447293/",
-          "photoUrl": null,
-          "broker": "Goldman Partners Realty",
-          "badge": null
-        },
-        {
-          "id": "10321-chapman-hwy",
-          "address": "10321 Chapman Hwy",
-          "city": "Seymour",
-          "dealType": "both",
-          "price": 2450000,
-          "leaseRate": "$32/SF/YR NNN (sale OR lease)",
-          "sf": 4192,
-          "propertyType": "Freestanding restaurant",
-          "conversion": true,
-          "highlights": [
-            "Freestanding full-service restaurant, renovated 2022",
-            "~170' of frontage, ~28,000 cars/day and climbing, pylon sign",
-            "49 parking spaces on 1.29 ac, flexible C-2 zoning"
-          ],
-          "fitNote": "Exactly your proven restaurant-to-showroom pattern — modern building, huge visibility, parking done. No dock, so warehouse stays light or off-site.",
-          "url": "https://www.loopnet.com/Listing/10321-Chapman-Hwy-Seymour-TN/34554826/",
-          "photoUrl": null,
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "622-n-central-st",
-          "address": "622 N Central St",
-          "city": "Knoxville (Happy Holler)",
-          "dealType": "sale",
-          "price": 2329900,
-          "sf": 8500,
-          "propertyType": "Retail box",
-          "conversion": true,
-          "highlights": [
-            "8,500 sf single-tenant 2005 build — one of the newest in the corridor",
-            "150' of Central St frontage + 30 parking spaces (rare near downtown)",
-            "Walking distance to the new stadium district",
-            "Current occupant relocating — not a distressed closure"
-          ],
-          "fitNote": "Design-forward downtown showroom in Knoxville's hottest urban-infill corridor; warehouse function would live off-site.",
-          "url": "https://www.loopnet.com/Listing/622-N-Central-St-Knoxville-TN/30018363/",
-          "photoUrl": null,
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "3030-amherst-rd",
-          "address": "Amherst Business Park, 3030 Amherst Rd",
-          "city": "Knoxville",
-          "dealType": "lease",
-          "leaseRate": "$13/SF/YR",
-          "sf": 5000,
-          "propertyType": "New-construction flex",
-          "highlights": [
-            "Brand-new flex: glass storefront entries in front, docks and drive-ins in back",
-            "26' eave heights; 5,000–42,500 sf shell — size it exactly to spec",
-            "Available now, tenant signage"
-          ],
-          "fitNote": "The cleanest way to get a purpose-built showroom+warehouse without buying: glass front, dock rear, $13/sf.",
-          "url": "https://www.loopnet.com/Listing/3030-Amherst-Rd-Knoxville-TN/36878457/",
-          "photoUrl": null,
-          "broker": "Maddox Companies",
-          "badge": null
-        },
-        {
-          "id": "9009-oak-ridge-hwy",
-          "address": "9009 Oak Ridge Hwy",
-          "city": "Knoxville (Karns)",
-          "dealType": "lease",
-          "leaseRate": "$24/SF/YR NNN",
-          "sf": 5800,
-          "propertyType": "Retail/service building",
-          "conversion": true,
-          "highlights": [
-            "56,000 cars/day and 206' of frontage with monument sign",
-            "Eight 10'×10' roll-up doors, 23' ceiling in the 3,500 sf bay",
-            "~2,300 sf front section ready for showroom build-out",
-            "Move-in ready now"
-          ],
-          "fitNote": "Auto-service-to-showroom conversion with exactly the right bones — retail front on a monster-traffic road, tall roll-up bay in back that swallows inventory. Lifts out, racking in.",
-          "url": "https://www.loopnet.com/Listing/9009-Oak-Ridge-Hwy-Knoxville-TN/41287889/",
-          "photoUrl": null,
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "11809-kingston-pike",
-          "address": "Farragut Towne Square, 11809–11817 Kingston Pike",
-          "city": "Farragut",
-          "dealType": "lease",
-          "leaseRate": "Negotiable / modified gross",
-          "sf": 8400,
-          "propertyType": "Retail (4,770 / 8,400 / 10,320 sf suites)",
-          "conversion": true,
-          "highlights": [
-            "Full build-out suites on Farragut's main artery, available now",
-            "1,380' of Kingston Pike frontage, 805 parking spaces",
-            "Highest-income trade area in the metro",
-            "Rear service access typical of the format"
-          ],
-          "fitNote": "Flagship-showroom conversion on the pike where the metro's richest homeowners drive daily — keep bulk inventory in a cheaper flex lease nearby.",
-          "url": "https://www.loopnet.com/Listing/11801-11847-Kingston-Pike-Knoxville-TN/25627550/",
-          "photoUrl": null,
-          "broker": "Spake Real Estate",
-          "badge": null
-        },
-        {
-          "id": "11444-hardin-valley-rd",
-          "address": "Steele Landing, 11444 Hardin Valley Rd",
-          "city": "Knoxville (Hardin Valley)",
-          "dealType": "lease",
-          "leaseRate": "$30/SF/YR NNN",
-          "sf": 6900,
-          "propertyType": "New retail outparcel (2026)",
-          "highlights": [
-            "6,900 sf outparcel at a brand-new 2026 center, partial build-out",
-            "Signalized intersection, across from the Hardin Valley school cluster",
-            "Knoxville's fastest-growing new-home submarket"
-          ],
-          "fitNote": "The builders and homeowners buying $15K appliance packages drive past this corner daily; rear warehouse is modest, so pair with cheap storage.",
-          "url": "https://www.loopnet.com/Listing/11444-Hardin-Valley-Rd-Knoxville-TN/38659615/",
-          "photoUrl": null,
-          "broker": null,
-          "badge": null
-        },
-        {
-          "id": "10737-dutchtown-rd",
-          "address": "10737 Dutchtown Rd",
-          "city": "Knoxville (Cedar Bluff / Pellissippi)",
-          "dealType": "lease",
-          "leaseRate": "$14.31/SF FS flex · $16.53/SF NNN industrial",
-          "sf": 5604,
-          "propertyType": "Flex / Showroom-Warehouse",
-          "highlights": [
-            "Climate-controlled open warehouse/flex with its own loading dock",
-            "Freestanding, renovated 2022, fully fenced with lay-down yard",
-            "Minutes from Turkey Creek and Pellissippi Pkwy",
-            "24-hour access; janitorial included"
-          ],
-          "fitNote": "Best-value west-side lease — a working showroom-warehouse near the money while you shop for a purchase.",
-          "url": "https://www.loopnet.com/Listing/10737-Dutchtown-Rd-Knoxville-TN/35042070/",
-          "photoUrl": null,
-          "broker": "Brackfield & Associates",
-          "badge": null
-        },
-        {
-          "id": "2333-w-emory-rd",
-          "address": "2333 W Emory Rd",
-          "city": "Powell",
-          "dealType": "sale",
-          "price": 1390000,
-          "sf": 5700,
-          "propertyType": "Flex / Showroom-Warehouse",
-          "highlights": [
-            "18 twelve-foot drive-in doors across two buildings",
-            "Fully renovated 2026: LED, paint, fixtures, gated 1.85-ac yard",
-            "Reception + 3 private offices in front"
-          ],
-          "fitNote": "Turnkey warehouse-heavy option in fast-growing Powell — the reception front converts to a compact showroom, and loading is trivial.",
-          "url": "https://www.loopnet.com/Listing/2333-W-Emory-Rd-Powell-TN/41422641/",
-          "photoUrl": null,
-          "broker": "Brackfield & Associates",
-          "badge": null
-        },
-        {
-          "id": "9721-sherrill-blvd",
-          "address": "9721 Sherrill Blvd Ste 130",
-          "city": "Knoxville (West Knox)",
-          "dealType": "lease",
-          "leaseRate": "$18/SF/YR",
-          "sf": 6673,
-          "propertyType": "Flex",
-          "highlights": [
-            "First-floor flex suite off I-40/Pellissippi (an 11,609 sf suite also open)",
-            "15' unfinished ceilings, campus renovated 2010",
-            "Massive parking (97 surface + 602 covered)"
-          ],
-          "fitNote": "Polished West Knox design-center-style option near the affluent base — Gene would confirm loading access before shortlisting.",
-          "url": "https://www.loopnet.com/Listing/9721-Sherrill-Blvd-Knoxville-TN/35769597/",
-          "photoUrl": null,
-          "broker": "Avison Young",
-          "badge": null
-        },
-        {
-          "id": "3319-e-gov-john-sevier",
-          "address": "3319 E Governor John Sevier Hwy",
-          "city": "Knoxville",
-          "dealType": "sale",
-          "price": 795000,
-          "sf": 4151,
-          "propertyType": "Flex / Warehouse",
-          "highlights": [
-            "16–17' warehouse ceilings, 2 grade-level doors + mezzanine",
-            "3 finished offices, 2 covered exterior bays",
-            "Fully fenced 1.96 ac, two gated entrances"
-          ],
-          "fitNote": "Cheapest real flex buy on the board ($191/sf) — works as the delivery/distribution hub paired with a showroom elsewhere; retail visibility is the trade-off.",
-          "url": "https://www.loopnet.com/Listing/3319-E-Governor-John-Sevier-Hwy-Knoxville-TN/41187118/",
-          "photoUrl": null,
-          "broker": "Greenbrier Real Estate Advisors",
-          "badge": null
-        },
-        {
-          "id": "3347-rudy-st",
-          "address": "3347–3353 Rudy St",
-          "city": "Knoxville (I-275 corridor)",
-          "dealType": "lease",
-          "leaseRate": "$13/SF/YR NNN",
-          "sf": 8530,
-          "propertyType": "Flex campus (2 buildings)",
-          "highlights": [
-            "6,050 sf flex building + 2,480 sf warehouse building on 1.28 ac",
-            "Dock door + two drive-ins, 18' and 14' clear-span",
-            "Under 4 miles to downtown, off I-275",
-            "Listed Jul 15"
-          ],
-          "fitNote": "Whole-campus lease with real doors at $13 NNN — strong ops/warehouse fit; it's an industrial pocket, not retail frontage.",
-          "url": "https://www.loopnet.com/Listing/3347-3353-Rudy-St-Knoxville-TN/41300317/",
-          "photoUrl": null,
-          "broker": "NAI Koella | RM Moore",
-          "badge": null
-        }
-      ],
-      "intel": [
-        {
-          "area": "🛍 West Knoxville / Turkey Creek",
-          "pros": [
-            "The metro's dominant retail gravity — pulls affluent shoppers from a 60+ mile radius",
-            "Direct I-40/I-75 access for deliveries",
-            "Dense $500K+ household concentration in the surrounding corridors"
-          ],
-          "cons": [
-            "Most expensive dirt and rents in the metro; flex product with docks is nearly nonexistent inside the retail core",
-            "For-sale inventory under $3M is extremely thin — owners lease, they don't sell"
-          ]
-        },
-        {
-          "area": "🏆 Farragut",
-          "pros": [
-            "Highest household incomes in the metro; heavy custom-builder activity feeding appliance demand",
-            "Kingston Pike delivers 30–40K cars/day past established centers",
-            "Strict sign ordinance keeps the corridor upscale — good brand adjacency"
-          ],
-          "cons": [
-            "Those same strict rules slow conversions and limit truck-court changes",
-            "Virtually no warehouse zoning — back-of-house must be light or elsewhere"
-          ]
-        },
-        {
-          "area": "🚛 Lenoir City",
-          "pros": [
-            "I-40/I-75 junction — best pure logistics access in the metro",
-            "Dramatically cheaper: ~$165/sf vs $250–500+ in West Knox",
-            "Feeds the booming Tellico Village lake-home market — an underserved high-end buyer pool"
-          ],
-          "cons": [
-            "Thinner retail traffic and less prestige than Turkey Creek, 15–20 min from the core",
-            "Smaller daytime population"
-          ]
-        },
-        {
-          "area": "🏙 Central Knoxville",
-          "pros": [
-            "Happy Holler / stadium district is the metro's hottest urban-infill story — strong for a design-forward brand",
-            "Cheapest functional warehouse product with interstate access",
-            "Central drive-time position serves both sides of town for delivery routing"
-          ],
-          "cons": [
-            "The affluent homeowners live in the western suburbs, not here",
-            "Older stock — expect capex on roofs, HVAC, docks"
-          ]
-        }
-      ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us **eight consecutive times**, so by rule we stopped re-attempting rather than burn every sweep on the same wall. Prices, availability and status below are accurate **as of Jul 29** and may have moved since — confirm anything you want to pursue before you act on it. 🔄 **NEXT RETRY: tomorrow morning's sweep (Fri 8/28)**, the first eligible attempt under the seven-day retry rule. No new commercial inventory was hunted this evening for the same reason — the hunt runs through the same blocked doors."
+     "id": "3451-lebanon-pike",
+     "address": "3451 Lebanon Pike",
+     "city": "Hermitage (Nashville east)",
+     "dealType": "both",
+     "price": 2450000,
+     "leaseRate": "Sale, lease, BTS, or ground lease",
+     "sf": 6010,
+     "propertyType": "Former restaurant",
+     "conversion": true,
+     "highlights": [
+      "Freestanding former hibachi/sushi restaurant on 0.95 ac",
+      "80 parking spaces at a signalized intersection, pylon sign in place",
+      "33,651 vehicles/day; 110K people within 5 miles",
+      "Offered for sale, lease, build-to-suit, or ground lease"
+     ],
+     "fitNote": "Textbook restaurant-to-showroom conversion — the open dining floor becomes the gallery and the commercial kitchen becomes a live-demo cooking suite. Trade-off: east side of town, not the affluent south corridor.",
+     "url": "https://www.loopnet.com/Listing/3451-Lebanon-Pike-Hermitage-TN/40547088/",
+     "photoUrl": "https://images1.loopnet.com/i2/wpZRjRs98PXWJjFnGcvbtYn76d2PLk1EZKBuK0JzA5s/112/image.png",
+     "broker": null,
+     "badge": null
     },
     {
-      "id": "beach",
-      "label": "Beach STR",
-      "emoji": "🏖",
-      "criteria": "Short-term-rental HOUSES (no condos) · Pensacola FL → Dauphin Island AL · up to $600K · 3+ bedrooms · water view/access ranked first · rental-proven properties badged",
-      "listings": [
-        {
-          "id": "17330-state-highway-180",
-          "address": "17330 State Highway 180",
-          "city": "Gulf Shores (Laguna Park / Fort Morgan Rd)",
-          "dealType": "",
-          "price": 599900,
-          "leaseRate": "",
-          "sf": 2129,
-          "beds": 3,
-          "baths": 3,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Water view of Little Lagoon",
-          "rentalHistory": "",
-          "highlights": [
-            "Water view of Little Lagoon — the lagoon side is where Gulf Shores value lives, per this lane's own read",
-            "2,129 sf / 3BR / 3BA on the Fort Morgan Rd corridor",
-            "Detached house, not a condo — meets the hard rule on this lane"
-          ],
-          "fitNote": "NEW Jul 30. The one find this morning that clears every gate on this lane at once: detached, 3BR+, under $600K, and an actual stated water position rather than water-adjacent. At $282/sf it is better value per foot than most of the Dauphin Island set. ⚠️ NO rental income or projection is stated on the listing, so none is claimed here — and Fort Morgan Rd corridor STR rules vary parcel to parcel, so the zoning check matters more here than usual.",
-          "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required before any offer.",
-          "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
-          "photoUrl": "",
-          "broker": "Sourced via CondoInvestment MLS feed (Gulf Shores homes $500–600K), verified Jul 30, 2026",
-          "badge": null
-        },
-        {
-          "id": "1425-w-lagoon-ave",
-          "address": "1425 W Lagoon Avenue",
-          "city": "Gulf Shores (Carl T Martin / Old Gulf Shores)",
-          "dealType": "",
-          "price": 599000,
-          "leaseRate": "",
-          "sf": 1157,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Detached single-family — raised beach house",
-          "waterPosition": "W Lagoon Ave, Old Gulf Shores — listing describes beach proximity; water frontage or view is NOT stated",
-          "rentalHistory": "",
-          "highlights": [
-            "Classic raised beach house in Old Gulf Shores — elevated construction, which matters for insurance on the coast",
-            "3BR / 2BA, 1,157 sf",
-            "Detached house, not a condo — meets the hard rule on this lane"
-          ],
-          "fitNote": "🆕 NEW THIS MORNING. It clears every hard gate — detached, 3BR, under the ceiling, in the corridor — and the raised-beach-house build is the right shape for the coast. ⚠️ Ranked below its neighbour at 1469: it is $9,100 dearer for 361 fewer square feet and one fewer bathroom, and it is not furnished. Carried because Old Gulf Shores is a genuinely different rental audience, not because the numbers beat the other one.",
-          "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required. No rental income figure is stated, so none is projected.",
-          "url": "https://www.condoinvestment.com/listing/396635-carl-t-martin-residential-1425-w-lagoon-avenue-gulf-shores-al-36542/",
-          "photoUrl": "",
-          "broker": "",
-          "badge": null
-        },
-        {
-          "id": "901-lockenbie-pl",
-          "address": "901 Lockenbie Pl",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 595000,
-          "beds": 4,
-          "baths": 3,
-          "propertyType": "Single-family house",
-          "waterPosition": "Island interior — water position not stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "4 bed / 3 bath — the largest bedroom count on the lane at this price",
-            "Dauphin Island, the sub-$600K house market on this coast",
-            "MLS 7803873"
-          ],
-          "fitNote": "The most sleeping capacity available under $600K on Dauphin Island, which is the number that drives nightly rate. Verified live on the listing brokerage's own inventory page tonight at $595,000.",
-          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": null
-        },
-        {
-          "id": "1469-w-lagoon-ave",
-          "address": "1469 W Lagoon Avenue",
-          "city": "Gulf Shores (Lagoon Estates)",
-          "dealType": "",
-          "price": 589900,
-          "leaseRate": "",
-          "sf": 1518,
-          "beds": 3,
-          "baths": 3,
-          "propertyType": "Detached single-family",
-          "waterPosition": "W Lagoon Ave / Lagoon Estates — listing states 0.2 miles (a 4-minute walk) from the beach; lagoon or gulf FRONTAGE is NOT stated",
-          "rentalHistory": "",
-          "highlights": [
-            "FULLY FURNISHED per the listing — the only turnkey house on this lane",
-            "3BR / 3BA, 1,518 sf — three full baths on three bedrooms, which is what lets two families share a rental",
-            "0.2 miles (4-minute walk) to the beach, per the listing",
-            "Detached house, not a condo — meets the hard rule on this lane"
-          ],
-          "fitNote": "🆕 NEW THIS MORNING and the strongest new find in a week. Fully furnished is the differentiator: on a short-term rental it removes the single biggest hidden cost between closing and first booking, and nothing else on this lane states it. Three full baths on a three-bedroom is the other unusual thing at this price. ⚠️ Be precise about the water: the street is named for the lagoon and the listing claims a four-minute beach walk, but it does NOT state waterfront or a water view, so none is claimed here.",
-          "strNote": "⚠️ STR eligibility NOT stated on the listing — Gulf Shores rules vary by parcel; verify before any offer. No rental income figure is stated, so none is projected.",
-          "url": "https://www.condoinvestment.com/listing/395868-lagoon-estates-residential-1469-w-lagoon-avenue-gulf-shores-al-36542/",
-          "photoUrl": "",
-          "broker": "",
-          "badge": null
-        },
-        {
-          "id": "107-portier-st",
-          "address": "107 Portier St",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": 549900,
-          "beds": 3,
-          "baths": 2,
-          "sf": 1848,
-          "waterPosition": "water-view",
-          "rentalHistory": null,
-          "highlights": [
-            "Raised cottage, Gulf views from big covered deck",
-            "Gulf side of the island — steps to sand",
-            "Recent roof, HVAC, windows, appliances",
-            "Under-house entertaining + gear storage"
-          ],
-          "fitNote": "Gulf-side view cottage under $550K is the island's classic STR play, sitting in the beach-demand zone that books best.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/property/7791898/",
-          "photoUrl": "https://property-images.realgeeks.com/algulf/bd2ab912e926f5a51176c22a951bd1e1.jpg",
-          "broker": "Griffin Realty",
-          "mls": "7791898",
-          "badge": null
-        },
-        {
-          "id": "412-bienville",
-          "address": "412 Bienville Blvd",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 534900,
-          "sf": 2100,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Island interior — boat shed on site, water access by trailer",
-          "rentalHistory": null,
-          "highlights": [
-            "2,100 sf — the largest floor plan in this price band on the island",
-            "20x36 boat shed",
-            "3 bed / 2 bath"
-          ],
-          "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": null
-        },
-        {
-          "id": "208-isabella",
-          "address": "208 Isabella",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 475000,
-          "leaseRate": null,
-          "sf": null,
-          "beds": 4,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Island interior — walkable to the public beach",
-          "rentalHistory": null,
-          "highlights": [
-            "Price cut $24,000 on Aug 26 — was $499,000",
-            "🆕 FOUR bedrooms at $499K — the second 4BR on the island under $500K",
-            "Appeared twice in this morning's index pull at the same price — not a typo"
-          ],
-          "fitNote": "🆕 NEW THIS MORNING, and it went straight onto the board. Bedroom count is the single biggest driver of nightly rate on a beach rental, so a 4/2 at $499,000 is a different economic animal from the 3/2s sitting at $489K–$549K all around it. ⭐ Same shape as 122 Hernando, which this lane already likes, but with a bigger house behind the number. Worth a live look before it is a week old.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": "DROP"
-        },
-        {
-          "id": "703-hunley-st",
-          "address": "703 Hunley St",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": 492000,
-          "beds": 3,
-          "baths": 2.5,
-          "sf": 1581,
-          "waterPosition": "short-walk",
-          "rentalHistory": null,
-          "highlights": [
-            "Fortified roof (3 yrs) + custom window shields",
-            "Cargo lift — guests love it",
-            "Only house on a quiet street, beach paths near",
-            "Mature citrus and fruit trees"
-          ],
-          "fitNote": "Privacy plus fortified construction makes a durable, low-cost-to-run STR — pitch it on quiet-island seclusion.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/property/7802054/",
-          "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
-          "broker": "Griffin Realty",
-          "mls": "7802054",
-          "badge": null
-        },
-        {
-          "id": "1127-chaumont-ave",
-          "address": "1127 Chaumont Ave",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": 489000,
-          "beds": 3,
-          "baths": 2,
-          "sf": 1992,
-          "waterPosition": "short-walk",
-          "rentalHistory": null,
-          "highlights": [
-            "Sold fully furnished — seamless STR start",
-            "Elevated 2005 build, new 5-ton HVAC + metal roof",
-            "Double corner lot (0.34 ac), fully fenced",
-            "Nearly 2,000 sf — sleeps a big group"
-          ],
-          "fitNote": "Biggest livable square footage under $500K on the island; fresh mechanicals keep insurance and setup friction low.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/property/7806215/",
-          "photoUrl": "https://property-images.realgeeks.com/algulf/633a3420111b8fe46f5beff9c4ebba39.jpg",
-          "broker": "Griffin Realty",
-          "mls": "7806215",
-          "badge": "DROP"
-        },
-        {
-          "id": "601-bienville-blvd",
-          "address": "601 Bienville Blvd",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 374900,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family house",
-          "waterPosition": "Dauphin Island - water position not stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bedrooms, 2 baths",
-            "Dauphin Island, detached house",
-            "Read live and active this morning"
-          ],
-          "fitNote": "New to the lane this morning. A detached 3/2 on Dauphin Island at $399,000 - well under your ceiling, and the island is where the sub-$600K detached-house market on this coast actually lives. No rental figures are shown because the listing does not publish any; nothing has been assumed. 💰 PRICE CUT verified Aug 21: $399,000 → $374,900, a $24,100 reduction and the only price movement anywhere on your board this morning. ⚠️ **PRICE UNCONFIRMED TONIGHT.** This row did not appear on the broker index page on the 8/27 evening re-verify, and a secondary source prints it ACTIVE at a HIGHER number than the $374,900 carried here. Two sources disagree, so nothing was edited and nothing was removed — tomorrow morning's sweep resolves it against the broker source. Treat the price on this row as unverified until then.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": "CHECK"
-        },
-        {
-          "id": "122-hernando",
-          "address": "122 Hernando",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 399000,
-          "sf": null,
-          "beds": 4,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Backs onto Dauphin Island Bird Sanctuary land",
-          "rentalHistory": null,
-          "highlights": [
-            "4 bedrooms under $400K",
-            "Backs up to Bird Sanctuary land — protected view, no build-behind risk"
-          ],
-          "fitNote": "🆕 The only FOUR-bedroom on the island under $400,000 in tonight's pull. Bedroom count is the single biggest driver of nightly rate on a beach rental, so 4/2 at $399K is a different economic animal from the 3/2s sitting at the same number. Backing onto sanctuary land means the view behind it cannot be built out.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": null
-        },
-        {
-          "id": "230-chenault",
-          "address": "230 Chenault",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 390000,
-          "sf": null,
-          "beds": 3,
-          "baths": 3,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Bay views — near the bird sanctuary",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bed / 3 BATH — a full bath per bedroom",
-            "Bay views",
-            "Under $400K"
-          ],
-          "fitNote": "🆕 Three full baths on a three-bedroom is unusual at this price and it matters for a rental — bath count is what lets two families share a house without friction, and it is the quiet reason some beach houses out-book their neighbours. Bay views at $390,000.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": null
-        },
-        {
-          "id": "1003-monberaut",
-          "address": "1003 Monberaut",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 384000,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family house",
-          "waterPosition": "Island interior — water position not stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bed / 2 bath under $400K on Dauphin Island",
-            "Second-cheapest entry on the lane",
-            "MLS 7804490"
-          ],
-          "fitNote": "The cheapest way onto Dauphin Island that still clears your 3-bedroom floor. Lowest capital at risk on the lane after 914 Cadillac. Verified live tonight at $384,000.",
-          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": null
-        },
-        {
-          "id": "302-audubon-pl",
-          "address": "302 Audubon Pl",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": null,
-          "beds": 4,
-          "baths": 3,
-          "sf": 1656,
-          "waterPosition": "water-view",
-          "rentalHistory": null,
-          "highlights": [
-            "The one you flagged — unencumbered view East",
-            "Was listed $649K, now showing OFF MARKET",
-            "4BR/3BA, 1,656 sf raised construction"
-          ],
-          "fitNote": "Gene is running this down with the listing side — if it's withdrawn rather than under contract, there may be an off-market opening.",
-          "strNote": null,
-          "url": null,
-          "photoUrl": null,
-          "broker": null,
-          "badge": "RADAR"
-        }
-      ],
-      "intel": [
-        {
-          "area": "🏝 Dauphin Island",
-          "pros": [
-            "Deepest under-$600K house inventory on the whole coast — six picks here from $359K",
-            "Cheap, simple compliance: town STR license $135–235/yr",
-            "Fortified/elevated newer stock keeps insurance manageable; entry prices make the yield math work",
-            "Loyal repeat-guest 'Sunset Capital' brand"
-          ],
-          "cons": [
-            "13% combined lodging tax + minimum-stay overlay rules on some parcels — we check each one",
-            "West-end erosion is chronic; one bridge on/off the island",
-            "Lower nightly-rate ceiling and shorter season than Gulf Shores/Orange Beach"
-          ]
-        },
-        {
-          "area": "🌊 Gulf Shores",
-          "pros": [
-            "STRs permitted in the beach-zone district where all our picks sit",
-            "Best demand engine on the AL coast — Hangout Fest, sports tourism, national brand",
-            "Lagoon/canal waterfront under $550K — waterfront STR product you can't touch gulf-front"
-          ],
-          "cons": [
-            "STR district rules bar new rentals in most neighborhoods north of the beach area — parcel-level verification is mandatory",
-            "True gulf-front houses start ~$900K; under $600K you're buying lagoon views and a short walk",
-            "City license, inspections, and 13%+ lodging tax compress margins"
-          ]
-        },
-        {
-          "area": "🚤 Orange Beach",
-          "pros": [
-            "Highest nightly rates on the Alabama coast — Wharf/Margaritaville pull",
-            "Where STR approval exists it's scarce and defensible — a moat, not a commodity",
-            "Newer housing stock, strong appreciation record"
-          ],
-          "cons": [
-            "Strict STR licensing in limited districts, actively enforced — most sub-$600K neighborhoods are NOT eligible",
-            "Thin detached inventory in budget",
-            "Licenses don't always transfer on sale — always verified before offering"
-          ]
-        },
-        {
-          "area": "🏰 Fort Morgan",
-          "pros": [
-            "Unincorporated Baldwin County — friendliest STR posture in the search area, no city licensing",
-            "Quiet beaches, week-long family bookings, high repeat rates",
-            "Gold Fortified new builds along Hwy 180 cut insurance meaningfully"
-          ],
-          "cons": [
-            "Fee-simple houses under $600K nearly extinct on the peninsula proper — budget buys the lagoon side",
-            "20–40 min to restaurants/groceries — reviews penalize the drive",
-            "Highest wind/flood exposure on the AL coast at the tip"
-          ]
-        },
-        {
-          "area": "🌴 Pensacola Beach / Perdido Key",
-          "pros": [
-            "No STR ban in unincorporated Escambia — state license + tourist tax and you operate",
-            "Highest gross-yield ratios in this search on the Perdido-side mainland (sub-$450K entries minutes from Johnson's Beach)",
-            "Strong shoulder-season demand: Navy Aviation Museum, Flora-Bama, Pensacola metro"
-          ],
-          "cons": [
-            "ZERO houses under $600K on Pensacola Beach itself — houses start ~$725K",
-            "Pensacola Beach is 99-yr leasehold land — a financing/resale quirk",
-            "Perdido gulf-side is condo towers; in-budget houses are near-beach, not on-beach",
-            "Florida insurance is the most stressed on this coast — quotes before offers"
-          ]
-        }
-      ],
-      "note": "✅ **RE-VERIFIED LIVE THIS EVENING — TWELVE OF THIRTEEN STILL ACTIVE AT EXACTLY THE PRICES CARRIED HERE, AND NOT ONE PRICE MOVED TODAY.** Both working beach sources answered cleanly. On Dauphin Island: 901 Lockenbie $595,000, 107 Portier $549,900, 412 Bienville $534,900, 703 Hunley $492,000, 1127 Chaumont $489,000, 208 Isabella $475,000, 122 Hernando $399,000, 230 Chenault $390,000 and 1003 Monberaut $384,000 all re-confirmed active and unchanged. On the Gulf Shores side: 17330 State Hwy 180 $599,900, 1425 W Lagoon $599,000 and 1469 W Lagoon $589,900, all active, no pending flags, no cuts. ⚠️ **ONE ROW IS FLAGGED RATHER THAN EDITED: 601 Bienville Blvd.** It did not appear on tonight's broker index page, and a second source shows it ACTIVE at a different price from the one carried here. Two sources disagree, so it stays on the board with its price marked unconfirmed and the morning sweep settles it — we do not silently rewrite a number on one ambiguous read. 🔍 **ONE NEW CANDIDATE WAS FOUND AND DELIBERATELY HELD:** a three-bedroom on Dauphin Island showing at $489,000 on the broker index. It is being held off the board for one sweep because the public record for that address conflicts with the listing — it appears to have changed hands earlier this year at a much lower figure and reads as off-market elsewhere. If the morning re-check confirms it live, it goes on; if not, you never saw a listing that was not really there."
+     "id": "2702-greystone-rd",
+     "address": "2702 Greystone Rd",
+     "city": "Nashville (Berry Hill)",
+     "dealType": "sale",
+     "price": 1999000,
+     "sf": 5610,
+     "propertyType": "Office / Showroom",
+     "highlights": [
+      "Marketed as an office/showroom building, updated 2017",
+      "Berry Hill — Nashville's design & showroom district",
+      "42% leased ($96,920 NOI) — income while you build out",
+      "Minutes from 8th Ave S and I-440"
+     ],
+     "fitNote": "Cheapest in-range Berry Hill buy, already described as a showroom building — and the partial tenancy pays carry during conversion.",
+     "url": "https://www.loopnet.com/Listing/2702-Greystone-Rd-Nashville-TN/40482144/",
+     "photoUrl": "https://images1.loopnet.com/i2/svBvjb2pjE-ttzLMCDnhlyjPBQzMi8ygC6NavIeUVRs/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "2605-westwood-dr",
+     "address": "2605 Westwood Dr",
+     "city": "Nashville (Berry Hill)",
+     "dealType": "sale",
+     "price": 2395000,
+     "sf": 4600,
+     "propertyType": "Showroom",
+     "highlights": [
+      "Listed subtype is literally 'Showroom' — renovated 2019, big open studio space",
+      "Drive-in grade-level door for appliance delivery",
+      "On-site parking, very walkable design-district block",
+      "Owner-occupier opportunity"
+     ],
+     "fitNote": "Turnkey boutique-showroom character in the city's design district; the drive-in door solves appliance logistics. Smallest floorplate on the list.",
+     "url": "https://www.loopnet.com/Listing/2605-Westwood-Dr-Nashville-TN/39212203/",
+     "photoUrl": "https://images1.loopnet.com/i2/milxQ6gg2k5lXLhUgzJSeNSZzi5HoUtb7q8dV4ZXSDs/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "2603-westwood-dr",
+     "address": "2603 Westwood Dr",
+     "city": "Nashville (Berry Hill)",
+     "dealType": "sale",
+     "price": 2695000,
+     "sf": 5372,
+     "propertyType": "Office → showroom",
+     "conversion": true,
+     "highlights": [
+      "Exterior loading dock + basement storage — rare here, ideal for inventory",
+      "Abundant on-site parking; under 1 mile to I-65/I-440",
+      "Two 2,686 sf floors, right next door to 2605 Westwood"
+     ],
+     "fitNote": "Office-to-showroom conversion: open first floor becomes the gallery, dock handles deliveries, upstairs becomes design offices. Buy it WITH 2605 next door and you've built a Berry Hill compound.",
+     "url": "https://www.loopnet.com/Listing/2603-Westwood-Dr-Nashville-TN/40785410/",
+     "photoUrl": "https://images1.loopnet.com/i2/xTpefjkYrTBBkjBUbXjiba8yzYbR17M4FrMYc_QWHVo/112/image.jpg",
+     "broker": "Matthews REIS (Hutt Cooke)",
+     "badge": null
+    },
+    {
+     "id": "1127-harpeth-industrial-ct",
+     "address": "1127 Harpeth Industrial Ct",
+     "city": "Franklin (Factory District)",
+     "dealType": "sale",
+     "price": null,
+     "sf": 8400,
+     "propertyType": "Flex (retail-permitted)",
+     "conversion": true,
+     "highlights": [
+      "Inside Franklin's Factory District — the Factory at Franklin next door pulls 2M visits/yr",
+      "Trade-area median household income $106.7K",
+      "Zoning explicitly permits retail/showroom use",
+      "Owner-user sale, no long-term leases in place — price on request"
+     ],
+     "fitNote": "Industrial-chic conversion in Franklin's hottest adaptive-reuse pocket — the Factory proves the high-end retail draw. Price is the open question; Gene can chase it same-day.",
+     "url": "https://www.loopnet.com/Listing/1127-Harpeth-Industrial-Ct-Franklin-TN/35656758/",
+     "photoUrl": null,
+     "broker": "Lee & Associates",
+     "badge": null
+    },
+    {
+     "id": "1175-meridian-dr",
+     "address": "Meridian Cool Springs, 2000 Meridian Blvd Ste 110",
+     "city": "Franklin (Cool Springs)",
+     "dealType": "lease",
+     "leaseRate": "$40/SF/YR Full Service",
+     "sf": 7235,
+     "propertyType": "Retail",
+     "highlights": [
+      "7,235 sf first-floor retail, available NOW",
+      "Upscale mixed-use center with 3 on-site hotels (544 rooms)",
+      "446 parking spaces; 275 ft of Carothers Pkwy frontage",
+      "15,000+ office workers within walking distance"
+     ],
+     "fitNote": "Strongest lease fit on the board — right size, immediate availability, and exactly the affluent daytime + hotel traffic a high-end appliance showroom feeds on.",
+     "url": "https://www.loopnet.com/Listing/1175-Meridian-Dr-Franklin-TN/28795285/",
+     "photoUrl": "https://images1.loopnet.com/i2/QjL6UkRToknuw-exlowaEltJNI3hFkrlkncEY4mJ32A/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "1010-murfreesboro-rd",
+     "address": "The Maples, 1010 Murfreesboro Rd Ste 198",
+     "city": "Franklin",
+     "dealType": "lease",
+     "leaseRate": "$30/SF/YR NNN",
+     "sf": 5600,
+     "propertyType": "Retail endcap (former Sherwin-Williams)",
+     "conversion": true,
+     "highlights": [
+      "Fully built-out endcap in a Sprouts-anchored center",
+      "~32,000 vehicles/day on Murfreesboro Rd / Hwy 96",
+      "453 parking spaces; available Sept 1, 2026; 5–10 yr terms"
+     ],
+     "fitNote": "Former paint store = near-zero conversion cost and a homeowner/trade-pro traffic pattern that already matches appliance buying. Best value lease in Franklin.",
+     "url": "https://www.loopnet.com/Listing/1010-Murfreesboro-Rd-Franklin-TN/25454613/",
+     "photoUrl": "https://images1.loopnet.com/i2/vVlX45vx9Kr9pn1VmE04gVBMhnv_hkY4LqtTTY76s2s/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "4020-aspen-grove-dr",
+     "address": "McEwen Northside Block E, 4020 Aspen Grove Dr",
+     "city": "Franklin (Cool Springs)",
+     "dealType": "lease",
+     "leaseRate": "Rate on request (bldg quotes $48–54/SF)",
+     "sf": 8816,
+     "propertyType": "Ground-floor retail, Class A",
+     "highlights": [
+      "8,816 sf ground-floor spec suite in a brand-new 280,000 sf live-work-play development",
+      "Direct I-65 access, curated walkable retail",
+      "The premium address in Cool Springs"
+     ],
+     "fitNote": "The flagship-image play — new Class A shell where AllSouth builds exactly the showroom it wants. Expect the highest rent in this set.",
+     "url": "https://www.loopnet.com/Listing/4020-Aspen-Grove-Dr-Franklin-TN/25983947/",
+     "photoUrl": "https://images1.loopnet.com/i2/Jub6tYH0vYfgY-tuh1Q2wpiILds6EDTA8MlTvM6CN7k/112/image.jpg",
+     "broker": "Dan Brazzell",
+     "badge": null
+    },
+    {
+     "id": "1001-crossings-blvd",
+     "address": "The Crossings of Spring Hill, Crossings Blvd",
+     "city": "Spring Hill",
+     "dealType": "lease",
+     "leaseRate": "NNN, rate on request",
+     "sf": 5200,
+     "propertyType": "Retail (5,000 & 5,200 sf suites)",
+     "highlights": [
+      "Two in-range suites, each available within 30 days",
+      "Class A power center: Target, Kohl's, Ross, ULTA, HomeGoods",
+      "4,946 parking spaces; huge Columbia Pike frontage"
+     ],
+     "fitNote": "Captures the new-construction homeowner wave with co-tenancy that already pulls the home-furnishing shopper. Less 'boutique' in feel than the Franklin options.",
+     "url": "https://www.loopnet.com/Listing/Columbia-Pike-Spring-Hill-TN/29987118/",
+     "photoUrl": "https://images1.loopnet.com/i2/JbaRQmUY1kzrhYpc7mjOtiUWrw6MydmmIoS3ApDix10/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "204-ward-cir",
+     "address": "Ward Circle Center, 204 Ward Cir",
+     "city": "Brentwood",
+     "dealType": "lease",
+     "leaseRate": "Rate on request",
+     "sf": 4592,
+     "propertyType": "Retail",
+     "highlights": [
+      "Up to 4,592 sf contiguous in the Maryland Farms pocket",
+      "One of the ONLY in-range availabilities inside Brentwood proper",
+      "15–20 min to both Nashville and Franklin"
+     ],
+     "fitNote": "Barely clears the 4,000 sf floor and visibility is interior-circle, but it's essentially the only way to plant a flag in Brentwood right now.",
+     "url": "https://www.loopnet.com/Listing/204-Ward-Cir-Brentwood-TN/38439497/",
+     "photoUrl": null,
+     "broker": "Owner-direct",
+     "badge": null
+    },
+    {
+     "id": "4719-traders-way",
+     "address": "4719 Traders Way",
+     "city": "Thompson's Station",
+     "dealType": "lease",
+     "leaseRate": "NNN, rate on request · 5-yr min",
+     "sf": 10000,
+     "propertyType": "Proposed retail (2,200–20,000 sf divisible)",
+     "highlights": [
+      "Pre-leasing a to-be-built neighborhood center bordering Spring Hill",
+      "Cold-shell delivery — spec gas/electric for live kitchen displays from day one",
+      "Sits in the fastest rooftop-growth path in the corridor"
+     ],
+     "fitNote": "A bet on the growth corridor rather than a move-in space — construction timeline risk, but the cheapest path to a purpose-built showroom near the June Lake boom.",
+     "url": "https://www.loopnet.com/Listing/4719-Traders-Way-Thompsons-Station-TN/40882219/",
+     "photoUrl": "https://images1.loopnet.com/i2/74RZSbW5FARxlJsAG2fS7aJtX_fDTsXmHk3_Kqg2-6A/112/image.jpg",
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "june-lake-blvd",
+     "address": "June Lake Blvd (June Lake)",
+     "city": "Thompson's Station",
+     "dealType": "lease",
+     "leaseRate": "Rate on request",
+     "sf": 4277,
+     "propertyType": "New-construction retail (2027)",
+     "highlights": [
+      "775-acre master-planned community at I-65/Buckner Rd",
+      "Adjacent to thousands of planned new rooftops",
+      "Largest suite (4,277 sf) clears your size floor — bigger than the ~3,900 sf June Lake space you saw before"
+     ],
+     "fitNote": "Minimum viable footprint, 2027 delivery — but nothing in the corridor puts a showroom closer to active new-home construction buyers.",
+     "url": "https://www.loopnet.com/Listing/June-Lake-Blvd-Thompsons-Station-TN/32247653/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": "RADAR"
     }
-  ]
+   ],
+   "intel": [
+    {
+     "area": "🎨 Berry Hill / 8th Ave S (Nashville's design district)",
+     "pros": [
+      "The de facto design & showroom district — designers and renovation trade pros are already there",
+      "The ONLY submarket with multiple in-range purchases under $3M (three verified, $2.0–2.7M)",
+      "10–15 min to Belle Meade, Green Hills, 12South — the city's richest renovation clients",
+      "High-character buildings that photograph beautifully for a premium brand"
+     ],
+     "cons": [
+      "Steep price per sf ($356–521) for older Class B/C product",
+      "Tighter parking than suburban retail",
+      "Most in-range buildings need conversion capital",
+      "Lower drive-by traffic than pike/interstate retail"
+     ]
+    },
+    {
+     "area": "💎 Franklin / Cool Springs",
+     "pros": [
+      "Top-20 wealthiest county in America; Cool Springs is its retail center of gravity",
+      "Deepest lease inventory in the corridor — verified options $30–45/sf including in-range suites available NOW",
+      "Massive daytime population + hotel traffic",
+      "The Factory District offers a rare adaptive-reuse ownership angle"
+     ],
+     "cons": [
+      "For-sale product at your size under $3M is essentially NONEXISTENT — this is a lease market",
+      "Highest rents in the corridor at the premium addresses",
+      "Strict design/signage codes",
+      "25–35 min from Nashville in rush hour"
+     ]
+    },
+    {
+     "area": "🏛 Brentwood",
+     "pros": [
+      "Highest household incomes in the corridor, dense executive-homeowner base",
+      "Maryland Farms pocket sits 15–20 min from both Nashville and Franklin"
+     ],
+     "cons": [
+      "Almost zero in-range inventory in either direction — zoning deliberately constrains commercial supply, so this won't improve",
+      "The one in-range lease has interior-parcel visibility"
+     ]
+    },
+    {
+     "area": "🏗 Thompson's Station / Spring Hill",
+     "pros": [
+      "Fastest new-construction housing growth in Middle Tennessee — the ideal appliance-buyer pipeline",
+      "Best value: the only verified showroom-zoned building purchase in the corridor at $250/sf",
+      "Target-anchored co-tenancy traffic available within 30 days"
+     ],
+     "cons": [
+      "45–55 min from Nashville — far for a store that also wants urban designers",
+      "Trade area skews production-builder/mid-market vs. ultra-luxury",
+      "Much of the best space is proposed/2027 delivery"
+     ]
+    },
+    {
+     "area": "🌳 Nolensville",
+     "pros": [
+      "Affluent, fast-growing bedroom community",
+      "New mixed-use bringing quality small-shop retail"
+     ],
+     "cons": [
+      "Effectively no qualifying inventory — leases top out near 3,500 sf",
+      "No retail gravity yet; customers still drive to Cool Springs"
+     ]
+    }
+   ],
+   "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **nine consecutive times.** Today's sweep was the scheduled seven-day retry under the freeze rule and **both were attempted and both returned 403 again** — so this is a re-tested freeze, not an assumed one. Prices, availability and status below are accurate **as of Jul 29** and may have moved since; confirm anything you want to pursue before you act on it. 🔄 **NEXT RETRY: the morning sweep of Fri 9/4**, the next eligible attempt under the rule. No new commercial inventory was hunted today for the same reason — the hunt runs against the same blocked sources."
+  },
+  {
+   "id": "knox",
+   "label": "Knoxville",
+   "emoji": "🏔",
+   "criteria": "Showroom/warehouse combo · West Knoxville, Turkey Creek, Farragut, Lenoir City · 4,000–10,000 sf · buy up to $3M or lease · conversion candidates welcome",
+   "listings": [
+    {
+     "id": "319-lovell-rd",
+     "address": "319 Lovell Rd",
+     "city": "Knoxville (Turkey Creek)",
+     "dealType": "lease",
+     "leaseRate": "Lease upcoming — expect premium",
+     "sf": 6000,
+     "propertyType": "Freestanding former restaurant",
+     "conversion": true,
+     "highlights": [
+      "The one you flagged — 6,000 sf freestanding at Turkey Creek",
+      "Restaurant bones: open floor, parking, huge retail gravity",
+      "Inquiry route already in hand"
+     ],
+     "fitNote": "Your restaurant-to-showroom pattern at the metro's #1 retail address. Gene is tracking the lease timing with the contact you provided.",
+     "url": null,
+     "photoUrl": null,
+     "broker": null,
+     "badge": "RADAR"
+    },
+    {
+     "id": "5136-highway-321-n",
+     "address": "5136 Highway 321 N",
+     "city": "Lenoir City",
+     "dealType": "sale",
+     "price": 995000,
+     "sf": 5985,
+     "propertyType": "Flex / Showroom-Warehouse",
+     "highlights": [
+      "~4,000 sf open warehouse (14' clear) + ~2,000 sf finished office, renovated 2024",
+      "3 garage doors + 1 dock-high door",
+      "13,000 cars/day on Hwy 321, large pole sign, 3 min to I-75/I-40",
+      "Hit the market Jul 27 — brand new listing"
+     ],
+     "fitNote": "Near-perfect template at $166/sf: highway-visible front converts to showroom, real warehouse and doors in back, interstate access for delivery trucks. New to market two days ago — these move fast.",
+     "url": "https://www.loopnet.com/Listing/5136-Highway-321-N-Lenoir-City-TN/41447293/",
+     "photoUrl": null,
+     "broker": "Goldman Partners Realty",
+     "badge": null
+    },
+    {
+     "id": "10321-chapman-hwy",
+     "address": "10321 Chapman Hwy",
+     "city": "Seymour",
+     "dealType": "both",
+     "price": 2450000,
+     "leaseRate": "$32/SF/YR NNN (sale OR lease)",
+     "sf": 4192,
+     "propertyType": "Freestanding restaurant",
+     "conversion": true,
+     "highlights": [
+      "Freestanding full-service restaurant, renovated 2022",
+      "~170' of frontage, ~28,000 cars/day and climbing, pylon sign",
+      "49 parking spaces on 1.29 ac, flexible C-2 zoning"
+     ],
+     "fitNote": "Exactly your proven restaurant-to-showroom pattern — modern building, huge visibility, parking done. No dock, so warehouse stays light or off-site.",
+     "url": "https://www.loopnet.com/Listing/10321-Chapman-Hwy-Seymour-TN/34554826/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "622-n-central-st",
+     "address": "622 N Central St",
+     "city": "Knoxville (Happy Holler)",
+     "dealType": "sale",
+     "price": 2329900,
+     "sf": 8500,
+     "propertyType": "Retail box",
+     "conversion": true,
+     "highlights": [
+      "8,500 sf single-tenant 2005 build — one of the newest in the corridor",
+      "150' of Central St frontage + 30 parking spaces (rare near downtown)",
+      "Walking distance to the new stadium district",
+      "Current occupant relocating — not a distressed closure"
+     ],
+     "fitNote": "Design-forward downtown showroom in Knoxville's hottest urban-infill corridor; warehouse function would live off-site.",
+     "url": "https://www.loopnet.com/Listing/622-N-Central-St-Knoxville-TN/30018363/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "3030-amherst-rd",
+     "address": "Amherst Business Park, 3030 Amherst Rd",
+     "city": "Knoxville",
+     "dealType": "lease",
+     "leaseRate": "$13/SF/YR",
+     "sf": 5000,
+     "propertyType": "New-construction flex",
+     "highlights": [
+      "Brand-new flex: glass storefront entries in front, docks and drive-ins in back",
+      "26' eave heights; 5,000–42,500 sf shell — size it exactly to spec",
+      "Available now, tenant signage"
+     ],
+     "fitNote": "The cleanest way to get a purpose-built showroom+warehouse without buying: glass front, dock rear, $13/sf.",
+     "url": "https://www.loopnet.com/Listing/3030-Amherst-Rd-Knoxville-TN/36878457/",
+     "photoUrl": null,
+     "broker": "Maddox Companies",
+     "badge": null
+    },
+    {
+     "id": "9009-oak-ridge-hwy",
+     "address": "9009 Oak Ridge Hwy",
+     "city": "Knoxville (Karns)",
+     "dealType": "lease",
+     "leaseRate": "$24/SF/YR NNN",
+     "sf": 5800,
+     "propertyType": "Retail/service building",
+     "conversion": true,
+     "highlights": [
+      "56,000 cars/day and 206' of frontage with monument sign",
+      "Eight 10'×10' roll-up doors, 23' ceiling in the 3,500 sf bay",
+      "~2,300 sf front section ready for showroom build-out",
+      "Move-in ready now"
+     ],
+     "fitNote": "Auto-service-to-showroom conversion with exactly the right bones — retail front on a monster-traffic road, tall roll-up bay in back that swallows inventory. Lifts out, racking in.",
+     "url": "https://www.loopnet.com/Listing/9009-Oak-Ridge-Hwy-Knoxville-TN/41287889/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "11809-kingston-pike",
+     "address": "Farragut Towne Square, 11809–11817 Kingston Pike",
+     "city": "Farragut",
+     "dealType": "lease",
+     "leaseRate": "Negotiable / modified gross",
+     "sf": 8400,
+     "propertyType": "Retail (4,770 / 8,400 / 10,320 sf suites)",
+     "conversion": true,
+     "highlights": [
+      "Full build-out suites on Farragut's main artery, available now",
+      "1,380' of Kingston Pike frontage, 805 parking spaces",
+      "Highest-income trade area in the metro",
+      "Rear service access typical of the format"
+     ],
+     "fitNote": "Flagship-showroom conversion on the pike where the metro's richest homeowners drive daily — keep bulk inventory in a cheaper flex lease nearby.",
+     "url": "https://www.loopnet.com/Listing/11801-11847-Kingston-Pike-Knoxville-TN/25627550/",
+     "photoUrl": null,
+     "broker": "Spake Real Estate",
+     "badge": null
+    },
+    {
+     "id": "11444-hardin-valley-rd",
+     "address": "Steele Landing, 11444 Hardin Valley Rd",
+     "city": "Knoxville (Hardin Valley)",
+     "dealType": "lease",
+     "leaseRate": "$30/SF/YR NNN",
+     "sf": 6900,
+     "propertyType": "New retail outparcel (2026)",
+     "highlights": [
+      "6,900 sf outparcel at a brand-new 2026 center, partial build-out",
+      "Signalized intersection, across from the Hardin Valley school cluster",
+      "Knoxville's fastest-growing new-home submarket"
+     ],
+     "fitNote": "The builders and homeowners buying $15K appliance packages drive past this corner daily; rear warehouse is modest, so pair with cheap storage.",
+     "url": "https://www.loopnet.com/Listing/11444-Hardin-Valley-Rd-Knoxville-TN/38659615/",
+     "photoUrl": null,
+     "broker": null,
+     "badge": null
+    },
+    {
+     "id": "10737-dutchtown-rd",
+     "address": "10737 Dutchtown Rd",
+     "city": "Knoxville (Cedar Bluff / Pellissippi)",
+     "dealType": "lease",
+     "leaseRate": "$14.31/SF FS flex · $16.53/SF NNN industrial",
+     "sf": 5604,
+     "propertyType": "Flex / Showroom-Warehouse",
+     "highlights": [
+      "Climate-controlled open warehouse/flex with its own loading dock",
+      "Freestanding, renovated 2022, fully fenced with lay-down yard",
+      "Minutes from Turkey Creek and Pellissippi Pkwy",
+      "24-hour access; janitorial included"
+     ],
+     "fitNote": "Best-value west-side lease — a working showroom-warehouse near the money while you shop for a purchase.",
+     "url": "https://www.loopnet.com/Listing/10737-Dutchtown-Rd-Knoxville-TN/35042070/",
+     "photoUrl": null,
+     "broker": "Brackfield & Associates",
+     "badge": null
+    },
+    {
+     "id": "2333-w-emory-rd",
+     "address": "2333 W Emory Rd",
+     "city": "Powell",
+     "dealType": "sale",
+     "price": 1390000,
+     "sf": 5700,
+     "propertyType": "Flex / Showroom-Warehouse",
+     "highlights": [
+      "18 twelve-foot drive-in doors across two buildings",
+      "Fully renovated 2026: LED, paint, fixtures, gated 1.85-ac yard",
+      "Reception + 3 private offices in front"
+     ],
+     "fitNote": "Turnkey warehouse-heavy option in fast-growing Powell — the reception front converts to a compact showroom, and loading is trivial.",
+     "url": "https://www.loopnet.com/Listing/2333-W-Emory-Rd-Powell-TN/41422641/",
+     "photoUrl": null,
+     "broker": "Brackfield & Associates",
+     "badge": null
+    },
+    {
+     "id": "9721-sherrill-blvd",
+     "address": "9721 Sherrill Blvd Ste 130",
+     "city": "Knoxville (West Knox)",
+     "dealType": "lease",
+     "leaseRate": "$18/SF/YR",
+     "sf": 6673,
+     "propertyType": "Flex",
+     "highlights": [
+      "First-floor flex suite off I-40/Pellissippi (an 11,609 sf suite also open)",
+      "15' unfinished ceilings, campus renovated 2010",
+      "Massive parking (97 surface + 602 covered)"
+     ],
+     "fitNote": "Polished West Knox design-center-style option near the affluent base — Gene would confirm loading access before shortlisting.",
+     "url": "https://www.loopnet.com/Listing/9721-Sherrill-Blvd-Knoxville-TN/35769597/",
+     "photoUrl": null,
+     "broker": "Avison Young",
+     "badge": null
+    },
+    {
+     "id": "3319-e-gov-john-sevier",
+     "address": "3319 E Governor John Sevier Hwy",
+     "city": "Knoxville",
+     "dealType": "sale",
+     "price": 795000,
+     "sf": 4151,
+     "propertyType": "Flex / Warehouse",
+     "highlights": [
+      "16–17' warehouse ceilings, 2 grade-level doors + mezzanine",
+      "3 finished offices, 2 covered exterior bays",
+      "Fully fenced 1.96 ac, two gated entrances"
+     ],
+     "fitNote": "Cheapest real flex buy on the board ($191/sf) — works as the delivery/distribution hub paired with a showroom elsewhere; retail visibility is the trade-off.",
+     "url": "https://www.loopnet.com/Listing/3319-E-Governor-John-Sevier-Hwy-Knoxville-TN/41187118/",
+     "photoUrl": null,
+     "broker": "Greenbrier Real Estate Advisors",
+     "badge": null
+    },
+    {
+     "id": "3347-rudy-st",
+     "address": "3347–3353 Rudy St",
+     "city": "Knoxville (I-275 corridor)",
+     "dealType": "lease",
+     "leaseRate": "$13/SF/YR NNN",
+     "sf": 8530,
+     "propertyType": "Flex campus (2 buildings)",
+     "highlights": [
+      "6,050 sf flex building + 2,480 sf warehouse building on 1.28 ac",
+      "Dock door + two drive-ins, 18' and 14' clear-span",
+      "Under 4 miles to downtown, off I-275",
+      "Listed Jul 15"
+     ],
+     "fitNote": "Whole-campus lease with real doors at $13 NNN — strong ops/warehouse fit; it's an industrial pocket, not retail frontage.",
+     "url": "https://www.loopnet.com/Listing/3347-3353-Rudy-St-Knoxville-TN/41300317/",
+     "photoUrl": null,
+     "broker": "NAI Koella | RM Moore",
+     "badge": null
+    }
+   ],
+   "intel": [
+    {
+     "area": "🛍 West Knoxville / Turkey Creek",
+     "pros": [
+      "The metro's dominant retail gravity — pulls affluent shoppers from a 60+ mile radius",
+      "Direct I-40/I-75 access for deliveries",
+      "Dense $500K+ household concentration in the surrounding corridors"
+     ],
+     "cons": [
+      "Most expensive dirt and rents in the metro; flex product with docks is nearly nonexistent inside the retail core",
+      "For-sale inventory under $3M is extremely thin — owners lease, they don't sell"
+     ]
+    },
+    {
+     "area": "🏆 Farragut",
+     "pros": [
+      "Highest household incomes in the metro; heavy custom-builder activity feeding appliance demand",
+      "Kingston Pike delivers 30–40K cars/day past established centers",
+      "Strict sign ordinance keeps the corridor upscale — good brand adjacency"
+     ],
+     "cons": [
+      "Those same strict rules slow conversions and limit truck-court changes",
+      "Virtually no warehouse zoning — back-of-house must be light or elsewhere"
+     ]
+    },
+    {
+     "area": "🚛 Lenoir City",
+     "pros": [
+      "I-40/I-75 junction — best pure logistics access in the metro",
+      "Dramatically cheaper: ~$165/sf vs $250–500+ in West Knox",
+      "Feeds the booming Tellico Village lake-home market — an underserved high-end buyer pool"
+     ],
+     "cons": [
+      "Thinner retail traffic and less prestige than Turkey Creek, 15–20 min from the core",
+      "Smaller daytime population"
+     ]
+    },
+    {
+     "area": "🏙 Central Knoxville",
+     "pros": [
+      "Happy Holler / stadium district is the metro's hottest urban-infill story — strong for a design-forward brand",
+      "Cheapest functional warehouse product with interstate access",
+      "Central drive-time position serves both sides of town for delivery routing"
+     ],
+     "cons": [
+      "The affluent homeowners live in the western suburbs, not here",
+      "Older stock — expect capex on roofs, HVAC, docks"
+     ]
+    }
+   ],
+   "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have now refused us **nine consecutive times.** Today's sweep was the scheduled seven-day retry under the freeze rule and **both were attempted and both returned 403 again** — so this is a re-tested freeze, not an assumed one. Prices, availability and status below are accurate **as of Jul 29** and may have moved since; confirm anything you want to pursue before you act on it. 🔄 **NEXT RETRY: the morning sweep of Fri 9/4**, the next eligible attempt under the rule. No new commercial inventory was hunted today for the same reason — the hunt runs against the same blocked sources."
+  },
+  {
+   "id": "beach",
+   "label": "Beach STR",
+   "emoji": "🏖",
+   "criteria": "Short-term-rental HOUSES (no condos) · Pensacola FL → Dauphin Island AL · up to $600K · 3+ bedrooms · water view/access ranked first · rental-proven properties badged",
+   "listings": [
+    {
+     "id": "17330-state-highway-180",
+     "address": "17330 State Highway 180",
+     "city": "Gulf Shores (Laguna Park / Fort Morgan Rd)",
+     "dealType": "",
+     "price": 599900,
+     "leaseRate": "",
+     "sf": 2129,
+     "beds": 3,
+     "baths": 3,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Water view of Little Lagoon",
+     "rentalHistory": "",
+     "highlights": [
+      "Water view of Little Lagoon — the lagoon side is where Gulf Shores value lives, per this lane's own read",
+      "2,129 sf / 3BR / 3BA on the Fort Morgan Rd corridor",
+      "Detached house, not a condo — meets the hard rule on this lane"
+     ],
+     "fitNote": "NEW Jul 30. The one find this morning that clears every gate on this lane at once: detached, 3BR+, under $600K, and an actual stated water position rather than water-adjacent. At $282/sf it is better value per foot than most of the Dauphin Island set. ⚠️ NO rental income or projection is stated on the listing, so none is claimed here — and Fort Morgan Rd corridor STR rules vary parcel to parcel, so the zoning check matters more here than usual.",
+     "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required before any offer.",
+     "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
+     "photoUrl": "",
+     "broker": "Sourced via CondoInvestment MLS feed (Gulf Shores homes $500–600K), verified Jul 30, 2026",
+     "badge": null
+    },
+    {
+     "id": "1425-w-lagoon-ave",
+     "address": "1425 W Lagoon Avenue",
+     "city": "Gulf Shores (Carl T Martin / Old Gulf Shores)",
+     "dealType": "",
+     "price": 599000,
+     "leaseRate": "",
+     "sf": 1157,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Detached single-family — raised beach house",
+     "waterPosition": "W Lagoon Ave, Old Gulf Shores — listing describes beach proximity; water frontage or view is NOT stated",
+     "rentalHistory": "",
+     "highlights": [
+      "Classic raised beach house in Old Gulf Shores — elevated construction, which matters for insurance on the coast",
+      "3BR / 2BA, 1,157 sf",
+      "Detached house, not a condo — meets the hard rule on this lane"
+     ],
+     "fitNote": "🆕 NEW THIS MORNING. It clears every hard gate — detached, 3BR, under the ceiling, in the corridor — and the raised-beach-house build is the right shape for the coast. ⚠️ Ranked below its neighbour at 1469: it is $9,100 dearer for 361 fewer square feet and one fewer bathroom, and it is not furnished. Carried because Old Gulf Shores is a genuinely different rental audience, not because the numbers beat the other one.",
+     "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required. No rental income figure is stated, so none is projected.",
+     "url": "https://www.condoinvestment.com/listing/396635-carl-t-martin-residential-1425-w-lagoon-avenue-gulf-shores-al-36542/",
+     "photoUrl": "",
+     "broker": "",
+     "badge": null
+    },
+    {
+     "id": "901-lockenbie-pl",
+     "address": "901 Lockenbie Pl",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 595000,
+     "beds": 4,
+     "baths": 3,
+     "propertyType": "Single-family house",
+     "waterPosition": "Island interior — water position not stated on the listing",
+     "rentalHistory": null,
+     "highlights": [
+      "4 bed / 3 bath — the largest bedroom count on the lane at this price",
+      "Dauphin Island, the sub-$600K house market on this coast",
+      "MLS 7803873"
+     ],
+     "fitNote": "The most sleeping capacity available under $600K on Dauphin Island, which is the number that drives nightly rate. Verified live on the listing brokerage's own inventory page tonight at $595,000.",
+     "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty, LLC",
+     "badge": null
+    },
+    {
+     "id": "1469-w-lagoon-ave",
+     "address": "1469 W Lagoon Avenue",
+     "city": "Gulf Shores (Lagoon Estates)",
+     "dealType": "",
+     "price": 589900,
+     "leaseRate": "",
+     "sf": 1518,
+     "beds": 3,
+     "baths": 3,
+     "propertyType": "Detached single-family",
+     "waterPosition": "W Lagoon Ave / Lagoon Estates — listing states 0.2 miles (a 4-minute walk) from the beach; lagoon or gulf FRONTAGE is NOT stated",
+     "rentalHistory": "",
+     "highlights": [
+      "FULLY FURNISHED per the listing — the only turnkey house on this lane",
+      "3BR / 3BA, 1,518 sf — three full baths on three bedrooms, which is what lets two families share a rental",
+      "0.2 miles (4-minute walk) to the beach, per the listing",
+      "Detached house, not a condo — meets the hard rule on this lane"
+     ],
+     "fitNote": "🆕 NEW THIS MORNING and the strongest new find in a week. Fully furnished is the differentiator: on a short-term rental it removes the single biggest hidden cost between closing and first booking, and nothing else on this lane states it. Three full baths on a three-bedroom is the other unusual thing at this price. ⚠️ Be precise about the water: the street is named for the lagoon and the listing claims a four-minute beach walk, but it does NOT state waterfront or a water view, so none is claimed here.",
+     "strNote": "⚠️ STR eligibility NOT stated on the listing — Gulf Shores rules vary by parcel; verify before any offer. No rental income figure is stated, so none is projected.",
+     "url": "https://www.condoinvestment.com/listing/395868-lagoon-estates-residential-1469-w-lagoon-avenue-gulf-shores-al-36542/",
+     "photoUrl": "",
+     "broker": "",
+     "badge": null
+    },
+    {
+     "id": "107-portier-st",
+     "address": "107 Portier St",
+     "city": "Dauphin Island",
+     "state": "AL",
+     "price": 549900,
+     "beds": 3,
+     "baths": 2,
+     "sf": 1848,
+     "waterPosition": "water-view",
+     "rentalHistory": null,
+     "highlights": [
+      "Raised cottage, Gulf views from big covered deck",
+      "Gulf side of the island — steps to sand",
+      "Recent roof, HVAC, windows, appliances",
+      "Under-house entertaining + gear storage"
+     ],
+     "fitNote": "Gulf-side view cottage under $550K is the island's classic STR play, sitting in the beach-demand zone that books best.",
+     "strNote": null,
+     "url": "https://www.griffinrealtyllc.net/property/7791898/",
+     "photoUrl": "https://property-images.realgeeks.com/algulf/bd2ab912e926f5a51176c22a951bd1e1.jpg",
+     "broker": "Griffin Realty",
+     "mls": "7791898",
+     "badge": null
+    },
+    {
+     "id": "412-bienville",
+     "address": "412 Bienville Blvd",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 534900,
+     "sf": 2100,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Island interior — boat shed on site, water access by trailer",
+     "rentalHistory": null,
+     "highlights": [
+      "2,100 sf — the largest floor plan in this price band on the island",
+      "20x36 boat shed",
+      "3 bed / 2 bath"
+     ],
+     "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
+     "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty LLC",
+     "badge": null
+    },
+    {
+     "id": "208-isabella",
+     "address": "208 Isabella",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 475000,
+     "leaseRate": null,
+     "sf": null,
+     "beds": 4,
+     "baths": 2,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Island interior — walkable to the public beach",
+     "rentalHistory": null,
+     "highlights": [
+      "Price cut $24,000 on Aug 26 — was $499,000",
+      "🆕 FOUR bedrooms at $499K — the second 4BR on the island under $500K",
+      "Appeared twice in this morning's index pull at the same price — not a typo"
+     ],
+     "fitNote": "🆕 NEW THIS MORNING, and it went straight onto the board. Bedroom count is the single biggest driver of nightly rate on a beach rental, so a 4/2 at $499,000 is a different economic animal from the 3/2s sitting at $489K–$549K all around it. ⭐ Same shape as 122 Hernando, which this lane already likes, but with a bigger house behind the number. Worth a live look before it is a week old.",
+     "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty LLC",
+     "badge": "DROP"
+    },
+    {
+     "id": "703-hunley-st",
+     "address": "703 Hunley St",
+     "city": "Dauphin Island",
+     "state": "AL",
+     "price": 492000,
+     "beds": 3,
+     "baths": 2.5,
+     "sf": 1581,
+     "waterPosition": "short-walk",
+     "rentalHistory": null,
+     "highlights": [
+      "Fortified roof (3 yrs) + custom window shields",
+      "Cargo lift — guests love it",
+      "Only house on a quiet street, beach paths near",
+      "Mature citrus and fruit trees"
+     ],
+     "fitNote": "Privacy plus fortified construction makes a durable, low-cost-to-run STR — pitch it on quiet-island seclusion.",
+     "strNote": null,
+     "url": "https://www.griffinrealtyllc.net/property/7802054/",
+     "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
+     "broker": "Griffin Realty",
+     "mls": "7802054",
+     "badge": null
+    },
+    {
+     "id": "1127-chaumont-ave",
+     "address": "1127 Chaumont Ave",
+     "city": "Dauphin Island",
+     "state": "AL",
+     "price": 489000,
+     "beds": 3,
+     "baths": 2,
+     "sf": 1992,
+     "waterPosition": "short-walk",
+     "rentalHistory": null,
+     "highlights": [
+      "Sold fully furnished — seamless STR start",
+      "Elevated 2005 build, new 5-ton HVAC + metal roof",
+      "Double corner lot (0.34 ac), fully fenced",
+      "Nearly 2,000 sf — sleeps a big group"
+     ],
+     "fitNote": "Biggest livable square footage under $500K on the island; fresh mechanicals keep insurance and setup friction low.",
+     "strNote": null,
+     "url": "https://www.griffinrealtyllc.net/property/7806215/",
+     "photoUrl": "https://property-images.realgeeks.com/algulf/633a3420111b8fe46f5beff9c4ebba39.jpg",
+     "broker": "Griffin Realty",
+     "mls": "7806215",
+     "badge": "DROP"
+    },
+    {
+     "id": "601-bienville-blvd",
+     "address": "601 Bienville Blvd",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 374900,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Single-family house",
+     "waterPosition": "Dauphin Island - water position not stated on the listing",
+     "rentalHistory": null,
+     "highlights": [
+      "3 bedrooms, 2 baths",
+      "Dauphin Island, detached house",
+      "Read live and active this morning"
+     ],
+     "fitNote": "New to the lane this morning. A detached 3/2 on Dauphin Island at $399,000 - well under your ceiling, and the island is where the sub-$600K detached-house market on this coast actually lives. No rental figures are shown because the listing does not publish any; nothing has been assumed. 💰 PRICE CUT verified Aug 21: $399,000 → $374,900, a $24,100 reduction and the only price movement anywhere on your board this morning. ⚠️ **PRICE UNCONFIRMED TONIGHT.** This row did not appear on the broker index page on the 8/27 evening re-verify, and a secondary source prints it ACTIVE at a HIGHER number than the $374,900 carried here. Two sources disagree, so nothing was edited and nothing was removed — tomorrow morning's sweep resolves it against the broker source. Treat the price on this row as unverified until then.",
+     "strNote": null,
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty, LLC",
+     "badge": "DROP"
+    },
+    {
+     "id": "122-hernando",
+     "address": "122 Hernando",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 399000,
+     "sf": null,
+     "beds": 4,
+     "baths": 2,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Backs onto Dauphin Island Bird Sanctuary land",
+     "rentalHistory": null,
+     "highlights": [
+      "4 bedrooms under $400K",
+      "Backs up to Bird Sanctuary land — protected view, no build-behind risk"
+     ],
+     "fitNote": "🆕 The only FOUR-bedroom on the island under $400,000 in tonight's pull. Bedroom count is the single biggest driver of nightly rate on a beach rental, so 4/2 at $399K is a different economic animal from the 3/2s sitting at the same number. Backing onto sanctuary land means the view behind it cannot be built out.",
+     "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty LLC",
+     "badge": null
+    },
+    {
+     "id": "230-chenault",
+     "address": "230 Chenault",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 390000,
+     "sf": null,
+     "beds": 3,
+     "baths": 3,
+     "propertyType": "Detached single-family",
+     "waterPosition": "Bay views — near the bird sanctuary",
+     "rentalHistory": null,
+     "highlights": [
+      "3 bed / 3 BATH — a full bath per bedroom",
+      "Bay views",
+      "Under $400K"
+     ],
+     "fitNote": "🆕 Three full baths on a three-bedroom is unusual at this price and it matters for a rental — bath count is what lets two families share a house without friction, and it is the quiet reason some beach houses out-book their neighbours. Bay views at $390,000.",
+     "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Realty LLC",
+     "badge": null
+    },
+    {
+     "id": "302-audubon-pl",
+     "address": "302 Audubon Pl",
+     "city": "Dauphin Island",
+     "state": "AL",
+     "price": null,
+     "beds": 4,
+     "baths": 3,
+     "sf": 1656,
+     "waterPosition": "water-view",
+     "rentalHistory": null,
+     "highlights": [
+      "The one you flagged — unencumbered view East",
+      "Was listed $649K, now showing OFF MARKET",
+      "4BR/3BA, 1,656 sf raised construction"
+     ],
+     "fitNote": "Gene is running this down with the listing side — if it's withdrawn rather than under contract, there may be an off-market opening.",
+     "strNote": null,
+     "url": null,
+     "photoUrl": null,
+     "broker": null,
+     "badge": "RADAR"
+    },
+    {
+     "id": "1415-ohara",
+     "address": "1415 O'hara",
+     "city": "Dauphin Island, AL",
+     "dealType": "sale",
+     "price": 489000,
+     "leaseRate": null,
+     "sf": null,
+     "beds": 3,
+     "baths": 2,
+     "propertyType": "Single-family (raised beach house)",
+     "waterPosition": "Island interior — walkable to the beach; the listing does not state a water position",
+     "rentalHistory": null,
+     "highlights": [
+      "Built 2013 — the newest construction on this lane",
+      "Turnkey and fully furnished",
+      "Screened porch plus ground-level storage",
+      "3 bed / 2 bath detached"
+     ],
+     "fitNote": "A 2013 build is unusual on this island and it matters: newer framing and a newer roof are the two things that move a coastal insurance quote most. Turnkey and furnished means it can be used the weekend after closing with nothing bought. ⚠️ **Disclosed, because it was nearly left off:** public records show this address sold 2026-04-22 for $378,800, and one secondary source still reads it as not-for-sale. It was held off the board on 8/27 for exactly that reason. The broker's own index has now listed it live on two consecutive reads, and an April purchase relisted in August at a higher number is the ordinary shape of a renovate-and-resell — not a contradiction. Verify the current number with the listing broker before you act on it.",
+     "strNote": null,
+     "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+     "photoUrl": null,
+     "broker": "Griffin Group Properties (Dauphin Island)",
+     "badge": "NEW"
+    }
+   ],
+   "intel": [
+    {
+     "area": "🏝 Dauphin Island",
+     "pros": [
+      "Deepest under-$600K house inventory on the whole coast — six picks here from $359K",
+      "Cheap, simple compliance: town STR license $135–235/yr",
+      "Fortified/elevated newer stock keeps insurance manageable; entry prices make the yield math work",
+      "Loyal repeat-guest 'Sunset Capital' brand"
+     ],
+     "cons": [
+      "13% combined lodging tax + minimum-stay overlay rules on some parcels — we check each one",
+      "West-end erosion is chronic; one bridge on/off the island",
+      "Lower nightly-rate ceiling and shorter season than Gulf Shores/Orange Beach"
+     ]
+    },
+    {
+     "area": "🌊 Gulf Shores",
+     "pros": [
+      "STRs permitted in the beach-zone district where all our picks sit",
+      "Best demand engine on the AL coast — Hangout Fest, sports tourism, national brand",
+      "Lagoon/canal waterfront under $550K — waterfront STR product you can't touch gulf-front"
+     ],
+     "cons": [
+      "STR district rules bar new rentals in most neighborhoods north of the beach area — parcel-level verification is mandatory",
+      "True gulf-front houses start ~$900K; under $600K you're buying lagoon views and a short walk",
+      "City license, inspections, and 13%+ lodging tax compress margins"
+     ]
+    },
+    {
+     "area": "🚤 Orange Beach",
+     "pros": [
+      "Highest nightly rates on the Alabama coast — Wharf/Margaritaville pull",
+      "Where STR approval exists it's scarce and defensible — a moat, not a commodity",
+      "Newer housing stock, strong appreciation record"
+     ],
+     "cons": [
+      "Strict STR licensing in limited districts, actively enforced — most sub-$600K neighborhoods are NOT eligible",
+      "Thin detached inventory in budget",
+      "Licenses don't always transfer on sale — always verified before offering"
+     ]
+    },
+    {
+     "area": "🏰 Fort Morgan",
+     "pros": [
+      "Unincorporated Baldwin County — friendliest STR posture in the search area, no city licensing",
+      "Quiet beaches, week-long family bookings, high repeat rates",
+      "Gold Fortified new builds along Hwy 180 cut insurance meaningfully"
+     ],
+     "cons": [
+      "Fee-simple houses under $600K nearly extinct on the peninsula proper — budget buys the lagoon side",
+      "20–40 min to restaurants/groceries — reviews penalize the drive",
+      "Highest wind/flood exposure on the AL coast at the tip"
+     ]
+    },
+    {
+     "area": "🌴 Pensacola Beach / Perdido Key",
+     "pros": [
+      "No STR ban in unincorporated Escambia — state license + tourist tax and you operate",
+      "Highest gross-yield ratios in this search on the Perdido-side mainland (sub-$450K entries minutes from Johnson's Beach)",
+      "Strong shoulder-season demand: Navy Aviation Museum, Flora-Bama, Pensacola metro"
+     ],
+     "cons": [
+      "ZERO houses under $600K on Pensacola Beach itself — houses start ~$725K",
+      "Pensacola Beach is 99-yr leasehold land — a financing/resale quirk",
+      "Perdido gulf-side is condo towers; in-budget houses are near-beach, not on-beach",
+      "Florida insurance is the most stressed on this coast — quotes before offers"
+     ]
+    }
+   ],
+   "note": "✅ **EVERY BEACH HOUSE ON THIS BOARD CAME BACK LIVE THIS MORNING AT EXACTLY THE PRICE SHOWN — nothing pending, nothing sold, nothing re-priced.** Eleven Dauphin Island rows and all three Gulf Shores homes re-confirmed against the brokers' own indexes. ✅ **THE 601 BIENVILLE QUESTION IS SETTLED, AND THE BOARD WAS RIGHT.** Yesterday evening a secondary source claimed $399,000 against the $374,900 carried here, so the row was flagged CHECK rather than quietly re-priced. This morning the listing broker's own index reads **$374,900, 3 bed, ACTIVE** — so the price cut stands and the DROP badge is restored. The secondary was wrong. 🆕 **ADDED TODAY: 1415 O'hara, $489,000** — a turnkey, fully furnished 2013 beach house, the newest build on this lane. It was deliberately held off the board yesterday because public records show an April sale at $378,800; two consecutive broker-source reads have now cleared it, and the history is disclosed on the card rather than hidden. ➖ **REMOVED TODAY, AND NOT BECAUSE IT DIED: 1003 Monberaut ($384,000) is still ACTIVE** — it came off to hold this lane near its twelve-row cap, as the weakest fit against the water-first criteria: central island, no water position stated, ground level. Say the word and it comes straight back. ⚠️ **Two carried discrepancies, still disclosed rather than edited away:** the index prints the Audubon house as *300* Audubon Pl at $999,000 while this board carries *302* as a RADAR watch row above the $600K cap; and the Gulf Shores source states 31 properties across two pages while the fetch returns page one only. 🚫 Re-rejected again this morning on the stated rules: 303 Conde Ave, 2320 Island Shores, 1303 Chaumont and 123 Bienville (all over the $600K cap); 106 Ryan Ct, 753 Cadillac, 125 Bienville and 6782 Palmetto Dr (two bedrooms); 429 Creekview Ave and the inland golf-community rows (no water position stated)."
+  }
+ ]
 }

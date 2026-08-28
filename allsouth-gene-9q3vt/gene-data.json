@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27 5:55 PM CT",
+  "updated": "2026-08-28 7:55 AM CT",
   "verdicts": [],
-  "note": "Make data store 124407 returned exactly one record and its data object is EMPTY — the known blank singleton, not a verdict. Zero pursue / more-info / watch / pass records exist. The Gmail channel was also swept (newer_than:1d for PURSUE / MORE INFO / AllSouth Board) and returned no real hits. No Todoist chip created; pursue_seen.json unchanged."
+  "note": "Make data store 124407 returned exactly one record and its data object is EMPTY — the known blank singleton, not a verdict. Zero pursue / more-info / watch / pass records exist. The Gmail channel was also swept (newer_than:2d for PURSUE / MORE INFO / AllSouth Board) and returned two threads, both unrelated (a Reclaim.ai calendar notice and a land-auction blast). No Todoist chip created; pursue_seen.json unchanged and still empty."
 }
