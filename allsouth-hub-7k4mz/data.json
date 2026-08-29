@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 29, 2026 · 7:5x AM CT",
-  "nextSweep": "this evening",
-  "headline": "🏡 **DAUPHIN ISLAND RE-READ LIVE THIS MORNING — one house gone, one house back, everything else holding.** ↩️ **1003 Monberaut is back on the beach lane at $384,000** (first seen 7/31, off the index since, Active again today) — a 3-bed that is the cheapest livable house on the board and leaves the most room between purchase price and your ceiling. ❌ **601 Bienville Blvd is off the board** — it has now failed to appear on the broker index two pulls running, so it is being treated as sold or withdrawn rather than carried as if it were still there. ✅ Every other beach row re-read ACTIVE at an unchanged price, including yesterday's $10,000 cut at 1127 Chaumont. ⚠️ The Nashville and Knoxville commercial lanes are still frozen at their Jul 29 verification — both listing sites are blocking us, and the next retry is Sep 4.",
+  "updated": "Aug 29, 2026 · 5:44 PM CT",
+  "nextSweep": "tomorrow morning",
+  "headline": "🏖️ **EVENING RE-READ: EVERY BEACH HOUSE ON THE BOARD IS STILL ACTIVE AT THE SAME PRICE — and there is one more of them.** 🆕 **2242 Mallard, Dauphin Island, $549,900** — a 3 bed / 2 bath detached house that surfaced on the broker index this evening. ✅ All thirteen carried houses re-verified Active this evening on both live sources, no cuts and no pending flags since this morning. ⚠️ The two commercial lanes remain frozen — their listing sites have refused us on nine straight attempts and the next permitted retry is Sep 4.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. A fresh retry was spent on the Aug 28 morning run and came back blocked again, so the freeze is re-tested rather than assumed. **The next retry is the Sep 4 morning run.** ⭐ What this means for you, plainly: every price, rate and availability in this lane is a **Jul 29 snapshot**. Anything you are seriously interested in is worth one phone call to the listing broker before you build a plan around it — a month is long enough for a price to move or a space to go under agreement. Nothing here has been quietly refreshed to look current."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted today — that is the rule working, not a run that skipped its job.** 📅 **NEXT PERMITTED ATTEMPT: the morning of Sep 4.** ⭐ **WHAT THIS MEANS FOR YOU:** treat every price, rate and availability in this lane as **a Jul 29 snapshot**, not today's market. Some of these will have moved, and we would rather tell you that than quietly show you a stale board as though it were fresh. 🔍 New-inventory hunting in this lane is paused for the same reason — the search pages sit behind the same block as the listing pages."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. A fresh retry was spent on the Aug 28 morning run and came back blocked again, so the freeze is re-tested rather than assumed. **The next retry is the Sep 4 morning run.** ⭐ What this means for you, plainly: every price, rate and availability in this lane is a **Jul 29 snapshot**. Anything you are seriously interested in is worth one phone call to the listing broker before you build a plan around it — a month is long enough for a price to move or a space to go under agreement. Nothing here has been quietly refreshed to look current."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted today — that is the rule working, not a run that skipped its job.** 📅 **NEXT PERMITTED ATTEMPT: the morning of Sep 4.** ⭐ **WHAT THIS MEANS FOR YOU:** treat every price, rate and availability in this lane as **a Jul 29 snapshot**, not today's market. Some of these will have moved, and we would rather tell you that than quietly show you a stale board as though it were fresh. 🔍 New-inventory hunting in this lane is paused for the same reason — the search pages sit behind the same block as the listing pages."
     },
     {
       "id": "beach",
@@ -803,6 +803,30 @@
             "3 bed / 2 bath"
           ],
           "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
+          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty LLC",
+          "badge": null
+        },
+        {
+          "id": "2242-mallard",
+          "address": "2242 Mallard",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 549900,
+          "sf": null,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Detached single-family",
+          "waterPosition": null,
+          "rentalHistory": null,
+          "highlights": [
+            "3 bed / 2 bath detached house, read Active on the Dauphin Island broker index this evening",
+            "Priced mid-pack for the island lane — under the $600K ceiling with room underneath it",
+            "Square footage, water position and rental history are NOT stated by the source and have NOT been guessed"
+          ],
+          "fitNote": "🆕 **NEW TO THE BOARD THIS EVENING.** A detached three-bedroom on Dauphin Island at $549,900 — squarely inside the lane's shape and comfortably under the ceiling. ⚠️ **WHAT THE SOURCE DOES NOT SAY MATTERS HERE:** it states no square footage, no water position and no rental history, so none of those are claimed on this card. 🎯 If the number looks right to you, those three questions are the whole first call — and on this island the water position is the one that moves the rental math most.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -1096,7 +1120,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-READ LIVE THIS MORNING — ONE HOUSE GONE, ONE HOUSE BACK, EVERY OTHER PRICE UNCHANGED.** ❌ **Since last sweep: 601 Bienville Blvd has been REMOVED.** It read Active at $374,900 on Friday morning and has now failed to appear on the broker index on two consecutive pulls — Friday evening and again this morning. One absence is a partial render; two is a sale or a withdrawal, and carrying it any longer would be presenting a house you cannot buy. ↩️ **1003 Monberaut is BACK at $384,000** (first seen here 7/31, off the index since, Active again today), 3 bed / 2 bath — with water position, square footage and rental history explicitly NOT claimed, because the source states none. ✅ **Everything else re-read ACTIVE at an unchanged price**, including yesterday's $10,000 cut at 1127 Chaumont, now $479,000. 🔍 The three Gulf Shores houses also re-read Active this morning at $599,900, $599,000 and $589,900 — no pending flags. ⚠️ Two disclosures carried forward, not papered over: the Gulf Shores source lists 31 properties across two pages and we can only read page one, and the Dauphin Island index prints the Audubon house at a different street number than the RADAR row we keep for it."
+      "note": "✅ **RE-READ LIVE THIS EVENING — NOTHING LOST, ONE THING GAINED.** Every one of the thirteen carried houses came back **Active at an unchanged price** on both live sources: ten on the Dauphin Island broker index and three in Gulf Shores. No cuts since this morning, no pending flags, nothing withdrawn. 🆕 **ADDED: 2242 Mallard, Dauphin Island, $549,900**, 3 bed / 2 bath detached — new on the index tonight, with square footage, water position and rental history explicitly **not** claimed because the source states none. ❌ **Still gone, and correctly so:** 601 Bienville Blvd was removed this morning after failing to appear on two consecutive pulls. 🔍 **Seen tonight and deliberately skipped, so you know the board is a filter and not just a list:** four island houses over the $600K ceiling (including one at $999,000 and one at $1,049,000), one at $625,000, and a two-bedroom at $385,000 that misses the 3-bedroom floor. ⚠️ **Two disclosures carried forward rather than papered over:** the Gulf Shores source lists 31 properties across two pages and we can only read page one, and the Dauphin Island index prints the Audubon house at a different street number than the RADAR row we keep for it. 📊 This lane is running **16 houses against a target of about 12** — flagged here rather than trimmed tonight, because a proper re-rank belongs in a morning sweep and not in a quiet evening cut."
     }
   ]
 }
