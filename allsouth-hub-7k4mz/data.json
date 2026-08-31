@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 31, 2026 · 7:45 AM CT",
-  "nextSweep": "this evening",
-  "headline": "🏖️ **THE GULF SHORES SIDE OF THE BOARD IS THE FRESHEST DATA YOU HAVE THIS MORNING — all three homes re-read live against a feed the source itself stamps 7:10 AM today, and all three are Active at unchanged prices.** ✅ On Dauphin Island, nine of the twelve carried houses came back Active at unchanged prices on this morning's index pull; the other three simply were not on the page the site served — that is a limit of the read, not a removal, and nothing was dropped for it. ⚠️ **The two commercial lanes stay frozen to their Jul 29 snapshot** — both listing sites have refused us on nine straight attempts and the next permitted retry is Friday 9/4. Every price in Nashville and Knoxville should be treated as a July figure until then.",
+  "updated": "Aug 31, 2026 · 5:50 PM CT",
+  "nextSweep": "tomorrow morning",
+  "headline": "🏖️ **THE BEACH LANE GOT ITS CLEANEST READ IN WEEKS TONIGHT — and it settled three open questions at once.** This morning three Dauphin Island homes vanished from the index and were deliberately NOT removed, because a missing row on a paginated page is a limit of the read, not a sale. ✅ **TWO OF THEM CAME STRAIGHT BACK ACTIVE TONIGHT** at unchanged prices — 703 Hunley at $492,000 and 1003 Monberaut at $384,000 — which is exactly why they were kept. 🔴 **THE THIRD ONE IS GENUINELY GONE:** 208 Isabella was chased down to its own listing page and reads **PENDING**, so it comes off the board with a receipt rather than a guess. 🌊 Gulf Shores is unchanged and freshest of all — all three homes Active, off a feed the source stamps 5:10 PM today.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this morning — that is the rule working, not a run that skipped its job.** 📅 **NEXT PERMITTED ATTEMPT: the morning of Fri Sep 4.** 🎯 **What this means for you in practice:** treat every price, rate and availability line in this lane as a **July 29 snapshot**. Anything you are seriously considering is worth one phone call to the listing broker before you build a number around it. 🚫 New-inventory hunting in this lane is paused for the same reason — we will not present a stale search as a fresh one."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this morning — that is the rule working, not a run that skipped its job.** 📅 **NEXT PERMITTED ATTEMPT: the morning of Fri Sep 4.** 🎯 **What this means for you in practice:** treat every price, rate and availability line in this lane as a **July 29 snapshot**. Anything you are seriously considering is worth one phone call to the listing broker before you build a number around it. 🚫 New-inventory hunting in this lane is paused for the same reason — we will not present a stale search as a fresh one."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
     },
     {
       "id": "beach",
@@ -832,31 +832,6 @@
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
           "badge": null
-        },
-        {
-          "id": "208-isabella",
-          "address": "208 Isabella",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 475000,
-          "leaseRate": null,
-          "sf": null,
-          "beds": 4,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Island interior — walkable to the public beach",
-          "rentalHistory": null,
-          "highlights": [
-            "Price cut $24,000 on Aug 26 — was $499,000",
-            "🆕 FOUR bedrooms at $499K — the second 4BR on the island under $500K",
-            "Appeared twice in this morning's index pull at the same price — not a typo"
-          ],
-          "fitNote": "🆕 NEW THIS MORNING, and it went straight onto the board. Bedroom count is the single biggest driver of nightly rate on a beach rental, so a 4/2 at $499,000 is a different economic animal from the 3/2s sitting at $489K–$549K all around it. ⭐ Same shape as 122 Hernando, which this lane already likes, but with a bigger house behind the number. Worth a live look before it is a week old.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": "DROP"
         },
         {
           "id": "703-hunley-st",
@@ -1120,7 +1095,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-READ LIVE THIS MORNING.** 🏖️ **Gulf Shores is the freshest data on this whole board** — the source stamps its own feed “last updated August 31st at 7:10 AM”, and all three carried homes came back **Active at unchanged prices**: 17330 State Hwy 180 $599,900 (the listing itself is now advertising a price drop and a Little Lagoon water view), 1425 W Lagoon Ave $599,000, 1469 W Lagoon Ave $589,900 — that last one fully furnished and two-tenths of a mile from beach access. 🎯 **Dauphin Island: nine of twelve re-verified Active at unchanged prices this morning** — 2242 Mallard $549,900, 901 Lockenbie $595,000, 162 Orleans $549,000, 107 Portier $549,900, 412 Bienville $534,900, 1415 O'Hara $489,000, 1127 Chaumont $479,000, 122 Hernando $399,000, 230 Chenault $390,000. 🔍 **The other three — 703 Hunley, 208 Isabella and 1003 Monberaut — were not on the page the site served this morning.** The index says four pages exist and hands back page one only, and all three were verified Active on this same source last night. **Absence from a page-one view is a limit of the read, not a removal**, so all three stay on the board and none of their prices were touched. If they are missing again this evening, that is a second absence and they come off. 🚫 **Out of criteria, seen and skipped:** 2252 Sandpiper $1,049,000, 103 Quebec Ct $885,000, 511 Buchanan (the index prints it twice, at $974,000 and $800,000), 2320 Island Shores $799,900, 318 Pineda $799,000, 303 Conde $630,655 and 1303 Chaumont $625,000 — all above the $600K cap — plus 106 Ryan Ct $385,000, a 2-bedroom under the 3BR floor. Condos and land are excluded by rule. 📌 302 Audubon stays a RADAR row; the island index continues to print **300** Audubon Pl at $999,000, a discrepancy carried unresolved rather than papered over."
+      "note": "✅ **RE-READ LIVE THIS EVENING — and the read resolved every question this morning left open.** 🔴 **SINCE LAST SWEEP: 208 Isabella is OFF the board.** It was absent from the island index for a second straight read, so it was chased to its own listing page, which reads **PENDING** (it had been cut to $475,000 on 8/26). Removed on a receipt, not on an absence. ✅ **703 Hunley ($492,000) and 1003 Monberaut ($384,000) are BACK AND ACTIVE** at unchanged prices. They were missing from this same index nine hours ago and were kept anyway, on the standing rule that a paginated page-1 view showing fewer rows is a limit of the read rather than a sale. That call was right, and this run is the proof. 🏖️ **GULF SHORES IS THE FRESHEST DATA ON THIS WHOLE BOARD** — the source stamps its own feed “last updated August 31st at 5:10 PM,” and all three carried homes came back **Active at unchanged prices**: 17330 State Hwy 180 $599,900 (the listing copy still advertises a “Huge Price Drop” and a Little Lagoon water view), 1425 W Lagoon $599,000, and 1469 W Lagoon $589,900. No pending flags, no cuts. 🔍 **NEW INVENTORY: NONE THAT FITS.** Tonight's island read surfaced four homes not seen this morning — 753 Cadillac $325,000 and 125 Bienville $315,000 (both 2-bedroom, under the 3BR floor), 123 Bienville $615,000 and 303 Conde $630,655 (both over the $600K cap). Seen, checked, skipped. ⚠️ **DISCLOSED, NOT PAPERED OVER:** both beach sources return page 1 only — the island index says 4 pages, the Gulf Shores index says 30 properties across 2. This lane sees a rotating slice of each, which is precisely the effect that produced this morning's false alarm."
     }
   ]
 }

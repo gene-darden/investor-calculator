@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 31, 2026 · 7:45 AM CT",
+  "updated": "Aug 31, 2026 · 5:50 PM CT",
   "verdicts": [],
-  "note": "Make data store 124407 pulled 2026-08-31 morning: 1 record, empty payload (no listingId/verdict/address fields) -- a blank/test row, not a Tyler tap. 0 real verdicts to date. Gmail/text channel also queried (newer_than:1d) and returned zero."
+  "note": "Make data store 124407 pulled 2026-08-31 evening: still exactly 1 record, key 69a65cef62b7, payload {} — no listingId, no verdict, no address. Same blank/test row as the morning pull, unchanged. 0 real verdicts to date. The Gmail/text pursue channel was queried (newer_than:1d, \"PURSUE —\" / \"MORE INFO —\" / subject:\"AllSouth Board:\") and returned zero. No chips raised — correctly, not skipped."
 }
