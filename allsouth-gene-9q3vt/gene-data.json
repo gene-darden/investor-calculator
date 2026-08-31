@@ -1,4 +1,5 @@
 {
-  "updated": "2026-08-30 6:10 PM CT",
-  "verdicts": []
+  "updated": "Aug 31, 2026 · 7:45 AM CT",
+  "verdicts": [],
+  "note": "Make data store 124407 pulled 2026-08-31 morning: 1 record, empty payload (no listingId/verdict/address fields) -- a blank/test row, not a Tyler tap. 0 real verdicts to date. Gmail/text channel also queried (newer_than:1d) and returned zero."
 }
