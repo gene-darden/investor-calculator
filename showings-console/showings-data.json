@@ -1,82 +1,134 @@
 {
-  "updated": "2026-08-31 5:45 PM CT",
-  "headline": "🔥 **THE $999K REPRICE ON 2127 HWY 93 ANSWERED THE SAME DAY IT WAS MADE — TWO SHOWINGS BOOKED INSIDE SIX HOURS, AND BOTH CAME FROM THE SAME OFFICE.** Sarah J. of ARC Realty–Hoover booked at 12:46 PM for **Fri 9/4 8:30 AM**; Cathy O. of the same office booked at 1:41 PM and **has already walked it — today 3:45–4:45 PM, a full hour.** ⭐ **THE COUNTER IS THE ARGUMENT:** total showings on this house went **2 → 4 in one afternoon**, on a listing that produced two tours in the forty days before the cut. 📞 **CATHY O. IS THE CALL TONIGHT** — she is the only person who has walked this house at the new number, and her read expires as memory does. ⏳ **THREE HELD TOURS HAVE STILL FILED NOTHING:** Davis H. on Willow Point at about 99 hours, Alexis L. on 23223 Front Beach at about 77, and Cheryl P. on 355 Comanche at about 56 — and Cheryl's is the tiebreaker before the 9/8 expiry. 📬 **FIVE FEEDBACK ASKS ARE STILL WAITING ON YOU**, two of them from the same office asking twice. One reply session clears the column.",
+  "updated": "2026-09-01 5:35 PM CT",
+  "headline": "🔥 **THE $999K REPRICE HAS NOW BOUGHT A THIRD SHOWING — AND 2127 HWY 93 HAS GONE FROM TWO TOURS IN FORTY DAYS TO FIVE IN THIRTY HOURS.** At **3:01 PM today** Ty T. of Keller Williams Homewood booked **Fri 9/4 4:30–5:30 PM**, his first visit, a full hour — making Friday a **double** alongside Sarah J. of ARC Realty–Hoover at 8:30 AM. ⭐ **THE COUNTER IS THE ARGUMENT:** total showings on this house reads **5**, and it read **2** on Sunday. 📞 **BUT THE ONE READ THAT WOULD SETTLE THE PRICE IS STILL MISSING** — Cathy O. walked it Monday 3:45–4:45 PM, the only tour ever held at $999,000, and has filed nothing in about **25 hours**. ⏳ **AND TOUR #21 ON 355 COMANCHE JUST ENDED** — Chad B. of RE/MAX Advantage held 4:30–5:30 this afternoon with the agreement expiring **9/8**, seven days out. His read is worth more tonight than it will ever be again. 📬 **FIVE FEEDBACK ASKS ARE STILL WAITING ON YOU**, two offices asking twice. One reply session clears the column.",
   "stats": {
-    "showings14d": 12,
-    "feedback14d": 4,
-    "gaps": 5
+    "showings14d": 13,
+    "feedback14d": 3,
+    "gaps": 6
   },
   "hotSignals": [
     {
-      "addr": "225 Willow Point Cir",
+      "addr": "355 Comanche St",
+      "date": "9/1",
+      "isNew": false,
+      "signal": "⏳ **TOUR #21 WALKED THIS AFTERNOON ON THE ONE LISTING WITH A DEADLINE.** Chad B. of RE/MAX Advantage held **4:30–5:30 PM today** — his first visit to the address, the twenty-first showing on the house, and he blocked a **full hour** where most agents here take twenty-five minutes. ⏳ The agreement expires **9/8** — seven days.",
+      "action": "📞 **CALL HIM TONIGHT, NOT TOMORROW.** He is the freshest set of eyes this house will get before the expiry conversation, and a showing read decays like memory does. ⭐ Ask the question the forms keep leaving blank: was it the stairs, or was it the number? Two brokerages have blamed the stairs and neither argued the price — a third stairs verdict turns the seller conversation from a price cut into a fit problem."
+    },
+    {
+      "addr": "2127 Hwy 93",
       "date": "8/31",
       "isNew": false,
-      "signal": "🚨 **THE SELLER CAUGHT A NUMBER THIS DESK GOT WRONG, ON HER OWN HOUSE, BEFORE ANY ROUTINE NOTICED.** The report auto-sent to her at 8:30 AM carried a **“2 BOOKED”** tile and named a **Tue 9/1 6:00 PM** showing. Eight days of ShowingTime receipts were enumerated one at a time: **only WED 9/2 6:00 PM exists.** No Tuesday record, anywhere, on any listing of hers. She wrote in at **11:58 AM** to ask. 🔴 And the contract on that same house was ruled **dead at 7:12** this morning — so she is holding a wrong tour count and a dead deal at the same time.",
-      "action": "📞 **CALL HER — TODAY, AND IT MUST BE YOUR VOICE.** Correct the tour in one sentence (Tuesday is not real, Wednesday 9/2 at 6:00 PM is), then take the harder half: what a dead contract means and why a brand-new brokerage booking behind it is a good sign, not a bad one. ⚠️ Do not send this as an email — machine mail to her is stopped by rule and a written correction to a client who just caught a written error is the wrong instrument."
+      "signal": "🔥 **THE ONLY PERSON WHO HAS WALKED THIS HOUSE AT $999,000 HAS SAID NOTHING FOR A DAY.** Cathy O. of ARC Realty–Hoover booked at 1:41 PM Monday — five and a half hours after the cut — and toured **3:45–4:45 PM**, a full hour. ⭐ Nothing filed since, about **25 hours**. 📈 Meanwhile the same office's Sarah J. holds Fri 9/4 8:30 AM and Ty T. of Keller Williams Homewood booked Fri 9/4 4:30 PM this afternoon.",
+      "action": "📞 **HER READ IS THE MOST VALUABLE UNKNOWN ON THIS BOARD.** Everything you know about whether $999K works is inference from booking counts; she is the only direct evidence that exists. ⭐ Call before Friday — if she confirms the number reads right, you walk into two Friday showings knowing it; if she says it is still high, you have that a full day before the sellers ask."
     },
     {
       "addr": "355 Comanche St",
-      "date": "8/31",
+      "date": "8/16",
       "isNew": false,
-      "signal": "🆕 **TOUR #21 BOOKED THIS MORNING ON THE ONE LISTING WITH A DEADLINE.** Chad B. of RE/MAX Advantage confirmed **TUE 9/1 4:30–5:30 PM** at 8:40 AM — his first visit to the address, and the only new ShowingTime event since Sunday lunchtime. ⭐ He blocked a **full hour** where most agents here take twenty-five minutes. ⏳ The agreement expires **9/8** — eight days.",
-      "action": "📞 **CALL HIM BEFORE HE WALKS IT, NOT AFTER.** Two brokerages have now blamed the stairs and neither argued the price — tell him the layout up front so he brings the right buyer instead of discovering it at 4:30. ⭐ And chase Cheryl P.'s Saturday read today: with a fresh set of eyes on the house tomorrow, a third stairs verdict before 9/8 is the difference between a fit conversation and a price conversation with the seller."
+      "signal": "🔥 **THE ONLY UNQUALIFIED YES THIS LISTING HAS EVER DRAWN, AND IT HAS NEVER BEEN CALLED BACK.** Amy G. of Ethos International filed **Interested: YES** — her buyers had just started looking, they really liked it, and it sat at the top of their list. ⚠️ She left PRICED RIGHT **blank**, so the price objection is unasked, not absent. ⏳ Sixteen days on, with the agreement expiring **9/8**.",
+      "action": "📞 **CALL HER THIS WEEK OR LOSE THE ONLY YES ON THE FILE.** Buyers who ‘just started looking’ two weeks ago are exactly who is writing offers now. Ask the unasked question directly — what did they end up buying, and if nothing, does the stairs issue apply to them too."
     },
     {
       "addr": "225 Willow Point Cir",
       "date": "8/27",
       "isNew": false,
-      "signal": "🔥 **THE FOURTH PARTY WALKED THIS HOUSE AND HAS SAID NOTHING SINCE — AND THE HOUSE IS NOW AVAILABLE AGAIN.** Davis H. of ARC Realty–Hoover toured Thursday 2:30 PM, his first showing of this address and the fifth tour overall. ⭐ **THE REPEAT MATTERS:** this is the same agent whose buyers wrote on 355 Comanche in July. He is not a browser. 🔴 **WHAT CHANGED TODAY:** when he toured, this house was holding a signed offer. As of 7:12 this morning it is not.",
-      "action": "📞 **CALL HIM — the reason to call just got better.** About 142 hours with nothing filed, and the answer to ‘is it still available’ flipped from no to yes this morning. That is a real update, not a nudge, and it is the cheapest call on this board."
-    },
-    {
-      "addr": "225 Willow Point Cir",
-      "date": "8/25",
-      "isNew": false,
-      "signal": "📥 **THE OFFER THAT WAS NEVER OPENED IS NOW MOOT.** Molly G. of Keller Williams Hoover sent the full buyer-signed packet Tuesday 2:20 PM — purchase agreement, personal-property addendum, FHA addendum, pre-approval — texted ninety seconds later, and wrote *“Let me know that you have received.”* 🔴 She never got an answer. The price inside that PDF was never read by any lane here and now never needs to be: **the contract was ruled dead at 7:12 this morning.**",
-      "action": "⭐ **THE DEAL IS OVER BUT THE RELATIONSHIP IS NOT.** She asked one written question and waited six days for it. A thirty-second call closing the loop cleanly costs nothing today and buys back an agent you will see again on the next Alabaster townhouse. ⚠️ Name no price and quote no figure — the offer number was never verified here."
+      "signal": "🔥 **THE FOURTH PARTY WALKED THIS HOUSE AND HAS SAID NOTHING SINCE — AND THE HOUSE IS AVAILABLE AGAIN.** Davis H. of ARC Realty–Hoover toured Thursday 2:30 PM, his first showing of this address and the fifth tour overall. ⭐ **THE REPEAT MATTERS:** this is the same agent whose buyers wrote on 355 Comanche in July. He is not a browser. 🔴 When he toured, this house was holding a signed offer. Since Monday morning it is not.",
+      "action": "📞 **CALL HIM — about 123 hours with nothing filed, and the reason to call got better on Monday.** The answer to ‘is it still available’ flipped from no to yes. That is a real update, not a nudge, and it is still the cheapest call on this board."
     },
     {
       "addr": "225 Willow Point Cir",
       "date": "8/25",
       "isNew": false,
       "signal": "🔥 **A THIRD AGENT CAME BACK ON HER OWN, AND WHAT SHE WAS NEVER TOLD IS NOW MOOT IN THE BEST WAY.** Angela W. of ARC Realty 280 wrote unprompted Tuesday at 5:51 AM calling it *“an adorable townhouse”* and said her buyer was forwarding the listing to a husband who works out of town. ⭐ She was never told an offer existed. **There is no longer an offer to tell her about** — the house is simply available.",
-      "action": "📞 **CALL HER — this is now a clean, easy call with no awkward disclosure in it.** ‘Still available, and I remembered your buyer had a husband to bring through.’ A week-old warm read on a house that just reopened is the single best-value follow-up on this board."
+      "action": "📞 **CALL HER — this is a clean, easy call with no awkward disclosure in it.** ‘Still available, and I remembered your buyer had a husband to bring through.’ A warm read on a house that just reopened is one of the best-value follow-ups on this board."
     },
     {
-      "addr": "355 Comanche St",
-      "date": "8/16",
+      "addr": "225 Willow Point Cir",
+      "date": "8/25",
       "isNew": false,
-      "signal": "🔥 **THE ONLY UNQUALIFIED YES THIS LISTING HAS EVER DRAWN, AND IT HAS NEVER BEEN CALLED BACK.** Amy G. of Ethos International filed **Interested: YES** — her buyers had just started looking, they really liked it, and it sat at the top of their list. ⚠️ She left PRICED RIGHT **blank**, so the price objection is unasked, not absent. ⏳ Fifteen days on, with the agreement expiring 9/8.",
-      "action": "📞 **CALL HER THIS WEEK OR LOSE THE ONLY YES ON THE FILE.** Buyers who ‘just started looking’ two weeks ago are exactly who is writing offers now. Ask the unasked question directly — what did they end up buying, and if nothing, does the stairs issue apply to them too."
+      "signal": "📥 **THE OFFER THAT WAS NEVER OPENED IS NOW MOOT.** Molly G. of Keller Williams Hoover sent the full buyer-signed packet Tuesday 2:20 PM — purchase agreement, personal-property addendum, FHA addendum, pre-approval — texted ninety seconds later, and wrote *“Let me know that you have received.”* 🔴 She never got an answer. The price inside that PDF was never read by any lane here and now never needs to be: the contract was ruled dead Monday 7:12 AM.",
+      "action": "⭐ **THE DEAL IS OVER BUT THE RELATIONSHIP IS NOT.** She asked one written question and waited a week for it. A thirty-second call closing the loop costs nothing and buys back an agent you will see again on the next Alabaster townhouse. ⚠️ Name no price and quote no figure — the offer number was never verified here."
     }
   ],
   "upcoming": [
-    "🆕 **TOMORROW — TUE 9/1 4:30–5:30 PM — 355 COMANCHE ST.** Chad B. of RE/MAX Advantage, his first visit, tour #21 on the house, booked at 8:40 this morning. ⭐ A **full-hour** block where most agents on this board take twenty-five minutes. ⏳ The listing agreement expires **9/8** — eight days.",
-    "📅 **WED 9/2 6:00 PM — 225 WILLOW POINT.** Estacie L. of eXp Realty, LLC Central — her first showing of this address, a brokerage that has never touched it, the sixth tour on the listing. 🔴 This is now the **only** tour on that house, and the contract behind it was ruled dead at 7:12 this morning — which makes Wednesday the live thing, not a footnote. ⚠️ Your seller was told at 8:30 AM that a Tuesday 9/1 tour also existed. It does not, on eight days of receipts.",
-    "🔥 **FRI 9/4 8:30–9:00 AM — 2127 HWY 93.** Sarah J. of ARC Realty–Hoover, her first visit — booked at 12:46 PM today, five hours after the price went to $999,000. ⭐ The second of two same-day bookings from the same office.",
+    "📅 **TOMORROW — WED 9/2 6:00 PM — 225 WILLOW POINT.** Estacie L. of eXp Realty, LLC Central, her first showing of this address, a brokerage that has never touched it, the sixth tour on the listing. 🔴 It is the **only** tour on that house, and the contract behind it was ruled dead Monday morning — which makes Wednesday the live thing, not a footnote. ✅ The Tuesday tour your seller was wrongly told about did not exist, and today passed with no showing, exactly as eight days of receipts said it would.",
+    "🔥 **FRI 9/4 8:30–9:00 AM — 2127 HWY 93.** Sarah J. of ARC Realty–Hoover, her first visit — booked Monday 12:46 PM, five hours after the price went to $999,000.",
+    "🆕 **FRI 9/4 4:30–5:30 PM — 2127 HWY 93.** Ty T. of Keller Williams Homewood, his first visit, booked **3:01 PM today** — a full hour, and the **third** booking since the reprice. ⭐ Friday is now a double on this house, morning and late afternoon, from two different brokerages.",
     "🎉 **SAT 9/12 9:00 AM — 2368 RIDGE TRAIL, and again SUN 9/13 9:00 AM.** Joey C. of EXIT Coosa River Realty, who has never shown this house. ⭐ Two consecutive mornings reserved by one agent on a listing with forty-five tours and no offer — worth noting, not worth claiming as intent.",
-    "📭 **NOTHING ELSE IS ON THE CALENDAR.** A fresh fourteen-day pull this evening returns 37 notices and exactly three new events since midday — all three are the Comanche and 2127 bookings above. ⏳ 833 Madison Ln has now been live through a full weekday with zero requests."
+    "📭 **NOTHING ELSE IS ON THE CALENDAR.** A fresh fourteen-day pull this evening returns 37 notices and exactly **one** new event since last night — the Friday 2127 booking above. ⏳ 833 Madison Ln has now been live through **two** full weekdays with zero requests, which by this board's own Monday rule is the point where it stops being patience and becomes a marketing decision."
   ],
   "listings": [
+    {
+      "addr": "2127 Hwy 93",
+      "city": "Helena",
+      "price": "$999,000",
+      "client": "Paul & Neely F.",
+      "status": "🔥 ACTIVE at $999,000 — three bookings in thirty hours, and Friday is a double",
+      "showings14d": 2,
+      "feedback": [
+        {
+          "date": "8/28",
+          "agent": "Katherine M. · RealtySouth-OTM-Acton Rd",
+          "tone": "warm",
+          "note": "Filed 3:31 PM, one hour after the 1:30–2:30 tour — **the first written feedback this listing has ever received.** It calls the house *“very dated for the asking price”* — but it was written three days **before** the reprice, and every price field on the form was left **blank**. ⚠️ It is a condition read against an old number, and this board will not report it as a verdict on $999,000."
+        }
+      ],
+      "gaps": [
+        "🔴 **MON 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The first and only tour ever held at the new price, a full hour, and nothing filed in about **25 hours**. ⭐ She is the single most valuable outstanding read on this entire board."
+      ],
+      "note": "🔥 **THE PRICE ANSWER KEEPS ANSWERING.** $1,150,000 → **$999,000** at about 7:55 Monday morning. Bookings since: Cathy O. (walked Monday 3:45 PM), Sarah J. (Fri 9/4 8:30 AM), and now **Ty T. of Keller Williams Homewood, booked 3:01 PM today for Fri 9/4 4:30–5:30 PM.** ⭐ **TOTAL SHOWINGS ON THIS HOUSE: 5. IT WAS 2 ON SUNDAY.** In the forty days before the cut it produced two tours, total. 🎯 The sellers have not been told about today's booking yet."
+    },
+    {
+      "addr": "355 Comanche St",
+      "city": "Montevallo",
+      "price": "$295,000",
+      "client": "Seth B.",
+      "status": "⏳ ACTIVE — tour #21 walked this afternoon, and the agreement expires 9/8",
+      "showings14d": 3,
+      "feedback": [
+        {
+          "date": "8/29",
+          "agent": "Katie G. · Keller Williams Realty Hoover",
+          "tone": "cold",
+          "note": "Filed 4:55 PM off her Friday 2:30–3:30 tour, her first visit to the house. **Interested: No.** Priced Right: **blank.** 🔍 Read alongside 8/13 this is the second independent office to decline without touching the price."
+        },
+        {
+          "date": "8/16",
+          "agent": "Amy G. · Ethos International",
+          "tone": "hot",
+          "note": "**Interested: YES.** Her buyers had just started looking, they really like it, and it sits at the TOP of their list. ⚠️ She left PRICED RIGHT blank — the objection is unasked, not absent. Sixteen days and never called back."
+        },
+        {
+          "date": "8/13",
+          "agent": "Trecia D. · co-op brokerage",
+          "tone": "cold",
+          "note": "Not interested — **stairs.** Both price fields left blank, so it is not a pricing read. 🔍 Two offices, one physical objection, zero price objections."
+        }
+      ],
+      "gaps": [
+        "⏳ **SAT 8/29 9:45 AM — Cheryl P. of Keller Williams Metro South**, her first visit. Held about **80 hours** ago and no form filed. ⭐ With a fresh set of eyes having just walked it today, her read is the tiebreaker before the 9/8 expiry."
+      ],
+      "note": "⏳ **SEVEN DAYS TO EXPIRY AND THE FRESHEST READ ON THIS HOUSE JUST LEFT IT.** Chad B. of RE/MAX Advantage held **TUE 9/1 4:30–5:30 PM** — booked Monday 8:40 AM, his first visit, tour **#21**, and a full hour where most agents here take twenty-five minutes. 📞 His read is worth more tonight than it will be tomorrow. 🔍 **THE STANDING FINDING IS UNCHANGED AND IT IS STRONG:** two independent brokerages returned the identical verdict — the stairs — and BOTH left every price field blank. ⚠️ A competing FSBO was named for the first time last week by the agent who toured Saturday; she named no replacement number, so the number to quote is still **$295,000** and nothing else."
+    },
     {
       "addr": "225 Willow Point Cir",
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON THE MARKET — contract ruled dead 7:12 today, and Wednesday's tour is the only real one on the calendar",
+      "status": "🔴 BACK ON THE MARKET — one real tour on the calendar, tomorrow at 6:00 PM",
       "showings14d": 5,
       "feedback": [
         {
           "date": "8/25",
           "agent": "Molly G. · Keller Williams Hoover",
           "tone": "hot",
-          "note": "Sent the buyer-signed offer packet at 2:20:39 PM with *“Let me know that you have received.”* Purchase agreement, personal-property addendum, FHA addendum and a lender pre-approval, all in one email, followed by a text ninety seconds later. Still unanswered thirty hours on."
+          "note": "Sent the buyer-signed offer packet at 2:20:39 PM with *“Let me know that you have received.”* Purchase agreement, personal-property addendum, FHA addendum and a lender pre-approval in one email, followed by a text ninety seconds later. 🔴 The contract was ruled dead Monday 7:12 AM — the packet was never opened and now never needs to be."
         },
         {
           "date": "8/25",
           "agent": "Angela W. · ARC Realty 280",
           "tone": "warm",
-          "note": "Wrote back unprompted at 5:51 AM — *“an adorable townhouse”* — and said her buyer is forwarding the listing to a husband who works out of town. A live second party who has not been told an offer exists."
+          "note": "Wrote back unprompted at 5:51 AM — *“an adorable townhouse”* — and said her buyer is forwarding the listing to a husband who works out of town. ⭐ A live second party, and the house is available again."
         },
         {
           "date": "8/24",
@@ -86,90 +138,72 @@
         }
       ],
       "gaps": [
-        "🔴 Thu 8/27 2:30 PM tour — **Davis H. of ARC Realty–Hoover**; nothing filed and no call back, now about **99 hours**. He is a repeat agent, not a browser — his buyers wrote on 355 Comanche in July. ⭐ And the house is available again, which he does not know.",
-        "Sat 8/22 12:00 PM tour — still no feedback filed, nine days on."
+        "🔴 Thu 8/27 2:30 PM tour — **Davis H. of ARC Realty–Hoover**; nothing filed and no call back, now about **123 hours**. He is a repeat agent, not a browser — his buyers wrote on 355 Comanche in July. ⭐ And the house is available again, which he does not know.",
+        "Sat 8/22 12:00 PM tour — still no feedback filed, ten days on."
       ],
-      "note": "🚨 **A MACHINE-AUTHORED FALSE CLAIM WENT TO THIS SELLER AND SHE FOUND IT BEFORE THE FLEET DID.** The report auto-sent at 8:30 AM carried a **“2 BOOKED”** tile and named a **Tue 9/1 6:00 PM** showing. Eight days of ShowingTime receipts were then enumerated individually: **only WED 9/2 6:00 PM exists — there is no Tuesday record anywhere.** She wrote in at **11:58 AM** asking about it, roughly three and a half hours after the mail went out. 🔴 **THE CONTRACT IS DEAD TOO** — ruled at 7:12 this morning, which ends six days of chasing an offer price locked inside a PDF nobody could open. ⭐ **BOTH FACTS POINT AT THE SAME CALL:** the Tuesday tour is not real, Wednesday is, and a fresh brokerage booking a house that just came back on market is a better position than it sounds. ⚠️ Further machine email to her is stopped by rule — this correction is voice only."
+      "note": "📅 **TOMORROW IS THE LIVE THING.** Estacie L. of eXp Realty Central holds **WED 9/2 6:00 PM**, her first showing of this address and a brokerage that has never touched it. 🔴 The contract was ruled **dead Monday 7:12 AM** — the buyer could not get approved, which is financing, not neglect. ✅ **AND THE CORRECTION HELD.** Monday's 8:30 AM auto-report promised your seller a **Tue 9/1 6:00 PM** tour that did not exist on eight days of receipts; she caught it herself at 11:58 AM and you closed it by voice that afternoon. **Today was that Tuesday, and it passed with no showing — the receipts were right.** ⚠️ Machine email to this seller remains stopped by rule — voice only."
     },
     {
       "addr": "2368 Ridge Trail",
       "city": "Birmingham",
       "price": "$550,000",
       "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE — 45 tours, no offer, and the 9/12 + 9/13 block is still the only thing on its calendar",
-      "showings14d": 2,
+      "status": "⚠️ ACTIVE — 45 tours, no offer, nothing on the calendar until 9/12",
+      "showings14d": 1,
       "feedback": [
         {
           "date": "8/20",
           "agent": "Laura Gail C. · co-op brokerage",
           "tone": "cold",
-          "note": "Not interested, priced too high, and the worst staging score anywhere on this board. Her useful contribution was a lever that is not a price cut: a pre-inspection, to remove the unknowns."
+          "note": "Not interested, priced too high, and the worst staging score anywhere on this board. Her useful contribution was a lever that is not a price cut: a **pre-inspection**, to remove the unknowns."
         },
         {
           "date": "8/18",
           "agent": "Co-op agent · second independent read",
           "tone": "cold",
-          "note": "Not interested, priced too high — the same verdict, filed independently."
+          "note": "Not interested, priced too high — the same verdict, filed independently. ⚠️ This one now sits at the edge of the fourteen-day window and is carried forward rather than re-verified."
         }
       ],
       "gaps": [
-        "Sat 8/22 3:00 PM — a fifth showing from a first-time agent, read still outstanding eight days on"
+        "Sat 8/22 3:00 PM — a fifth showing from a first-time agent, read still outstanding ten days on"
       ],
-      "note": "⚠️ **FRIDAY'S TOUR CANCELLED TWO MINUTES BEFORE THE APPOINTMENT**, and the agent's reason is the most useful sentence this listing has produced in weeks: his buyer fell in love with a house they had just seen and told him to cancel before she ever walked yours. Card reads showings-by-this-agent **0** — she never got inside, so this says nothing about the house and must not be reported as a pricing verdict. 🔍 **WHAT IT DOES HAND YOU IS THE QUESTION THE FORMS NEVER ANSWER** — what did she buy instead, and what did it have that yours didn't. Sixty seconds on the phone. ℹ️ The count dropped from 3 to 2 this morning because the 8/15 tour aged out of the fourteen-day window — that is the calendar moving, not a lost showing. ✅ **EVENING RE-CHECK:** the 9/12 and 9/13 morning reservations both still stand on tonight's pull; nothing new arrived on this address today."
+      "note": "⚠️ **FORTY-FIVE WALKS WITH NO OFFER IS A PRICE STORY WEARING A TRAFFIC STORY'S CLOTHES.** The last two written feedbacks both answered *“too high”* outright — the only listing you own where agents tick that box rather than leave it blank. 📅 What holds: Joey C. of EXIT Coosa River Realty reserved **Sat 9/12 9:00 AM and Sun 9/13 9:00 AM**, two consecutive mornings, on a house he has never shown. ⭐ The 8/28 cancellation two minutes before the appointment is **not** a pricing verdict — the buyer fell in love with another house and never entered this one."
     },
     {
-      "addr": "195 Lake View Cir",
-      "city": "Riverside",
-      "price": "$351,000",
-      "client": "Amy R.",
-      "status": "✅ CLOSED — funded and receipted at 5:12 PM today",
+      "addr": "23223 Front Beach Rd B3-407",
+      "city": "Panama City Beach",
+      "price": "$364,000",
+      "client": "Jeff B.",
+      "status": "⚠️ ACTIVE — day 162, agreement expiring, and Friday's read is about 100 hours overdue",
+      "showings14d": 1,
+      "feedback": [],
+      "gaps": [
+        "🔴 Fri 8/28 12:30 PM tour — **Alexis L. of RE/MAX Select Partners**; ran Friday midday, the eleventh tour on this unit, and nothing filed. **Now about 100 hours.**",
+        "⚠️ The access question she asked — Supra or lockbox — still has no visible answer anywhere on record. She evidently got in, but it is worth knowing how."
+      ],
+      "note": "⚠️ **THE DEADLINE IS THE STORY, NOT THE TRAFFIC.** The brokerage has flagged this listing agreement as expiring and asked for a seller's-disclosure revision alongside it. 🔴 **THE PRICE CONVERSATION YOU TOLD THIS CLIENT YOU OWED HIM ON 8/24 IS STILL OPEN** — and an expiring agreement is the cheapest possible moment to have it."
+    },
+    {
+      "addr": "6161 Eagle Point Cir",
+      "city": "Birmingham",
+      "price": "not listed — value report stage",
+      "client": "Mike & Billie H.",
+      "status": "📞 PRE-LIST — he says twice he never got the report, and the card is still unchecked at 5:35 PM",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "✅ **THE FUNDING RECEIPT LANDED AT 5:12 THIS AFTERNOON** — the Real payday notice and the title survey, two independent sources — and this board finally counted it. It had been held at CLOSING for four days on the rule that a scheduled closing is not a closed one. 🎉 Closing **#24** of the year. 📞 The congratulations call is the one thing no routine can make."
-    },
-    {
-      "addr": "355 Comanche St",
-      "city": "Montevallo",
-      "price": "$295,000",
-      "client": "Seth B.",
-      "status": "🆕 ACTIVE — tour #21 booked for TOMORROW, and the agreement expires 9/8",
-      "showings14d": 2,
-      "feedback": [
-        {
-          "date": "8/29",
-          "agent": "Katie G. · Keller Williams Realty Hoover",
-          "tone": "cold",
-          "note": "Filed 4:55 PM off her Friday 2:30–3:30 tour, her first visit to the house. **Interested: No.** Priced Right: **blank.** Price Change Recommendation: **blank.** Staging: **3.** Main thing that made the client not want the home, verbatim: *“Stairs were too steep.”* ⭐ One sentence, no number, no price argument — the same shape as the 8/13 read."
-        },
-        {
-          "date": "8/16",
-          "agent": "Amy G. · Ethos International",
-          "tone": "hot",
-          "note": "Interested YES. Her buyers just started looking, they really like it, and it sits at the TOP of their list. She left PRICED RIGHT blank — the objection is unasked, not absent."
-        },
-        {
-          "date": "8/13",
-          "agent": "Trecia D. · co-op brokerage",
-          "tone": "cold",
-          "note": "Not interested — **stairs.** Both price fields left blank, so it is not a pricing read. 🔍 Read alongside 8/29 this is now a pattern, not an anecdote."
-        }
-      ],
-      "gaps": [
-        "⏳ **SAT 8/29 9:45 AM — Cheryl P. of Keller Williams Metro South**, her first visit. Held about **56 hours** ago and no form filed. ⭐ She did reply by email, and her reply **contradicts** the written form on this listing — she said it showed well and named a competing FSBO, the first specific competitor this house has ever drawn. 🎯 With fresh eyes walking it tomorrow and the agreement expiring 9/8, hers is the tiebreaker read."
-      ],
-      "note": "🆕 **THE ONLY NEW EVENT ON THE WHOLE BOARD SINCE SUNDAY LUNCHTIME LANDED HERE AT 8:40 THIS MORNING** — **Chad B. of RE/MAX Advantage** booked **TUE 9/1 4:30–5:30 PM**, his first visit to this address, the **twenty-first** showing on the house. ⭐ He reserved a **full hour**, roughly double the twenty-five-minute slot most agents take here. Worth noting; not worth calling intent. 🔍 **THE STANDING FINDING IS UNCHANGED AND IT IS STRONG:** two independent brokerages filed the identical verdict — *“stairs were too steep”* off Friday's tour and the same answer on 8/13 — and **both left every price field blank.** Two agents, two offices, one physical objection, zero price objections. 🎯 **EIGHT DAYS TO EXPIRY AND A TOUR TOMORROW.** This is the week the seller conversation happens, and it is a fit conversation, not a price cut."
+      "note": "📞 **HE CALLED MONDAY AT 2:44:** *“Just letting you know I didn't get anything from you.”* Five seconds, and the **second** time he has said it. 🔴 **AND THE MONDAY FIX PROBABLY DID NOT FIX IT** — verified in the thread this morning: the 2:10 PM repair **forwarded the same HTML** that failed the first time. The delivery variable was never changed. ⭐ No bounce was ever generated on either send, so nothing in this fleet could have known — branded HTML that leaves clean is not branded HTML that arrives. 📧 A plain-text version is staged, addressed and unsent. 🎯 The real argument was never price: your read is mid-to-high $600s on records showing 3,600 sq ft, his is near $800K on a house he says is over 4,000."
     },
     {
       "addr": "198 Rena Dr",
       "city": "Springville",
       "price": "$450,000 list",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraisal ordered this afternoon, closes 9/21",
+      "status": "✅ UNDER CONTRACT — appraisal ordered Monday, closes 9/21",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "✅ The lender's appraisal order came through and the file moved INSPECTION → APPRAISAL at 5:12 PM. **No value yet** — an order is not an opinion, and this board reports none until a number exists. 🔴 The promised inspection call is still unmade: three piles — fix, credit, decline."
+      "note": "✅ The lender's appraisal order came through Monday afternoon. No value yet — an order is not an opinion. 🔴 Two promises are open and both are yours: the inspection call in three piles (fix, credit, decline), and the **death certificate** for Glenn C., who is on title but not on the contract — you committed to it in writing on a 9/21 close."
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -183,11 +217,11 @@
           "date": "8/13",
           "agent": "Co-op agent · pre-contract tour",
           "tone": "cold",
-          "note": "Not interested, but priced JUST RIGHT — a price validation filed the same week the inspection ran."
+          "note": "Not interested, but priced **JUST RIGHT** — a price validation filed the same week the inspection ran."
         }
       ],
       "gaps": [],
-      "note": "⚠️ Two quiet items remain, both paperwork rather than condition, and both are now ten days old: the inspection requests have sat with your seller since 8/17, and the closing attorney still cannot find your seller's name in title with a third name showing on the same file. ⭐ Neither fixes itself."
+      "note": "✅ Healthy and on schedule. ⚠️ The inspection requests have been sitting with your seller since **8/20** — twelve days. Two weeks out is the last comfortable moment to clear paperwork."
     },
     {
       "addr": "1709 Fieldstone Cir",
@@ -198,61 +232,29 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🎉 Both sellers have signed and the file has held steady at inspection through ten consecutive engine runs. 🔍 Only the escrow holdback sizing remains live, and that is a number to agree rather than a condition to fix. ⚠️ The old unsent draft to that agent is moot — do not send it on top of a conversation that already ended well."
+      "note": "🎉 Both sellers have signed, and this file has held steady at inspection through thirteen consecutive engine runs — the quietest file you own. Only the escrow holdback sizing remains loose, and it is not urgent at seven weeks out."
+    },
+    {
+      "addr": "833 Madison Ln",
+      "city": "Helena",
+      "price": "TBD",
+      "client": "Newly tracked",
+      "status": "📢 COMING SOON — TWO blank weekdays now",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "📢 **THE VERDICT THIS BOARD SET FOR ITSELF YESTERDAY HAS ARRIVED.** Monday's note said one blank weekday is not a verdict but two in a row means marketing rather than waiting. 🔴 **Today is the second** — a fresh fourteen-day pull returns no request, no confirmation and no cancellation on this address since it went live on a Sunday. ⭐ Willow Point is still the argument for patience on this exact point: three days of paid ads with nothing, then five bookings and a signed offer inside eleven days once the market found it. 🎯 But patience was Monday's answer."
     },
     {
       "addr": "821 Martinwood Rd",
       "city": "Birmingham",
       "price": "$219,900",
       "client": "Team listing",
-      "status": "🔥 ACTIVE — price cut live, zero tours in the window, one old post still shows the wrong number",
+      "status": "🔥 ACTIVE — price cut live, zero tours in the window",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔴 A post from 8/20 still shows the old price and only you can delete it — the machine cannot reach that account while the publishing connector is locked out. ⚠️ Sixth day the internet does not know the price changed; the cause is a password change Tuesday evening, not a rule. 🔍 The objection on this house is square footage, not the number, on both feedback passes it took — so another cut buys nothing. ⚠️ Still zero tours inside the window on day eight of a price cut the internet does not know about — the publishing account has now been signed out two full days."
-    },
-    {
-      "addr": "2127 Hwy 93",
-      "city": "Helena",
-      "price": "$999,000",
-      "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE — repriced to $999,000 this morning and it bought two showings by dinner",
-      "showings14d": 2,
-      "feedback": [
-        {
-          "date": "8/28",
-          "agent": "Katherine M. · RealtySouth-OTM-Acton Rd",
-          "tone": "warm",
-          "note": "Filed 3:31 PM, one hour after the 1:30–2:30 tour — **the first written feedback this listing has ever received.** Verbatim: *“My buyer's liked a lot about the house. But they felt it was very dated for the asking price. The paint colors definitely but also the kitchen and baths. They also said it felt hot like the AC units were struggling in this heat. They would prefer to sell their house first and may wait to see if this house is still on the market once their house sells. They're not in a rush to buy a house and are being very particular about their next house. They really did like a lot about the house but not enough to make an offer right now. Thanks for letting me show!”* ⚠️ **INTERESTED, PRICED-RIGHT AND PRICE-RECOMMENDATION WERE ALL LEFT BLANK.** She named no number and never argued the ask — do not read this as a pricing verdict."
-        }
-      ],
-      "gaps": [],
-      "note": "🔥 **THE PRICE CUT ANSWERED THE SAME DAY IT WAS MADE.** $1,150,000 → **$999,000** at about 7:55 AM. By 1:41 PM two agents from **ARC Realty–Hoover** had booked: Sarah J. for Fri 9/4 8:30 AM, and **Cathy O. for today 3:45–4:45 PM — a full hour, already held.** ⭐ **TOTAL SHOWINGS WENT 2 → 4 IN ONE AFTERNOON** on a house that produced two tours in its first forty days. That is a price answer, not a traffic answer. 📞 **CALL CATHY O. TONIGHT** — she is the only person alive who has walked this house at the new number, and she walked it two hours ago. Ask whether the price brought her, and whether the “dated” read survives at $999K. ⚠️ **DO NOT QUOTE A REPLACEMENT PRICE** — the reprice is ten hours old. 📝 **THE ONLY WRITTEN FEEDBACK THIS HOUSE HAS EVER PRODUCED** was filed 8/28 against the OLD number, three days before the cut: liked plenty, called it “very dated for the asking price,” flagged the A/C struggling — and left **every price field blank.** A condition read against a price that no longer exists. 🎯 The sellers have not been told about either booking yet."
-    },
-    {
-      "addr": "Deer Ridge Lakes — 19 lots",
-      "city": "Chelsea",
-      "price": "$599,000",
-      "client": "Daniel B.",
-      "status": "🔥 ACTIVE — no lockbox tours, and a buy-box just got clearer",
-      "showings14d": 0,
-      "feedback": [],
-      "gaps": [],
-      "note": "🔍 The furthest-along buyer answered and it is a no — he wants un-entitled acreage, which is a buy-box rather than a rejection, and worth more than the silence it replaced. ⚠️ The perc answer is still the gate and it is still sitting on a board instead of in an ear. 🔴 Two names were closed out by the decay rule and neither was ever called."
-    },
-    {
-      "addr": "23223 Front Beach Rd B3-407",
-      "city": "Panama City Beach",
-      "price": "$364,000",
-      "client": "Jeff B.",
-      "status": "⚠️ ACTIVE — day 161, agreement expiring, and Friday's read is now ~77 hours overdue",
-      "showings14d": 1,
-      "feedback": [],
-      "gaps": [
-        "🔴 Fri 8/28 12:30 PM tour — **Alexis L. of RE/MAX Select Partners**; ran Friday midday and nothing filed. **Now about 77 hours** — the eleventh tour on this unit and the last one before the agreement expires.",
-        "⚠️ The access question she asked — Supra or lockbox — still has no visible answer anywhere on record. She evidently got in, but it is worth knowing which."
-      ],
-      "note": "⚠️ **THE NEW FACT IS A DEADLINE, NOT A SHOWING** — the brokerage flagged at 10:40 this morning that this listing agreement is expiring, day 159 on the clock. ⭐ That turns the price conversation Gene has owed this seller for a week from a chase into a genuine reason to ring. 🔑 The Friday tour did run — it slid 10:15 → 12:30, was re-confirmed, and nothing cancelled it, the eleventh tour this unit has taken. 📬 **Alexis L. has filed nothing in about seventy-two hours**, which is past nudging and into asking directly. ⚠️ Her access question — Supra or lockbox — was never visibly answered anywhere the fleet can see. 🆕 **EVENING RE-CHECK:** still nothing filed on Friday's 12:30 tour, now roughly **seventy-eight hours** — past nudging and into the territory where it is worth a direct ask rather than another automated request."
+      "note": "⚠️ A post from 8/20 still shows the old price, and only you can delete it — the machine cannot reach that account."
     },
     {
       "addr": "372 Chelsea Farms Ln",
@@ -263,45 +265,56 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "⏳ The answer this listing needed arrived **ten days ago and nobody picked it up** — your coordinator posted the gate code to the shared board on 8/21 and it has sat in Questions for Gene with zero comments ever since. It is today's escalation item for exactly that reason. 📋 Perc documentation and covenants are the only other things between this and a list date. The price is already ruled."
+      "note": "⏳ The gate code your coordinator posted to the shared board on **8/21** has sat with zero comments for eleven days. Still open behind it: the perc documentation and the covenants."
     },
     {
-      "addr": "833 Madison Ln",
-      "city": "Helena",
-      "price": "TBD",
-      "client": "Newly tracked",
-      "status": "📭 COMING SOON — a full weekday gone, calendar still empty",
+      "addr": "Deer Ridge Lakes — 19 lots",
+      "city": "Chelsea",
+      "price": "$599,000",
+      "client": "Daniel B.",
+      "status": "🔥 ACTIVE — no lockbox tours, and a buy-box just got clearer",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "📭 **NO REQUEST, NO CONFIRMATION, NO CANCELLATION** on a fresh fourteen-day pull — one complete weekday now, not half of one. ⭐ Willow Point is the argument for patience on exactly this point: three days of paid ads with no tours, then five bookings and a signed offer in eleven days once the market found it. 🎯 Two blank weekdays in a row means marketing, not waiting — tomorrow decides it."
+      "note": "🔍 The furthest-along buyer answered and it is a **no** — he wants un-entitled acreage. ⭐ That is a buy-box, not a rejection: it tells you which builder profile to stop pitching."
+    },
+    {
+      "addr": "195 Lake View Cir",
+      "city": "Riverside",
+      "price": "$351,000",
+      "client": "Amy R.",
+      "status": "✅ CLOSED AND FUNDED — closing #24 of the year",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "✅ Funded and receipted Monday 5:12 PM on two independent sources. The post-close follow-up sequence is staged; the celebration call is still yours to make."
     }
   ],
   "oweFeedback": [
     {
       "addr": "120 King Arthur Pl · Alabaster",
       "price": "$250,000",
-      "when": "🔴 **ASKED TWICE AND NOW EIGHT DAYS SILENT.** Keller Williams Metro South requested this Sunday 8/23 at 1:00 PM and again Monday 8/24 at 2:00 PM. ⭐ Two asks from one office is the point at which silence starts costing you with an agent you will see again — and this is the office asking on two of your three open ones. Three sentences closes it."
+      "when": "🔴 **ASKED TWICE AND NOW NINE DAYS SILENT.** Keller Williams Metro South requested this Sunday 8/23 at 1:00 PM and again Monday 8/24 at 2:00 PM. ⭐ Two asks from one office is the point at which silence starts costing you with an agent you will see again — and this is the office asking on two of your buyer-side tours at once."
     },
     {
       "addr": "106 King Valley St · Pelham",
       "price": "$236,500",
-      "when": "🔴 **ALSO ASKED TWICE** — Sunday 8/23 2:30 PM and again Monday 8/24 at 2:31 PM, now nine days silent. ⭐ Same office as King Arthur, so one reply session answers both and buys back the relationship in one pass."
+      "when": "🔴 **ALSO ASKED TWICE** — Sunday 8/23 2:30 PM and again Monday 8/24 at 2:31 PM, now ten days silent. ⭐ Same office as King Arthur, so one reply session answers both and buys back the relationship in one pass."
     },
     {
       "addr": "116 Palm Dr · Alabaster",
       "price": "$249,900",
-      "when": "⚠️ REQUESTED SUN 8/23 1:30 PM by Keller Williams Realty Hoover — and unlike the other two on that tour, this office has **NOT** asked a second time. Eight days. Cheapest of the three to answer and the least likely to be chased again."
+      "when": "⚠️ Requested Sun 8/23 1:30 PM by Keller Williams Realty Hoover — and unlike the other two on that tour, this office has **not** asked a second time. Nine days. Cheapest of the three to answer and the least likely to be chased again."
     },
     {
       "addr": "3421 Hwy 109 · Columbiana",
       "price": "$2,350,000",
-      "when": "🔴 THREE ASKS AND OVER A MONTH OF SILENCE — 7/21, 7/22 and 7/23 from the listing side after your 7/21 1:00 PM tour. ⚠️ These sit outside the fourteen-day pull window, so they are carried forward rather than re-verified today. ⭐ THE COST IS NOT THE COURTESY. It is that the agent on the most expensive house you have toured this year has watched you ignore three requests, and you will want something from that office eventually."
+      "when": "🔴 **THREE ASKS AND OVER A MONTH OF SILENCE** — 7/21, 7/22 and 7/23 from the listing side after your 7/21 1:00 PM tour. ⚠️ These sit outside the fourteen-day pull window, so they are carried forward rather than re-verified today. ⭐ The cost is not the courtesy — it is that the agent on the most expensive house you have toured all year has heard nothing back."
     },
     {
       "addr": "683 Flag Cir · Hoover",
       "price": "$384,999",
-      "when": "⏰ TWO FEEDBACK REQUESTS, 7/31 and 8/1. The listing went from CONTINGENT to EXPIRED between the two notices, so the ask itself is stale — but a one-line reply costs nothing, and an expired listing in Hoover is a seller conversation nobody is currently having. ⚠️ Also outside the fourteen-day window and carried forward, not re-verified."
+      "when": "⏰ Two feedback requests, 7/31 and 8/1. The listing went from CONTINGENT to EXPIRED between the two notices, so the ask itself is stale — but a one-line reply costs nothing, and an expired listing in Hoover is a seller conversation nobody is currently having. ⚠️ Also outside the fourteen-day window and carried forward."
     }
   ]
 }

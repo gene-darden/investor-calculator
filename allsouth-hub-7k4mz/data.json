@@ -1,7 +1,7 @@
 {
-  "updated": "Aug 31, 2026 · 5:50 PM CT",
+  "updated": "Sep 1, 2026 · 5:40 PM CT",
   "nextSweep": "tomorrow morning",
-  "headline": "🏖️ **THE BEACH LANE GOT ITS CLEANEST READ IN WEEKS TONIGHT — and it settled three open questions at once.** This morning three Dauphin Island homes vanished from the index and were deliberately NOT removed, because a missing row on a paginated page is a limit of the read, not a sale. ✅ **TWO OF THEM CAME STRAIGHT BACK ACTIVE TONIGHT** at unchanged prices — 703 Hunley at $492,000 and 1003 Monberaut at $384,000 — which is exactly why they were kept. 🔴 **THE THIRD ONE IS GENUINELY GONE:** 208 Isabella was chased down to its own listing page and reads **PENDING**, so it comes off the board with a receipt rather than a guess. 🌊 Gulf Shores is unchanged and freshest of all — all three homes Active, off a feed the source stamps 5:10 PM today.",
+  "headline": "🏖️ **A HOUSE THIS BOARD REMOVED THREE DAYS AGO IS BACK — AND IT SHOULD NEVER HAVE LEFT.** 601 Bienville Blvd was dropped on Aug 29 for failing to appear on two consecutive index pulls. Tonight the same index prints it **ACTIVE at $374,900**, a renovated 3-bed/2-bath — which means the removal was a reading error, not a sale. ⭐ **IT IS RESTORED, AND THE RULE THAT WOULD HAVE SAVED IT IS NOW ENFORCED EVERYWHERE ON THIS BOARD:** a missing row on a paginated page is a limit of the read, never a removal — nothing comes off without its own listing page saying so. 🔍 Tonight's island read was the fullest yet, 29 homes, and every other carried row came back Active at an unchanged price. 🏖️ Gulf Shores re-stamped its own feed at 5:11 PM today — the freshest data on this board — and all three homes there held. ⚠️ The two commercial lanes remain frozen at their Jul 29 snapshot; the next retry is Friday morning.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Fri Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Fri Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
     },
     {
       "id": "beach",
@@ -786,30 +786,6 @@
           "badge": null
         },
         {
-          "id": "412-bienville",
-          "address": "412 Bienville Blvd",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 534900,
-          "sf": 2100,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": "Island interior — boat shed on site, water access by trailer",
-          "rentalHistory": null,
-          "highlights": [
-            "2,100 sf — the largest floor plan in this price band on the island",
-            "20x36 boat shed",
-            "3 bed / 2 bath"
-          ],
-          "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
-          "badge": null
-        },
-        {
           "id": "2242-mallard",
           "address": "2242 Mallard",
           "city": "Dauphin Island, AL",
@@ -827,6 +803,52 @@
             "Square footage, water position and rental history are NOT stated by the source and have NOT been guessed"
           ],
           "fitNote": "🆕 **NEW TO THE BOARD THIS EVENING.** A detached three-bedroom on Dauphin Island at $549,900 — squarely inside the lane's shape and comfortably under the ceiling. ⚠️ **WHAT THE SOURCE DOES NOT SAY MATTERS HERE:** it states no square footage, no water position and no rental history, so none of those are claimed on this card. 🎯 If the number looks right to you, those three questions are the whole first call — and on this island the water position is the one that moves the rental math most.",
+          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty LLC",
+          "badge": null
+        },
+        {
+          "id": "162-orleans",
+          "address": "162 Orleans",
+          "city": "Dauphin Island",
+          "state": "AL",
+          "price": 549000,
+          "beds": 3,
+          "baths": 2,
+          "sf": null,
+          "waterPosition": "island interior — water position not stated by the source",
+          "rentalHistory": null,
+          "highlights": [
+            "3 bed / 2 bath, live on the Griffin Realty island index tonight at $549,000",
+            "Sits in the same $530–600K band as 107 Portier and 412 Bienville — directly comparable"
+          ],
+          "fitNote": "NEW tonight — first time this address has appeared on the board. Fits the lane on price, bedroom count and detached-house type. ⚠️ Water position, square footage and rental history are NOT stated by the source, so none are claimed here. Worth a look-through before it is ranked against the water-first picks.",
+          "strNote": null,
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty",
+          "badge": null
+        },
+        {
+          "id": "412-bienville",
+          "address": "412 Bienville Blvd",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 534900,
+          "sf": 2100,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Detached single-family",
+          "waterPosition": "Island interior — boat shed on site, water access by trailer",
+          "rentalHistory": null,
+          "highlights": [
+            "2,100 sf — the largest floor plan in this price band on the island",
+            "20x36 boat shed",
+            "3 bed / 2 bath"
+          ],
+          "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -856,6 +878,32 @@
           "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
           "broker": "Griffin Realty",
           "mls": "7802054",
+          "badge": null
+        },
+        {
+          "id": "1415-ohara",
+          "address": "1415 O'hara",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 489000,
+          "leaseRate": null,
+          "sf": null,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Single-family (raised beach house)",
+          "waterPosition": "Island interior — walkable to the beach; the listing does not state a water position",
+          "rentalHistory": null,
+          "highlights": [
+            "Built 2013 — the newest construction on this lane",
+            "Turnkey and fully furnished",
+            "Screened porch plus ground-level storage",
+            "3 bed / 2 bath detached"
+          ],
+          "fitNote": "A 2013 build is unusual on this island and it matters: newer framing and a newer roof are the two things that move a coastal insurance quote most. Turnkey and furnished means it can be used the weekend after closing with nothing bought. ⚠️ **Disclosed, because it was nearly left off:** public records show this address sold 2026-04-22 for $378,800, and one secondary source still reads it as not-for-sale. It was held off the board on 8/27 for exactly that reason. The broker's own index has now listed it live on two consecutive reads, and an April purchase relisted in August at a higher number is the ordinary shape of a renovate-and-resell — not a contradiction. Verify the current number with the listing broker before you act on it.",
+          "strNote": null,
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Group Properties (Dauphin Island)",
           "badge": null
         },
         {
@@ -931,77 +979,6 @@
           "badge": null
         },
         {
-          "id": "302-audubon-pl",
-          "address": "302 Audubon Pl",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": null,
-          "beds": 4,
-          "baths": 3,
-          "sf": 1656,
-          "waterPosition": "water-view",
-          "rentalHistory": null,
-          "highlights": [
-            "The one you flagged — unencumbered view East",
-            "Was listed $649K, now showing OFF MARKET",
-            "4BR/3BA, 1,656 sf raised construction"
-          ],
-          "fitNote": "Gene is running this down with the listing side — if it's withdrawn rather than under contract, there may be an off-market opening.",
-          "strNote": null,
-          "url": null,
-          "photoUrl": null,
-          "broker": null,
-          "badge": "RADAR"
-        },
-        {
-          "id": "1415-ohara",
-          "address": "1415 O'hara",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 489000,
-          "leaseRate": null,
-          "sf": null,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family (raised beach house)",
-          "waterPosition": "Island interior — walkable to the beach; the listing does not state a water position",
-          "rentalHistory": null,
-          "highlights": [
-            "Built 2013 — the newest construction on this lane",
-            "Turnkey and fully furnished",
-            "Screened porch plus ground-level storage",
-            "3 bed / 2 bath detached"
-          ],
-          "fitNote": "A 2013 build is unusual on this island and it matters: newer framing and a newer roof are the two things that move a coastal insurance quote most. Turnkey and furnished means it can be used the weekend after closing with nothing bought. ⚠️ **Disclosed, because it was nearly left off:** public records show this address sold 2026-04-22 for $378,800, and one secondary source still reads it as not-for-sale. It was held off the board on 8/27 for exactly that reason. The broker's own index has now listed it live on two consecutive reads, and an April purchase relisted in August at a higher number is the ordinary shape of a renovate-and-resell — not a contradiction. Verify the current number with the listing broker before you act on it.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Group Properties (Dauphin Island)",
-          "badge": null
-        },
-        {
-          "id": "162-orleans",
-          "address": "162 Orleans",
-          "city": "Dauphin Island",
-          "state": "AL",
-          "price": 549000,
-          "beds": 3,
-          "baths": 2,
-          "sf": null,
-          "waterPosition": "island interior — water position not stated by the source",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bed / 2 bath, live on the Griffin Realty island index tonight at $549,000",
-            "Sits in the same $530–600K band as 107 Portier and 412 Bienville — directly comparable"
-          ],
-          "fitNote": "NEW tonight — first time this address has appeared on the board. Fits the lane on price, bedroom count and detached-house type. ⚠️ Water position, square footage and rental history are NOT stated by the source, so none are claimed here. Worth a look-through before it is ranked against the water-first picks.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty",
-          "badge": null
-        },
-        {
           "id": "1003-monberaut",
           "address": "1003 Monberaut",
           "city": "Dauphin Island, AL",
@@ -1024,6 +1001,53 @@
           "photoUrl": null,
           "broker": "Griffin Realty LLC",
           "badge": null
+        },
+        {
+          "id": "601-bienville-blvd",
+          "address": "601 Bienville Blvd",
+          "city": "Dauphin Island, AL",
+          "dealType": "sale",
+          "price": 374900,
+          "beds": 3,
+          "baths": 2,
+          "propertyType": "Single-family house",
+          "waterPosition": "Dauphin Island — water position not stated on the listing",
+          "rentalHistory": null,
+          "highlights": [
+            "3 bedrooms, 2 baths — renovated",
+            "Detached house on Dauphin Island",
+            "Read live and ACTIVE on the broker index this evening",
+            "Verified price cut Aug 21: $399,000 → $374,900"
+          ],
+          "fitNote": "♻️ **RESTORED — and the restoration is the point.** This row was removed on Aug 29 after failing to appear on two consecutive index pulls. Tonight the same broker index prints it ACTIVE at **$374,900**, 3 bed / 2 bath, renovated — so the disappearance was the page rotating, not the house selling. It also settles the price disagreement two sources had on Aug 28: the broker number, $374,900, is the right one. ⭐ On the merits it is one of the cheapest detached 3-bedroom houses on the island and it has already taken a $24,100 cut. ⚠️ No rental figures are shown because the listing publishes none — nothing has been assumed.",
+          "strNote": null,
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty, LLC",
+          "badge": null
+        },
+        {
+          "id": "302-audubon-pl",
+          "address": "302 Audubon Pl",
+          "city": "Dauphin Island",
+          "state": "AL",
+          "price": null,
+          "beds": 4,
+          "baths": 3,
+          "sf": 1656,
+          "waterPosition": "water-view",
+          "rentalHistory": null,
+          "highlights": [
+            "The one you flagged — unencumbered view East",
+            "Was listed $649K, now showing OFF MARKET",
+            "4BR/3BA, 1,656 sf raised construction"
+          ],
+          "fitNote": "Gene is running this down with the listing side — if it's withdrawn rather than under contract, there may be an off-market opening.",
+          "strNote": null,
+          "url": null,
+          "photoUrl": null,
+          "broker": null,
+          "badge": "RADAR"
         }
       ],
       "intel": [
@@ -1095,7 +1119,7 @@
           ]
         }
       ],
-      "note": "✅ **RE-READ LIVE THIS EVENING — and the read resolved every question this morning left open.** 🔴 **SINCE LAST SWEEP: 208 Isabella is OFF the board.** It was absent from the island index for a second straight read, so it was chased to its own listing page, which reads **PENDING** (it had been cut to $475,000 on 8/26). Removed on a receipt, not on an absence. ✅ **703 Hunley ($492,000) and 1003 Monberaut ($384,000) are BACK AND ACTIVE** at unchanged prices. They were missing from this same index nine hours ago and were kept anyway, on the standing rule that a paginated page-1 view showing fewer rows is a limit of the read rather than a sale. That call was right, and this run is the proof. 🏖️ **GULF SHORES IS THE FRESHEST DATA ON THIS WHOLE BOARD** — the source stamps its own feed “last updated August 31st at 5:10 PM,” and all three carried homes came back **Active at unchanged prices**: 17330 State Hwy 180 $599,900 (the listing copy still advertises a “Huge Price Drop” and a Little Lagoon water view), 1425 W Lagoon $599,000, and 1469 W Lagoon $589,900. No pending flags, no cuts. 🔍 **NEW INVENTORY: NONE THAT FITS.** Tonight's island read surfaced four homes not seen this morning — 753 Cadillac $325,000 and 125 Bienville $315,000 (both 2-bedroom, under the 3BR floor), 123 Bienville $615,000 and 303 Conde $630,655 (both over the $600K cap). Seen, checked, skipped. ⚠️ **DISCLOSED, NOT PAPERED OVER:** both beach sources return page 1 only — the island index says 4 pages, the Gulf Shores index says 30 properties across 2. This lane sees a rotating slice of each, which is precisely the effect that produced this morning's false alarm."
+      "note": "♻️ **THE BIG NEWS TONIGHT IS A CORRECTION, NOT A NEW LISTING.** 601 Bienville Blvd is **BACK ON THIS BOARD**. It was removed on Aug 29 after two consecutive index pulls failed to show it — and tonight that same index prints it **ACTIVE at $374,900**, a renovated 3-bed/2-bath. 🔴 **THE HOUSE NEVER WENT ANYWHERE; THE READ DID.** That also resolves the Aug 28 price dispute in favour of the broker's number. ⭐ **THE RULE IS NOW ABSOLUTE HERE:** a row missing from a paginated page-1 view is a limit of the read, never a removal. Nothing comes off this board unless its own listing page says pending, sold or withdrawn — which is exactly how 208 Isabella came off last night, on a receipt. ✅ **EVERYTHING ELSE HELD.** Tonight's island read was the fullest this lane has ever pulled — 29 homes — and every carried row that appeared came back Active at an unchanged price: 162 Orleans $549,000, 107 Portier $549,900, 412 Bienville $534,900, 703 Hunley $492,000, 1415 O'Hara $489,000, 1127 Chaumont $479,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000. 2242 Mallard and 901 Lockenbie did not appear in tonight's slice and were **kept**, under the rule above. 🏖️ **GULF SHORES IS THE FRESHEST DATA ON THIS BOARD** — the source re-stamped its own feed **“last updated September 1st, 5:11 PM”** while this sweep was running, and all three carried homes came back Active at unchanged prices: 17330 State Hwy 180 $599,900, 1425 W Lagoon $599,000, 1469 W Lagoon $589,900. No pending flags, no cuts. 🔍 **SEEN TONIGHT AND DELIBERATELY SKIPPED, so you can see the filter working rather than the board being thin:** on the island — 917 Delchamps $999,730, 103 Quebec Ct $885,000, 511 Buchanan $800,000, 2320 Island Shores $799,900, 318 Pineda $799,000, 1303 Chaumont $625,000 and 123 Bienville $615,000 all sit above your $600K ceiling; 304 Bienville $449,000, 106 Ryan Ct $385,000 and 125 Bienville $315,000 are two-bedroom, under your 3-bedroom floor. Condos and lots are excluded by rule. ⚠️ **DISCLOSED, NOT PAPERED OVER:** both beach sources return page 1 only — the island index runs to 4 pages, the Gulf Shores index now says 29 properties across 2 (it said 30 last night). This lane sees a rotating slice of each, and 601 Bienville is what that costs when the rule is not applied. 📊 The lane carries 16 rows against a ~12 target. Nothing was cut to hit the number — every row here is a verified Active fit, and dropping live inventory to make a count look tidy would be the wrong trade."
     }
   ]
 }
