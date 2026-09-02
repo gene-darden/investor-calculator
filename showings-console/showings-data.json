@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02 12:45 PM CT",
-  "headline": "💰 355 Comanche just drew its first price answer in 21 showings — **Just right**, from an agent who called it priced competitively.",
+  "updated": "2026-09-02 5:50 PM CT",
+  "headline": "🔴 Tonight's 6:00 PM tour is the only one booked on 225 Willow Point since it came back on the market.",
   "stats": {
     "showings14d": 13,
     "feedback14d": 5,
@@ -45,7 +45,7 @@
   ],
   "upcoming": [
     "🔴 **TODAY 6:00 PM — 225 WILLOW POINT.** Estacie L., eXp Realty Central, first visit. The only tour on the house.",
-    "🆕 **FRI 9/4 8:00 AM — 198 RENA DR: APPRAISAL.** The number that decides whether the close stays on schedule.",
+    "✅ **FRI 9/4 8:00 AM — 198 RENA DR: APPRAISAL CONFIRMED** at 1:38 PM today. The number that decides the close date.",
     "🔥 **FRI 9/4 8:30 AM — 2127 HWY 93.** Sarah J., ARC Realty–Hoover, booked five hours after the cut.",
     "🔥 **FRI 9/4 4:30 PM — 2127 HWY 93.** Ty T., Keller Williams Homewood, a full hour. Friday is a double.",
     "📅 **SAT 9/12 + SUN 9/13 9:00 AM — 2368 RIDGE TRAIL.** Joey C., EXIT Coosa River, two consecutive mornings.",
@@ -156,7 +156,7 @@
         "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in about six days. A repeat agent, not a browser, and he does not know the house reopened.",
         "Sat 8/22 12:00 PM tour — still no feedback filed, eleven days on."
       ],
-      "note": "📅 Tonight is the live thing. Machine email to this seller stays stopped — voice only."
+      "note": "📅 Tonight 6:00 PM is the live thing. Machine email to this seller stays stopped."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -197,11 +197,11 @@
       "city": "Springville",
       "price": "$450,000 list",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraisal Fri 9/4 8:00 AM, closes 9/21",
+      "status": "✅ UNDER CONTRACT — appraisal CONFIRMED Fri 9/4 8:00 AM, closes 9/21",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🆕 Appraisal booked last night for Friday 8:00 AM. Glenn C.'s death certificate is still undelivered."
+      "note": "✅ Appraisal CONFIRMED 1:38 PM today for Friday 8:00 AM. Death certificate still undelivered."
     },
     {
       "addr": "6161 Eagle Point Cir",

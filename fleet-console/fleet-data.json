@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-02 12:45 PM CT",
-  "headline": "🖊️ Clint K. signed all six listing docs on 115 Indian Woman Road at 10:57 AM — your first 30A listing.",
+  "updated": "2026-09-02 5:50 PM CT",
+  "headline": "🔥 Alex T. has racked up 521 property views and put a 2026 move in writing — your hottest new p1.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "✅ Fifteen routines have run clean since 5:35 AM — no dark window, no BLOCKED line today.",
-      "📵 Text relay **proven dead** — your 11:56 AM text never left the phone, 136 hours silent.",
-      "🔑 ShowingTime emailed an account verification code at 11:11 AM — nothing on the fleet requested it."
+      "✅ Twenty routines clean since 5:35 AM — no BLOCKED line anywhere on the board today.",
+      "📵 Text relay dead 78 hours — proven, not quiet. Your outgoing texts never leave the phone.",
+      "🔑 ShowingTime verification code arrived 11:11 AM — nothing on the fleet asked for it."
     ]
   },
   "callBlock": [
+    {
+      "who": "Alex T.",
+      "heat": "hot",
+      "why": "521 property views across 188 visits, and he told you in writing he moves in 2026."
+    },
     {
       "who": "Lawrence C.",
       "heat": "hot",
@@ -18,37 +23,32 @@
     {
       "who": "Steven V.",
       "heat": "hot",
-      "why": "Seller hand-raise on a Chelsea Park address Sunday — still nobody has spoken to him."
+      "why": "Seller hand-raise on a Chelsea Park address Sunday morning — still nobody has spoken to him."
     },
     {
-      "who": "David B.",
+      "who": "Harrison B.",
       "heat": "hot",
-      "why": "His listing expired 8/21, and your market report has dripped on that house since March 2025."
+      "why": "His “list after the bath reno” note has sat since March, and he returned 8/22."
     },
     {
-      "who": "Breanna K.",
+      "who": "Greg E.",
       "heat": "hot",
-      "why": "Brand-new buyer registration on your own site — the machine cannot text her, so voice is everything."
+      "why": "He tagged himself a selling request-a-call and that flag has sat 159 days untouched."
+    },
+    {
+      "who": "Jack M.",
+      "heat": "hot",
+      "why": "A listing-consult appointment on your own calendar has gone unactioned since February 16th."
+    },
+    {
+      "who": "Patricia M.",
+      "heat": "hot",
+      "why": "Past client waiting on the Fairhope CMA you owed her back on August 14th."
     },
     {
       "who": "Sanjay P.",
       "heat": "hot",
       "why": "You promised to reach out mid-afternoon on 8/26 and never did — a promise, not a lead."
-    },
-    {
-      "who": "Bruce T.",
-      "heat": "hot",
-      "why": "Seller hand-raise Sunday evening on a North Port, Florida house — nobody has called him yet."
-    },
-    {
-      "who": "Phyllis T.",
-      "heat": "hot",
-      "why": "Helena home-value seller whose own CRM task has been overdue since December 1st."
-    },
-    {
-      "who": "Jeffrey W.",
-      "heat": "hot",
-      "why": "His $699,900 Helena listing was cancelled 8/18 while your market report kept landing on it."
     }
   ],
   "listings": [
@@ -62,43 +62,43 @@
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "🔍 ACTIVE $295,000 — 21 showings, agreement expires 9/8",
-      "note": "💰 First price answer ever filed reads **Just right** — five reads now, zero price objections."
+      "note": "💰 The only price box ever ticked reads **Just right**. Six days to the expiry."
     },
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
       "status": "🔥 ACTIVE $999,000 — 3 showings booked since Monday's cut",
-      "note": "📅 Friday is a double — 8:30 AM and 4:30 PM. Cathy O.'s Monday read still unfiled."
+      "note": "📅 Friday is a double, 8:30 and 4:30. Cathy O.'s Monday read now 50 hours unfiled."
     },
     {
       "addr": "225 Willow Point Cir",
       "client": "Sondra & Darrell S.",
       "status": "🔴 BACK ON MARKET $185,000 — one tour on the calendar",
-      "note": "📅 **Tonight 6:00 PM** — Estacie L., eXp Central, first visit. Davis H. still owes feedback."
+      "note": "📅 **6:00 PM tonight** — Estacie L., the only tour booked. Davis H. still owes feedback."
     },
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraisal Friday 8:00 AM",
-      "note": "🚨 Close date now disputed — **9/30 on paperwork, 9/21 everywhere else**. Settle it today."
+      "status": "✅ UNDER CONTRACT — appraisal confirmed Friday 8:00 AM",
+      "note": "🚨 Close date still split — **9/30 on paperwork, 9/21 everywhere else**. Settle it tomorrow."
     },
     {
       "addr": "372 Chelsea Farms Ln",
       "client": "Daniel B.",
       "status": "📅 COMING SOON — 22.63 acres, ruled $575K, no list date",
-      "note": "✅ Kathleen L. answered 11:39 AM. Burnham's signature is now the only thing missing."
+      "note": "✅ Kathleen L. said yes at 11:39 AM. Burnham's signature is the only thing missing."
     },
     {
       "addr": "6161 Eagle Point Cir",
       "client": "Mike & Billie H.",
       "status": "📞 PRE-LIST — report delivered 9/1, call still unmade",
-      "note": "✅ Report landed 9/1 3:18 PM. Now settle the **square-footage gap** — that is the price gap."
+      "note": "✅ Report landed 9/1. Now settle the **square-footage gap** — that is the price gap."
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
       "status": "⚠️ ACTIVE $364,000 — day 163, agreement expiring",
-      "note": "🔴 The price conversation you promised him 8/24 is still open. Friday's read never filed."
+      "note": "🔴 The price talk you promised him 8/24 is still open. Friday's read never filed."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -151,12 +151,12 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Business-email card confirmed dead — two vendors declined it since 9/1. Cash reads fresh."
+    "note": "🔴 Business-email card still dead — five vendors declined it. Cash itself reads fresh."
   },
   "isa": {
-    "openCallTasks": 65,
-    "decayPolicy": "65 open · 12 at p1 · up 12 since this morning",
-    "sweepCadence": "swept every 20–30 min · last run 12:15 PM"
+    "openCallTasks": 73,
+    "decayPolicy": "73 open · 18 at p1 · up 8 since 12:45 PM",
+    "sweepCadence": "swept every 20–30 min · last run 5:30 PM"
   },
   "builds": [
     "🐛 Fix the WARM-15 manifest prune — it deleted all 13 files",
@@ -164,15 +164,15 @@
     "🧹 Some routine is re-mangling the heartbeat file's encoding"
   ],
   "controls": {
-    "do": "Call Burnham — Kathleen's yes is your lever",
-    "decide": "Just Sold post: own 44 quiet days, or celebrate?",
-    "watch": "Card dead since 9/1 — Workspace names Oct 5",
-    "draftsWaiting": 7
+    "do": "Call Alex T. — 521 property views, 2026 move",
+    "decide": "355 Comanche: fix the closet claim, or cut price?",
+    "watch": "Text relay dead since 8/30 — outgoing texts vanish",
+    "draftsWaiting": 6
   },
   "scoreboard": {
-    "touches30d": 202,
+    "touches30d": 190,
     "replies30d": 61,
-    "appts30d": 5,
+    "appts30d": 4,
     "contracts30d": 5,
     "closed30d": 4,
     "gci30d": "$27K",

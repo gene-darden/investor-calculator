@@ -1,5 +1,4 @@
 {
-  "updated": "Sep 2, 2026 · 7:50 AM CT",
-  "verdicts": [],
-  "note": "Make data store 124407 pulled 2026-09-02 morning: still exactly 1 record, key 69a65cef62b7, payload {} — no listingId, no verdict, no address. The same blank/test row as every prior pull, unchanged. 0 real verdicts to date. The Gmail/text pursue channel was queried (newer_than:1d, \"PURSUE —\" / \"MORE INFO —\" / subject:\"AllSouth Board:\") and returned one hit that is a false positive — a PLACE marketing broadcast, not a board tap. So: no pursue, no more-info, no watch and no pass signals exist yet from Tyler on either channel. No Todoist task was created, and pursue_seen.json stays empty — there is nothing to dedupe against. Board change this run: 1425 W Lagoon Avenue removed from the beach lane on two receipts (absent from the Gulf Shores index AND its own detail page 404s, while the sibling 1469 W Lagoon page still loads Active). Beach lane 16 → 15 rows. Commercial lanes untouched — LoopNet and Crexi remain frozen, next retry Fri Sep 4."
+  "updated": "Sep 2, 2026 · 5:50 PM CT",
+  "verdicts": []
 }
