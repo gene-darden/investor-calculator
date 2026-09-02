@@ -1,7 +1,7 @@
 {
   "updated": "Sep 2, 2026 · 7:50 AM CT",
   "nextSweep": "this evening",
-  "headline": "🏖️ **1425 W LAGOON IS OFF THE BOARD — AND IT CAME OFF ON A RECEIPT, NOT A GUESS.** It vanished from the Gulf Shores index this morning AND its own listing page now returns 404, while the identical page for its neighbour at 1469 still loads Active at $589,900. Two independent reads, so it is gone rather than merely unseen. ✅ **EVERY OTHER BEACH ROW HELD** — nine Dauphin Island homes and the two remaining Gulf Shores homes all re-read Active at unchanged prices this morning.",
+  "headline": "🏖️ **1425 W Lagoon is off the board** — its page now 404s while neighbouring 1469 still loads Active at $589,900.",
   "lanes": [
     {
       "id": "nash",
@@ -121,7 +121,7 @@
           "propertyType": "Flex (retail-permitted)",
           "conversion": true,
           "highlights": [
-            "Inside Franklin's Factory District — the Factory at Franklin next door pulls 2M visits/yr",
+            "Inside Franklin's Factory District — the Factory next door pulls 2M visits/yr",
             "Trade-area median household income $106.7K",
             "Zoning explicitly permits retail/showroom use",
             "Owner-user sale, no long-term leases in place — price on request"
@@ -259,7 +259,7 @@
           "highlights": [
             "775-acre master-planned community at I-65/Buckner Rd",
             "Adjacent to thousands of planned new rooftops",
-            "Largest suite (4,277 sf) clears your size floor — bigger than the ~3,900 sf June Lake space you saw before"
+            "Largest suite 4,277 sf — bigger than the ~3,900 sf you saw"
           ],
           "fitNote": "Minimum viable footprint, 2027 delivery — but nothing in the corridor puts a showroom closer to active new-home construction buyers.",
           "url": "https://www.loopnet.com/Listing/June-Lake-Blvd-Thompsons-Station-TN/32247653/",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — the next eligible attempt is the **morning of Fri Sep 4**. 📌 **TREAT EVERY PRICE AND STATUS BELOW AS A JULY 29 SNAPSHOT.** Anything here may have moved, sold or been withdrawn since, and this board cannot see it. New-inventory hunting on these two lanes is paused for the same reason. The freeze is disclosed here rather than papered over — stale data labelled stale beats stale data presented as fresh."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry Fri Sep 4. Treat every price and status below as a July 29 snapshot."
     },
     {
       "id": "knox",
@@ -372,7 +372,7 @@
           "sf": 5985,
           "propertyType": "Flex / Showroom-Warehouse",
           "highlights": [
-            "~4,000 sf open warehouse (14' clear) + ~2,000 sf finished office, renovated 2024",
+            "~4,000 sf warehouse (14' clear) + ~2,000 sf office, renovated 2024",
             "3 garage doors + 1 dock-high door",
             "13,000 cars/day on Hwy 321, large pole sign, 3 min to I-75/I-40",
             "Hit the market Jul 27 — brand new listing"
@@ -414,7 +414,7 @@
           "propertyType": "Retail box",
           "conversion": true,
           "highlights": [
-            "8,500 sf single-tenant 2005 build — one of the newest in the corridor",
+            "8,500 sf single-tenant 2005 build — among the newest in the corridor",
             "150' of Central St frontage + 30 parking spaces (rare near downtown)",
             "Walking distance to the new stadium district",
             "Current occupant relocating — not a distressed closure"
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — the next eligible attempt is the **morning of Fri Sep 4**. 📌 **TREAT EVERY PRICE AND STATUS BELOW AS A JULY 29 SNAPSHOT.** Anything here may have moved, sold or been withdrawn since, and this board cannot see it. New-inventory hunting on these two lanes is paused for the same reason. The freeze is disclosed here rather than papered over — stale data labelled stale beats stale data presented as fresh."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry Fri Sep 4. Treat every price and status below as a July 29 snapshot."
     },
     {
       "id": "beach",
@@ -675,11 +675,11 @@
           "waterPosition": "Water view of Little Lagoon",
           "rentalHistory": "",
           "highlights": [
-            "Water view of Little Lagoon — the lagoon side is where Gulf Shores value lives, per this lane's own read",
+            "Water view of Little Lagoon — the lagoon side holds value",
             "2,129 sf / 3BR / 3BA on the Fort Morgan Rd corridor",
-            "Detached house, not a condo — meets the hard rule on this lane"
+            "Detached house, not a condo — meets the hard rule"
           ],
-          "fitNote": "NEW Jul 30. The one find this morning that clears every gate on this lane at once: detached, 3BR+, under $600K, and an actual stated water position rather than water-adjacent. At $282/sf it is better value per foot than most of the Dauphin Island set. ⚠️ NO rental income or projection is stated on the listing, so none is claimed here — and Fort Morgan Rd corridor STR rules vary parcel to parcel, so the zoning check matters more here than usual.",
+          "fitNote": "NEW Jul 30. Clears every gate at once: detached, 3BR+, under $600K, stated water position, $282/sf. ⚠️ No rental income stated; verify Fort Morgan STR zoning.",
           "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required before any offer.",
           "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
           "photoUrl": "",
@@ -698,7 +698,7 @@
           "waterPosition": "Island interior — water position not stated on the listing",
           "rentalHistory": null,
           "highlights": [
-            "4 bed / 3 bath — the largest bedroom count on the lane at this price",
+            "4 bed / 3 bath — largest bedroom count at this price",
             "Dauphin Island, the sub-$600K house market on this coast",
             "MLS 7803873"
           ],
@@ -723,13 +723,13 @@
           "waterPosition": "W Lagoon Ave / Lagoon Estates — listing states 0.2 miles (a 4-minute walk) from the beach; lagoon or gulf FRONTAGE is NOT stated",
           "rentalHistory": "",
           "highlights": [
-            "FULLY FURNISHED per the listing — the only turnkey house on this lane",
-            "3BR / 3BA, 1,518 sf — three full baths on three bedrooms, which is what lets two families share a rental",
+            "Fully furnished per the listing — the only turnkey house here",
+            "3BR / 3BA, 1,518 sf — three full baths on three bedrooms",
             "0.2 miles (4-minute walk) to the beach, per the listing",
-            "Detached house, not a condo — meets the hard rule on this lane"
+            "Detached house, not a condo — meets the hard rule"
           ],
-          "fitNote": "🆕 NEW THIS MORNING and the strongest new find in a week. Fully furnished is the differentiator: on a short-term rental it removes the single biggest hidden cost between closing and first booking, and nothing else on this lane states it. Three full baths on a three-bedroom is the other unusual thing at this price. ⚠️ Be precise about the water: the street is named for the lagoon and the listing claims a four-minute beach walk, but it does NOT state waterfront or a water view, so none is claimed here.",
-          "strNote": "⚠️ STR eligibility NOT stated on the listing — Gulf Shores rules vary by parcel; verify before any offer. No rental income figure is stated, so none is projected.",
+          "fitNote": "🆕 New today. Fully furnished is the differentiator — nothing else here states it; three full baths on three bedrooms. ⚠️ Listing states no waterfront or water view.",
+          "strNote": "⚠️ STR eligibility not stated — Gulf Shores rules vary by parcel; verify before any offer. No rental income stated.",
           "url": "https://www.condoinvestment.com/listing/395868-lagoon-estates-residential-1469-w-lagoon-avenue-gulf-shores-al-36542/",
           "photoUrl": "",
           "broker": "",
@@ -773,11 +773,11 @@
           "waterPosition": null,
           "rentalHistory": null,
           "highlights": [
-            "3 bed / 2 bath detached house, read Active on the Dauphin Island broker index this evening",
-            "Priced mid-pack for the island lane — under the $600K ceiling with room underneath it",
-            "Square footage, water position and rental history are NOT stated by the source and have NOT been guessed"
+            "3 bed / 2 bath detached, read Active on the island index",
+            "Priced mid-pack for the lane — under the $600K ceiling",
+            "Square footage, water position and rental history not stated — not guessed"
           ],
-          "fitNote": "🆕 **NEW TO THE BOARD THIS EVENING.** A detached three-bedroom on Dauphin Island at $549,900 — squarely inside the lane's shape and comfortably under the ceiling. ⚠️ **WHAT THE SOURCE DOES NOT SAY MATTERS HERE:** it states no square footage, no water position and no rental history, so none of those are claimed on this card. 🎯 If the number looks right to you, those three questions are the whole first call — and on this island the water position is the one that moves the rental math most.",
+          "fitNote": "🆕 New tonight. Detached 3BR on Dauphin Island at $549,900, inside the lane's shape. ⚠️ Source states no square footage, water position or rental history.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -796,10 +796,10 @@
           "waterPosition": "island interior — water position not stated by the source",
           "rentalHistory": null,
           "highlights": [
-            "3 bed / 2 bath, live on the Griffin Realty island index tonight at $549,000",
-            "Sits in the same $530–600K band as 107 Portier and 412 Bienville — directly comparable"
+            "3 bed / 2 bath, live on the island index at $549,000",
+            "Same $530–600K band as 107 Portier and 412 Bienville"
           ],
-          "fitNote": "NEW tonight — first time this address has appeared on the board. Fits the lane on price, bedroom count and detached-house type. ⚠️ Water position, square footage and rental history are NOT stated by the source, so none are claimed here. Worth a look-through before it is ranked against the water-first picks.",
+          "fitNote": "NEW tonight — first appearance. Fits on price, bedroom count and detached type. ⚠️ Water position, square footage and rental history are not stated, so none are claimed.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -819,11 +819,11 @@
           "waterPosition": "Island interior — boat shed on site, water access by trailer",
           "rentalHistory": null,
           "highlights": [
-            "2,100 sf — the largest floor plan in this price band on the island",
+            "2,100 sf — the largest floor plan in this price band",
             "20x36 boat shed",
             "3 bed / 2 bath"
           ],
-          "fitNote": "🆕 The best size-per-dollar on the island tonight: 2,100 sf at $534,900 is roughly $255/sf where most of the band runs higher for less house. The 20x36 boat shed is the differentiator for a rental — boat storage is the amenity guests on Dauphin Island actually ask for, and it is the kind of thing that photographs into a listing.",
+          "fitNote": "🆕 Best size-per-dollar tonight: 2,100 sf at ~$255/sf. The 20x36 boat shed is the differentiator — boat storage is what island guests actually ask for.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -874,7 +874,7 @@
             "Screened porch plus ground-level storage",
             "3 bed / 2 bath detached"
           ],
-          "fitNote": "A 2013 build is unusual on this island and it matters: newer framing and a newer roof are the two things that move a coastal insurance quote most. Turnkey and furnished means it can be used the weekend after closing with nothing bought. ⚠️ **Disclosed, because it was nearly left off:** public records show this address sold 2026-04-22 for $378,800, and one secondary source still reads it as not-for-sale. It was held off the board on 8/27 for exactly that reason. The broker's own index has now listed it live on two consecutive reads, and an April purchase relisted in August at a higher number is the ordinary shape of a renovate-and-resell — not a contradiction. Verify the current number with the listing broker before you act on it.",
+          "fitNote": "2013 build — newer framing and roof move a coastal insurance quote most; turnkey furnished. ⚠️ Sold 4/22/2026 at $378,800; confirm today's number with the broker.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -898,7 +898,7 @@
             "Double corner lot (0.34 ac), fully fenced",
             "Nearly 2,000 sf — sleeps a big group"
           ],
-          "fitNote": "Biggest livable square footage under $500K on the island; fresh mechanicals keep insurance and setup friction low. Cut $10,000 on 8/28 (was $489,000) — the second reduction this board has recorded on it.",
+          "fitNote": "Biggest livable square footage under $500K on the island; fresh mechanicals. Cut $10,000 on 8/28 (was $489,000) — the second reduction recorded here.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/property/7806215/",
           "photoUrl": "https://property-images.realgeeks.com/algulf/633a3420111b8fe46f5beff9c4ebba39.jpg",
@@ -922,7 +922,7 @@
             "4 bedrooms under $400K",
             "Backs up to Bird Sanctuary land — protected view, no build-behind risk"
           ],
-          "fitNote": "🆕 The only FOUR-bedroom on the island under $400,000 in tonight's pull. Bedroom count is the single biggest driver of nightly rate on a beach rental, so 4/2 at $399K is a different economic animal from the 3/2s sitting at the same number. Backing onto sanctuary land means the view behind it cannot be built out.",
+          "fitNote": "🆕 The only four-bedroom under $400,000 tonight. Bedroom count drives nightly rate, so 4/2 at $399K is a different animal from the 3/2s beside it.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -946,7 +946,7 @@
             "Bay views",
             "Under $400K"
           ],
-          "fitNote": "🆕 Three full baths on a three-bedroom is unusual at this price and it matters for a rental — bath count is what lets two families share a house without friction, and it is the quiet reason some beach houses out-book their neighbours. Bay views at $390,000.",
+          "fitNote": "🆕 Three full baths on a three-bedroom is unusual at $390,000 — bath count is what lets two families share without friction. Bay views.",
           "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -966,11 +966,11 @@
           "waterPosition": null,
           "rentalHistory": null,
           "highlights": [
-            "3 bed / 2 bath detached house, re-read Active on the Dauphin Island broker index 8/29",
-            "The lowest-priced 3-bedroom house on this lane — more than $200K of headroom under the $600K ceiling",
-            "Water position and square footage are NOT stated by the source and have NOT been guessed"
+            "3 bed / 2 bath detached, re-read Active on the index 8/29",
+            "Lowest-priced 3-bedroom here — $200K+ under the $600K ceiling",
+            "Water position and square footage not stated — not guessed"
           ],
-          "fitNote": "↩️ **BACK ON THE BOARD, NOT A DEBUT.** This house was first seen on this lane on 7/31, dropped off the broker index at some point since, and re-read Active this morning. The cheapest three-bedroom detached house on the board, and the one that leaves the most cash on the table for whatever you would want to do to it. ⚠️ **What the listing does not tell us matters here:** the source states no square footage, no water position and no rental history, so none of those are claimed. If the price looks right to you, those three questions are the first call. 🔍 At $384,000 on an island where the rest of this lane starts at $390,000 and runs to $600,000, the question is not whether it is cheap — it is what the $100K+ gap to the next tier is buying elsewhere.",
+          "fitNote": "↩️ Back on the board — first seen 7/31, dropped off, re-read Active today. Cheapest detached 3BR here. ⚠️ No square footage, water position or rental history stated.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -994,7 +994,7 @@
             "Read live and ACTIVE on the broker index this evening",
             "Verified price cut Aug 21: $399,000 → $374,900"
           ],
-          "fitNote": "♻️ **RESTORED — and the restoration is the point.** This row was removed on Aug 29 after failing to appear on two consecutive index pulls. Tonight the same broker index prints it ACTIVE at **$374,900**, 3 bed / 2 bath, renovated — so the disappearance was the page rotating, not the house selling. It also settles the price disagreement two sources had on Aug 28: the broker number, $374,900, is the right one. ⭐ On the merits it is one of the cheapest detached 3-bedroom houses on the island and it has already taken a $24,100 cut. ⚠️ No rental figures are shown because the listing publishes none — nothing has been assumed.",
+          "fitNote": "♻️ Restored — removed Aug 29 after two missed pulls, now prints Active at $374,900, renovated. One of the cheapest detached 3BRs here; already cut $24,100.",
           "strNote": null,
           "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
           "photoUrl": null,
@@ -1094,7 +1094,7 @@
           ]
         }
       ],
-      "note": "❌ **SINCE LAST SWEEP: 1425 W Lagoon Avenue came off this board, and it came off with proof.** It was Active at $599,000 last night. This morning it is absent from the Gulf Shores index (which also dropped its own count from 29 properties to 28) **and** its listing detail page returns HTTP 404. 🔍 **THE CONTROL TEST IS WHY THAT COUNTS:** the neighbouring listing at 1469 W Lagoon, on the identical host and URL pattern, still loads and still reads **Active at $589,900**. So the 404 is a pulled listing, not a broken source. Two independent receipts — the board's own removal rule is satisfied. ✅ **EVERYTHING ELSE RE-READ ACTIVE AT UNCHANGED PRICES THIS MORNING.** On Dauphin Island: 162 Orleans $549,000, 107 Portier $549,900, 412 Bienville $534,900, 1415 O'Hara $489,000, 1127 Chaumont $479,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000 and 601 Bienville $374,900. In Gulf Shores: 17330 State Hwy 180 $599,900 (flagged “Huge Price Drop” by the listing itself) and 1469 W Lagoon $589,900, whose page shows a reduction from $629,000 on Aug 18. ⭐ **NOT IN THIS MORNING'S SLICE AND DELIBERATELY KEPT:** 703 Hunley $492,000, 2242 Mallard $549,900 and 901 Lockenbie $595,000. Absence from a paginated page-1 view is a limit of the read, never a removal — that rule is exactly what 1425 W Lagoon just had to clear, and did. 🔍 **SEEN AND SKIPPED, so you can watch the filter work:** 917 Delchamps $999,730, 103 Quebec Ct $885,000, 511 Buchanan $800,000, 2320 Island Shores $799,900, 318 Pineda $799,000, 303 Conde $630,655, 1303 Chaumont $625,000 and 123 Bienville $615,000 are all over the $600K ceiling; 304 Bienville $449,000, 106 Ryan Ct $385,000, 753 Cadillac $325,000 and 125 Bienville $315,000 sit under the 3-bedroom floor. Condos and lots are excluded by rule. ⚠️ **DISCLOSED:** both beach sources return page 1 only — the island index runs to several pages and the Gulf Shores index now says 28 properties across 2. 📊 The lane carries 15 rows against a ~12 target, so no new inventory was added this morning; nothing live was cut to make a count look tidy."
+      "note": "❌ **1425 W Lagoon pulled** — its page 404s while neighbour 1469 still loads. ✅ Eleven homes re-read Active, unchanged; three not in today's slice, kept."
     }
   ]
 }
