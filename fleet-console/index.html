@@ -4,92 +4,295 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#101C33">
 <title>Darden Fleet Console</title>
 <link rel="manifest" href="manifest.json">
 <style>
-  :root { --navy:#1B2A4A; --navy2:#22345C; --gold:#D8973C; --cream:#F8F4ED; --ink:#2b2b2b; --ok:#3d9a5f; --hot:#c0392b; --warm:#d68910; }
+  :root {
+    --scale: 1.125;
+    --navy:#101C33;          /* page background - darkened for contrast */
+    --card:#1B2A4A;          /* card background */
+    --card2:#22345C;         /* inner tiles */
+    --line:rgba(255,255,255,.14);
+    --gold:#F0B450;          /* brightened gold - readable on navy */
+    --gold-deep:#D8973C;
+    --cream:#FBF7F0;         /* primary text */
+    --muted:#C6D2E8;         /* secondary text - still ~8:1 on navy */
+    --ok:#1F7A45; --hot:#B3271A; --warm:#8A5A00;
+    --ok-ink:#6FE0A0; --hot-ink:#FF8878; --warm-ink:#FFC65C;
+  }
+  html { font-size: calc(16px * var(--scale)); -webkit-text-size-adjust:100%; }
   * { margin:0; padding:0; box-sizing:border-box; }
-  body { font-family:-apple-system, "Segoe UI", Arial, sans-serif; background:var(--navy); color:var(--cream); padding-bottom:40px; }
-  header { padding:22px 18px 14px; }
-  header h1 { font-size:20px; letter-spacing:.06em; }
-  header h1 span { color:var(--gold); }
-  .updated { font-size:11px; opacity:.65; margin-top:3px; }
-  .headline { background:var(--gold); color:var(--navy); font-weight:700; font-size:14px; padding:10px 18px; }
-  section { margin:14px 12px 0; background:var(--navy2); border-radius:14px; overflow:hidden; }
-  .sec-h { display:flex; justify-content:space-between; align-items:center; padding:12px 14px 8px; font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--gold); font-weight:700; }
-  .badge { font-size:11px; padding:2px 10px; border-radius:20px; font-weight:700; letter-spacing:.02em; text-transform:none; }
-  .b-ok { background:var(--ok); color:#fff; } .b-alert { background:var(--hot); color:#fff; }
-  ul.plain { list-style:none; padding:0 14px 12px; }
-  ul.plain li { font-size:13px; padding:5px 0; opacity:.9; border-top:1px solid rgba(255,255,255,.06); }
-  ul.plain li:first-child { border-top:none; }
-  .row { display:flex; gap:10px; padding:9px 14px; border-top:1px solid rgba(255,255,255,.07); align-items:baseline; }
+  body {
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background:var(--navy); color:var(--cream);
+    font-size:1rem; line-height:1.6; font-weight:450;
+    padding:0 0 3rem; -webkit-font-smoothing:antialiased;
+  }
+  .wrap { max-width:760px; margin:0 auto; }
+  b, strong { font-weight:800; color:#FFFFFF; }
+  em { font-style:normal; font-weight:700; color:var(--gold); }
+
+  /* ---------- header ---------- */
+  header {
+    padding: calc(1.15rem + env(safe-area-inset-top)) 1rem 1rem;
+    display:flex; flex-wrap:wrap; align-items:flex-end; gap:.6rem;
+  }
+  header .brand { flex:1 1 auto; min-width:12rem; }
+  header h1 { font-size:1.5rem; line-height:1.25; font-weight:800; letter-spacing:.02em; }
+  header h1 span { color:var(--gold); display:block; }
+  .updated { font-size:.9rem; color:var(--muted); margin-top:.35rem; font-weight:600; }
+  .sizer { display:flex; gap:.3rem; flex:none; }
+  .sizer button {
+    font-family:inherit; background:transparent; color:var(--muted);
+    border:2px solid var(--line); border-radius:.7rem;
+    min-width:2.9rem; min-height:2.9rem; padding:0 .5rem;
+    font-weight:800; cursor:pointer; line-height:1;
+  }
+  .sizer button:nth-child(1){ font-size:.85rem; }
+  .sizer button:nth-child(2){ font-size:1.05rem; }
+  .sizer button:nth-child(3){ font-size:1.3rem; }
+  .sizer button[aria-pressed="true"] { background:var(--gold); color:#14213D; border-color:var(--gold); }
+
+  /* ---------- cards ---------- */
+  section {
+    margin:1.15rem .75rem 0; background:var(--card);
+    border-radius:1.1rem; overflow:hidden;
+    box-shadow:0 2px 10px rgba(0,0,0,.28);
+  }
+  .sec-h {
+    display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:.5rem;
+    padding:1rem 1.05rem .75rem;
+    font-size:.95rem; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--gold); font-weight:800;
+  }
+  .badge {
+    font-size:.82rem; padding:.4rem .8rem; border-radius:2rem; font-weight:800;
+    letter-spacing:.04em; text-transform:none; white-space:nowrap; color:#fff;
+  }
+  .b-ok { background:var(--ok); } .b-alert { background:var(--hot); }
+
+  /* ---------- controls (DO / DECIDE / WATCH) ---------- */
+  .controls { border:2px solid var(--gold); }
+  .ctrl { display:flex; gap:.8rem; padding:.95rem 1.05rem; border-top:1px solid var(--line); align-items:flex-start; }
+  .ctrl:first-of-type { border-top:none; }
+  .ctrl .k {
+    flex:none; width:5.4rem; font-size:.85rem; font-weight:800;
+    letter-spacing:.09em; text-transform:uppercase; padding-top:.2rem;
+  }
+  .ctrl.do .k { color:var(--ok-ink); }
+  .ctrl.decide .k { color:var(--gold); }
+  .ctrl.watch .k { color:var(--hot-ink); }
+  .ctrl .v { font-size:1.08rem; line-height:1.45; font-weight:650; }
+
+  /* ---------- headline ---------- */
+  .headline {
+    margin:1rem .75rem 0; background:var(--card);
+    border-left:.45rem solid var(--gold); border-radius:.9rem;
+    padding:1.05rem 1.1rem; font-size:1.06rem; line-height:1.62;
+  }
+
+  /* ---------- generic lists ---------- */
+  ul.plain { list-style:none; padding:0 1.05rem 1.05rem; }
+  ul.plain li {
+    font-size:1.02rem; line-height:1.6; padding:.9rem 0;
+    border-top:1px solid var(--line); color:var(--cream);
+  }
+  ul.plain li:first-child { border-top:none; padding-top:.2rem; }
+
+  /* ---------- call block ---------- */
+  .row { padding:.95rem 1.05rem; border-top:1px solid var(--line); border-left:.4rem solid transparent; }
   .row:first-of-type { border-top:none; }
-  .dot { width:9px; height:9px; border-radius:50%; flex:none; position:relative; top:0px; }
-  .hot .dot{ background:var(--hot);} .warm .dot{ background:var(--warm);} .cool .dot{ background:#7f8c8d;}
-  .row .who { font-weight:700; font-size:14px; flex:none; }
-  .row .why { font-size:12.5px; opacity:.75; }
-  .stats { display:flex; text-align:center; padding:6px 8px 16px; }
-  .stat { flex:1; }
-  .stat .n { font-size:30px; font-weight:800; color:var(--gold); }
-  .stat .l { font-size:10px; letter-spacing:.08em; text-transform:uppercase; opacity:.7; margin-top:2px; }
-  .bar-wrap { margin:0 16px 16px; background:rgba(255,255,255,.12); height:10px; border-radius:6px; overflow:hidden; }
-  .bar { height:100%; background:linear-gradient(90deg, var(--gold), #f0b96a); border-radius:6px; }
-  .listing { padding:9px 14px; border-top:1px solid rgba(255,255,255,.07); }
+  .row.hot  { border-left-color:var(--hot-ink); }
+  .row.warm { border-left-color:var(--warm-ink); }
+  .row.cool { border-left-color:#8494AE; }
+  .who { display:flex; align-items:center; gap:.55rem; font-weight:800; font-size:1.2rem; line-height:1.3; }
+  .dot { width:.75rem; height:.75rem; border-radius:50%; flex:none; }
+  .hot .dot{ background:var(--hot-ink);} .warm .dot{ background:var(--warm-ink);} .cool .dot{ background:#8494AE;}
+  .heat-tag { font-size:.75rem; font-weight:800; letter-spacing:.08em; padding:.15rem .5rem; border-radius:.4rem; }
+  .hot .heat-tag { background:var(--hot); color:#fff; }
+  .warm .heat-tag { background:var(--warm); color:#fff; }
+  .cool .heat-tag { display:none; }
+  .why { font-size:1rem; line-height:1.6; color:var(--muted); margin-top:.35rem; }
+
+  /* ---------- listings ---------- */
+  .listing { padding:1rem 1.05rem; border-top:1px solid var(--line); }
   .listing:first-of-type{ border-top:none; }
-  .l-top { display:flex; justify-content:space-between; font-size:13.5px; font-weight:700; }
-  .l-status { font-size:11px; color:var(--gold); }
-  .l-note { font-size:12px; opacity:.72; margin-top:2px; }
-  footer { text-align:center; font-size:10px; opacity:.45; margin-top:26px; }
-  .err { padding:30px; text-align:center; opacity:.8; }
+  .l-addr { font-size:1.2rem; font-weight:800; line-height:1.3; }
+  .l-client { font-size:.95rem; color:var(--muted); font-weight:700; margin-top:.15rem; }
+  .l-status { font-size:1rem; color:var(--gold); font-weight:700; margin-top:.4rem; line-height:1.45; }
+  .l-note { font-size:1rem; color:var(--muted); margin-top:.45rem; line-height:1.6; }
+
+  /* ---------- stats ---------- */
+  .stats { display:flex; gap:.5rem; padding:.25rem .9rem 1rem; text-align:center; }
+  .stat { flex:1 1 0; background:var(--card2); border-radius:.8rem; padding:.7rem .3rem .6rem; min-width:0; }
+  .stat .n { font-size:2.4rem; line-height:1.1; font-weight:800; color:var(--gold); }
+  .stat .l { font-size:.8rem; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); font-weight:700; margin-top:.3rem; }
+  .bar-wrap { margin:0 1.05rem .5rem; background:rgba(255,255,255,.16); height:1.1rem; border-radius:.6rem; overflow:hidden; }
+  .bar { height:100%; background:linear-gradient(90deg, var(--gold-deep), var(--gold)); border-radius:.6rem; }
+  .bar-lbl { padding:0 1.05rem 1rem; font-size:.95rem; font-weight:700; color:var(--muted); }
+  .pace { padding:0 1.05rem 1.1rem; font-size:1rem; line-height:1.6; color:var(--cream); }
+
+  /* ---------- scoreboard grid ---------- */
+  .sb { display:grid; grid-template-columns:repeat(3, 1fr); gap:.5rem; padding:.25rem .9rem 1rem; }
+  .sb div { background:var(--card2); border-radius:.8rem; padding:.65rem .3rem; text-align:center; }
+  .sb .n { font-size:1.6rem; font-weight:800; color:var(--gold); line-height:1.15; }
+  .sb .l { font-size:.75rem; letter-spacing:.05em; text-transform:uppercase; color:var(--muted); font-weight:700; margin-top:.2rem; }
+  .sb-top { padding:0 1.05rem 1rem; font-size:.95rem; color:var(--muted); font-weight:700; }
+
+  /* ---------- expandable long text ---------- */
+  .clamp { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:var(--lines,6); overflow:hidden; }
+  .clamp.open { display:block; -webkit-line-clamp:unset; }
+  button.more {
+    font-family:inherit; display:inline-block; margin-top:.5rem;
+    min-height:2.9rem; padding:.6rem 1.2rem;
+    background:rgba(255,255,255,.09); color:var(--gold);
+    border:1px solid var(--line); border-radius:.7rem;
+    font-size:.95rem; font-weight:800; letter-spacing:.04em; cursor:pointer;
+  }
+  button.more:active { background:rgba(255,255,255,.18); }
+
+  footer { text-align:center; font-size:.85rem; color:var(--muted); margin-top:2rem; padding:0 1rem; line-height:1.6; }
+  .err { padding:2rem 1.2rem; text-align:center; font-size:1.05rem; color:var(--cream); }
 </style>
 </head>
 <body>
+<div class="wrap">
 <header>
-  <h1>🏁 DARDEN <span>FLEET CONSOLE</span></h1>
-  <div class="updated" id="updated">loading…</div>
+  <div class="brand">
+    <h1>🏁 DARDEN <span>FLEET CONSOLE</span></h1>
+    <div class="updated" id="updated">loading…</div>
+  </div>
+  <div class="sizer" id="sizer" role="group" aria-label="Text size">
+    <button type="button" data-s="1.0" aria-pressed="false">A</button>
+    <button type="button" data-s="1.125" aria-pressed="true">A</button>
+    <button type="button" data-s="1.3" aria-pressed="false">A</button>
+  </div>
 </header>
-<div class="headline" id="headline"></div>
 <div id="app"><div class="err">Loading fleet data…</div></div>
 <footer>The Darden Group OS · decision support · full detail lives in Todoist/Gmail</footer>
+</div>
 <script>
+/* ---- text size control (presentation only, remembered on this phone) ---- */
+(function(){
+  var btns = document.querySelectorAll('#sizer button');
+  function apply(v, save){
+    document.documentElement.style.setProperty('--scale', v);
+    btns.forEach(function(b){ b.setAttribute('aria-pressed', b.dataset.s === String(v) ? 'true' : 'false'); });
+    if (save) { try { localStorage.setItem('fleetScale', v); } catch(e){} }
+  }
+  btns.forEach(function(b){ b.addEventListener('click', function(){ apply(b.dataset.s, true); }); });
+  try { var saved = localStorage.getItem('fleetScale'); if (saved) apply(saved, false); } catch(e){}
+})();
+
+/* ---- tiny inline-markdown renderer: **bold** and *emphasis* ---- */
+function esc(s){
+  return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function md(s){
+  return esc(s)
+    .replace(/\*\*([\s\S]+?)\*\*/g, '<b>$1</b>')
+    .replace(/\*([^*\n]+?)\*/g, '<em>$1</em>');
+}
+function clamp(html, lines){
+  return '<div class="clamp" style="--lines:' + lines + '">' + html + '</div>';
+}
+
 fetch('fleet-data.json?t=' + Date.now()).then(r => r.json()).then(d => {
   document.getElementById('updated').textContent = 'Updated ' + d.updated;
-  document.getElementById('headline').textContent = d.headline || '';
+
   const hb = d.heartbeat || {};
   const hbBadge = hb.status === 'ok' ? '<span class="badge b-ok">ALL SYSTEMS GO</span>' : '<span class="badge b-alert">NEEDS EYES</span>';
   const money = d.money || {};
   const moneyBadge = money.status === 'clear' ? '<span class="badge b-ok">CLEAR</span>' : '<span class="badge b-alert">ALERT</span>';
-  const pct = d.pipeline ? Math.min(100, Math.round(d.pipeline.closedYTD / d.pipeline.goal * 100)) : 0;
+  const p = d.pipeline || {};
+  const pct = p.goal ? Math.min(100, Math.round(p.closedYTD / p.goal * 100)) : 0;
+  const c = d.controls;
+  const sb = d.scoreboard;
+
+  const controlsBlock = !c ? '' : `
+    <section class="controls">
+      <div class="sec-h">⚡ Right Now${c.draftsWaiting != null ? `<span class="badge b-ok">${esc(c.draftsWaiting)} DRAFTS WAITING</span>` : ''}</div>
+      ${c.do     ? `<div class="ctrl do"><div class="k">Do</div><div class="v">${md(c.do)}</div></div>` : ''}
+      ${c.decide ? `<div class="ctrl decide"><div class="k">Decide</div><div class="v">${md(c.decide)}</div></div>` : ''}
+      ${c.watch  ? `<div class="ctrl watch"><div class="k">Watch</div><div class="v">${md(c.watch)}</div></div>` : ''}
+    </section>`;
+
+  const headlineBlock = d.headline ? `<div class="headline">${clamp(md(d.headline), 8)}</div>` : '';
+
+  const scoreBlock = !sb ? '' : `
+    <section>
+      <div class="sec-h">🏆 Last 30 Days</div>
+      <div class="sb">
+        <div><div class="n">${esc(sb.touches30d)}</div><div class="l">Touches</div></div>
+        <div><div class="n">${esc(sb.replies30d)}</div><div class="l">Replies</div></div>
+        <div><div class="n">${esc(sb.appts30d)}</div><div class="l">Appts</div></div>
+        <div><div class="n">${esc(sb.contracts30d)}</div><div class="l">Contracts</div></div>
+        <div><div class="n">${esc(sb.closed30d)}</div><div class="l">Closed</div></div>
+        <div><div class="n">${esc(sb.gci30d)}</div><div class="l">GCI</div></div>
+      </div>
+      ${sb.topRoutine ? `<div class="sb-top">Top routine · ${esc(sb.topRoutine)}</div>` : ''}
+    </section>`;
+
   document.getElementById('app').innerHTML = `
+    ${controlsBlock}
+    ${headlineBlock}
     <section>
       <div class="sec-h">⚙️ Fleet Heartbeat ${hbBadge}</div>
-      <ul class="plain">${(hb.notes||[]).map(n=>`<li>${n}</li>`).join('')}</ul>
-    </section>
-    <section>
-      <div class="sec-h">📞 Today's Call Block</div>
-      ${(d.callBlock||[]).map(c=>`<div class="row ${c.heat||'cool'}"><span class="dot"></span><span class="who">${c.who}</span><span class="why">${c.why}</span></div>`).join('')}
-    </section>
-    <section>
-      <div class="sec-h">🏠 Listings</div>
-      ${(d.listings||[]).map(l=>`<div class="listing"><div class="l-top"><span>${l.addr}</span><span class="l-status">${l.status}</span></div><div class="l-note">${l.client} · ${l.note}</div></div>`).join('')}
-    </section>
-    <section>
-      <div class="sec-h">📊 Pipeline · Goal ${d.pipeline.goal} (team ${d.pipeline.teamGoal})</div>
-      <div class="stats">
-        <div class="stat"><div class="n">${d.pipeline.closedYTD}</div><div class="l">Closed YTD</div></div>
-        <div class="stat"><div class="n">${d.pipeline.paceProjection}</div><div class="l">Pace Projects</div></div>
-        <div class="stat"><div class="n">${d.isa.openCallTasks}</div><div class="l">Open Calls</div></div>
-      </div>
-      <div class="bar-wrap"><div class="bar" style="width:${pct}%"></div></div>
+      <ul class="plain">${(hb.notes||[]).map(n=>`<li>${clamp(md(n), 6)}</li>`).join('')}</ul>
     </section>
     <section>
       <div class="sec-h">💰 Money ${moneyBadge}</div>
-      <ul class="plain"><li>${money.note||''}</li></ul>
+      <ul class="plain"><li>${clamp(md(money.note||''), 6)}</li></ul>
     </section>
     <section>
+      <div class="sec-h">📞 Today's Call Block</div>
+      ${(d.callBlock||[]).map(c=>`
+        <div class="row ${c.heat||'cool'}">
+          <div class="who"><span class="dot"></span><span>${esc(c.who)}</span><span class="heat-tag">${(c.heat||'').toUpperCase()}</span></div>
+          <div class="why">${clamp(md(c.why), 5)}</div>
+        </div>`).join('')}
+    </section>
+    <section>
+      <div class="sec-h">🏠 Listings</div>
+      ${(d.listings||[]).map(l=>`
+        <div class="listing">
+          <div class="l-addr">${esc(l.addr)}</div>
+          <div class="l-client">${esc(l.client)}</div>
+          <div class="l-status">${clamp(md(l.status), 3)}</div>
+          <div class="l-note">${clamp(md(l.note), 5)}</div>
+        </div>`).join('')}
+    </section>
+    <section>
+      <div class="sec-h">📊 Pipeline</div>
+      <div class="stats">
+        <div class="stat"><div class="n">${esc(p.closedYTD)}</div><div class="l">Closed YTD</div></div>
+        <div class="stat"><div class="n">${esc(p.goal)}</div><div class="l">My Goal</div></div>
+        <div class="stat"><div class="n">${esc((d.isa||{}).openCallTasks)}</div><div class="l">Open Calls</div></div>
+      </div>
+      <div class="bar-wrap"><div class="bar" style="width:${pct}%"></div></div>
+      <div class="bar-lbl">${pct}% of ${esc(p.goal)} · team goal ${esc(p.teamGoal)}</div>
+      ${p.paceProjection ? `<div class="pace">${clamp(md(p.paceProjection), 5)}</div>` : ''}
+    </section>
+    ${scoreBlock}
+    <section>
       <div class="sec-h">🔧 Next Builds</div>
-      <ul class="plain">${(d.builds||[]).map(b=>`<li>${b}</li>`).join('')}</ul>
+      <ul class="plain">${(d.builds||[]).map(b=>`<li>${md(b)}</li>`).join('')}</ul>
     </section>`;
+
+  /* add a big "More" button to anything actually being cut off */
+  document.querySelectorAll('.clamp').forEach(function(el){
+    if (el.scrollHeight - el.clientHeight < 20) return;   /* under a line hidden - don't add a button */
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'more';
+    btn.textContent = 'Read more ▾';
+    btn.addEventListener('click', function(){
+      var open = el.classList.toggle('open');
+      btn.textContent = open ? 'Show less ▴' : 'Read more ▾';
+    });
+    el.parentNode.insertBefore(btn, el.nextSibling);
+  });
 }).catch(() => {
   document.getElementById('app').innerHTML = '<div class="err">Could not load fleet-data.json — check the last refresh run.</div>';
 });
