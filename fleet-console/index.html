@@ -131,6 +131,9 @@
   .bar-wrap { margin:0 1.05rem .5rem; background:rgba(255,255,255,.16); height:1.1rem; border-radius:.6rem; overflow:hidden; }
   .bar { height:100%; background:linear-gradient(90deg, var(--gold-deep), var(--gold)); border-radius:.6rem; }
   .bar-lbl { padding:0 1.05rem 1rem; font-size:.95rem; font-weight:700; color:var(--muted); }
+  .lane { margin:0 .9rem .9rem; padding:.6rem .8rem; background:var(--card2); border-radius:.7rem;
+          font-size:.92rem; line-height:1.5; color:var(--muted); font-weight:600; }
+  .lane b { color:var(--cream); font-weight:800; }
   .pace { padding:0 1.05rem 1.1rem; font-size:1rem; line-height:1.6; color:var(--cream); }
 
   /* ---------- scoreboard grid ---------- */
@@ -209,6 +212,9 @@ fetch('fleet-data.json?t=' + Date.now()).then(r => r.json()).then(d => {
   const pct = p.goal ? Math.min(100, Math.round(p.closedYTD / p.goal * 100)) : 0;
   const c = d.controls;
   const sb = d.scoreboard;
+  const isa = d.isa || {};
+  /* call-lane caption: how the Open Calls number is moving, and how fresh it is */
+  const lane = [isa.decayPolicy, isa.sweepCadence].filter(Boolean).join(' · ');
 
   const controlsBlock = !c ? '' : `
     <section class="controls">
@@ -268,8 +274,9 @@ fetch('fleet-data.json?t=' + Date.now()).then(r => r.json()).then(d => {
       <div class="stats">
         <div class="stat"><div class="n">${esc(p.closedYTD)}</div><div class="l">Closed YTD</div></div>
         <div class="stat"><div class="n">${esc(p.goal)}</div><div class="l">My Goal</div></div>
-        <div class="stat"><div class="n">${esc((d.isa||{}).openCallTasks)}</div><div class="l">Open Calls</div></div>
+        <div class="stat"><div class="n">${esc(isa.openCallTasks)}</div><div class="l">Open Calls</div></div>
       </div>
+      ${lane ? `<div class="lane">📞 <b>Call lane</b> · ${clamp(md(lane), 2)}</div>` : ''}
       <div class="bar-wrap"><div class="bar" style="width:${pct}%"></div></div>
       <div class="bar-lbl">${pct}% of ${esc(p.goal)} · team goal ${esc(p.teamGoal)}</div>
       ${p.paceProjection ? `<div class="pace">${clamp(md(p.paceProjection), 5)}</div>` : ''}

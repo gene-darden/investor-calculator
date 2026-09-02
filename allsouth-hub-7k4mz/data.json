@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 1, 2026 · 5:40 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "🏖️ **A HOUSE THIS BOARD REMOVED THREE DAYS AGO IS BACK — AND IT SHOULD NEVER HAVE LEFT.** 601 Bienville Blvd was dropped on Aug 29 for failing to appear on two consecutive index pulls. Tonight the same index prints it **ACTIVE at $374,900**, a renovated 3-bed/2-bath — which means the removal was a reading error, not a sale. ⭐ **IT IS RESTORED, AND THE RULE THAT WOULD HAVE SAVED IT IS NOW ENFORCED EVERYWHERE ON THIS BOARD:** a missing row on a paginated page is a limit of the read, never a removal — nothing comes off without its own listing page saying so. 🔍 Tonight's island read was the fullest yet, 29 homes, and every other carried row came back Active at an unchanged price. 🏖️ Gulf Shores re-stamped its own feed at 5:11 PM today — the freshest data on this board — and all three homes there held. ⚠️ The two commercial lanes remain frozen at their Jul 29 snapshot; the next retry is Friday morning.",
+  "updated": "Sep 2, 2026 · 7:50 AM CT",
+  "nextSweep": "this evening",
+  "headline": "🏖️ **1425 W LAGOON IS OFF THE BOARD — AND IT CAME OFF ON A RECEIPT, NOT A GUESS.** It vanished from the Gulf Shores index this morning AND its own listing page now returns 404, while the identical page for its neighbour at 1469 still loads Active at $589,900. Two independent reads, so it is gone rather than merely unseen. ✅ **EVERY OTHER BEACH ROW HELD** — nine Dauphin Island homes and the two remaining Gulf Shores homes all re-read Active at unchanged prices this morning.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Fri Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — the next eligible attempt is the **morning of Fri Sep 4**. 📌 **TREAT EVERY PRICE AND STATUS BELOW AS A JULY 29 SNAPSHOT.** Anything here may have moved, sold or been withdrawn since, and this board cannot see it. New-inventory hunting on these two lanes is paused for the same reason. The freeze is disclosed here rather than papered over — stale data labelled stale beats stale data presented as fresh."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — that is the rule working, not the sweep failing. 📅 **NEXT RETRY: the morning of Fri Sep 4.** 🔴 **TREAT EVERY PRICE AND EVERY STATUS IN THIS LANE AS A JUL 29 SNAPSHOT.** A property here may have sold, gone under contract, or changed price since, and this board would not know. Confirm anything you are serious about directly with the listing broker before you act on it. ⏸️ Hunting for NEW inventory in this lane is paused for the same reason — the sources that would answer are the sources that are refusing."
+      "note": "⚠️ **COMMERCIAL LISTINGS LAST VERIFIED JUL 29 — SOURCE BLOCKED, DATA FROZEN.** Both commercial listing sites these properties live on have refused us on nine consecutive attempts. The one retry allowed per seven-day cycle was spent on Aug 28 and was refused again, so **no retry was attempted this run** — the next eligible attempt is the **morning of Fri Sep 4**. 📌 **TREAT EVERY PRICE AND STATUS BELOW AS A JULY 29 SNAPSHOT.** Anything here may have moved, sold or been withdrawn since, and this board cannot see it. New-inventory hunting on these two lanes is paused for the same reason. The freeze is disclosed here rather than papered over — stale data labelled stale beats stale data presented as fresh."
     },
     {
       "id": "beach",
@@ -684,31 +684,6 @@
           "url": "https://www.condoinvestment.com/gulf-shores-al-homes-for-sale/500000-600000/",
           "photoUrl": "",
           "broker": "Sourced via CondoInvestment MLS feed (Gulf Shores homes $500–600K), verified Jul 30, 2026",
-          "badge": null
-        },
-        {
-          "id": "1425-w-lagoon-ave",
-          "address": "1425 W Lagoon Avenue",
-          "city": "Gulf Shores (Carl T Martin / Old Gulf Shores)",
-          "dealType": "",
-          "price": 599000,
-          "leaseRate": "",
-          "sf": 1157,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Detached single-family — raised beach house",
-          "waterPosition": "W Lagoon Ave, Old Gulf Shores — listing describes beach proximity; water frontage or view is NOT stated",
-          "rentalHistory": "",
-          "highlights": [
-            "Classic raised beach house in Old Gulf Shores — elevated construction, which matters for insurance on the coast",
-            "3BR / 2BA, 1,157 sf",
-            "Detached house, not a condo — meets the hard rule on this lane"
-          ],
-          "fitNote": "🆕 NEW THIS MORNING. It clears every hard gate — detached, 3BR, under the ceiling, in the corridor — and the raised-beach-house build is the right shape for the coast. ⚠️ Ranked below its neighbour at 1469: it is $9,100 dearer for 361 fewer square feet and one fewer bathroom, and it is not furnished. Carried because Old Gulf Shores is a genuinely different rental audience, not because the numbers beat the other one.",
-          "strNote": "⚠️ STR eligibility NOT stated on the listing — parcel-level check required. No rental income figure is stated, so none is projected.",
-          "url": "https://www.condoinvestment.com/listing/396635-carl-t-martin-residential-1425-w-lagoon-avenue-gulf-shores-al-36542/",
-          "photoUrl": "",
-          "broker": "",
           "badge": null
         },
         {
@@ -1119,7 +1094,7 @@
           ]
         }
       ],
-      "note": "♻️ **THE BIG NEWS TONIGHT IS A CORRECTION, NOT A NEW LISTING.** 601 Bienville Blvd is **BACK ON THIS BOARD**. It was removed on Aug 29 after two consecutive index pulls failed to show it — and tonight that same index prints it **ACTIVE at $374,900**, a renovated 3-bed/2-bath. 🔴 **THE HOUSE NEVER WENT ANYWHERE; THE READ DID.** That also resolves the Aug 28 price dispute in favour of the broker's number. ⭐ **THE RULE IS NOW ABSOLUTE HERE:** a row missing from a paginated page-1 view is a limit of the read, never a removal. Nothing comes off this board unless its own listing page says pending, sold or withdrawn — which is exactly how 208 Isabella came off last night, on a receipt. ✅ **EVERYTHING ELSE HELD.** Tonight's island read was the fullest this lane has ever pulled — 29 homes — and every carried row that appeared came back Active at an unchanged price: 162 Orleans $549,000, 107 Portier $549,900, 412 Bienville $534,900, 703 Hunley $492,000, 1415 O'Hara $489,000, 1127 Chaumont $479,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000. 2242 Mallard and 901 Lockenbie did not appear in tonight's slice and were **kept**, under the rule above. 🏖️ **GULF SHORES IS THE FRESHEST DATA ON THIS BOARD** — the source re-stamped its own feed **“last updated September 1st, 5:11 PM”** while this sweep was running, and all three carried homes came back Active at unchanged prices: 17330 State Hwy 180 $599,900, 1425 W Lagoon $599,000, 1469 W Lagoon $589,900. No pending flags, no cuts. 🔍 **SEEN TONIGHT AND DELIBERATELY SKIPPED, so you can see the filter working rather than the board being thin:** on the island — 917 Delchamps $999,730, 103 Quebec Ct $885,000, 511 Buchanan $800,000, 2320 Island Shores $799,900, 318 Pineda $799,000, 1303 Chaumont $625,000 and 123 Bienville $615,000 all sit above your $600K ceiling; 304 Bienville $449,000, 106 Ryan Ct $385,000 and 125 Bienville $315,000 are two-bedroom, under your 3-bedroom floor. Condos and lots are excluded by rule. ⚠️ **DISCLOSED, NOT PAPERED OVER:** both beach sources return page 1 only — the island index runs to 4 pages, the Gulf Shores index now says 29 properties across 2 (it said 30 last night). This lane sees a rotating slice of each, and 601 Bienville is what that costs when the rule is not applied. 📊 The lane carries 16 rows against a ~12 target. Nothing was cut to hit the number — every row here is a verified Active fit, and dropping live inventory to make a count look tidy would be the wrong trade."
+      "note": "❌ **SINCE LAST SWEEP: 1425 W Lagoon Avenue came off this board, and it came off with proof.** It was Active at $599,000 last night. This morning it is absent from the Gulf Shores index (which also dropped its own count from 29 properties to 28) **and** its listing detail page returns HTTP 404. 🔍 **THE CONTROL TEST IS WHY THAT COUNTS:** the neighbouring listing at 1469 W Lagoon, on the identical host and URL pattern, still loads and still reads **Active at $589,900**. So the 404 is a pulled listing, not a broken source. Two independent receipts — the board's own removal rule is satisfied. ✅ **EVERYTHING ELSE RE-READ ACTIVE AT UNCHANGED PRICES THIS MORNING.** On Dauphin Island: 162 Orleans $549,000, 107 Portier $549,900, 412 Bienville $534,900, 1415 O'Hara $489,000, 1127 Chaumont $479,000, 122 Hernando $399,000, 230 Chenault $390,000, 1003 Monberaut $384,000 and 601 Bienville $374,900. In Gulf Shores: 17330 State Hwy 180 $599,900 (flagged “Huge Price Drop” by the listing itself) and 1469 W Lagoon $589,900, whose page shows a reduction from $629,000 on Aug 18. ⭐ **NOT IN THIS MORNING'S SLICE AND DELIBERATELY KEPT:** 703 Hunley $492,000, 2242 Mallard $549,900 and 901 Lockenbie $595,000. Absence from a paginated page-1 view is a limit of the read, never a removal — that rule is exactly what 1425 W Lagoon just had to clear, and did. 🔍 **SEEN AND SKIPPED, so you can watch the filter work:** 917 Delchamps $999,730, 103 Quebec Ct $885,000, 511 Buchanan $800,000, 2320 Island Shores $799,900, 318 Pineda $799,000, 303 Conde $630,655, 1303 Chaumont $625,000 and 123 Bienville $615,000 are all over the $600K ceiling; 304 Bienville $449,000, 106 Ryan Ct $385,000, 753 Cadillac $325,000 and 125 Bienville $315,000 sit under the 3-bedroom floor. Condos and lots are excluded by rule. ⚠️ **DISCLOSED:** both beach sources return page 1 only — the island index runs to several pages and the Gulf Shores index now says 28 properties across 2. 📊 The lane carries 15 rows against a ~12 target, so no new inventory was added this morning; nothing live was cut to make a count look tidy."
     }
   ]
 }
