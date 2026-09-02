@@ -276,7 +276,7 @@ fetch('fleet-data.json?t=' + Date.now()).then(r => r.json()).then(d => {
         <div class="stat"><div class="n">${esc(p.goal)}</div><div class="l">My Goal</div></div>
         <div class="stat"><div class="n">${esc(isa.openCallTasks)}</div><div class="l">Open Calls</div></div>
       </div>
-      ${lane ? `<div class="lane">📞 <b>Call lane</b> · ${clamp(md(lane), 2)}</div>` : ''}
+      ${lane ? `<div class="lane">📞 <b>Call lane</b> · ${clamp(md(lane), 3)}</div>` : ''}
       <div class="bar-wrap"><div class="bar" style="width:${pct}%"></div></div>
       <div class="bar-lbl">${pct}% of ${esc(p.goal)} · team goal ${esc(p.teamGoal)}</div>
       ${p.paceProjection ? `<div class="pace">${clamp(md(p.paceProjection), 5)}</div>` : ''}
