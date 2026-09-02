@@ -1,34 +1,29 @@
 {
-  "updated": "2026-09-02 7:50 AM CT",
-  "headline": "🔥 Kathleen L. wrote **“Yes, I would be interested”** on 372 Chelsea Farms at $575K — and that reply has now sat 24 hours unanswered.",
+  "updated": "2026-09-02 12:45 PM CT",
+  "headline": "🖊️ Clint K. signed all six listing docs on 115 Indian Woman Road at 10:57 AM — your first 30A listing.",
   "heartbeat": {
-    "status": "alert",
+    "status": "ok",
     "notes": [
-      "✅ Nine routines ran clean 5:35–7:35 AM — no dark window today after yesterday's nine-hour gap.",
-      "🔌 Brivity deep-sweep BLOCKED yesterday 5:06 PM — Chrome extension unpaired, six of seven parts unreachable.",
-      "🐛 WARM-15 prune deleted all 13 manifests this morning — 9/1 and 9/2 rebuilt, fix shipped."
+      "✅ Fifteen routines have run clean since 5:35 AM — no dark window, no BLOCKED line today.",
+      "📵 Text relay **proven dead** — your 11:56 AM text never left the phone, 136 hours silent.",
+      "🔑 ShowingTime emailed an account verification code at 11:11 AM — nothing on the fleet requested it."
     ]
   },
   "callBlock": [
     {
       "who": "Lawrence C.",
       "heat": "hot",
-      "why": "Ran his own lake-property value again Monday 5:07 AM — and says your estimate reads too low."
-    },
-    {
-      "who": "Carlos B.",
-      "heat": "hot",
-      "why": "He left a voicemail asking you to call five days ago — both his values are finished."
+      "why": "Ran his own lake-property value again Monday 5:07 AM and says your estimate reads too low."
     },
     {
       "who": "Steven V.",
       "heat": "hot",
-      "why": "Seller hand-raise on a Chelsea Park address Sunday — no human has spoken to him since."
+      "why": "Seller hand-raise on a Chelsea Park address Sunday — still nobody has spoken to him."
     },
     {
-      "who": "Andy B.",
+      "who": "David B.",
       "heat": "hot",
-      "why": "Back in your listing alerts after five quiet weeks — nine days the oldest hand-raiser here."
+      "why": "His listing expired 8/21, and your market report has dripped on that house since March 2025."
     },
     {
       "who": "Breanna K.",
@@ -39,6 +34,11 @@
       "who": "Sanjay P.",
       "heat": "hot",
       "why": "You promised to reach out mid-afternoon on 8/26 and never did — a promise, not a lead."
+    },
+    {
+      "who": "Bruce T.",
+      "heat": "hot",
+      "why": "Seller hand-raise Sunday evening on a North Port, Florida house — nobody has called him yet."
     },
     {
       "who": "Phyllis T.",
@@ -53,16 +53,22 @@
   ],
   "listings": [
     {
-      "addr": "2127 Hwy 93",
-      "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE $999,000 — 3 showings booked since Monday's cut",
-      "note": "📅 Friday is a double — 8:30 AM and 4:30 PM. Monday's tour still hasn't filed."
+      "addr": "115 Indian Woman Rd",
+      "client": "Clint K.",
+      "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
+      "note": "🖊️ Signed 10:57 AM — your first 30A listing. Launch waits on the contractor."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "🔍 ACTIVE $295,000 — 21 showings, agreement expires 9/8",
-      "note": "🔍 21st read names a **missing closet**, not price — four written reads, zero price objections."
+      "note": "💰 First price answer ever filed reads **Just right** — five reads now, zero price objections."
+    },
+    {
+      "addr": "2127 Hwy 93",
+      "client": "Paul & Neely F.",
+      "status": "🔥 ACTIVE $999,000 — 3 showings booked since Monday's cut",
+      "note": "📅 Friday is a double — 8:30 AM and 4:30 PM. Cathy O.'s Monday read still unfiled."
     },
     {
       "addr": "225 Willow Point Cir",
@@ -73,8 +79,14 @@
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraisal Friday 8:00 AM, closes 9/21",
-      "note": "🆕 Appraisal booked **Fri 9/4 8:00 AM**. Glenn C.'s death certificate is still undelivered."
+      "status": "✅ UNDER CONTRACT — appraisal Friday 8:00 AM",
+      "note": "🚨 Close date now disputed — **9/30 on paperwork, 9/21 everywhere else**. Settle it today."
+    },
+    {
+      "addr": "372 Chelsea Farms Ln",
+      "client": "Daniel B.",
+      "status": "📅 COMING SOON — 22.63 acres, ruled $575K, no list date",
+      "note": "✅ Kathleen L. answered 11:39 AM. Burnham's signature is now the only thing missing."
     },
     {
       "addr": "6161 Eagle Point Cir",
@@ -85,8 +97,8 @@
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
-      "status": "⚠️ ACTIVE $364,000 — day 163, listing agreement expiring",
-      "note": "🔴 The price conversation you promised him on 8/24 is still open. Friday's read never filed."
+      "status": "⚠️ ACTIVE $364,000 — day 163, agreement expiring",
+      "note": "🔴 The price conversation you promised him 8/24 is still open. Friday's read never filed."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -109,14 +121,8 @@
     {
       "addr": "833 Madison Ln",
       "client": "Newly tracked",
-      "status": "📢 COMING SOON — two blank weekdays, still zero requests",
-      "note": "🔴 Two full weekdays live with no request, no confirmation. Patience was Monday's answer."
-    },
-    {
-      "addr": "372 Chelsea Farms Ln",
-      "client": "Daniel B.",
-      "status": "📅 COMING SOON — 22.63 acres, ruled $575K, no list date",
-      "note": "🔥 Kathleen L. replied **“Yes, I would be interested”** — 24 hours, still unanswered."
+      "status": "📢 COMING SOON — three weekdays live, still zero requests",
+      "note": "🔴 Three weekdays live, no request and no confirmation. Patience was Monday's answer."
     },
     {
       "addr": "Deer Ridge Lakes — 19 lots",
@@ -133,42 +139,42 @@
     {
       "addr": "195 Lake View Cir",
       "client": "Amy R.",
-      "status": "✅ CLOSED AND FUNDED — closing #24 of the year",
+      "status": "✅ CLOSED AND FUNDED — closing #25 of the year",
       "note": "🎉 Funded on two receipts. The celebration call is still yours to make."
     }
   ],
   "pipeline": {
-    "closedYTD": 24,
+    "closedYTD": 25,
     "goal": 45,
     "teamGoal": 90,
-    "paceProjection": "At day 245, 24 closings annualises to about 35.8 — just above the 35 survive line."
+    "paceProjection": "At day 245, 25 closings annualises to about 37 — just above the 35 survive line."
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Business-email card declined again — Google Workspace payment failing since 9/1. Cash itself reads fresh."
+    "note": "🔴 Business-email card confirmed dead — two vendors declined it since 9/1. Cash reads fresh."
   },
   "isa": {
-    "openCallTasks": 53,
-    "decayPolicy": "53 open · 14 at p1 · up 8 since last night's board",
-    "sweepCadence": "swept every 20–30 min · last run 7:12 AM"
+    "openCallTasks": 65,
+    "decayPolicy": "65 open · 12 at p1 · up 12 since this morning",
+    "sweepCadence": "swept every 20–30 min · last run 12:15 PM"
   },
   "builds": [
     "🐛 Fix the WARM-15 manifest prune — it deleted all 13 files",
     "🗓️ Opportunity Board missed two Saturdays — find why it never fires",
-    "🧹 Some routine is re-mangling the heartbeat file's text encoding"
+    "🧹 Some routine is re-mangling the heartbeat file's encoding"
   ],
   "controls": {
-    "do": "Send Kathleen L. draft, then call Burnham",
+    "do": "Call Burnham — Kathleen's yes is your lever",
     "decide": "Just Sold post: own 44 quiet days, or celebrate?",
-    "watch": "Workspace card declined 9/1 — business email at risk",
-    "draftsWaiting": 74
+    "watch": "Card dead since 9/1 — Workspace names Oct 5",
+    "draftsWaiting": 7
   },
   "scoreboard": {
-    "touches30d": 169,
-    "replies30d": 53,
-    "appts30d": 4,
+    "touches30d": 202,
+    "replies30d": 61,
+    "appts30d": 5,
     "contracts30d": 5,
-    "closed30d": 3,
+    "closed30d": 4,
     "gci30d": "$27K",
     "topRoutine": "database-power-daily"
   }

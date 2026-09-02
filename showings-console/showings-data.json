@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-02 7:50 AM CT",
-  "headline": "📅 **Tonight at 6:00 PM is the only tour on 225 Willow Point** — Estacie L. of eXp Central, her first visit, on a house that just reopened.",
+  "updated": "2026-09-02 12:45 PM CT",
+  "headline": "💰 355 Comanche just drew its first price answer in 21 showings — **Just right**, from an agent who called it priced competitively.",
   "stats": {
     "showings14d": 13,
-    "feedback14d": 4,
-    "gaps": 6
+    "feedback14d": 5,
+    "gaps": 5
   },
   "hotSignals": [
     {
       "addr": "2127 Hwy 93",
       "date": "8/31",
       "isNew": false,
-      "signal": "🔥 Cathy O. is the only agent who has walked this house at $999,000 — 39 hours, nothing filed.",
-      "action": "Call her before Friday's double showing — her read is the only direct evidence."
+      "signal": "🔥 Cathy O. is still the only agent who has walked this house at $999,000.",
+      "action": "Call her before Friday's double — her read is the only direct evidence."
     },
     {
       "addr": "355 Comanche St",
@@ -44,14 +44,25 @@
     }
   ],
   "upcoming": [
-    "🔴 **TODAY — WED 9/2 6:00 PM — 225 WILLOW POINT.** Estacie L. of eXp Realty Central, her first visit, a brokerage that has never touched this address. It is the **only** tour on the house, and the contract behind it died Monday.",
-    "🆕 **FRI 9/4 8:00 AM — 198 RENA DR: APPRAISAL.** Booked 7:10 PM last night. The one number that decides whether a 9/21 close stays on schedule.",
-    "🔥 **FRI 9/4 8:30 AM — 2127 HWY 93.** Sarah J. of ARC Realty–Hoover, first visit, booked five hours after the cut to $999,000.",
-    "🔥 **FRI 9/4 4:30 PM — 2127 HWY 93.** Ty T. of Keller Williams Homewood, first visit, a full hour. Friday is a double on this house.",
-    "📅 **SAT 9/12 9:00 AM and SUN 9/13 9:00 AM — 2368 RIDGE TRAIL.** Joey C. of EXIT Coosa River, two consecutive mornings on a house he has never shown.",
-    "📭 **NOTHING ELSE IS BOOKED.** A fresh fourteen-day pull returns 38 notices and exactly one new event since last night — the Rena appraisal above. 833 Madison Ln is still at zero requests."
+    "🔴 **TODAY 6:00 PM — 225 WILLOW POINT.** Estacie L., eXp Realty Central, first visit. The only tour on the house.",
+    "🆕 **FRI 9/4 8:00 AM — 198 RENA DR: APPRAISAL.** The number that decides whether the close stays on schedule.",
+    "🔥 **FRI 9/4 8:30 AM — 2127 HWY 93.** Sarah J., ARC Realty–Hoover, booked five hours after the cut.",
+    "🔥 **FRI 9/4 4:30 PM — 2127 HWY 93.** Ty T., Keller Williams Homewood, a full hour. Friday is a double.",
+    "📅 **SAT 9/12 + SUN 9/13 9:00 AM — 2368 RIDGE TRAIL.** Joey C., EXIT Coosa River, two consecutive mornings.",
+    "📭 **NOTHING ELSE IS BOOKED.** 833 Madison Ln is still at zero requests on its third weekday."
   ],
   "listings": [
+    {
+      "addr": "115 Indian Woman Rd",
+      "city": "Santa Rosa Beach",
+      "price": "$439,900",
+      "client": "Clint K.",
+      "status": "🆕 COMING SOON — all six listing docs signed this morning",
+      "showings14d": 0,
+      "feedback": [],
+      "gaps": [],
+      "note": "🖊️ Signed 10:57 AM. Nothing bookable until the contractor finishes the punch list."
+    },
     {
       "addr": "2127 Hwy 93",
       "city": "Helena",
@@ -68,18 +79,24 @@
         }
       ],
       "gaps": [
-        "🔴 **MON 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The only tour ever held at the new price, a full hour, and nothing filed in about 39 hours."
+        "🔴 **MON 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The only tour ever held at the new price, and nothing filed in about 44 hours."
       ],
-      "note": "🔥 Five showings total, up from two on Sunday. Sellers still not told about Friday's second booking."
+      "note": "🔥 Five showings total. Sellers still have not been told about Friday's second booking."
     },
     {
       "addr": "355 Comanche St",
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE — 21 showings and six days to the 9/8 expiry",
+      "status": "⏳ ACTIVE — 21 showings, six days to the 9/8 expiry",
       "showings14d": 3,
       "feedback": [
+        {
+          "date": "9/2",
+          "agent": "Cheryl P. · Keller Williams Metro South",
+          "tone": "cold",
+          "note": "**Interested: No — but Priced Right: JUST RIGHT**, the first price box ever ticked here. *“Too much house… showed well and is priced competitively for market.”* Staging 4."
+        },
         {
           "date": "9/1",
           "agent": "Chad B. · RE/MAX Advantage",
@@ -105,10 +122,8 @@
           "note": "Not interested — **stairs.** Both price fields blank. Two offices, one physical objection, zero price objections."
         }
       ],
-      "gaps": [
-        "⏳ **SAT 8/29 9:45 AM — Cheryl P. of Keller Williams Metro South**, her first visit. Held about 94 hours ago and still no form filed."
-      ],
-      "note": "🔍 Four written reads, every price field blank. The 9/8 conversation is accuracy, not price."
+      "gaps": [],
+      "note": "💰 Five reads. The only price box ever ticked says **Just right** — 9/8 is not a price talk."
     },
     {
       "addr": "225 Willow Point Cir",
@@ -259,7 +274,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔥 Kathleen L. replied **“Yes, I would be interested”** — 24 hours, still unanswered."
+      "note": "✅ Kathleen L. answered 11:39 AM. Burnham's signature is now the only thing missing."
     },
     {
       "addr": "Deer Ridge Lakes — 19 lots",
@@ -277,7 +292,7 @@
       "city": "Riverside",
       "price": "$351,000",
       "client": "Amy R.",
-      "status": "✅ CLOSED AND FUNDED — closing #24 of the year",
+      "status": "✅ CLOSED AND FUNDED — closing #25 of the year",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
