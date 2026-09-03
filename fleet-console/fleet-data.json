@@ -1,62 +1,62 @@
 {
-  "updated": "2026-09-03 12:40 PM CT",
-  "headline": "🚨 All 33 staged posts for 1406 Marina Landing are armed, and the first one publishes at 6:00 PM tonight.",
+  "updated": "2026-09-03 5:45 PM CT",
+  "headline": "🚀 Gene emptied the whole draft queue at 5 PM — 25 letters out in four minutes, 20 delivered, and the folder is at zero.",
   "heartbeat": {
     "status": "ok",
     "notes": [
       "✅ Every routine clean since 5:12 AM — no BLOCKED line anywhere today.",
-      "📵 Text relay dark four days, but the $1.99 renewal cleared — it is the app.",
-      "🔴 Card 2169 is underfunded, not dead — autopays still on it keep failing."
+      "📮 Five of tonight's 25 addresses bounced hard — those contacts have no working email.",
+      "📵 Text relay dark five days — the subscription renewal cleared, so it is the app."
     ]
   },
   "callBlock": [
     {
-      "who": "Alex T.",
+      "who": "Breanna K.",
       "heat": "hot",
-      "why": "521 property views across 188 visits, and he put a 2026 move in writing."
+      "why": "Brand-new IDX registration on your own site, and nobody has called her in nine days."
     },
     {
-      "who": "Lawrence C.",
+      "who": "David B.",
       "heat": "hot",
-      "why": "Ran his own lake-property value again Monday 5:07 AM and calls your estimate too low."
+      "why": "His listing expired 8/21 and you already have a market report on that house."
+    },
+    {
+      "who": "Jeffrey W.",
+      "heat": "hot",
+      "why": "A $699,900 Helena listing canceled 8/18 — your own zip, and the report is built."
+    },
+    {
+      "who": "Phyllis T.",
+      "heat": "hot",
+      "why": "Helena seller lead whose task has been overdue since December 1st."
     },
     {
       "who": "Steven V.",
       "heat": "hot",
-      "why": "Seller hand-raise on a Chelsea Park address Sunday — still nobody has spoken to him."
+      "why": "Seller hand-raise on a Chelsea Park address, and still nobody has spoken to him."
     },
     {
-      "who": "Harrison B.",
+      "who": "Bruce T.",
       "heat": "hot",
-      "why": "His “list after the bath reno” note has sat since March, and he returned 8/22."
+      "why": "Seller hand-raise on a North Port, Florida house — home-value feedback, never worked."
     },
     {
-      "who": "Greg E.",
+      "who": "Lawrence C.",
       "heat": "hot",
-      "why": "He tagged himself a selling request-a-call and that flag has sat 160 days."
+      "why": "Ran his own lake-property value again Monday at 5:07 AM and calls your estimate low."
     },
     {
-      "who": "Jack M.",
+      "who": "Alex T.",
       "heat": "hot",
-      "why": "A listing-consult appointment on your own calendar has gone unactioned since February 16th."
-    },
-    {
-      "who": "Patricia M.",
-      "heat": "hot",
-      "why": "Past client waiting on the Fairhope CMA you owed her back on August 14th."
-    },
-    {
-      "who": "Sanjay P.",
-      "heat": "hot",
-      "why": "You promised to reach out mid-afternoon on 8/26 — eight days ago now."
+      "why": "521 property views across 188 visits, and he put a 2026 move in writing."
     }
   ],
   "listings": [
     {
       "addr": "1406 Marina Landing",
       "client": "Launch 9/10",
-      "status": "📢 COMING SOON — 33 posts armed, first fires 6 PM",
-      "note": "🚨 Six more flipped live at 10:31 AM. Zero drafts left to pull."
+      "status": "📢 COMING SOON — 33 posts armed, first due 6 PM tonight",
+      "note": "📸 22 pro photos landed 3:23 PM — every staged post still uses phone shots."
     },
     {
       "addr": "355 Comanche St",
@@ -67,20 +67,20 @@
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE $999,000 — Friday is a double",
-      "note": "📅 8:30 and 4:30 Friday. Cathy O.'s Monday read is now 68 hours unfiled."
+      "status": "🔥 ACTIVE $999,000 — tomorrow is a double",
+      "note": "📅 8:30 and 4:30 tomorrow. Cathy O.'s Monday read is now 73 hours unfiled."
     },
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
       "status": "✅ UNDER CONTRACT — appraisal tomorrow 8:00 AM",
-      "note": "🚨 Close date still split — **9/30 on paperwork, 9/21 everywhere else**. Settle it today."
+      "note": "🚨 Close date still split — **9/30 on paperwork, 9/21 everywhere else**. Settle it tomorrow."
     },
     {
       "addr": "115 Indian Woman Rd",
       "client": "Clint K.",
       "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
-      "note": "🖊️ Signed Wednesday, your first 30A listing. Launch still waits on the contractor."
+      "note": "📮 First buyer heads-up went out tonight, before it ever goes live."
     },
     {
       "addr": "225 Willow Point Cir",
@@ -92,7 +92,7 @@
       "addr": "372 Chelsea Farms Ln",
       "client": "Daniel B.",
       "status": "📅 COMING SOON — 22.63 acres, ruled $575K",
-      "note": "☎️ Today's One Thing is the call, not the draft — ten days without a written answer."
+      "note": "☎️ Eleven days without a written answer. The call is still the move, not a draft."
     },
     {
       "addr": "6161 Eagle Point Cir",
@@ -110,7 +110,7 @@
       "addr": "2368 Ridge Trail",
       "client": "Opendoor — institutional seller",
       "status": "⚠️ ACTIVE $550,000 — 45 tours, no offer",
-      "note": "📅 Nothing until Sat 9/12. The unpulled lever is a **pre-inspection**, not a price cut."
+      "note": "📮 Four neighbors got a who-do-you-know letter tonight. Nothing booked until 9/12."
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -157,26 +157,26 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Low balance since 1:06 AM, and the power bill is two days past due."
+    "note": "🟡 Low balance at 1:06 AM, but a deposit cleared this afternoon."
   },
   "isa": {
-    "openCallTasks": 84,
-    "decayPolicy": "84 open · 76 due or overdue · 17 at p1",
-    "sweepCadence": "swept every 20–30 min · last 12:20 PM"
+    "openCallTasks": 82,
+    "decayPolicy": "82 open · 74 due or overdue · 16 at p1",
+    "sweepCadence": "swept every 20–30 min · last 5:15 PM"
   },
   "builds": [
     "🔴 Delta's digest handoff writes to nowhere — 3rd occurrence",
-    "🐛 Fix the WARM-15 manifest prune — it deleted all 13",
-    "🗓️ Opportunity Board missed two Saturdays — find why it never fires"
+    "🗓️ Opportunity Board missed two Saturdays — find why it never fires",
+    "⚠️ WARM-15 pool leaks teammates and active clients"
   ],
   "controls": {
-    "do": "Call Daniel B. — ten days, no written answer",
-    "decide": "Is 1406's list price firm? Answer by 5 PM",
-    "watch": "33 posts publish tonight, approval chip still unanswered",
-    "draftsWaiting": 34
+    "do": "Call Daniel B. about the Chelsea Farms list date",
+    "decide": "Reshoot 1406's 33 posts with the pro photos?",
+    "watch": "First 1406 post publishes at 6 PM tonight",
+    "draftsWaiting": 0
   },
   "scoreboard": {
-    "touches30d": 227,
+    "touches30d": 232,
     "replies30d": 63,
     "appts30d": 4,
     "contracts30d": 7,
