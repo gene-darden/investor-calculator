@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-03 7:45 AM CT",
-  "headline": "⏳ 355 Comanche has five days left and its only price verdict reads **Just right** — the objection is a closet, not the price.",
+  "updated": "2026-09-03 12:40 PM CT",
+  "headline": "🚨 All 33 staged posts for 1406 Marina Landing are armed, and the first one publishes at 6:00 PM tonight.",
   "heartbeat": {
     "status": "ok",
     "notes": [
-      "✅ Thirteen routines clean since 5:12 AM — no BLOCKED line anywhere today.",
-      "📵 Text relay dead four days — proven 9/2, your outgoing texts never leave the phone.",
-      "🐦 X data card shipped text-only — no publish path to the Pages host."
+      "✅ Every routine clean since 5:12 AM — no BLOCKED line anywhere today.",
+      "📵 Text relay dark four days, but the $1.99 renewal cleared — it is the app.",
+      "🔴 Card 2169 is underfunded, not dead — autopays still on it keep failing."
     ]
   },
   "callBlock": [
@@ -53,10 +53,10 @@
   ],
   "listings": [
     {
-      "addr": "115 Indian Woman Rd",
-      "client": "Clint K.",
-      "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
-      "note": "🖊️ Signed Wednesday, your first 30A listing. Launch still waits on the contractor."
+      "addr": "1406 Marina Landing",
+      "client": "Launch 9/10",
+      "status": "📢 COMING SOON — 33 posts armed, first fires 6 PM",
+      "note": "🚨 Six more flipped live at 10:31 AM. Zero drafts left to pull."
     },
     {
       "addr": "355 Comanche St",
@@ -68,19 +68,25 @@
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
       "status": "🔥 ACTIVE $999,000 — Friday is a double",
-      "note": "📅 8:30 and 4:30 Friday. Cathy O.'s Monday read is now 65 hours unfiled."
-    },
-    {
-      "addr": "225 Willow Point Cir",
-      "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON MARKET $185,000 — calendar empty again",
-      "note": "📅 Last night's 6:00 PM tour was the only one, and nothing is booked behind it."
+      "note": "📅 8:30 and 4:30 Friday. Cathy O.'s Monday read is now 68 hours unfiled."
     },
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
       "status": "✅ UNDER CONTRACT — appraisal tomorrow 8:00 AM",
       "note": "🚨 Close date still split — **9/30 on paperwork, 9/21 everywhere else**. Settle it today."
+    },
+    {
+      "addr": "115 Indian Woman Rd",
+      "client": "Clint K.",
+      "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
+      "note": "🖊️ Signed Wednesday, your first 30A listing. Launch still waits on the contractor."
+    },
+    {
+      "addr": "225 Willow Point Cir",
+      "client": "Sondra & Darrell S.",
+      "status": "🔴 BACK ON MARKET $185,000 — calendar empty again",
+      "note": "📅 Wednesday's 6:00 PM tour was the only one, and nothing is booked behind it."
     },
     {
       "addr": "372 Chelsea Farms Ln",
@@ -119,12 +125,6 @@
       "note": "🎉 Quietest file you own. Only the escrow holdback sizing is still loose."
     },
     {
-      "addr": "1406 Marina Landing",
-      "client": "Launch 9/10",
-      "status": "📢 COMING SOON — media kit and 360 tour live",
-      "note": "🚨 27 of 33 staged posts auto-publish tonight from 6:00 PM — approve or pull."
-    },
-    {
       "addr": "833 Madison Ln",
       "client": "Newly tracked",
       "status": "📢 COMING SOON — four weekdays live, zero requests",
@@ -157,12 +157,12 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Low-balance notice landed 1:06 AM, and a loan payment is due soon."
+    "note": "🔴 Low balance since 1:06 AM, and the power bill is two days past due."
   },
   "isa": {
-    "openCallTasks": 68,
-    "decayPolicy": "68 due or overdue · 17 at p1 · 76 open total",
-    "sweepCadence": "swept every 20–30 min · last 7:30 AM"
+    "openCallTasks": 84,
+    "decayPolicy": "84 open · 76 due or overdue · 17 at p1",
+    "sweepCadence": "swept every 20–30 min · last 12:20 PM"
   },
   "builds": [
     "🔴 Delta's digest handoff writes to nowhere — 3rd occurrence",
@@ -171,17 +171,17 @@
   ],
   "controls": {
     "do": "Call Daniel B. — ten days, no written answer",
-    "decide": "Rule 195 Lake View A/B before tonight",
-    "watch": "27 unapproved #1406 posts auto-publish, first 6 PM",
-    "draftsWaiting": 24
+    "decide": "Is 1406's list price firm? Answer by 5 PM",
+    "watch": "33 posts publish tonight, approval chip still unanswered",
+    "draftsWaiting": 34
   },
   "scoreboard": {
-    "touches30d": 200,
-    "replies30d": 55,
+    "touches30d": 227,
+    "replies30d": 63,
     "appts30d": 4,
     "contracts30d": 7,
-    "closed30d": 3,
+    "closed30d": 4,
     "gci30d": "$27K",
-    "topRoutine": "nightly-deep-dive"
+    "topRoutine": "database-power-daily"
   }
 }
