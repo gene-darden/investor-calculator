@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 2, 2026 · 5:50 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "🏖️ Every beach home on the board re-read Active at an unchanged price this evening — no cuts and no removals.",
+  "updated": "Sep 3, 2026 · 7:45 AM CT",
+  "nextSweep": "this evening",
+  "headline": "🏖️ No cuts, no removals and no new fits this morning — all fifteen beach homes still read Active at yesterday's prices.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry Fri Sep 4. Treat every price and status below as a July 29 snapshot."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry tomorrow. Treat every price and status below as a July 29 snapshot."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry Fri Sep 4. Treat every price and status below as a July 29 snapshot."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; both listing sites still blocking, next retry tomorrow. Treat every price and status below as a July 29 snapshot."
     },
     {
       "id": "beach",
@@ -1094,7 +1094,7 @@
           ]
         }
       ],
-      "note": "✅ Every listed home re-read Active at an unchanged price. Two Dauphin Island carries missed page 1 — kept, not removed; a page limit is not a removal."
+      "note": "✅ Every home re-read Active at an unchanged price. Three Dauphin Island carries missed page one — kept, not removed; a page limit is not a removal."
     }
   ]
 }
