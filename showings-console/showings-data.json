@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-03 5:45 PM CT",
-  "headline": "🔥 Tomorrow is the day: 198 Rena's appraisal at 8:00, then 2127 Hwy 93 twice — 8:30 and 4:30.",
+  "updated": "2026-09-04 7:45 AM CT",
+  "headline": "🔴 Three events land today: the 8:00 appraisal at 198 Rena and both showings at 2127 Hwy 93.",
   "stats": {
     "showings14d": 13,
-    "feedback14d": 5,
+    "feedback14d": 4,
     "gaps": 6
   },
   "hotSignals": [
@@ -12,20 +12,20 @@
       "date": "8/31",
       "isNew": false,
       "signal": "🔥 Cathy O. is still the only agent who has walked this house at $999,000.",
-      "action": "Call her tonight — tomorrow's double needs her read first."
+      "action": "Call her before 8:30 — today's double needs her read first."
     },
     {
       "addr": "355 Comanche St",
       "date": "8/16",
       "isNew": false,
-      "signal": "🔥 Amy G. filed the only **Interested: YES** this listing ever drew — 18 days, never called",
-      "action": "Call her tomorrow — five days to expiry, she is the only yes."
+      "signal": "🔥 Amy G. filed the only **Interested: YES** this listing ever drew — 19 days, never called",
+      "action": "Call her today — four days to expiry, she is the only yes."
     },
     {
       "addr": "225 Willow Point Cir",
       "date": "8/27",
       "isNew": false,
-      "signal": "🔥 Davis H. toured 8/27 and has filed nothing in seven days — and the house is available again.",
+      "signal": "🔥 Davis H. toured 8/27 and has filed nothing in eight days — the house is available again.",
       "action": "Call him with the update — repeat agent, availability flipped."
     },
     {
@@ -44,11 +44,11 @@
     }
   ],
   "upcoming": [
-    "✅ **TOMORROW 8:00 AM — 198 RENA DR: APPRAISAL CONFIRMED.** The number that decides the close date.",
-    "🔥 **TOMORROW 8:30 AM — 2127 HWY 93.** Sarah J., ARC Realty–Hoover, booked five hours after the cut.",
-    "🔥 **TOMORROW 4:30 PM — 2127 HWY 93.** Ty T., Keller Williams Homewood, a full hour. Friday is a double.",
+    "✅ **TODAY 8:00 AM — 198 RENA DR: APPRAISAL.** The number that decides the close date.",
+    "🔥 **TODAY 8:30 AM — 2127 HWY 93.** Sarah J., ARC Realty–Hoover, booked five hours after the cut.",
+    "🔥 **TODAY 4:30 PM — 2127 HWY 93.** Ty T., Keller Williams Homewood, a full hour — today is a double.",
     "📅 **SAT 9/12 + SUN 9/13 9:00 AM — 2368 RIDGE TRAIL.** Joey C., EXIT Coosa River, two consecutive mornings.",
-    "📭 **NOTHING ELSE IS BOOKED.** No new ShowingTime activity in 28 hours; 833 Madison Ln is still at zero on its fifth weekday."
+    "📭 **NOTHING ELSE IS BOOKED.** No new ShowingTime activity in 37 hours; 833 Madison Ln is at zero on weekday six."
   ],
   "listings": [
     {
@@ -71,14 +71,14 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🚨 All 33 staged posts are armed; the first publishes 6:00 PM tonight."
+      "note": "📸 First post fired 6:00 PM Wednesday; pro photos now carry 14 of them."
     },
     {
       "addr": "2127 Hwy 93",
       "city": "Helena",
       "price": "$999,000",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE at $999,000 — tomorrow is a double, 8:30 and 4:30",
+      "status": "🔥 ACTIVE at $999,000 — a double today, 8:30 and 4:30",
       "showings14d": 2,
       "feedback": [
         {
@@ -91,14 +91,14 @@
       "gaps": [
         "🔴 **MON 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The only tour ever held at the new price, and nothing filed in 73 hours."
       ],
-      "note": "🔥 Five showings total. Sellers still have not been told about tomorrow's second booking."
+      "note": "🔥 Five showings total. Cathy O.'s Monday read is 88 hours unfiled."
     },
     {
       "addr": "355 Comanche St",
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE — 21 showings, five days to the 9/8 expiry",
+      "status": "⏳ ACTIVE — 21 showings, four days to the 9/8 expiry",
       "showings14d": 3,
       "feedback": [
         {
@@ -133,14 +133,14 @@
         }
       ],
       "gaps": [],
-      "note": "💰 Five reads. The only price box ever ticked says **Just right** — not a price talk."
+      "note": "💰 Five reads. The only price box ever ticked says **Just right**."
     },
     {
       "addr": "225 Willow Point Cir",
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON THE MARKET — last night's tour was the only one booked",
+      "status": "🔴 BACK ON THE MARKET — nothing booked since Wednesday",
       "showings14d": 6,
       "feedback": [
         {
@@ -167,7 +167,7 @@
         "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in eight days. A repeat agent, not a browser, and he does not know the house reopened.",
         "Sat 8/22 12:00 PM tour — still no feedback filed, twelve days on."
       ],
-      "note": "📅 Calendar still empty behind Wednesday. Machine email to this seller stays stopped."
+      "note": "📅 Calendar still empty. Machine email to this seller stays stopped."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -194,43 +194,43 @@
       "city": "Panama City Beach",
       "price": "$364,000",
       "client": "Jeff B.",
-      "status": "⚠️ ACTIVE — day 164, listing agreement expiring",
+      "status": "⚠️ ACTIVE — day 165, listing agreement expiring",
       "showings14d": 1,
       "feedback": [],
       "gaps": [
         "🔴 Fri 8/28 12:30 PM — **Alexis L. of RE/MAX Select Partners**, the eleventh tour on this unit, nothing filed in about six days.",
         "⚠️ The access question she asked — Supra or lockbox — still has no answer anywhere on record."
       ],
-      "note": "🔴 An expiring agreement is the cheapest moment for the price talk you owe him since 8/24."
+      "note": "🔴 An expiring agreement is the cheapest moment for the 8/24 price talk."
     },
     {
       "addr": "198 Rena Dr",
       "city": "Springville",
       "price": "$450,000 list",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraisal CONFIRMED tomorrow 8:00 AM, closes 9/21",
+      "status": "✅ UNDER CONTRACT — appraiser walks it 8:00 this morning",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "✅ Appraisal confirmed for Friday 8:00 AM. Death certificate still undelivered."
+      "note": "🚨 Close date split: **9/30 on paperwork, 9/21 everywhere else**. Settle it today."
     },
     {
       "addr": "6161 Eagle Point Cir",
       "city": "Birmingham",
       "price": "not listed — value report stage",
       "client": "Mike & Billie H.",
-      "status": "📞 PRE-LIST — report finally delivered 9/1, the call is still unmade",
+      "status": "📞 PRE-LIST — report delivered 9/1, the call is still unmade",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "➡️ His card moved to Friday. The real gap is square footage, not price."
+      "note": "➡️ His card sits on today. The real gap is square footage, not price."
     },
     {
       "addr": "3350 Altamont Rd E21",
       "city": "Birmingham",
       "price": "$164,000",
       "client": "Ayman M.",
-      "status": "✅ UNDER CONTRACT — closes 9/14, eleven days out",
+      "status": "✅ UNDER CONTRACT — closes 9/14, ten days out",
       "showings14d": 0,
       "feedback": [
         {
@@ -241,7 +241,7 @@
         }
       ],
       "gaps": [],
-      "note": "⚠️ Inspection requests have sat with your seller since 8/20 — two full weeks of paperwork."
+      "note": "⚠️ Inspection requests have sat with your seller since 8/20 — over two weeks."
     },
     {
       "addr": "1709 Fieldstone Cir",
@@ -259,11 +259,11 @@
       "city": "Helena",
       "price": "TBD",
       "client": "Newly tracked",
-      "status": "📢 COMING SOON — five blank weekdays, zero requests",
+      "status": "📢 COMING SOON — six blank weekdays, zero requests",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "🔴 Five full weekdays live and the calendar is still empty."
+      "note": "🔴 Six full weekdays live and the calendar has never held an entry."
     },
     {
       "addr": "821 Martinwood Rd",
@@ -285,7 +285,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "☎️ Today's One Thing is the Burnham call — ten days without a written answer."
+      "note": "☎️ Twelve days without a written answer. The call is still the move."
     },
     {
       "addr": "Deer Ridge Lakes — 19 lots",
@@ -314,19 +314,19 @@
     {
       "addr": "120 King Arthur Pl · Alabaster",
       "price": "$250,000",
-      "when": "🔴 **ASKED TWICE, NOW TEN DAYS SILENT** — Keller Williams Metro South requested 8/23 1:00 PM and again 8/24 2:00 PM.",
+      "when": "🔴 **ASKED TWICE, NOW TWELVE DAYS SILENT** — Keller Williams Metro South requested 8/23 1:00 PM and again 8/24 2:00 PM.",
       "note": "One office asking on two of your buyer-side tours at once — one reply session answers both."
     },
     {
       "addr": "106 King Valley St · Pelham",
       "price": "$236,500",
-      "when": "🔴 **ALSO ASKED TWICE** — 8/23 2:30 PM and 8/24 2:31 PM, now ten days silent.",
+      "when": "🔴 **ALSO ASKED TWICE** — 8/23 2:30 PM and 8/24 2:31 PM, now twelve days silent.",
       "note": "Same office as King Arthur, so one pass closes both and buys back the relationship."
     },
     {
       "addr": "116 Palm Dr · Alabaster",
       "price": "$249,900",
-      "when": "⚠️ Requested Sun 8/23 1:30 PM by Keller Williams Realty Hoover — ten days, and no second ask.",
+      "when": "⚠️ Requested Sun 8/23 1:30 PM by Keller Williams Realty Hoover — twelve days, and no second ask.",
       "note": "Cheapest of the three to answer and the least likely to be chased again."
     },
     {
