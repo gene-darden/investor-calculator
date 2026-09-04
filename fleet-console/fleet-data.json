@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 5:45 PM CT",
+  "updated": "2026-09-04 5:50 PM CT",
   "headline": "🔴 The appraiser walked 198 Rena at 8:00 this morning and the value still has not come back — ten hours of silence.",
   "heartbeat": {
     "status": "alert",
@@ -182,8 +182,8 @@
     "draftsWaiting": 39
   },
   "scoreboard": {
-    "touches30d": 238,
-    "replies30d": 63,
+    "touches30d": 253,
+    "replies30d": 64,
     "appts30d": 4,
     "contracts30d": 7,
     "closed30d": 4,
