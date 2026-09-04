@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04 7:45 AM CT",
-  "headline": "🔴 Three events land today: the 8:00 appraisal at 198 Rena and both showings at 2127 Hwy 93.",
+  "updated": "2026-09-04 5:45 PM CT",
+  "headline": "🆕 2368 Ridge Trail drew its first tour since 8/22 today, and the objection was condition — updates and dining room — not the price.",
   "stats": {
-    "showings14d": 13,
-    "feedback14d": 4,
+    "showings14d": 16,
+    "feedback14d": 5,
     "gaps": 6
   },
   "hotSignals": [
@@ -44,11 +44,9 @@
     }
   ],
   "upcoming": [
-    "✅ **TODAY 8:00 AM — 198 RENA DR: APPRAISAL.** The number that decides the close date.",
-    "🔥 **TODAY 8:30 AM — 2127 HWY 93.** Sarah J., ARC Realty–Hoover, booked five hours after the cut.",
-    "🔥 **TODAY 4:30 PM — 2127 HWY 93.** Ty T., Keller Williams Homewood, a full hour — today is a double.",
-    "📅 **SAT 9/12 + SUN 9/13 9:00 AM — 2368 RIDGE TRAIL.** Joey C., EXIT Coosa River, two consecutive mornings.",
-    "📭 **NOTHING ELSE IS BOOKED.** No new ShowingTime activity in 37 hours; 833 Madison Ln is at zero on weekday six."
+    "✅ **All five of today's appointments held** — the Rena appraisal, both Hwy 93 showings, and Ridge Trail's double.",
+    "📅 **Sat 9/12 + Sun 9/13, 9:00 AM — 2368 Ridge Trail.** Joey C., EXIT Coosa River, two consecutive mornings.",
+    "📭 **Nothing else is booked.** Eight empty days sit between tonight and that Saturday."
   ],
   "listings": [
     {
@@ -78,8 +76,8 @@
       "city": "Helena",
       "price": "$999,000",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE at $999,000 — a double today, 8:30 and 4:30",
-      "showings14d": 2,
+      "status": "🔥 ACTIVE at $999,000 — today's double both held, 8:30 and 4:30",
+      "showings14d": 4,
       "feedback": [
         {
           "date": "8/28",
@@ -89,16 +87,17 @@
         }
       ],
       "gaps": [
-        "🔴 **MON 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The only tour ever held at the new price, and nothing filed in 73 hours."
+        "🔴 **Mon 8/31 3:45–4:45 PM — Cathy O. of ARC Realty–Hoover.** The only tour at the new price, nothing filed in 98 hours.",
+        "⏳ Today 8:30 AM (Sarah J., ARC Realty–Hoover) and 4:30 PM (Ty T., KW Homewood) — both held, neither filed yet."
       ],
-      "note": "🔥 Five showings total. Cathy O.'s Monday read is 88 hours unfiled."
+      "note": "🔥 Seven tours total, and only one written read in the book."
     },
     {
       "addr": "355 Comanche St",
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE — 21 showings, four days to the 9/8 expiry",
+      "status": "⏳ ACTIVE — 21 showings, three days to the 9/8 expiry",
       "showings14d": 3,
       "feedback": [
         {
@@ -174,9 +173,15 @@
       "city": "Birmingham",
       "price": "$550,000",
       "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE — 45 tours, no offer, nothing booked until 9/12",
-      "showings14d": 2,
+      "status": "⚠️ ACTIVE — 46 tours, first showing since 8/22, two more booked 9/12",
+      "showings14d": 3,
       "feedback": [
+        {
+          "date": "9/4",
+          "agent": "Sarah R. · ARC Realty 280",
+          "tone": "cold",
+          "note": "**Interested: No**, and every price field left blank. Her reason: *“A little more updated needed than she wanted to have to do and needs a bigger dining room.”* Condition, not price."
+        },
         {
           "date": "8/20",
           "agent": "Laura Gail C. · co-op brokerage",
@@ -185,9 +190,9 @@
         }
       ],
       "gaps": [
-        "Sat 8/22 3:00 PM — a first-time agent's tour, read still outstanding twelve days on"
+        "Sat 8/22 3:00 PM — a first-time agent's tour, read still outstanding thirteen days on"
       ],
-      "note": "⚠️ The only listing where agents tick **too high** rather than leave the box blank."
+      "note": "🆕 Same-day filer. Two price objections now sit against three condition ones."
     },
     {
       "addr": "23223 Front Beach Rd B3-407",

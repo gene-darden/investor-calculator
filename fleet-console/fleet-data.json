@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-04 7:45 AM CT",
-  "headline": "🔴 The appraiser walks 198 Rena at 8:00 this morning — one number decides September's biggest closing.",
+  "updated": "2026-09-04 5:45 PM CT",
+  "headline": "🔴 The appraiser walked 198 Rena at 8:00 this morning and the value still has not come back — ten hours of silence.",
   "heartbeat": {
-    "status": "ok",
+    "status": "alert",
     "notes": [
-      "✅ Fleet clean overnight — every routine reported OK, not one blocked line.",
-      "📵 Text relay dark five days — every “unanswered” claim is email-only now.",
-      "🔒 Both commercial listing sites blocked today's weekly retry — Tyler's board stays frozen."
+      "🔌 Todoist offline this afternoon — call counts and task guards unmeasured since noon.",
+      "📵 Text relay dark five days, and Fieldy has captured nothing since 8/27.",
+      "🔒 Both commercial sites failed today's weekly retry — Tyler's board frozen until 9/11."
     ]
   },
   "callBlock": [
+    {
+      "who": "Ryder B.",
+      "heat": "hot",
+      "why": "Left a voicemail this morning returning your own call — nobody has called him back."
+    },
     {
       "who": "Jeffrey W.",
       "heat": "hot",
@@ -38,12 +43,7 @@
     {
       "who": "Steven S.",
       "heat": "warm",
-      "why": "Tyler transferred him to you yesterday afternoon on an Indian Crest address."
-    },
-    {
-      "who": "Zac & Tiffany M.",
-      "heat": "warm",
-      "why": "They told you “we are ready to sell” and then went quiet for seven months."
+      "why": "Tyler transferred him to you Thursday afternoon on an Indian Crest address."
     },
     {
       "who": "Duane W.",
@@ -55,20 +55,20 @@
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraiser walks it 8:00 this morning",
-      "note": "🚨 Close date still split — **9/30 on paperwork, 9/21 everywhere else**."
+      "status": "✅ UNDER CONTRACT — appraiser walked it at 8:00 this morning",
+      "note": "🚨 No value back yet, and the close date is still split **two ways**."
     },
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE $999,000 — a double today, 8:30 and 4:30",
-      "note": "📅 Cathy O.'s Monday read is now 88 hours unfiled."
+      "status": "🔥 ACTIVE $999,000 — today's double both held, 8:30 and 4:30",
+      "note": "📅 Neither agent filed yet. Cathy O.'s Monday read is now **98 hours** old."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "⏳ ACTIVE $295,000 — 21 showings, expires Monday",
-      "note": "💰 Four days left. The only price box ever ticked reads **Just right**."
+      "note": "💰 Three days left. The only price box ever ticked reads **Just right**."
     },
     {
       "addr": "1406 Marina Landing",
@@ -109,8 +109,8 @@
     {
       "addr": "2368 Ridge Trail",
       "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE $550,000 — 45 tours, no offer",
-      "note": "📅 Nothing booked until 9/12, then two mornings back to back."
+      "status": "⚠️ ACTIVE $550,000 — 46 tours, first showing since 8/22",
+      "note": "🆕 Sarah R. filed same day: wants updates and a **bigger dining room**, price blank."
     },
     {
       "addr": "3350 Altamont Rd E21",
@@ -163,26 +163,27 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Confirmed bills now exceed cash, and a power bill is three days past due."
+    "note": "🔴 Bills still exceed cash, and another withdrawal cleared this afternoon."
   },
   "isa": {
     "openCallTasks": 54,
-    "decayPolicy": "54 open · 46 due or overdue · 5 at p1",
-    "sweepCadence": "swept every 20–30 min · last 7:20 AM"
+    "decayPolicy": "54 open calls · last true count was 7:20 AM",
+    "sweepCadence": "Todoist offline · no fresh count this run"
   },
   "builds": [
-    "🔧 Review the nightly guard that now names inbound callers from dossiers",
-    "🔧 Review the WARM-15 never-mail registry and name-collision gate"
+    "🔧 Review the nightly guard that names inbound callers from dossiers",
+    "🔧 Review the WARM-15 never-mail registry and name-collision gate",
+    "🔧 Review the open-promise ledger built this morning"
   ],
   "controls": {
-    "do": "Send Rick S. the 1120-S reply — it's staged",
+    "do": "Send Rick S. the 1120-S reply — still staged",
     "decide": "Pay the power bill today, or hold cash?",
-    "watch": "198 Rena appraisal 8:00 today — 9/2 notice",
-    "draftsWaiting": 28
+    "watch": "198 Rena appraised 8 AM — no value yet",
+    "draftsWaiting": 39
   },
   "scoreboard": {
-    "touches30d": 243,
-    "replies30d": 64,
+    "touches30d": 238,
+    "replies30d": 63,
     "appts30d": 4,
     "contracts30d": 7,
     "closed30d": 4,
