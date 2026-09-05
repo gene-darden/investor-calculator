@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 4, 2026 · 5:45 PM CT",
-  "nextSweep": "tomorrow morning",
-  "headline": "🏖️ Two Dauphin Island carries that hid from page one this morning came back Active tonight at the same prices.",
+  "updated": "Sep 5, 2026 · 7:45 AM CT",
+  "nextSweep": "this evening",
+  "headline": "🏖️ 703 Hunley and 107 Portier are back on Dauphin Island's page one at unchanged prices — ten carries re-read Active.",
   "lanes": [
     {
       "id": "nash",
@@ -335,7 +335,7 @@
           ]
         }
       ],
-      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; today's weekly retry hit 403 again, next attempt Sep 11."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; LoopNet and Crexi both still 403, next retry Sep 11."
     },
     {
       "id": "knox",
@@ -653,7 +653,7 @@
           ]
         }
       ],
-      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; today's weekly retry hit 403 again, next attempt Sep 11."
+      "note": "⚠️ **Commercial data frozen — last verified Jul 29**; LoopNet and Crexi both still 403, next retry Sep 11."
     },
     {
       "id": "beach",
@@ -1094,7 +1094,7 @@
           ]
         }
       ],
-      "note": "✅ Eleven carries re-read Active at unchanged prices; three missed page one — kept, not removed."
+      "note": "✅ Ten carries re-read Active at unchanged prices; 901 Lockenbie and 601 Bienville missed page one again — kept, not removed."
     }
   ]
 }
