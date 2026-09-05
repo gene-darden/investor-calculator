@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-05 7:45 AM CT",
-  "headline": "🔥 Three agents have walked 2127 Hwy 93 since the $151,000 cut, and not one has said a word about the price.",
+  "updated": "2026-09-05 12:45 PM CT",
+  "headline": "📥 Your draft folder reached 65 and nothing has left it in 43 hours — the machine is writing faster than you send.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🔌 Todoist dark two days — 15 routines blocked; no chips and no board count since Thursday.",
-      "📵 Text relay dark six days, and Fieldy has captured nothing since 8/27.",
-      "🔒 LoopNet and Crexi still frozen — Tyler's commercial lanes hold Jul 29 data until 9/11."
+      "🔌 Todoist dark 24 straight runs — no chips, no board count since Thursday morning.",
+      "📤 Draft queue 57 → 65 since breakfast, and zero have gone out.",
+      "📵 Text relay dark seven days; Fieldy has captured nothing since 8/27."
     ]
   },
   "callBlock": [
@@ -46,9 +46,9 @@
       "why": "Left a voicemail Thursday returning your own call — nobody has called him back."
     },
     {
-      "who": "Patricia M.",
-      "heat": "warm",
-      "why": "Past client owed a Fairhope CMA since 8/14 — three weeks of silence."
+      "who": "Scarlett D.",
+      "heat": "hot",
+      "why": "Asked to review with you Thursday morning and has now waited over a day."
     }
   ],
   "listings": [
@@ -61,14 +61,14 @@
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE $999,000 — Friday's double both held, 8:30 and 4:30",
-      "note": "📞 Neither agent filed. Three tours at the new price, **zero written reads**."
+      "status": "🔥 ACTIVE $999,000 — three tours since the cut, none filed",
+      "note": "📞 Friday's pair is now a day old. **Zero written reads** at the new price."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE $295,000 — 21 showings, expires Monday",
-      "note": "💰 Three days left, and the only price box ever ticked reads **Just right**."
+      "status": "⏳ ACTIVE $295,000 — 21 showings, agreement expires Monday",
+      "note": "💰 Two days left, and the only price box ever ticked reads **Just right**."
     },
     {
       "addr": "1406 Marina Landing",
@@ -163,31 +163,31 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Fourth insufficient-funds alert in eleven days landed overnight. Bank silent since Thursday."
+    "note": "🔴 Fourth insufficient-funds alert in eleven days. Bank silent about 46 hours."
   },
   "isa": {
     "openCallTasks": 54,
     "decayPolicy": "54 open calls · last true count Thursday 7:20 AM",
-    "sweepCadence": "Todoist dark 2 days · no fresh count"
+    "sweepCadence": "Todoist dark 24 runs · no fresh count"
   },
   "builds": [
-    "🔧 Reconnect Todoist — 15 routines blocked, two days of chips lost",
-    "🔧 Review the Outage Escalation Law shipped this morning",
-    "🔧 Rule the 1406 price before Wednesday's first priced post"
+    "🔧 Reconnect Todoist — 24 runs blocked, no chips since Thursday",
+    "🔧 Rule the 1406 price before Wednesday's first priced post",
+    "🔧 Drain the draft folder — 65 staged, none sent"
   ],
   "controls": {
     "do": "Call both 2127 agents — did $999K work?",
     "decide": "1406 at $579,900 or $579,000?",
-    "watch": "Todoist dark two days — reconnect it (9/5)",
-    "draftsWaiting": 57
+    "watch": "Todoist dark 24 runs — reconnect it",
+    "draftsWaiting": 65
   },
   "scoreboard": {
     "touches30d": 256,
     "replies30d": 64,
     "appts30d": 4,
     "contracts30d": 7,
-    "closed30d": 4,
-    "gci30d": "$27K",
+    "closed30d": 3,
+    "gci30d": "$18K",
     "topRoutine": "database-power-daily"
   }
 }
