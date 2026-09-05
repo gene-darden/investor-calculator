@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-05 12:45 PM CT",
-  "headline": "📥 Your draft folder reached 65 and nothing has left it in 43 hours — the machine is writing faster than you send.",
+  "updated": "2026-09-05 5:45 PM CT",
+  "headline": "🗓️ 225 Willow Point booked a Sunday 1:30 showing this afternoon and the sellers still do not know.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🔌 Todoist dark 24 straight runs — no chips, no board count since Thursday morning.",
-      "📤 Draft queue 57 → 65 since breakfast, and zero have gone out.",
-      "📵 Text relay dark seven days; Fieldy has captured nothing since 8/27."
+      "🔌 Todoist dark 33 straight runs — no chips, no board count since Thursday morning.",
+      "📤 Draft folder now 68, and nothing has been sent by hand in 48 hours.",
+      "📵 Text relay dark 45 hours — the earlier nine-day figure was wrong."
     ]
   },
   "callBlock": [
+    {
+      "who": "Sondra & Darrell S.",
+      "heat": "hot",
+      "why": "A Sunday 1:30 showing just landed on their townhouse. Tell them tonight."
+    },
     {
       "who": "Sarah J.",
       "heat": "hot",
@@ -41,11 +46,6 @@
       "why": "Your 2127 sellers, five days silent since the cut. Call them either way."
     },
     {
-      "who": "Ryder B.",
-      "heat": "warm",
-      "why": "Left a voicemail Thursday returning your own call — nobody has called him back."
-    },
-    {
       "who": "Scarlett D.",
       "heat": "hot",
       "why": "Asked to review with you Thursday morning and has now waited over a day."
@@ -67,8 +67,8 @@
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE $295,000 — 21 showings, agreement expires Monday",
-      "note": "💰 Two days left, and the only price box ever ticked reads **Just right**."
+      "status": "⏳ ACTIVE $295,000 — 21 showings, agreement expires Tuesday",
+      "note": "💰 Three days left, and the only price box ever ticked reads **Just right**."
     },
     {
       "addr": "1406 Marina Landing",
@@ -85,8 +85,8 @@
     {
       "addr": "225 Willow Point Cir",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON MARKET $185,000 — calendar still empty",
-      "note": "📅 Wednesday's tour was the only one, and nothing is booked behind it."
+      "status": "🔴 BACK ON MARKET $185,000 — Sunday 1:30 PM just booked",
+      "note": "📅 A sixth showing, and the sellers have not been told it exists."
     },
     {
       "addr": "372 Chelsea Farms Ln",
@@ -163,23 +163,23 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Fourth insufficient-funds alert in eleven days. Bank silent about 46 hours."
+    "note": "🔴 Fourth insufficient-funds alert in eleven days, though a small deposit finally cleared this afternoon."
   },
   "isa": {
     "openCallTasks": 54,
     "decayPolicy": "54 open calls · last true count Thursday 7:20 AM",
-    "sweepCadence": "Todoist dark 24 runs · no fresh count"
+    "sweepCadence": "Todoist dark 33 runs · no fresh count"
   },
   "builds": [
-    "🔧 Reconnect Todoist — 24 runs blocked, no chips since Thursday",
+    "🔧 Reconnect Todoist — 33 runs blocked, no chips since Thursday",
     "🔧 Rule the 1406 price before Wednesday's first priced post",
-    "🔧 Drain the draft folder — 65 staged, none sent"
+    "🔧 Drain the draft folder — 68 staged, none sent"
   ],
   "controls": {
     "do": "Call both 2127 agents — did $999K work?",
     "decide": "1406 at $579,900 or $579,000?",
-    "watch": "Todoist dark 24 runs — reconnect it",
-    "draftsWaiting": 65
+    "watch": "Todoist dark 33 runs — reconnect it",
+    "draftsWaiting": 68
   },
   "scoreboard": {
     "touches30d": 256,

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05 12:45 PM CT",
-  "headline": "📞 Three agents have walked 2127 at $999,000 and not one has filed — the oldest read is now five days unasked.",
+  "updated": "2026-09-05 5:45 PM CT",
+  "headline": "🔴 Ten tours across five listings have produced no written read, and the oldest is now fourteen days out.",
   "stats": {
     "showings14d": 15,
     "feedback14d": 5,
@@ -44,9 +44,9 @@
     }
   ],
   "upcoming": [
+    "📅 **TOMORROW, Sun 9/6 1:30 PM — 225 Willow Point Cir.** Merry L., RealtySouth-OTM-Acton Rd — her first look at the house, booked this afternoon.",
     "📅 **Sat 9/12 + Sun 9/13, 9:00 AM — 2368 Ridge Trail.** Joey C., EXIT Coosa River, two consecutive mornings.",
-    "📭 **Nothing else is booked.** Seven empty days sit between this morning and that Saturday.",
-    "✅ Friday's five all held — the Rena appraisal, both Hwy 93 tours, and Ridge Trail's double."
+    "📭 **Nothing else is booked.** Five empty days sit between Sunday's tour and that Saturday."
   ],
   "listings": [
     {
@@ -76,7 +76,7 @@
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE — 21 showings, three days to the 9/8 expiry",
+      "status": "⏳ ACTIVE — 21 showings, three days to the 9/8 (Tuesday) expiry",
       "showings14d": 3,
       "feedback": [
         {
@@ -118,7 +118,7 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON THE MARKET — nothing booked since Wednesday",
+      "status": "🔴 BACK ON THE MARKET — Sunday 1:30 PM booked this afternoon",
       "showings14d": 4,
       "feedback": [
         {
@@ -145,7 +145,7 @@
         "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in nine days. A repeat agent, and he does not know the house reopened.",
         "Sat 8/22 12:00 PM tour — still no feedback filed, fourteen days on."
       ],
-      "note": "📅 Calendar still empty. Machine email to this seller stays stopped."
+      "note": "📅 A sixth showing, and the sellers have not been told it exists."
     },
     {
       "addr": "2368 Ridge Trail",
