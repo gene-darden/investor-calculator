@@ -1,18 +1,25 @@
 {
-  "updated": "2026-09-07 7:52 AM CT",
-  "headline": "⏳ 355 Comanche's agreement dies tomorrow and the only agent who ever ticked **Interested: Yes** has still never been called, 22 days on.",
+  "updated": "2026-09-07 5:45 PM CT",
+  "headline": "🔥 225 Willow Point drew an **Interested: Yes** today at $185,000 — and the flood plain, not the price, is what stopped two buyers.",
   "stats": {
-    "showings14d": 14,
-    "feedback14d": 5,
-    "gaps": 9
+    "showings14d": 15,
+    "feedback14d": 7,
+    "gaps": 8
   },
   "hotSignals": [
+    {
+      "addr": "225 Willow Point Cir",
+      "date": "9/7",
+      "isNew": true,
+      "signal": "🔥 Tayler B. ticked **Interested: Yes** and **priced just right** — flood plain is her only stop",
+      "action": "Call her tonight — send the flood dec page you already have."
+    },
     {
       "addr": "355 Comanche St",
       "date": "8/16",
       "isNew": false,
       "signal": "🔥 Amy G. filed the only **Interested: YES** this listing ever drew — 22 days, never called",
-      "action": "Call her this morning — the agreement dies tomorrow."
+      "action": "Call her today — the agreement dies tomorrow."
     },
     {
       "addr": "2127 Hwy 93",
@@ -20,13 +27,6 @@
       "isNew": false,
       "signal": "🔥 Cathy O. was first of three agents into the house at $999,000. None of the three filed.",
       "action": "Call her today — a week out, the oldest unasked read."
-    },
-    {
-      "addr": "225 Willow Point Cir",
-      "date": "8/25",
-      "isNew": false,
-      "signal": "📥 Molly G. sent the full signed offer packet and asked for a receipt — never answered.",
-      "action": "Close the loop by phone — name no price, the contract is dead."
     },
     {
       "addr": "225 Willow Point Cir",
@@ -44,9 +44,8 @@
     }
   ],
   "upcoming": [
-    "📅 **TODAY, Mon 9/7 9:45 AM — 225 Willow Point Cir.** Tayler B., Keller Williams Hoover — booked Sunday midday, the second tour in two days.",
     "📅 **Sat 9/12 + Sun 9/13, 9:00 AM — 2368 Ridge Trail.** Joey C., EXIT Coosa River, two consecutive mornings.",
-    "📭 **Nothing else is booked.** Four empty days sit between this morning's tour and that Saturday."
+    "📭 **Nothing else is booked.** Five empty days sit between this morning's tour and that Saturday."
   ],
   "listings": [
     {
@@ -118,9 +117,21 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON THE MARKET — 9:45 AM tour today, Sunday's held",
-      "showings14d": 4,
+      "status": "🔥 ACTIVE — today's 9:45 AM tour filed an Interested: Yes",
+      "showings14d": 5,
       "feedback": [
+        {
+          "date": "9/7",
+          "agent": "Tayler B. · Keller Williams Realty Hoover",
+          "tone": "hot",
+          "note": "**Interested: Yes. Priced right: Just right.** Staging 4. *“Flood plain is main concern. Age of major systems and roof are of concern. Loves the space and the ‘homey’ feel.”*"
+        },
+        {
+          "date": "9/6",
+          "agent": "Merry L. · RealtySouth–OTM–Acton Rd",
+          "tone": "warm",
+          "note": "*“They loved the townhouse… initially wanted to write an offer but changed their minds because of the flood plain. Lovely listing.”* Every answer box left blank but the last."
+        },
         {
           "date": "8/25",
           "agent": "Molly G. · Keller Williams Hoover",
@@ -141,11 +152,10 @@
         }
       ],
       "gaps": [
-        "🔴 Sun 9/6 1:30 PM — **Merry L. of RealtySouth–OTM–Acton Rd**, walked yesterday, nothing filed yet.",
         "🔴 Wed 9/2 6:00 PM — **Estacie L. of eXp Realty Central**, the first tour since it reopened. Five days, nothing filed.",
         "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in eleven days. A repeat agent who does not know the house reopened."
       ],
-      "note": "📅 Two tours in two days, and the sellers have been told about neither."
+      "note": "🌊 Two written reads, ninety minutes apart, both naming the flood plain."
     },
     {
       "addr": "2368 Ridge Trail",

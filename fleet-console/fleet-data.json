@@ -1,54 +1,54 @@
 {
-  "updated": "2026-09-07 7:52 AM CT",
-  "headline": "⏳ Three listing agreements expire inside 48 hours — 355 Comanche tomorrow, Front Beach and Martinwood Wednesday — and none has a re-list conversation started.",
+  "updated": "2026-09-07 5:45 PM CT",
+  "headline": "🔥 225 Willow Point has a live interested buyer again — and the flood plain, not the price, is the only thing in the way.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🔌 Todoist dark day 5 — no chips written, task-net zero across eight routines this morning.",
-      "🌑 Fleet ran dark about 25 hours Sunday; every routine has since caught up.",
-      "📤 Draft folder at 76 — Crain, Saladino and Salta each carry three staged twins."
+      "✅ Todoist is back after five dark days — first chip written since Friday landed this run.",
+      "🔌 Brivity /people returned HTTP 500 at 12:32 — the deep sweep's Part B stayed blocked.",
+      "📤 Draft folder at 92, up from 76 this morning — nothing drained today."
     ]
   },
   "callBlock": [
     {
-      "who": "Don & Ann C.",
+      "who": "Tayler B.",
       "heat": "hot",
-      "why": "Their contract died Sunday night and nobody has told them. First call of the day."
+      "why": "Filed Interested: Yes at 11:37 this morning — flood plain, not price, is the objection."
     },
     {
-      "who": "Sondra & Darrell S.",
+      "who": "Ryder B.",
       "heat": "hot",
-      "why": "A 9:45 AM showing lands this morning and they do not know it exists."
+      "why": "He is returning a call you placed last week, and he does not know why."
     },
     {
-      "who": "Seth B.",
+      "who": "Patricia M.",
       "heat": "hot",
-      "why": "His listing agreement dies tomorrow and no re-list terms have been discussed."
+      "why": "Past client still waiting on the Fairhope CMA you promised in mid-August."
     },
     {
-      "who": "Amy G.",
+      "who": "Jeffrey W.",
       "heat": "hot",
-      "why": "Filed 355 Comanche's only Interested: Yes — 22 days, never called, agreement dies tomorrow."
+      "why": "His Helena listing cancelled 8/18 and your market report never got a follow-up call."
     },
     {
-      "who": "Bounced 1406 buyer",
+      "who": "Bruce T.",
       "heat": "hot",
-      "why": "His welcome email hard-bounced at 7:09 this morning. The phone is the only lane left."
+      "why": "Seller hand-raise on a North Port, Florida home — a week old, never dialled."
     },
     {
-      "who": "Sarah J.",
+      "who": "Narrows Point sign-rider texter",
       "heat": "hot",
-      "why": "Showed 2127 Hwy 93 Friday 8:30 — four days on, the read is still unasked."
+      "why": "Texted the rider on your own Narrows Point lot four days ago."
     },
     {
-      "who": "Ty T.",
+      "who": "Cambridge Lane home-value lead",
       "heat": "warm",
-      "why": "Walked the same house Friday 4:30 — the other half of the price answer."
+      "why": "Contactless value form on a Cambridge Lane address that sits inside your farm."
     },
     {
-      "who": "Jeff B.",
+      "who": "Merry L.",
       "heat": "warm",
-      "why": "His agreement expires Wednesday and the price talk you promised 8/24 is still open."
+      "why": "Sunday's buyers drafted an offer, then stopped at the flood plain."
     }
   ],
   "listings": [
@@ -68,13 +68,13 @@
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
       "status": "🔥 ACTIVE $999,000 — four tours since the cut, none filed",
-      "note": "📞 Friday's pair is now four days old. **Zero written reads** at the new price."
+      "note": "📞 Friday's pair is now three days old. **Zero written reads** at the new price."
     },
     {
       "addr": "225 Willow Point Cir",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON MARKET $185,000 — 9:45 AM showing today",
-      "note": "📅 Two tours in two days, and the sellers have been told about neither."
+      "status": "🔥 ACTIVE $185,000 — Interested: Yes filed today, back on market",
+      "note": "🌊 Two agents in two days named the flood plain. Neither touched the price."
     },
     {
       "addr": "1406 Marina Landing",
@@ -98,7 +98,7 @@
       "addr": "821 Martinwood Rd",
       "client": "Team listing",
       "status": "🔥 ACTIVE $219,900 — price cut live, expires Wednesday",
-      "note": "⚠️ Traci's co-list, zero tours in the window. Today's post is its first touch."
+      "note": "⚠️ Traci's co-list, zero tours in the window. Today's post was its first touch."
     },
     {
       "addr": "1230 Calvert Rd",
@@ -169,27 +169,26 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 An NSF fired Thursday and two retries are still live against the account."
+    "note": "🔴 Thursday's NSF still has two retries live — no new bank alert since this morning."
   },
   "isa": {
-    "openCallTasks": 54,
-    "decayPolicy": "54 open calls · last true count Thursday, five days stale",
-    "sweepCadence": "Todoist dark day 5 · no fresh count"
+    "openCallTasks": 64,
+    "decayPolicy": "64 open calls · 56 due or overdue · 8 at p1",
+    "sweepCadence": "Todoist live again — first count since Friday"
   },
   "builds": [
-    "🔧 Reconnect Todoist — dark five days, task-net zero fleet-wide",
-    "🔧 Rule the 1406 list price before Thursday's first priced post",
-    "🔧 Drain the draft folder — 76 staged, three triple-twins"
+    "🔧 Review: nightly guard now names inbound callers off the dossiers",
+    "🔧 Review: SHORT_04 upload sheet pre-written for the drip slot"
   ],
   "controls": {
-    "do": "Call Don C. first — his contract died",
+    "do": "Call Don C. — sellers still untold since Sunday",
     "decide": "1406 list price: $579,900 or $579,000?",
-    "watch": "Seller draft staged to Carrolls — do not send",
-    "draftsWaiting": 76
+    "watch": "Carroll seller draft staged — do not send",
+    "draftsWaiting": 92
   },
   "scoreboard": {
-    "touches30d": 262,
-    "replies30d": 64,
+    "touches30d": 264,
+    "replies30d": 65,
     "appts30d": 4,
     "contracts30d": 7,
     "closed30d": 3,
