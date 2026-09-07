@@ -1,54 +1,54 @@
 {
-  "updated": "2026-09-07 5:45 PM CT",
-  "headline": "🔥 225 Willow Point has a live interested buyer again — and the flood plain, not the price, is the only thing in the way.",
+  "updated": "2026-09-07 5:40 PM CT",
+  "headline": "🔌 Google's OAuth grant was revoked — Gmail reading and every fleet send are dead, so tomorrow's 6:25 AM Daily cannot reach you until you reauthorize.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "✅ Todoist is back after five dark days — first chip written since Friday landed this run.",
-      "🔌 Brivity /people returned HTTP 500 at 12:32 — the deep sweep's Part B stayed blocked.",
-      "📤 Draft folder at 92, up from 76 this morning — nothing drained today."
+      "🔌 Google OAuth revoked — Gmail reading and all Make sends dead since 12:37 PM.",
+      "📉 Showing Board frozen at 11:37 AM — its only source is ShowingTime email.",
+      "📤 Draft folder fell 92 to 24 — you drained sixty-nine by hand at 1:15 PM."
     ]
   },
   "callBlock": [
     {
       "who": "Tayler B.",
       "heat": "hot",
-      "why": "Filed Interested: Yes at 11:37 this morning — flood plain, not price, is the objection."
+      "why": "Filed **Interested: Yes** at 11:37 today; flood plain, not price, is her objection."
     },
     {
       "who": "Ryder B.",
       "heat": "hot",
-      "why": "He is returning a call you placed last week, and he does not know why."
+      "why": "He is returning a call you placed last week and does not know why."
     },
     {
       "who": "Patricia M.",
       "heat": "hot",
-      "why": "Past client still waiting on the Fairhope CMA you promised in mid-August."
+      "why": "Past client still waiting on the Fairhope CMA you promised on 14 August."
     },
     {
       "who": "Jeffrey W.",
       "heat": "hot",
-      "why": "His Helena listing cancelled 8/18 and your market report never got a follow-up call."
+      "why": "His $699,900 Helena listing cancelled 8/18 and the market report never drew a call."
     },
     {
       "who": "Bruce T.",
       "heat": "hot",
-      "why": "Seller hand-raise on a North Port, Florida home — a week old, never dialled."
+      "why": "Seller hand-raise on a North Port, Florida home — filed a week ago, never dialled."
+    },
+    {
+      "who": "Mike S.",
+      "heat": "hot",
+      "why": "A managing broker's veterans-nonprofit referral is 68 hours cold with three competing drafts."
     },
     {
       "who": "Narrows Point sign-rider texter",
       "heat": "hot",
-      "why": "Texted the rider on your own Narrows Point lot four days ago."
+      "why": "Texted the rider on your own Narrows Point lot; nobody has called back."
     },
     {
       "who": "Cambridge Lane home-value lead",
-      "heat": "warm",
-      "why": "Contactless value form on a Cambridge Lane address that sits inside your farm."
-    },
-    {
-      "who": "Merry L.",
-      "heat": "warm",
-      "why": "Sunday's buyers drafted an offer, then stopped at the flood plain."
+      "heat": "hot",
+      "why": "Contactless value form on a Cambridge Lane address sitting inside your Alabaster farm."
     }
   ],
   "listings": [
@@ -80,7 +80,7 @@
       "addr": "1406 Marina Landing",
       "client": "Launch 9/10",
       "status": "📢 COMING SOON — MLS Thursday, six buyers emailed this morning",
-      "note": "⚠️ Two prices still in the building. Rule it before Thursday's first priced post."
+      "note": "⚠️ Price still unruled and Thursday's launch is three days out."
     },
     {
       "addr": "115 Indian Woman Rd",
@@ -134,7 +134,7 @@
       "addr": "3350 Altamont Rd E21",
       "client": "Ayman M.",
       "status": "✅ UNDER CONTRACT — closes 9/14, seven days out",
-      "note": "⚠️ Inspection requests have sat with your seller since 8/20 — eighteen days."
+      "note": "⚠️ p1 raised today: no appraisal, clear-to-close or title mail in thirty days."
     },
     {
       "addr": "1709 Fieldstone Cir",
@@ -169,28 +169,29 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Thursday's NSF still has two retries live — no new bank alert since this morning."
+    "note": "🔴 Thursday's NSF retries still open — Gmail down since 2:36 PM, no new alert readable."
   },
   "isa": {
-    "openCallTasks": 64,
-    "decayPolicy": "64 open calls · 56 due or overdue · 8 at p1",
-    "sweepCadence": "Todoist live again — first count since Friday"
+    "openCallTasks": 68,
+    "decayPolicy": "68 open · 9 p1 due or overdue · up 4 since midday",
+    "sweepCadence": "Todoist live · last read 5:35 PM"
   },
   "builds": [
-    "🔧 Review: nightly guard now names inbound callers off the dossiers",
-    "🔧 Review: SHORT_04 upload sheet pre-written for the drip slot"
+    "🔌 Reconnect Gmail — the fleet is blind to email",
+    "🔧 Review: SHORT_06 sheet stripped its two disputed STR tags",
+    "🔧 Review: nightly guard now names inbound callers off the dossiers"
   ],
   "controls": {
-    "do": "Call Don C. — sellers still untold since Sunday",
+    "do": "Reauthorize Google in claude.ai **and** Make",
     "decide": "1406 list price: $579,900 or $579,000?",
-    "watch": "Carroll seller draft staged — do not send",
-    "draftsWaiting": 92
+    "watch": "3350 Altamont closes 9/14, inspections unanswered 18 days",
+    "draftsWaiting": 24
   },
   "scoreboard": {
     "touches30d": 264,
     "replies30d": 65,
-    "appts30d": 4,
-    "contracts30d": 7,
+    "appts30d": 3,
+    "contracts30d": 6,
     "closed30d": 3,
     "gci30d": "$18K",
     "topRoutine": "database-power-daily"
