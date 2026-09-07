@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 5, 2026 · 5:45 PM CT",
+  "updated": "Sep 6, 2026 · 10:45 PM CT",
   "nextSweep": "tomorrow morning",
-  "headline": "🏖️ Thirteen beach carries re-read Active tonight at unchanged prices, including 17330 State Highway 180 back on page one.",
+  "headline": "🏖️ Twelve beach carries re-read Active tonight at unchanged prices; three that page one could not confirm for two sweeps came off the board.",
   "lanes": [
     {
       "id": "nash",
@@ -687,29 +687,6 @@
           "badge": null
         },
         {
-          "id": "901-lockenbie-pl",
-          "address": "901 Lockenbie Pl",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 595000,
-          "beds": 4,
-          "baths": 3,
-          "propertyType": "Single-family house",
-          "waterPosition": "Island interior — water position not stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "4 bed / 3 bath — largest bedroom count at this price",
-            "Dauphin Island, the sub-$600K house market on this coast",
-            "MLS 7803873"
-          ],
-          "fitNote": "The most sleeping capacity available under $600K on Dauphin Island, which is the number that drives nightly rate. Verified live on the listing brokerage's own inventory page tonight at $595,000.",
-          "strNote": "No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": null
-        },
-        {
           "id": "1469-w-lagoon-ave",
           "address": "1469 W Lagoon Avenue",
           "city": "Gulf Shores (Lagoon Estates)",
@@ -758,30 +735,6 @@
           "photoUrl": "https://property-images.realgeeks.com/algulf/bd2ab912e926f5a51176c22a951bd1e1.jpg",
           "broker": "Griffin Realty",
           "mls": "7791898",
-          "badge": null
-        },
-        {
-          "id": "2242-mallard",
-          "address": "2242 Mallard",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 549900,
-          "sf": null,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Detached single-family",
-          "waterPosition": null,
-          "rentalHistory": null,
-          "highlights": [
-            "3 bed / 2 bath detached, read Active on the island index",
-            "Priced mid-pack for the lane — under the $600K ceiling",
-            "Square footage, water position and rental history not stated — not guessed"
-          ],
-          "fitNote": "🆕 New tonight. Detached 3BR on Dauphin Island at $549,900, inside the lane's shape. ⚠️ Source states no square footage, water position or rental history.",
-          "strNote": "⚠️ No rental income or projection is stated on the listing, so none is claimed here.",
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty LLC",
           "badge": null
         },
         {
@@ -978,30 +931,6 @@
           "badge": null
         },
         {
-          "id": "601-bienville-blvd",
-          "address": "601 Bienville Blvd",
-          "city": "Dauphin Island, AL",
-          "dealType": "sale",
-          "price": 374900,
-          "beds": 3,
-          "baths": 2,
-          "propertyType": "Single-family house",
-          "waterPosition": "Dauphin Island — water position not stated on the listing",
-          "rentalHistory": null,
-          "highlights": [
-            "3 bedrooms, 2 baths — renovated",
-            "Detached house on Dauphin Island",
-            "Read live and ACTIVE on the broker index this evening",
-            "Verified price cut Aug 21: $399,000 → $374,900"
-          ],
-          "fitNote": "♻️ Restored — removed Aug 29 after two missed pulls, now prints Active at $374,900, renovated. One of the cheapest detached 3BRs here; already cut $24,100.",
-          "strNote": null,
-          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
-          "photoUrl": null,
-          "broker": "Griffin Realty, LLC",
-          "badge": null
-        },
-        {
           "id": "302-audubon-pl",
           "address": "302 Audubon Pl",
           "city": "Dauphin Island",
@@ -1094,7 +1023,7 @@
           ]
         }
       ],
-      "note": "✅ Thirteen carries re-read Active at unchanged prices; 17330 State Hwy 180 returned to page one. 901 Lockenbie and 601 Bienville still absent — kept, not removed."
+      "note": "✅ Twelve carries re-read Active at unchanged prices. 901 Lockenbie, 601 Bienville and 2242 Mallard removed — unconfirmable on page one for two sweeps."
     }
   ]
 }

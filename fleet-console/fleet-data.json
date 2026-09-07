@@ -1,24 +1,39 @@
 {
-  "updated": "2026-09-05 5:45 PM CT",
-  "headline": "🗓️ 225 Willow Point booked a Sunday 1:30 showing this afternoon and the sellers still do not know.",
+  "updated": "2026-09-06 10:45 PM CT",
+  "headline": "🔴 198 Rena Dr's contract died Sunday night on inspection cost — September's biggest file is off the board and the sellers still do not know.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🔌 Todoist dark 33 straight runs — no chips, no board count since Thursday morning.",
-      "📤 Draft folder now 68, and nothing has been sent by hand in 48 hours.",
-      "📵 Text relay dark 45 hours — the earlier nine-day figure was wrong."
+      "🔌 Todoist dark 39 runs — no chips written since Thursday, four routines blocked tonight.",
+      "🌑 Fleet ran dark about 25 hours Sunday; every routine caught up after 9:40 PM.",
+      "📤 Draft folder up to 72 — five added tonight, four of them duplicates."
     ]
   },
   "callBlock": [
     {
+      "who": "Don & Ann C.",
+      "heat": "hot",
+      "why": "Their contract died last night and nobody has told them. First call Monday."
+    },
+    {
+      "who": "Six new 1406 buyers",
+      "heat": "hot",
+      "why": "All six landed Sunday and not one has been called. Work them at seven."
+    },
+    {
       "who": "Sondra & Darrell S.",
       "heat": "hot",
-      "why": "A Sunday 1:30 showing just landed on their townhouse. Tell them tonight."
+      "why": "A 9:45 AM showing lands Monday and they do not know it exists."
+    },
+    {
+      "who": "Seth B.",
+      "heat": "hot",
+      "why": "His listing agreement expires Tuesday and no re-list terms have been discussed."
     },
     {
       "who": "Sarah J.",
       "heat": "hot",
-      "why": "Showed 2127 Hwy 93 Friday 8:30 — the first read at $999,000 is still unasked."
+      "why": "Showed 2127 Hwy 93 Friday 8:30 — three days on, the read is still unasked."
     },
     {
       "who": "Ty T.",
@@ -26,73 +41,64 @@
       "why": "Walked the same house Friday 4:30 — the other half of the price answer."
     },
     {
-      "who": "Gloria F.",
-      "heat": "hot",
-      "why": "Your 1406 seller called at 7:08 last night and it is still unreturned."
-    },
-    {
-      "who": "Kathleen B.",
-      "heat": "hot",
-      "why": "New 1406 buyer, and your email promised her a call you have not made."
-    },
-    {
-      "who": "Thomas W.",
-      "heat": "hot",
-      "why": "Second 1406 buyer off Friday night's ad — he answered in under three minutes."
+      "who": "Jeff B.",
+      "heat": "warm",
+      "why": "His agreement expires Wednesday and the price talk you promised 8/24 is open."
     },
     {
       "who": "Paul & Neely F.",
-      "heat": "hot",
-      "why": "Your 2127 sellers, five days silent since the cut. Call them either way."
-    },
-    {
-      "who": "Scarlett D.",
-      "heat": "hot",
-      "why": "Asked to review with you Thursday morning and has now waited over a day."
+      "heat": "warm",
+      "why": "Your 2127 sellers, a week silent since the cut. Call them either way."
     }
   ],
   "listings": [
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
-      "status": "✅ UNDER CONTRACT — appraiser walked it Friday 8:00 AM",
-      "note": "🚨 No value back 24 hours on, and this one file is **73%** of September."
+      "status": "🔴 CONTRACT DEAD — buyer cancelled Sunday night on inspection cost",
+      "note": "Mutual release promised, not received — and the **sellers have not been told**."
     },
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
-      "status": "🔥 ACTIVE $999,000 — three tours since the cut, none filed",
-      "note": "📞 Friday's pair is now a day old. **Zero written reads** at the new price."
+      "status": "🔥 ACTIVE $999,000 — four tours since the cut, none filed",
+      "note": "📞 Friday's pair is now three days old. **Zero written reads** at the new price."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "⏳ ACTIVE $295,000 — 21 showings, agreement expires Tuesday",
-      "note": "💰 Three days left, and the only price box ever ticked reads **Just right**."
+      "note": "💰 Two days left, and the only price box ever ticked reads **Just right**."
     },
     {
       "addr": "1406 Marina Landing",
       "client": "Launch 9/10",
-      "status": "📢 COMING SOON — MLS Thursday, four buyers already raised hands",
-      "note": "⚠️ Two prices in the building — **$579,900 versus $579,000**. Rule it before Wednesday."
+      "status": "📢 COMING SOON — MLS Thursday, six new buyers landed Sunday",
+      "note": "⚠️ Two prices in the building — **$579,900 versus $579,000**. Rule it before Thursday."
     },
     {
       "addr": "115 Indian Woman Rd",
       "client": "Clint K.",
       "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
-      "note": "📮 First buyer heads-up already out, before it ever goes live."
+      "note": "📮 One of Sunday's six buyers came in tagged to this address, not 1406."
     },
     {
       "addr": "225 Willow Point Cir",
       "client": "Sondra & Darrell S.",
-      "status": "🔴 BACK ON MARKET $185,000 — Sunday 1:30 PM just booked",
-      "note": "📅 A sixth showing, and the sellers have not been told it exists."
+      "status": "🔴 BACK ON MARKET $185,000 — Monday 9:45 AM showing booked",
+      "note": "📅 Sunday's tour walked with nothing filed, and the sellers know about neither."
+    },
+    {
+      "addr": "1230 Calvert Rd",
+      "client": "Ownership unverified",
+      "status": "⚠️ ACTIVE $350,000 — cut 9/2, four runs printed the old price",
+      "note": "🔴 An 8/31 Instagram post still shows **$365,000**. Correction drafted, not sent."
     },
     {
       "addr": "372 Chelsea Farms Ln",
       "client": "Daniel B.",
       "status": "📅 COMING SOON — 22.63 acres, ruled $575K",
-      "note": "☎️ Thirteen days without a written answer. The call is still the move."
+      "note": "☎️ Fourteen days without a written answer. The call is still the move."
     },
     {
       "addr": "6161 Eagle Point Cir",
@@ -103,8 +109,8 @@
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
-      "status": "⚠️ ACTIVE $364,000 — day 166, agreement expires 9/9",
-      "note": "🔴 Four days left. The price talk you promised him 8/24 is still open."
+      "status": "⚠️ ACTIVE $364,000 — day 167, agreement expires Wednesday",
+      "note": "🔴 Scarlett owns the extension. The price talk promised 8/24 is still open."
     },
     {
       "addr": "2368 Ridge Trail",
@@ -115,14 +121,20 @@
     {
       "addr": "3350 Altamont Rd E21",
       "client": "Ayman M.",
-      "status": "✅ UNDER CONTRACT — closes 9/14, nine days out",
+      "status": "✅ UNDER CONTRACT — closes 9/14, eight days out",
       "note": "⚠️ Inspection requests have sat with your seller since 8/20 — over two weeks."
     },
     {
       "addr": "1709 Fieldstone Cir",
       "client": "Kim H.",
       "status": "✅ UNDER CONTRACT — roof addendum signed, closes 10/23",
-      "note": "🎉 Quietest file you own. Only the escrow holdback sizing is still loose."
+      "note": "🎉 Quietest file you own, and now the only clean contract on the board."
+    },
+    {
+      "addr": "821 Martinwood Rd",
+      "client": "Team listing",
+      "status": "🔥 ACTIVE $219,900 — price cut live, expires Wednesday",
+      "note": "⚠️ Traci's co-list. Monday's scheduled post is its first touch in weeks."
     },
     {
       "addr": "2082 Narrows Point Cv",
@@ -133,7 +145,7 @@
     {
       "addr": "833 Madison Ln",
       "client": "Newly tracked",
-      "status": "📢 COMING SOON — six weekdays live, zero requests",
+      "status": "📢 COMING SOON — seven weekdays live, zero requests",
       "note": "🔴 The calendar has never held a single entry."
     },
     {
@@ -141,12 +153,6 @@
       "client": "Daniel B.",
       "status": "🔥 ACTIVE $599K — package play, highest lead yield",
       "note": "🔍 Furthest-along builder wants un-entitled acreage. That is a buy-box, not a no."
-    },
-    {
-      "addr": "821 Martinwood Rd",
-      "client": "Team listing",
-      "status": "🔥 ACTIVE $219,900 — price cut live, expires 9/9",
-      "note": "⚠️ Traci's co-list. An 8/20 post still shows the old price."
     },
     {
       "addr": "195 Lake View Cir",
@@ -159,30 +165,30 @@
     "closedYTD": 25,
     "goal": 45,
     "teamGoal": 90,
-    "paceProjection": "At day 248, 25 closings annualises to about 37 — just above the 35 survive line."
+    "paceProjection": "At day 249, 25 closings annualises to about 37 — just above the 35 survive line."
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Fourth insufficient-funds alert in eleven days, though a small deposit finally cleared this afternoon."
+    "note": "🔴 Chase posted a past-due balance this morning; a deposit cleared tonight but nothing is settled."
   },
   "isa": {
     "openCallTasks": 54,
-    "decayPolicy": "54 open calls · last true count Thursday 7:20 AM",
-    "sweepCadence": "Todoist dark 33 runs · no fresh count"
+    "decayPolicy": "54 open calls · last true count Thursday morning",
+    "sweepCadence": "Todoist dark 39 runs · no fresh count"
   },
   "builds": [
-    "🔧 Reconnect Todoist — 33 runs blocked, no chips since Thursday",
-    "🔧 Rule the 1406 price before Wednesday's first priced post",
-    "🔧 Drain the draft folder — 68 staged, none sent"
+    "🔧 Reconnect Todoist — 39 runs blocked, no chips since Thursday",
+    "🔧 Rule the 1406 price before Thursday's first priced post",
+    "🔧 Drain the draft folder — 72 staged, three twin pairs"
   ],
   "controls": {
-    "do": "Call both 2127 agents — did $999K work?",
+    "do": "Call Don C. first — his contract died",
     "decide": "1406 at $579,900 or $579,000?",
-    "watch": "Todoist dark 33 runs — reconnect it",
-    "draftsWaiting": 68
+    "watch": "Mutual release promised 9/6, never received",
+    "draftsWaiting": 72
   },
   "scoreboard": {
-    "touches30d": 256,
+    "touches30d": 257,
     "replies30d": 64,
     "appts30d": 4,
     "contracts30d": 7,
