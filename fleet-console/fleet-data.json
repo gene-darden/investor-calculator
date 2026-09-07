@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 10:45 PM CT",
+  "updated": "2026-09-06 11:05 PM CT",
   "headline": "🔴 198 Rena Dr's contract died Sunday night on inspection cost — September's biggest file is off the board and the sellers still do not know.",
   "heartbeat": {
     "status": "alert",
@@ -56,7 +56,7 @@
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
       "status": "🔴 CONTRACT DEAD — buyer cancelled Sunday night on inspection cost",
-      "note": "Mutual release promised, not received — and the **sellers have not been told**."
+      "note": "Mutual release landed 10:23 PM awaiting your signature — and the **sellers still have not been told**."
     },
     {
       "addr": "2127 Hwy 93",
@@ -184,7 +184,7 @@
   "controls": {
     "do": "Call Don C. first — his contract died",
     "decide": "1406 at $579,900 or $579,000?",
-    "watch": "Mutual release promised 9/6, never received",
+    "watch": "Carrolls still believe they are under contract",
     "draftsWaiting": 72
   },
   "scoreboard": {
