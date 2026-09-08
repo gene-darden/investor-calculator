@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 7, 2026 · 5:40 PM CT",
+  "updated": "Sep 8, 2026 · 5:31 PM CT",
   "nextSweep": "tomorrow morning",
-  "headline": "🏢 The commercial freeze is over — Nashville and Knoxville are rebuilt from listings verified today at your new 6,000 SF floor.",
+  "headline": "🏢 Every commercial listing on this board was re-read today — twenty-five live, no price cuts, nothing gone.",
   "lanes": [
     {
       "id": "nash",
@@ -307,7 +307,7 @@
           ]
         }
       ],
-      "note": "✅ Re-verified today on LoopNet and Crexi — the freeze is over. Twelve rebuilt at your new 6,000 SF floor; sub-6,000 rows dropped."
+      "note": "✅ All thirteen re-read today on Crexi and LoopNet — every one still live at its same price. Nothing removed this sweep."
     },
     {
       "id": "knox",
@@ -598,7 +598,7 @@
           ]
         }
       ],
-      "note": "✅ Re-verified today on LoopNet and Crexi. Since last sweep: 5136 Highway 321 N came off the market; twelve rebuilt at the 6,000 SF floor."
+      "note": "✅ All thirteen re-read today — twelve live at unchanged prices plus the 319 Lovell radar row. Nothing removed this sweep."
     },
     {
       "id": "beach",
@@ -751,6 +751,31 @@
           "photoUrl": "https://property-images.realgeeks.com/algulf/e24c39eec0699d81bc1d564c019853f6.jpg",
           "broker": "Griffin Realty",
           "mls": "7802054",
+          "badge": null
+        },
+        {
+          "id": "911-lavigne",
+          "address": "911 Lavigne",
+          "city": "Dauphin Island",
+          "state": "AL",
+          "price": 499900,
+          "beds": 4,
+          "baths": 3,
+          "sf": null,
+          "waterPosition": null,
+          "rentalHistory": null,
+          "highlights": [
+            "Four bedrooms, three baths — detached house, not a condo",
+            "A hundred thousand under your $600K ceiling",
+            "Water position not stated on the source listing",
+            "Square footage not stated — confirm on the walk"
+          ],
+          "fitNote": "New on Dauphin Island today at $499,900 with four bedrooms, well under your ceiling. Water position not stated — confirm before it ranks.",
+          "strNote": "No rental income or projections stated on the listing.",
+          "url": "https://www.griffinrealtyllc.net/dauphin-island-homes-for-sale/",
+          "photoUrl": null,
+          "broker": "Griffin Realty",
+          "mls": null,
           "badge": null
         },
         {
@@ -968,7 +993,7 @@
           ]
         }
       ],
-      "note": "✅ Eight Dauphin Island carries re-read Active at unchanged prices on Sep 7. 1415 O'hara absent from page one — kept pending a second read."
+      "note": "✅ Both Gulf Shores homes re-read Active today at unchanged prices. 911 Lavigne is new; other carries kept under the absence law."
     }
   ]
 }

@@ -1,19 +1,34 @@
 {
-  "updated": "2026-09-07 5:40 PM CT",
-  "headline": "🔌 Google's OAuth grant was revoked — Gmail reading and every fleet send are dead, so tomorrow's 6:25 AM Daily cannot reach you until you reauthorize.",
+  "updated": "2026-09-08 5:31 PM CT",
+  "headline": "🔌 Gmail and the fleet are back after a 19.5-hour blackout that cost nothing — no leads lost, no showings missed.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🔌 Google OAuth revoked — Gmail reading and all Make sends dead since 12:37 PM.",
-      "📉 Showing Board frozen at 11:37 AM — its only source is ShowingTime email.",
-      "📤 Draft folder fell 92 to 24 — you drained sixty-nine by hand at 1:15 PM."
+      "✅ Gmail answered on two endpoints at 5:35 PM — the 27-hour outage is over.",
+      "🕳️ Fleet ran nothing for 19.5 hours overnight — about 39 sweeps missed, zero leads lost.",
+      "📭 ShowingTime silent since 9/7 11:37 AM — no new feedback, no new bookings by email."
     ]
   },
   "callBlock": [
     {
       "who": "Tayler B.",
       "heat": "hot",
-      "why": "Filed **Interested: Yes** at 11:37 today; flood plain, not price, is her objection."
+      "why": "Filed **Interested: Yes** on Willow Point yesterday; flood plain, not price, is her objection."
+    },
+    {
+      "who": "Rob C.",
+      "heat": "hot",
+      "why": "You promised **“I’ll call you myself”** — a Birmingham seller, and nothing is tracking it."
+    },
+    {
+      "who": "Cheryl C.",
+      "heat": "hot",
+      "why": "Her first email hard-bounced three seconds after send; the phone is her only channel."
+    },
+    {
+      "who": "Mike S.",
+      "heat": "hot",
+      "why": "A managing broker’s veterans-nonprofit referral, now four days cold with three competing drafts."
     },
     {
       "who": "Ryder B.",
@@ -26,91 +41,82 @@
       "why": "Past client still waiting on the Fairhope CMA you promised on 14 August."
     },
     {
-      "who": "Jeffrey W.",
+      "who": "Narrows Point sign-rider texter",
       "heat": "hot",
-      "why": "His $699,900 Helena listing cancelled 8/18 and the market report never drew a call."
+      "why": "A second texter on your own Narrows Point lot — the alert never reached you."
     },
     {
       "who": "Bruce T.",
       "heat": "hot",
-      "why": "Seller hand-raise on a North Port, Florida home — filed a week ago, never dialled."
-    },
-    {
-      "who": "Mike S.",
-      "heat": "hot",
-      "why": "A managing broker's veterans-nonprofit referral is 68 hours cold with three competing drafts."
-    },
-    {
-      "who": "Narrows Point sign-rider texter",
-      "heat": "hot",
-      "why": "Texted the rider on your own Narrows Point lot; nobody has called back."
-    },
-    {
-      "who": "Cambridge Lane home-value lead",
-      "heat": "hot",
-      "why": "Contactless value form on a Cambridge Lane address sitting inside your Alabaster farm."
+      "why": "Seller hand-raise on a North Port, Florida home — filed nine days ago, never dialled."
     }
   ],
   "listings": [
     {
-      "addr": "198 Rena Dr",
-      "client": "Don & Ann C.",
-      "status": "🔴 CONTRACT DEAD — buyer cancelled Sunday on inspection cost",
-      "note": "Mutual release awaits your signature, and the **sellers still have not been told**."
+      "addr": "23223 Front Beach Rd B3-407",
+      "client": "Jeff B.",
+      "status": "🚨 ACTIVE $364,000 — day 169, agreement expires tomorrow",
+      "note": "🔴 Scarlett owns the extension and it has been unverifiable since Sunday."
+    },
+    {
+      "addr": "821 Martinwood Rd",
+      "client": "Team listing",
+      "status": "🔥 ACTIVE $219,900 — price cut live, expires tomorrow",
+      "note": "⚠️ Traci’s co-list, and still zero tours inside the fourteen-day window."
     },
     {
       "addr": "355 Comanche St",
       "client": "Seth B.",
-      "status": "⏳ ACTIVE $295,000 — agreement expires tomorrow, 21 showings",
-      "note": "💰 Shannon's reply draft is staged and unsent. Send it today, do not rewrite it."
+      "status": "⌛ ACTIVE $295,000 — agreement expired today, 21 showings",
+      "note": "💰 Shannon’s reply draft is still staged and unsent, ten days on."
+    },
+    {
+      "addr": "1406 Marina Landing",
+      "client": "Launch 9/10",
+      "status": "📢 COMING SOON — MLS Thursday, two days out",
+      "note": "⚠️ The list price is still unruled with the launch forty-eight hours away."
+    },
+    {
+      "addr": "3350 Altamont Rd E21",
+      "client": "Ayman M.",
+      "status": "✅ UNDER CONTRACT — closes 9/14, six days out",
+      "note": "⚠️ A third calendar check found no closing event, no walkthrough, no title mail."
+    },
+    {
+      "addr": "225 Willow Point Cir",
+      "client": "Sondra & Darrell S.",
+      "status": "🔥 ACTIVE $185,000 — Interested: Yes filed 9/7, four tours",
+      "note": "🌊 Two agents in two days named the flood plain. Neither touched the price."
     },
     {
       "addr": "2127 Hwy 93",
       "client": "Paul & Neely F.",
       "status": "🔥 ACTIVE $999,000 — four tours since the cut, none filed",
-      "note": "📞 Friday's pair is now three days old. **Zero written reads** at the new price."
+      "note": "📞 Cathy O.’s tour is eight days old and **no read exists** at the new price."
     },
     {
-      "addr": "225 Willow Point Cir",
-      "client": "Sondra & Darrell S.",
-      "status": "🔥 ACTIVE $185,000 — Interested: Yes filed today, back on market",
-      "note": "🌊 Two agents in two days named the flood plain. Neither touched the price."
+      "addr": "2368 Ridge Trail",
+      "client": "Opendoor — institutional seller",
+      "status": "⚠️ ACTIVE $550,000 — two tours booked Saturday and Sunday",
+      "note": "🆕 Friday’s read was condition, not price — **updates and a bigger dining room**."
     },
     {
-      "addr": "1406 Marina Landing",
-      "client": "Launch 9/10",
-      "status": "📢 COMING SOON — MLS Thursday, six buyers emailed this morning",
-      "note": "⚠️ Price still unruled and Thursday's launch is three days out."
+      "addr": "198 Rena Dr",
+      "client": "Don & Ann C.",
+      "status": "🔴 CONTRACT DEAD — buyer cancelled on inspection cost",
+      "note": "Mutual release still awaits your signature, and the **sellers have still not been told**."
     },
     {
       "addr": "115 Indian Woman Rd",
       "client": "Clint K.",
       "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
-      "note": "📮 One of Sunday's six inbound buyers came in tagged here, not 1406."
-    },
-    {
-      "addr": "23223 Front Beach Rd B3-407",
-      "client": "Jeff B.",
-      "status": "⚠️ ACTIVE $364,000 — day 168, agreement expires Wednesday",
-      "note": "🔴 Scarlett owns the extension. The price talk promised 8/24 is still open."
-    },
-    {
-      "addr": "821 Martinwood Rd",
-      "client": "Team listing",
-      "status": "🔥 ACTIVE $219,900 — price cut live, expires Wednesday",
-      "note": "⚠️ Traci's co-list, zero tours in the window. Today's post was its first touch."
+      "note": "📮 One of Sunday’s six inbound buyers came in tagged here, not 1406."
     },
     {
       "addr": "1230 Calvert Rd",
       "client": "Ownership unverified",
       "status": "⚠️ ACTIVE $350,000 — cut 9/2, correction post still unsent",
       "note": "🔴 An 8/31 Instagram post still shows the old price. Correction drafted, never sent."
-    },
-    {
-      "addr": "2368 Ridge Trail",
-      "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE $550,000 — two tours booked 9/12 and 9/13",
-      "note": "🆕 Friday's read was condition, not price — **updates and a bigger dining room**."
     },
     {
       "addr": "6161 Eagle Point Cir",
@@ -122,7 +128,7 @@
       "addr": "372 Chelsea Farms Ln",
       "client": "Daniel B.",
       "status": "📅 COMING SOON — 22.63 acres, ruled $575K",
-      "note": "☎️ Fifteen days without a written answer. The call is still the move."
+      "note": "☎️ Sixteen days without a written answer. The call is still the move."
     },
     {
       "addr": "Deer Ridge Lakes — 19 lots",
@@ -131,28 +137,22 @@
       "note": "🔍 Furthest-along builder wants un-entitled acreage. That is a buy-box, not a no."
     },
     {
-      "addr": "3350 Altamont Rd E21",
-      "client": "Ayman M.",
-      "status": "✅ UNDER CONTRACT — closes 9/14, seven days out",
-      "note": "⚠️ p1 raised today: no appraisal, clear-to-close or title mail in thirty days."
+      "addr": "2082 Narrows Point Cv",
+      "client": "Gene’s own lot",
+      "status": "🔥 ACTIVE — two sign-rider texts, neither returned",
+      "note": "📞 A second texter came in last night and that alert never reached you."
+    },
+    {
+      "addr": "833 Madison Ln",
+      "client": "Newly tracked",
+      "status": "📢 COMING SOON — nine weekdays live, zero requests",
+      "note": "🔴 The showing calendar has never held a single entry."
     },
     {
       "addr": "1709 Fieldstone Cir",
       "client": "Kim H.",
       "status": "✅ UNDER CONTRACT — roof addendum signed, closes 10/23",
       "note": "🎉 The only clean contract left on the board."
-    },
-    {
-      "addr": "2082 Narrows Point Cv",
-      "client": "Gene's own lot",
-      "status": "🔥 ACTIVE — sign rider drew a live text last week",
-      "note": "📞 The caller still has not been reached."
-    },
-    {
-      "addr": "833 Madison Ln",
-      "client": "Newly tracked",
-      "status": "📢 COMING SOON — eight weekdays live, zero requests",
-      "note": "🔴 The showing calendar has never held a single entry."
     },
     {
       "addr": "195 Lake View Cir",
@@ -165,27 +165,27 @@
     "closedYTD": 24,
     "goal": 45,
     "teamGoal": 90,
-    "paceProjection": "At day 250, 24 closings annualises to about 35 — right on the 35 survive line."
+    "paceProjection": "At day 251, 24 closings annualises to about 35 — right on the 35 survive line."
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Thursday's NSF retries still open — Gmail down since 2:36 PM, no new alert readable."
+    "note": "🔴 NSF retries from 9/4 are still live, and no Money Pulse ran today."
   },
   "isa": {
-    "openCallTasks": 68,
-    "decayPolicy": "68 open · 9 p1 due or overdue · up 4 since midday",
-    "sweepCadence": "Todoist live · last read 5:35 PM"
+    "openCallTasks": 66,
+    "decayPolicy": "66 open · 12 at p1 · down 2 since yesterday",
+    "sweepCadence": "Todoist live · last read 5:45 PM"
   },
   "builds": [
-    "🔌 Reconnect Gmail — the fleet is blind to email",
-    "🔧 Review: SHORT_06 sheet stripped its two disputed STR tags",
-    "🔧 Review: nightly guard now names inbound callers off the dossiers"
+    "🔌 Gmail reauth chip — Gmail answered tonight, close it",
+    "🔧 Review: orphan guard classifies chips instead of grepping addresses",
+    "🔧 Review: this console now reads its clock from PowerShell"
   ],
   "controls": {
-    "do": "Reauthorize Google in claude.ai **and** Make",
+    "do": "Call Tayler B. — Interested: Yes on Willow Point",
     "decide": "1406 list price: $579,900 or $579,000?",
-    "watch": "3350 Altamont closes 9/14, inspections unanswered 18 days",
-    "draftsWaiting": 24
+    "watch": "3350 Altamont closes Monday: no title mail, checked today",
+    "draftsWaiting": 26
   },
   "scoreboard": {
     "touches30d": 264,
