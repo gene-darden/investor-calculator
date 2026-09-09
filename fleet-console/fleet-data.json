@@ -1,15 +1,20 @@
 {
-  "updated": "2026-09-09 12:35 PM CT",
-  "headline": "🗞️ The Daily has produced no letter for two straight mornings and left no trace on any of its three surfaces.",
+  "updated": "2026-09-09 5:35 PM CT",
+  "headline": "🚨 The weekly report told your Front Beach seller his agreement is extended — on the day it expires, with no receipt anywhere.",
   "heartbeat": {
     "status": "alert",
     "notes": [
-      "🗞️ The Daily fired at 6:29 AM and produced nothing — second morning, no letter anywhere.",
-      "📉 Facebook ad leads at zero for 66 hours — Meta says your custom events are blocked.",
-      "📵 SMS relay still dead — sign-rider texts to you are not arriving."
+      "🗞️ The Daily fired at 6:29 AM and produced no letter — second morning running.",
+      "📬 Your draft queue went 56 to 5 — you drained it by hand this afternoon.",
+      "📵 SMS relay is latent, not dead — two texts landed 43 hours late."
     ]
   },
   "callBlock": [
+    {
+      "who": "Gloria F.",
+      "heat": "hot",
+      "why": "Emailed **“I have a referral for you”** six minutes after your report, and never said who."
+    },
     {
       "who": "Jeffrey J.",
       "heat": "hot",
@@ -19,6 +24,11 @@
       "who": "Tayler B.",
       "heat": "hot",
       "why": "Filed **Interested: Yes** on Willow Point Monday; flood plain, not price, is her stop."
+    },
+    {
+      "who": "Greg E.",
+      "heat": "hot",
+      "why": "**HOT** seller lead whose review call has been overdue since March."
     },
     {
       "who": "Bill R.",
@@ -31,19 +41,9 @@
       "why": "Live buyer, IDX fired 9/2, and you were chasing a specific house for him."
     },
     {
-      "who": "Alex & Charlene T.",
-      "heat": "hot",
-      "why": "Their own stated move window has now come and gone."
-    },
-    {
-      "who": "Pam G.",
-      "heat": "hot",
-      "why": "She asked you for something on 1 June and never got an answer."
-    },
-    {
       "who": "Rob C.",
       "heat": "hot",
-      "why": "You promised **“I’ll call you myself”** — a Birmingham seller, and nothing is tracking it."
+      "why": "You promised **“I’ll call you myself”** — a Birmingham seller, and nothing tracks it."
     },
     {
       "who": "Cheryl C.",
@@ -55,13 +55,13 @@
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
-      "status": "🚨 ACTIVE $364,000 — day 170, agreement expires today",
-      "note": "🔴 Still no extension anywhere in the mail at midday. Scarlett’s **“On it!”** is the last word."
+      "status": "🚨 ACTIVE $364,000 — day 170, agreement expiry still unreceipted",
+      "note": "🔴 The 3:59 PM seller report claims **“agreement extended.”** Nine days of mail carry no receipt."
     },
     {
       "addr": "821 Martinwood Rd",
       "client": "Team listing",
-      "status": "🔥 ACTIVE $219,900 — price cut live, agreement expires today",
+      "status": "🔥 ACTIVE $219,900 — price cut live, agreement expired today",
       "note": "⚠️ Traci’s co-list, and still zero tours inside the fourteen-day window."
     },
     {
@@ -74,7 +74,7 @@
       "addr": "355 Comanche St",
       "client": "Seth B.",
       "status": "⌛ ACTIVE $295,000 — agreement expired 9/8, 21 showings",
-      "note": "💰 Shannon’s reply draft is still staged and unsent, eleven days on."
+      "note": "📮 Its staged reply draft is gone — you cleared the queue by hand this afternoon."
     },
     {
       "addr": "1406 Marina Landing",
@@ -86,7 +86,7 @@
       "addr": "3350 Altamont Rd E21",
       "client": "Ayman M.",
       "status": "✅ UNDER CONTRACT — closes 9/14, five days out",
-      "note": "⚠️ A 10:48 AM brokerage notice is a commission nag, not a clear-to-close."
+      "note": "🖊️ He signed the closing-date change at 3:18 PM. The close date stays unverified."
     },
     {
       "addr": "2127 Hwy 93",
@@ -97,14 +97,14 @@
     {
       "addr": "2368 Ridge Trail",
       "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE $550,000 — tour #47 held Tuesday, two more booked",
-      "note": "🆕 Cece P. of eXp toured at 6:10 PM Tuesday and has filed nothing yet."
+      "status": "⚠️ ACTIVE $550,000 — tour #47 held Tuesday, two booked this weekend",
+      "note": "📅 Saturday and Sunday at 9 AM, same agent both mornings. Tuesday’s read is still unfiled."
     },
     {
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
       "status": "🔴 CONTRACT DEAD — buyer cancelled on inspection cost",
-      "note": "The mutual release is still unsigned, and the sellers have still not been told."
+      "note": "The mutual release is still unsigned; the termination draft has left your queue."
     },
     {
       "addr": "115 Indian Woman Rd",
@@ -172,20 +172,20 @@
     "note": "🔴 Four credit monitors flagged a delinquency and not one of them names the account."
   },
   "isa": {
-    "openCallTasks": 82,
-    "decayPolicy": "82 open · 19 at p1 · up 3 since 7:35 AM",
-    "sweepCadence": "Todoist live · last read 12:35 PM"
+    "openCallTasks": 83,
+    "decayPolicy": "83 open · 19 at p1 · up 1 since 12:35 PM",
+    "sweepCadence": "Todoist live · last read 5:35 PM"
   },
   "builds": [
     "🗞️ The Daily fired at 6:29 AM and produced no letter",
-    "🔁 Review: a Buffer post still “scheduled” past its slot is unknown",
-    "🗂️ Review: orphan guard consolidates five chronic files into one ruling chip"
+    "🗂️ Orphan guard consolidates five chronic files into one ruling chip",
+    "🔁 A Buffer post “scheduled” past its slot now reads unknown"
   ],
   "controls": {
-    "do": "Call Jeffrey J. — 1406 goes live tomorrow",
+    "do": "Call Gloria F. — she has a referral",
     "decide": "1406 STR tags: keep them or strip them?",
-    "watch": "Front Beach expires today — unextended at 12:30 PM",
-    "draftsWaiting": 55
+    "watch": "Front Beach: seller told extended, no receipt",
+    "draftsWaiting": 5
   },
   "scoreboard": {
     "touches30d": 265,

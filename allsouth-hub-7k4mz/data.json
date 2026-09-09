@@ -1,7 +1,7 @@
 {
-  "updated": "Sep 9, 2026 · 7:38 AM CT",
-  "nextSweep": "this evening",
-  "headline": "🏢 Four new commercial fits joined the board today — two of them former restaurants, the conversion play you have already run once.",
+  "updated": "Sep 9, 2026 · 5:35 PM CT",
+  "nextSweep": "tomorrow morning",
+  "headline": "🏢 Both Tennessee lanes held all day — every listing still live at this morning’s price, nothing lost.",
   "lanes": [
     {
       "id": "nash",
@@ -325,7 +325,7 @@
           ]
         }
       ],
-      "note": "All re-read today, every one live at the same price. Added two former restaurants — Lebanon Pike and Columbine; dropped 2219 Dunn and 644 Mainstream."
+      "note": "Re-verified 7:15 AM via Crexi — all live, no price cuts. No evening hunt; next new inventory tomorrow morning."
     },
     {
       "id": "knox",
@@ -635,7 +635,7 @@
           ]
         }
       ],
-      "note": "All re-read today, all live, no price cuts. Added 7741 Maynardville and 11651 Parkside in Farragut; dropped 508 Daniels and 8431 Maynardville."
+      "note": "Re-verified 7:15 AM via Crexi — all live, no price cuts. No evening hunt; next new inventory tomorrow morning."
     },
     {
       "id": "beach",
@@ -1030,7 +1030,7 @@
           ]
         }
       ],
-      "note": "✅ All twelve re-read Active this morning at unchanged prices — ten on Dauphin Island, two in Gulf Shores. Nothing new cleared the gates."
+      "note": "All twelve read Active this morning at unchanged prices. Nothing new cleared the gates today."
     }
   ]
 }
