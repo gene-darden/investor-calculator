@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08 5:31 PM CT",
-  "headline": "📭 No ShowingTime email in thirty hours — the last was Tayler B.’s **Interested: Yes** on 225 Willow Point.",
+  "updated": "2026-09-09 7:38 AM CT",
+  "headline": "🔴 Eight tours are now held with no written read — three of them at 2127 Hwy 93’s new price.",
   "stats": {
-    "showings14d": 14,
+    "showings14d": 15,
     "feedback14d": 7,
-    "gaps": 7
+    "gaps": 8
   },
   "hotSignals": [
     {
@@ -12,40 +12,40 @@
       "date": "9/7",
       "isNew": false,
       "signal": "🔥 Tayler B. ticked **Interested: Yes** and **priced just right** — flood plain is her only stop",
-      "action": "Call her tonight — send the flood dec page you already have."
+      "action": "Call her this morning — send the flood dec page you hold."
     },
     {
       "addr": "355 Comanche St",
       "date": "8/16",
       "isNew": false,
-      "signal": "🔥 Amy G. filed the only **Interested: YES** this listing ever drew — 22 days, never called",
-      "action": "Call her today — the agreement expired, and she is the only yes."
+      "signal": "🔥 Amy G. filed the only **Interested: YES** this listing ever drew — 24 days, never called",
+      "action": "Call her today — the agreement expired and she is the only yes."
     },
     {
       "addr": "2127 Hwy 93",
       "date": "8/31",
       "isNew": false,
       "signal": "🔥 Cathy O. was first of three agents into the house at $999,000. None of the three filed.",
-      "action": "Call her tomorrow — eight days on, the oldest unasked read."
+      "action": "Call her today — nine days on, the oldest unasked read."
     },
     {
       "addr": "225 Willow Point Cir",
       "date": "8/25",
       "isNew": false,
-      "signal": "🔥 Angela W. called it an “adorable townhouse” unprompted — her buyer's husband still hasn't seen it.",
+      "signal": "🔥 Angela W. called it an “adorable townhouse” unprompted — her buyer’s husband still hasn’t seen it.",
       "action": "Call her — just “still available, bring him through.”"
     },
     {
       "addr": "225 Willow Point Cir",
       "date": "8/27",
       "isNew": false,
-      "signal": "🔥 Davis H. toured 8/27 and has filed nothing in eleven days — the house is available again.",
+      "signal": "🔥 Davis H. toured 8/27 and has filed nothing in thirteen days — the house is available again.",
       "action": "Call him with the update — repeat agent, availability flipped."
     }
   ],
   "upcoming": [
     "📅 **Sat 9/12 + Sun 9/13, 9:00 AM — 2368 Ridge Trail.** Joey C., EXIT Coosa River, two consecutive mornings.",
-    "📭 **Nothing else is booked by email.** Four empty days sit between today and that Saturday."
+    "📭 **Nothing else is booked by email.** Two empty days sit between today and that Saturday."
   ],
   "listings": [
     {
@@ -53,7 +53,7 @@
       "city": "Montevallo",
       "price": "$295,000",
       "client": "Seth B.",
-      "status": "⌛ ACTIVE — 21 showings, and the listing agreement expired today",
+      "status": "⌛ ACTIVE — 21 showings, and the listing agreement expired 9/8",
       "showings14d": 3,
       "feedback": [
         {
@@ -106,7 +106,7 @@
         }
       ],
       "gaps": [
-        "🔴 **Mon 8/31 3:45 PM — Cathy O., ARC Realty–Hoover.** The first tour at the new price, nothing filed in eight days.",
+        "🔴 **Mon 8/31 3:45 PM — Cathy O., ARC Realty–Hoover.** The first tour at the new price, nothing filed in nine days.",
         "🔴 **Fri 9/4 8:30 AM — Sarah J., ARC Realty–Hoover.** Held, nothing filed.",
         "🔴 **Fri 9/4 4:30 PM — Ty T., Keller Williams Homewood.** Held, nothing filed."
       ],
@@ -117,7 +117,7 @@
       "city": "Alabaster",
       "price": "$185,000",
       "client": "Sondra & Darrell S.",
-      "status": "🔥 ACTIVE — yesterday’s 9:45 AM tour filed an Interested: Yes",
+      "status": "🔥 ACTIVE — an Interested: Yes filed 9/7, and no tour booked since",
       "showings14d": 4,
       "feedback": [
         {
@@ -152,8 +152,8 @@
         }
       ],
       "gaps": [
-        "🔴 Wed 9/2 6:00 PM — **Estacie L. of eXp Realty Central**, the first tour since it reopened. Six days, nothing filed.",
-        "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in twelve days. A repeat agent who does not know the house reopened."
+        "🔴 Wed 9/2 6:00 PM — **Estacie L. of eXp Realty Central**, the first tour since it reopened. Seven days, nothing filed.",
+        "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in thirteen days. A repeat agent who does not know the house reopened."
       ],
       "note": "🌊 Two written reads, ninety minutes apart, both naming the flood plain."
     },
@@ -162,8 +162,8 @@
       "city": "Birmingham",
       "price": "$550,000",
       "client": "Opendoor — institutional seller",
-      "status": "⚠️ ACTIVE — Friday's double held, two more booked 9/12 and 9/13",
-      "showings14d": 2,
+      "status": "⚠️ ACTIVE — tour #47 held Tuesday evening, two more booked 9/12 and 9/13",
+      "showings14d": 3,
       "feedback": [
         {
           "date": "9/4",
@@ -179,16 +179,17 @@
         }
       ],
       "gaps": [
+        "🔴 **Tue 9/8 6:10 PM — Cece P. of eXp Realty Central.** Tour #47, held last night, nothing filed yet.",
         "🔴 Fri 9/4 — the second of Friday’s two tours, still unfiled. One agent filed same-day; the other has not."
       ],
-      "note": "🆕 Two price objections now sit against three condition ones."
+      "note": "🆕 A brand-new agent walked it Tuesday night. Two price objections against three condition ones."
     },
     {
       "addr": "23223 Front Beach Rd B3-407",
       "city": "Panama City Beach",
       "price": "$364,000",
       "client": "Jeff B.",
-      "status": "🚨 ACTIVE — day 169, listing agreement expires tomorrow 9/9",
+      "status": "🚨 ACTIVE — day 170, and the listing agreement expires today 9/9",
       "showings14d": 1,
       "feedback": [],
       "gaps": [
@@ -210,13 +211,13 @@
     {
       "addr": "1406 Marina Landing",
       "city": "Panama City Beach",
-      "price": "TBD — launch 9/10",
+      "price": "$579,000",
       "client": "Launch 9/10",
-      "status": "📢 COMING SOON — not bookable until Thursday’s 9/10 MLS launch",
+      "status": "📢 COMING SOON — not bookable until tomorrow’s 9/10 MLS launch",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "⚠️ Six buyers emailed this morning, and two prices are still in the building."
+      "note": "🎬 The price was ruled at 5:07 AM and is live on the card and sixteen posts."
     },
     {
       "addr": "115 Indian Woman Rd",
@@ -245,7 +246,7 @@
       "city": "Birmingham",
       "price": "$164,000",
       "client": "Ayman M.",
-      "status": "✅ UNDER CONTRACT — closes 9/14, six days out",
+      "status": "✅ UNDER CONTRACT — closes 9/14, five days out",
       "showings14d": 0,
       "feedback": [
         {
@@ -256,7 +257,7 @@
         }
       ],
       "gaps": [],
-      "note": "⚠️ Inspection requests have sat with your seller since 8/20 — eighteen days."
+      "note": "⚠️ Inspection requests have sat with your seller since 8/20 — twenty days."
     },
     {
       "addr": "1709 Fieldstone Cir",
@@ -274,7 +275,7 @@
       "city": "Birmingham",
       "price": "$219,900",
       "client": "Team listing",
-      "status": "🔥 ACTIVE — price cut live, agreement expires tomorrow 9/9",
+      "status": "🔥 ACTIVE — price cut live, agreement expires today 9/9",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
@@ -285,7 +286,7 @@
       "city": "Helena",
       "price": "TBD",
       "client": "Newly tracked",
-      "status": "📢 COMING SOON — ten blank weekdays, zero requests",
+      "status": "📢 COMING SOON — eleven blank weekdays, zero requests",
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
@@ -300,7 +301,7 @@
       "showings14d": 0,
       "feedback": [],
       "gaps": [],
-      "note": "☎️ Sixteen days without a written answer. The call is still the move."
+      "note": "☎️ Seventeen days without a written answer. The call is still the move."
     },
     {
       "addr": "Deer Ridge Lakes — 19 lots",
@@ -329,19 +330,19 @@
     {
       "addr": "120 King Arthur Pl · Alabaster",
       "price": "$250,000",
-      "when": "🔴 **ASKED TWICE, NOW FIFTEEN DAYS SILENT** — Keller Williams Metro South requested 8/23 1:00 PM and again 8/24 2:00 PM.",
+      "when": "🔴 **ASKED TWICE, NOW SIXTEEN DAYS SILENT** — Keller Williams Metro South requested 8/23 1:00 PM and again 8/24 2:00 PM.",
       "note": "One office asking on two of your buyer-side tours at once — one reply session answers both."
     },
     {
       "addr": "106 King Valley St · Pelham",
       "price": "$236,500",
-      "when": "🔴 **ALSO ASKED TWICE** — 8/23 2:30 PM and 8/24 2:31 PM, now fifteen days silent.",
+      "when": "🔴 **ALSO ASKED TWICE** — 8/23 2:30 PM and 8/24 2:31 PM, now sixteen days silent.",
       "note": "Same office as King Arthur, so one pass closes both and buys back the relationship."
     },
     {
       "addr": "116 Palm Dr · Alabaster",
       "price": "$249,900",
-      "when": "⚠️ Requested Sun 8/23 1:30 PM by Keller Williams Realty Hoover — fifteen days, and no second ask.",
+      "when": "⚠️ Requested Sun 8/23 1:30 PM by Keller Williams Realty Hoover — sixteen days, and no second ask.",
       "note": "Cheapest of the three to answer and the least likely to be chased again."
     },
     {
