@@ -1,19 +1,24 @@
 {
-  "updated": "2026-09-09 7:38 AM CT",
-  "headline": "🚨 Two listing agreements expire today — Front Beach B3-407 and 821 Martinwood — and no extension confirmation exists anywhere in your mail.",
+  "updated": "2026-09-09 12:35 PM CT",
+  "headline": "🗞️ The Daily has produced no letter for two straight mornings and left no trace on any of its three surfaces.",
   "heartbeat": {
-    "status": "ok",
+    "status": "alert",
     "notes": [
-      "✅ Gmail and the Make send path both proved alive at 6:20 AM — the outage is closed.",
-      "📣 Marketing deferred the 449 Cambrian Ridge launch to 9/10 — photos verified, cards not built.",
-      "📵 SMS relay is ~99% dead on day nine — texts to you are not arriving."
+      "🗞️ The Daily fired at 6:29 AM and produced nothing — second morning, no letter anywhere.",
+      "📉 Facebook ad leads at zero for 66 hours — Meta says your custom events are blocked.",
+      "📵 SMS relay still dead — sign-rider texts to you are not arriving."
     ]
   },
   "callBlock": [
     {
+      "who": "Jeffrey J.",
+      "heat": "hot",
+      "why": "Replied in **40 minutes** on 1406, and it goes live to the public tomorrow."
+    },
+    {
       "who": "Tayler B.",
       "heat": "hot",
-      "why": "Filed **Interested: Yes** on Willow Point two days ago; flood plain, not price, is her stop."
+      "why": "Filed **Interested: Yes** on Willow Point Monday; flood plain, not price, is her stop."
     },
     {
       "who": "Bill R.",
@@ -44,19 +49,14 @@
       "who": "Cheryl C.",
       "heat": "hot",
       "why": "Her first email hard-bounced three seconds after send; the phone is her only channel."
-    },
-    {
-      "who": "Narrows Point sign-rider texter",
-      "heat": "hot",
-      "why": "A second texter on your own Narrows Point lot, and that alert never reached you."
     }
   ],
   "listings": [
     {
       "addr": "23223 Front Beach Rd B3-407",
       "client": "Jeff B.",
-      "status": "🚨 ACTIVE $364,000 — day 170, and the agreement expires today",
-      "note": "🔴 No extension confirmation exists anywhere in the mail. Scarlett’s **“On it!”** is the last word."
+      "status": "🚨 ACTIVE $364,000 — day 170, agreement expires today",
+      "note": "🔴 Still no extension anywhere in the mail at midday. Scarlett’s **“On it!”** is the last word."
     },
     {
       "addr": "821 Martinwood Rd",
@@ -80,13 +80,13 @@
       "addr": "1406 Marina Landing",
       "client": "Launch 9/10",
       "status": "📢 COMING SOON $579,000 — MLS launches tomorrow",
-      "note": "🎬 The price shipped at 5:07 AM onto the card and sixteen queued posts."
+      "note": "📞 A buyer answered the rental-rules note in forty minutes this morning."
     },
     {
       "addr": "3350 Altamont Rd E21",
       "client": "Ayman M.",
       "status": "✅ UNDER CONTRACT — closes 9/14, five days out",
-      "note": "⚠️ A fourth check with working mail found no clear-to-close, no title, no closing event."
+      "note": "⚠️ A 10:48 AM brokerage notice is a commission nag, not a clear-to-close."
     },
     {
       "addr": "2127 Hwy 93",
@@ -104,7 +104,7 @@
       "addr": "198 Rena Dr",
       "client": "Don & Ann C.",
       "status": "🔴 CONTRACT DEAD — buyer cancelled on inspection cost",
-      "note": "Scarlett’s addendum is **not the mutual release**, and the sellers have still not been told."
+      "note": "The mutual release is still unsigned, and the sellers have still not been told."
     },
     {
       "addr": "115 Indian Woman Rd",
@@ -145,7 +145,7 @@
     {
       "addr": "833 Madison Ln",
       "client": "Newly tracked",
-      "status": "📢 COMING SOON — ten weekdays live, zero requests",
+      "status": "📢 COMING SOON — eleven weekdays live, zero requests",
       "note": "🔴 The showing calendar has never held a single entry."
     },
     {
@@ -169,31 +169,31 @@
   },
   "money": {
     "status": "alert",
-    "note": "🔴 Four credit bureaus flagged a delinquency on 9/6 and not one names the account."
+    "note": "🔴 Four credit monitors flagged a delinquency and not one of them names the account."
   },
   "isa": {
-    "openCallTasks": 79,
-    "decayPolicy": "79 open · 17 at p1 · up 13 since 5 PM",
-    "sweepCadence": "Todoist live · last read 7:35 AM"
+    "openCallTasks": 82,
+    "decayPolicy": "82 open · 19 at p1 · up 3 since 7:35 AM",
+    "sweepCadence": "Todoist live · last read 12:35 PM"
   },
   "builds": [
+    "🗞️ The Daily fired at 6:29 AM and produced no letter",
     "🔁 Review: a Buffer post still “scheduled” past its slot is unknown",
-    "🗂️ Review: orphan guard consolidates five chronic files into one ruling chip",
-    "🔌 Close the Gmail reauth chip — send path proved alive"
+    "🗂️ Review: orphan guard consolidates five chronic files into one ruling chip"
   ],
   "controls": {
-    "do": "Call Tayler B. before Willow Point cools",
+    "do": "Call Jeffrey J. — 1406 goes live tomorrow",
     "decide": "1406 STR tags: keep them or strip them?",
-    "watch": "Front Beach agreement expires today — checked 9/9, unextended",
-    "draftsWaiting": 51
+    "watch": "Front Beach expires today — unextended at 12:30 PM",
+    "draftsWaiting": 55
   },
   "scoreboard": {
-    "touches30d": 307,
-    "replies30d": 58,
+    "touches30d": 265,
+    "replies30d": 68,
     "appts30d": 3,
     "contracts30d": 6,
-    "closed30d": 2,
+    "closed30d": 3,
     "gci30d": "$18K",
-    "topRoutine": "database-power-daily"
+    "topRoutine": "darden-isa-sweep"
   }
 }
