@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-10 12:31 PM CT",
- "headline": "🔇 ShowingTime has now gone 42 hours without a single event — no bookings, no reads, and eight held tours still owe you feedback.",
+ "updated": "2026-09-10 5:31 PM CT",
+ "headline": "🔥 Willow Point held its eighth tour this afternoon, the first since Sunday's Interested: Yes — and nothing is filed yet.",
  "stats": {
   "showings14d": 15,
   "feedback14d": 7,
@@ -12,7 +12,7 @@
    "date": "9/7",
    "isNew": false,
    "signal": "🔥 Tayler B. ticked **Interested: Yes** and **priced just right** — flood plain is the only stop",
-   "action": "Call her today — send the flood dec page you hold."
+   "action": "Call her today — a second buyer toured this afternoon."
   },
   {
    "addr": "2127 Hwy 93",
@@ -45,7 +45,7 @@
  ],
  "upcoming": [
   "📅 **Sat 9/12 + Sun 9/13, 9:00 AM — 2368 Ridge Trail.** Joey C., EXIT Coosa River, two consecutive mornings.",
-  "📭 **Nothing else is booked by email.** Today and tomorrow sit empty in front of that Saturday."
+  "📭 **Nothing else is booked by email.** Friday sits empty in front of that Saturday."
  ],
  "listings": [
   {
@@ -117,7 +117,7 @@
    "city": "Alabaster",
    "price": "$185,000",
    "client": "Sondra & Darrell S.",
-   "status": "🔥 ACTIVE — an Interested: Yes filed 9/7, and no tour booked since",
+   "status": "🔥 ACTIVE — tour #8 held today, the first since the 9/7 yes",
    "showings14d": 4,
    "feedback": [
     {
@@ -152,10 +152,10 @@
     }
    ],
    "gaps": [
-    "🔴 Wed 9/2 6:00 PM — **Estacie L. of eXp Realty Central**, the first tour since it reopened. Eight days, nothing filed.",
-    "🔴 Thu 8/27 2:30 PM — **Davis H. of ARC Realty–Hoover**, nothing filed in fourteen days. A repeat agent who does not know the house reopened."
+    "🔴 **Thu 9/10 2:05 PM — Mahek V. of Keller Williams Homewood.** Her first visit, tour #8, held this afternoon.",
+    "🔴 Wed 9/2 6:00 PM — **Estacie L. of eXp Realty Central**, the first tour since it reopened. Eight days, nothing filed."
    ],
-   "note": "🌊 Two written reads, ninety minutes apart, both naming the flood plain."
+   "note": "🌊 Two written reads named the flood plain. A new agent toured anyway today."
   },
   {
    "addr": "2368 Ridge Trail",
@@ -213,7 +213,7 @@
    "city": "Panama City Beach",
    "price": "$579,000",
    "client": "Krystee E.",
-   "status": "🔥 ACTIVE — live on the MLS since Tuesday, no showing requests yet",
+   "status": "🔥 ACTIVE — launch posts all sent this evening, no showing requests yet",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
@@ -222,13 +222,13 @@
   {
    "addr": "115 Indian Woman Rd",
    "city": "Santa Rosa Beach",
-   "price": "$439,900",
+   "price": "$439,000",
    "client": "Clint K.",
-   "status": "🆕 ACTIVE — flipped live Tuesday alongside the 1406 launch",
+   "status": "🆕 ACTIVE — MLS now reads $439,000, and armed posts still say $439,900",
    "showings14d": 0,
    "feedback": [],
    "gaps": [],
-   "note": "🖊️ One of Sunday's six inbound buyers came in tagged to this address."
+   "note": "⏸️ A hold is written before the first armed post fires Friday evening."
   },
   {
    "addr": "6161 Eagle Point Cir",

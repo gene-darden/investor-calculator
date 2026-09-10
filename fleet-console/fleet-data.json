@@ -1,15 +1,20 @@
 {
- "updated": "2026-09-10 12:31 PM CT",
- "headline": "⚖️ Florida's DBPR opened an investigation on your license at 8:01 this morning — a 20-day clock nothing in the fleet was tracking.",
+ "updated": "2026-09-10 5:31 PM CT",
+ "headline": "⚖️ Florida's DBPR opened an investigation on your license at 8:01 this morning — day one of a 20-day clock.",
  "heartbeat": {
   "status": "ok",
   "notes": [
-   "🗞️ The Daily recovered at 7:4x — first advisor letter since Monday, sent and verified.",
-   "📵 ShowingTime silent 42 hours — no new bookings and no new reads since Tuesday.",
-   "💬 X DM lane blocked nine days — the Chat passcode is still unentered."
+   "📲 SMS relay delivering again at 4:08 PM after a day-long gap.",
+   "🎬 #1406 launch posts all sent clean this evening; one YouTube leg still unconfirmed.",
+   "💬 X DM lane blocked ten days — the Chat passcode is still unentered."
   ]
  },
  "callBlock": [
+  {
+   "who": "David P.",
+   "heat": "hot",
+   "why": "Seller back on your site at **4:15 PM** after thirteen months — never once contacted."
+  },
   {
    "who": "Charles K.",
    "heat": "hot",
@@ -44,25 +49,20 @@
    "who": "Andy B.",
    "heat": "hot",
    "why": "The 1031 identification clock is running and **no phone number** sits on his record."
-  },
-  {
-   "who": "Jessica G.",
-   "heat": "hot",
-   "why": "Listing broker on the Knoxville hybrid that hit the commercial board this morning."
   }
  ],
  "listings": [
   {
    "addr": "1406 Marina Landing",
    "client": "Krystee E.",
-   "status": "🔥 ACTIVE $579,000 — live since Tuesday, still zero showings booked",
+   "status": "🔥 ACTIVE $579,000 — launch posts sent tonight, zero showings booked",
    "note": "🎬 Eleven buyers raised a hand before it ever went public."
   },
   {
    "addr": "115 Indian Woman Rd",
    "client": "Clint K.",
-   "status": "🆕 ACTIVE $439,900 — flipped live Tuesday alongside the 1406 launch",
-   "note": "📮 One of Sunday's six inbound buyers came in tagged here, not 1406."
+   "status": "🆕 ACTIVE $439,000 — armed posts still carry $439,900",
+   "note": "⏸️ A hold is written before the first armed post fires Friday evening."
   },
   {
    "addr": "23223 Front Beach Rd B3-407",
@@ -79,8 +79,8 @@
   {
    "addr": "225 Willow Point Cir",
    "client": "Sondra & Darrell S.",
-   "status": "🔥 ACTIVE $185,000 — Interested: Yes filed 9/7, nothing booked since",
-   "note": "🌊 Two agents in two days named the flood plain. Neither touched the price."
+   "status": "🔥 ACTIVE $185,000 — tour #8 today, first since the 9/7 yes",
+   "note": "🌊 Two agents named the flood plain. A new agent toured anyway today."
   },
   {
    "addr": "355 Comanche St",
@@ -172,9 +172,9 @@
   "note": "🔴 Personal account near zero, a nine-day-past-due power bill, and a fifth credit alert."
  },
  "isa": {
-  "openCallTasks": 103,
-  "decayPolicy": "103 open · 28 at p1 · up 5 since 7:15 AM",
-  "sweepCadence": "swept every 20–30 min · last 12:2x PM"
+  "openCallTasks": 106,
+  "decayPolicy": "106 open · 31 at p1 · up 3 since 12:31 PM",
+  "sweepCadence": "swept every 20–30 min · last 5:0x PM"
  },
  "builds": [
   "Rule 27 vs Rule 19 — can a past client be re-warmed?",
@@ -185,13 +185,13 @@
   "do": "Fill the home-office % and send Rick S.",
   "decide": "#1406 number: $579,900 or $579,000 — still contested",
   "watch": "1157 Victoria closes 9/14 — no correspondence anywhere (9/10)",
-  "draftsWaiting": 41
+  "draftsWaiting": 43
  },
  "scoreboard": {
   "touches30d": 268,
   "replies30d": 69,
   "appts30d": 3,
-  "contracts30d": 7,
+  "contracts30d": 6,
   "closed30d": 3,
   "gci30d": "$18K",
   "topRoutine": "darden-isa-sweep"
