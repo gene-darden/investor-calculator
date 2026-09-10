@@ -1,19 +1,29 @@
 {
- "updated": "2026-09-10 7:31 AM CT",
- "headline": "🔥 A buyer raised their hand on a $1.19M Miramar Beach listing at 4:51 this morning — top of your call list.",
+ "updated": "2026-09-10 12:31 PM CT",
+ "headline": "⚖️ Florida's DBPR opened an investigation on your license at 8:01 this morning — a 20-day clock nothing in the fleet was tracking.",
  "heartbeat": {
   "status": "ok",
   "notes": [
-   "🗞️ The Daily is back — first advisor letter since Monday, sent and verified 6:42 AM.",
-   "📵 No ShowingTime traffic in 38 hours — no new bookings, no new reads.",
-   "🎬 Rule 32 held: SHORT_08 was built and handed to you, never uploaded."
+   "🗞️ The Daily recovered at 7:4x — first advisor letter since Monday, sent and verified.",
+   "📵 ShowingTime silent 42 hours — no new bookings and no new reads since Tuesday.",
+   "💬 X DM lane blocked nine days — the Chat passcode is still unentered."
   ]
  },
  "callBlock": [
   {
    "who": "Charles K.",
    "heat": "hot",
-   "why": "Raised a hand on a $1.19M Miramar Beach property at **4:51 this morning**."
+   "why": "Raised a hand on a $1.19M Miramar Beach property at **4:51** this morning."
+  },
+  {
+   "who": "Listing caller (737)",
+   "heat": "hot",
+   "why": "Voicemail at **9:39 this morning**: a quick question about one of your listings."
+  },
+  {
+   "who": "Thomas M.",
+   "heat": "hot",
+   "why": "Seller back on your site after **thirteen months** of silence — never once contacted."
   },
   {
    "who": "Ed S.",
@@ -26,49 +36,39 @@
    "why": "You said you'd call. **Twice.** A six-property portfolio is still waiting."
   },
   {
-   "who": "Andy B.",
-   "heat": "hot",
-   "why": "The 1031 identification clock is running and **no phone number** sits on the record."
-  },
-  {
    "who": "Gloria F.",
    "heat": "hot",
    "why": "Emailed **“I have a referral for you”** and never said who."
   },
   {
-   "who": "Jeffrey J.",
+   "who": "Andy B.",
    "heat": "hot",
-   "why": "Replied in **40 minutes** on 1406 — the listing that goes public today."
+   "why": "The 1031 identification clock is running and **no phone number** sits on his record."
   },
   {
-   "who": "Tayler B.",
+   "who": "Jessica G.",
    "heat": "hot",
-   "why": "Filed **Interested: Yes** on Willow Point; flood plain, not price, is the stop."
-  },
-  {
-   "who": "Greg E.",
-   "heat": "hot",
-   "why": "**HOT** seller lead whose review call has been overdue since March."
+   "why": "Listing broker on the Knoxville hybrid that hit the commercial board this morning."
   }
  ],
  "listings": [
   {
    "addr": "1406 Marina Landing",
-   "client": "Launch day",
-   "status": "📢 COMING SOON $579,000 — MLS launches today",
+   "client": "Krystee E.",
+   "status": "🔥 ACTIVE $579,000 — live since Tuesday, still zero showings booked",
    "note": "🎬 Eleven buyers raised a hand before it ever went public."
   },
   {
-   "addr": "3350 Altamont Rd E21",
-   "client": "Ayman M.",
-   "status": "✅ UNDER CONTRACT — closing-date change signed Tuesday",
-   "note": "🗓️ Brivity now reads **9/28**; this board read 9/14. One of them is wrong."
+   "addr": "115 Indian Woman Rd",
+   "client": "Clint K.",
+   "status": "🆕 ACTIVE $439,900 — flipped live Tuesday alongside the 1406 launch",
+   "note": "📮 One of Sunday's six inbound buyers came in tagged here, not 1406."
   },
   {
    "addr": "23223 Front Beach Rd B3-407",
    "client": "Jeff B.",
-   "status": "🚨 ACTIVE $364,000 — day 171, agreement expired yesterday",
-   "note": "🔴 Ten days of mail and still **no extension receipt** anywhere."
+   "status": "🚨 ACTIVE $364,000 — day 172, agreement expired 9/9",
+   "note": "🔴 Eleven days of mail and still **no extension receipt** anywhere."
   },
   {
    "addr": "2127 Hwy 93",
@@ -104,13 +104,13 @@
    "addr": "198 Rena Dr",
    "client": "Don & Ann C.",
    "status": "🔴 CONTRACT DEAD — buyer cancelled on inspection cost",
-   "note": "The mutual release is still unsigned, four days on."
+   "note": "The mutual release is still unsigned, five days on."
   },
   {
-   "addr": "115 Indian Woman Rd",
-   "client": "Clint K.",
-   "status": "🆕 COMING SOON $439,900 — all six listing docs signed",
-   "note": "📮 One of Sunday's six inbound buyers came in tagged here, not 1406."
+   "addr": "3350 Altamont Rd E21",
+   "client": "Ayman M.",
+   "status": "✅ UNDER CONTRACT — closing moved to 9/28, signed 9/9",
+   "note": "🗓️ The 9/14 date this board carried was two weeks over-alarmed."
   },
   {
    "addr": "1230 Calvert Rd",
@@ -128,7 +128,7 @@
    "addr": "372 Chelsea Farms Ln",
    "client": "Daniel B.",
    "status": "📅 COMING SOON — 22.63 acres, ruled $575K",
-   "note": "☎️ Eighteen days without a written answer. The call is still the move."
+   "note": "☎️ Nineteen days without a written answer. The call is still the move."
   },
   {
    "addr": "Deer Ridge Lakes — 19 lots",
@@ -145,7 +145,7 @@
   {
    "addr": "833 Madison Ln",
    "client": "Newly tracked",
-   "status": "📢 COMING SOON — twelve weekdays live, zero requests",
+   "status": "📢 COMING SOON — thirteen weekdays live, zero requests",
    "note": "🔴 The showing calendar has never held a single entry."
   },
   {
@@ -165,35 +165,35 @@
   "closedYTD": 24,
   "goal": 45,
   "teamGoal": 90,
-  "paceProjection": "At day 253 you sit 7 closings behind the pace line for 45, annualising to about 35."
+  "paceProjection": "At day 253, 24 closings annualises to about 35 — nearly seven behind the pace line for 45."
  },
  "money": {
   "status": "alert",
-  "note": "🔴 Bank cash is below yesterday's truck payment, and a fifth credit alert says a card is over limit."
+  "note": "🔴 Personal account near zero, a nine-day-past-due power bill, and a fifth credit alert."
  },
  "isa": {
-  "openCallTasks": 98,
-  "decayPolicy": "98 open · 24 at p1 · 15 landed this morning",
-  "sweepCadence": "swept every 20–30 min · last 7:15 AM"
+  "openCallTasks": 103,
+  "decayPolicy": "103 open · 28 at p1 · up 5 since 7:15 AM",
+  "sweepCadence": "swept every 20–30 min · last 12:2x PM"
  },
  "builds": [
   "Rule 27 vs Rule 19 — can a past client be re-warmed?",
-  "Amplifier's hardship gate was blind to Landvoice's source column",
-  "SHORT_08 sheet stripped of two disputed STR tags"
+  "The Daily's two blank mornings — root cause still unfound",
+  "Deep Dive shipped seven dossier corrections — review the reverts"
  ],
  "controls": {
   "do": "Fill the home-office % and send Rick S.",
-  "decide": "1406 list price — $579,900 or $579,000",
-  "watch": "1157 Victoria closes 9/14 — ownership unresolved (9/10)",
-  "draftsWaiting": 37
+  "decide": "#1406 number: $579,900 or $579,000 — still contested",
+  "watch": "1157 Victoria closes 9/14 — no correspondence anywhere (9/10)",
+  "draftsWaiting": 41
  },
  "scoreboard": {
-  "touches30d": 238,
-  "replies30d": 61,
+  "touches30d": 268,
+  "replies30d": 69,
   "appts30d": 3,
   "contracts30d": 7,
-  "closed30d": 2,
+  "closed30d": 3,
   "gci30d": "$18K",
-  "topRoutine": "nightly-deep-dive"
+  "topRoutine": "darden-isa-sweep"
  }
 }
