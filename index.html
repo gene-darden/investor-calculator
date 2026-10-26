@@ -28,7 +28,9 @@
     "areaServed": [
       { "@type": "City", "name": "Birmingham", "containedInPlace": { "@type": "State", "name": "Alabama" } },
       { "@type": "City", "name": "Hoover", "containedInPlace": { "@type": "State", "name": "Alabama" } },
-      { "@type": "City", "name": "Panama City Beach", "containedInPlace": { "@type": "State", "name": "Florida" } }
+      { "@type": "City", "name": "Panama City Beach", "containedInPlace": { "@type": "State", "name": "Florida" } },
+      { "@type": "City", "name": "Santa Rosa Beach", "containedInPlace": { "@type": "State", "name": "Florida" } },
+      { "@type": "Place", "name": "Scenic Highway 30A, Walton County, Florida" }
     ],
     "sameAs": ["https://dardengroupusa.com", "https://mysrsagent.com"]
   }
@@ -60,7 +62,7 @@ input:focus { outline:2px solid var(--gold); }
 .engines { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-top:12px; }
 @media (max-width:760px){ .engines{ grid-template-columns:repeat(2,1fr);} }
 .eng { background:var(--cream); border-radius:8px; padding:10px; text-align:center; }
-.eng .v { font-weight:700; font-size:16px; }
+.eng .v { font-weight:700; font-size:16px; color:var(--navy); }
 .eng .l { font-size:11.5px; color:var(--slate); }
 .note { font-size:12.5px; color:var(--slate); margin-top:14px; line-height:1.5; }
 .cta { background:var(--navy); color:#fff; border-radius:10px; padding:22px; margin-top:22px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:14px; }
@@ -83,6 +85,13 @@ details p { font-size:13.5px; color:var(--slate); margin:8px 0; line-height:1.55
 <div class="grid">
   <div class="card">
     <h2>Your Deal</h2>
+    <label>Start from a preset (Florida beach-home defaults, 2026 data)</label>
+    <select id="preset" style="width:100%; padding:9px 10px; border:1px solid #cfc7b6; border-radius:6px; font-size:15px; color:var(--navy); background:#fffdf9; margin-bottom:6px;">
+      <option value="pcbcondo">Panama City Beach condo · $364k (default)</option>
+      <option value="pcbhouse">PCB West End 4BR beach house · $900k</option>
+      <option value="30atownhome">30A west-end townhome/cottage · $650k</option>
+      <option value="30ahouse">30A 4BR south of 30A, short walk · $1.5M</option>
+    </select>
     <div class="row">
       <div><label>Purchase price ($)</label><input type="number" id="price" value="364000"></div>
       <div><label>Down payment (%)</label><input type="number" id="down" value="20"></div>
@@ -145,9 +154,12 @@ details p { font-size:13.5px; color:var(--slate); margin:8px 0; line-height:1.55
 <div class="cta">
   <div>
     <div style="font-weight:700; font-size:18px;">Want this run on a real deal?</div>
-    <div style="font-size:14px; opacity:.85;">We work this coast — Orange Beach to Panama City Beach. Real comps, real rental data, real strategy.</div>
+    <div style="font-size:14px; opacity:.85;">We work this coast — 30A, Santa Rosa Beach and Panama City Beach, $600k+ beach homes for investors. Verified rental actuals, after-tax returns, rules de-risked before you write. <a href="florida/" style="color:var(--gold); background:none; padding:0; border-radius:0; display:inline; font-weight:600; text-decoration:underline;">Read the Florida beach investor plan →</a></div>
   </div>
-  <a href="tel:2054261113">Call/Text Gene: 205-426-1113</a>
+  <div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a href="tel:8509643554">Florida line: 850-964-3554</a>
+    <a href="tel:2054261113" style="background:transparent; color:var(--gold); border:2px solid var(--gold);">Alabama: 205-426-1113</a>
+  </div>
   <div class="ehl">Gene Darden · The Darden Group · dardengroupusa.com · Real Broker LLC | Powered by PLACE · Equal Housing Opportunity</div>
 </div>
 </div>
@@ -179,6 +191,17 @@ function calc(){
   set('total',fmt(total)); document.getElementById('totalpct').textContent = pct(total/cashin) + ' return on cash invested';
   set('e1',fmt(cf)); set('e2',fmt(apprD)); set('e3',fmt(prin)); set('e4',fmt(save));
 }
+const PRESETS = {
+  pcbcondo:   {price:364000, down:20, rate:6.51, term:30, closing:3,   adr:245, occ:62, mgmt:20, hoa:850, ins:2200,  tax:3300,  util:450,  maint:2500,  appr:4, bracket:32, land:10, costseg:25},
+  pcbhouse:   {price:900000, down:25, rate:7.25, term:30, closing:2.5, adr:420, occ:58, mgmt:22, hoa:150, ins:7500,  tax:9500,  util:7000, maint:7000,  appr:4, bracket:35, land:25, costseg:28},
+  '30atownhome':{price:650000, down:20, rate:7.0, term:30, closing:2.5, adr:300, occ:50, mgmt:25, hoa:300, ins:5500,  tax:6500,  util:5500, maint:5000,  appr:4, bracket:35, land:20, costseg:27},
+  '30ahouse': {price:1500000, down:25, rate:7.25, term:30, closing:2.5, adr:650, occ:62, mgmt:25, hoa:250, ins:11000, tax:11000, util:8000, maint:10000, appr:4, bracket:37, land:25, costseg:30}
+};
+document.getElementById('preset').addEventListener('change', e=>{
+  const p=PRESETS[e.target.value]; if(!p) return;
+  Object.keys(p).forEach(k=>{ const el=document.getElementById(k); if(el) el.value=p[k]; });
+  calc();
+});
 document.querySelectorAll('input').forEach(i=>i.addEventListener('input',calc));
 calc();
 </script>
